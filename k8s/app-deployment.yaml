@@ -1,0 +1,109 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: etf-overlap-app
+  namespace: etf-overlap
+  labels:
+    app: etf-overlap
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: etf-overlap
+  template:
+    metadata:
+      labels:
+        app: etf-overlap
+    spec:
+      containers:
+        - name: etf-overlap
+          image: etf-overlap:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 3000
+              name: http
+          env:
+            - name: NODE_ENV
+              valueFrom:
+                configMapKeyRef:
+                  name: etf-overlap-config
+                  key: NODE_ENV
+            - name: PUPPETEER_SKIP_CHROMIUM_DOWNLOAD
+              valueFrom:
+                configMapKeyRef:
+                  name: etf-overlap-config
+                  key: PUPPETEER_SKIP_CHROMIUM_DOWNLOAD
+            - name: PUPPETEER_EXECUTABLE_PATH
+              valueFrom:
+                configMapKeyRef:
+                  name: etf-overlap-config
+                  key: PUPPETEER_EXECUTABLE_PATH
+            - name: DATABASE_URL
+              value: "postgresql://$(POSTGRES_USER):$(POSTGRES_PASSWORD)@postgres:5432/$(POSTGRES_DB)"
+            - name: POSTGRES_USER
+              valueFrom:
+                configMapKeyRef:
+                  name: etf-overlap-config
+                  key: POSTGRES_USER
+            - name: POSTGRES_DB
+              valueFrom:
+                configMapKeyRef:
+                  name: etf-overlap-config
+                  key: POSTGRES_DB
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: etf-overlap-secret
+                  key: POSTGRES_PASSWORD
+          resources:
+            requests:
+              memory: "512Mi"
+              cpu: "250m"
+            limits:
+              memory: "2Gi"
+              cpu: "1000m"
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 3000
+            initialDelaySeconds: 30
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 3000
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            timeoutSeconds: 3
+            failureThreshold: 3
+          # Security context for Chromium
+          securityContext:
+            runAsNonRoot: true
+            runAsUser: 1001
+            capabilities:
+              add:
+                - SYS_ADMIN # Required for Chromium sandboxing
+          # Shared memory for Chromium
+          volumeMounts:
+            - name: dshm
+              mountPath: /dev/shm
+      volumes:
+        - name: dshm
+          emptyDir:
+            medium: Memory
+            sizeLimit: 2Gi
+      # Init container to wait for database
+      initContainers:
+        - name: wait-for-db
+          image: busybox:1.36
+          command:
+            - sh
+            - -c
+            - |
+              until nc -z postgres 5432; do
+                echo "Waiting for postgres..."
+                sleep 2
+              done
+              echo "PostgreSQL is ready!"

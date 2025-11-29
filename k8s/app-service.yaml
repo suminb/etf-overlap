@@ -1,0 +1,35 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: etf-overlap-app
+  namespace: etf-overlap
+  labels:
+    app: etf-overlap
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 80
+      targetPort: 3000
+      protocol: TCP
+      name: http
+  selector:
+    app: etf-overlap
+---
+# Alternative: NodePort service (uncomment if LoadBalancer is not available)
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: etf-overlap-app-nodeport
+#   namespace: etf-overlap
+#   labels:
+#     app: etf-overlap
+# spec:
+#   type: NodePort
+#   ports:
+#   - port: 3000
+#     targetPort: 3000
+#     nodePort: 30080  # Access via <node-ip>:30080
+#     protocol: TCP
+#     name: http
+#   selector:
+#     app: etf-overlap

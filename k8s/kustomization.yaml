@@ -1,0 +1,25 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: etf-overlap
+
+resources:
+  - namespace.yaml
+  - configmap.yaml
+  - secret.yaml
+  - postgres-init-configmap.yaml
+  - postgres-pvc.yaml
+  - postgres-statefulset.yaml
+  - app-deployment.yaml
+  - app-service.yaml
+
+# Add common labels to all resources
+commonLabels:
+  project: etf-overlap
+  managed-by: kustomize
+
+# Configure image for the app
+images:
+  - name: etf-overlap
+    newName: etf-overlap
+    newTag: latest
