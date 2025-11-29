@@ -1,0 +1,20 @@
+{
+  "symbol": "TLT",
+  "last_updated": "2025-11-29T16:55:32.871Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Jul 22, 2002",
+    "index_tracked": "U.S. Treasury 20+ Year Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/TLT.htm?qt=TLT",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 50181300000,
+    "shares_outstanding": 556200000
+  },
+  "holdings": []
+}

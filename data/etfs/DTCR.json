@@ -1,0 +1,85 @@
+{
+  "symbol": "DTCR",
+  "last_updated": "2025-11-29T16:54:28.974Z",
+  "profile": {
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Oct 27, 2020",
+    "index_tracked": "Solactive Data Center REITs & Digital Infrastructure Index",
+    "home_page": "https://www.globalxetfs.com/funds/dtcr/",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Internet Infrastructure",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 606800000,
+    "shares_outstanding": 30000000
+  },
+  "holdings": [
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 11.03
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 10.26
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "weight": 9.16
+    },
+    {
+      "symbol": "APLD",
+      "name": "Applied Digital Corporation",
+      "weight": 7.45
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "weight": 7.35
+    },
+    {
+      "symbol": "AJBU",
+      "name": "Keppel DC REIT",
+      "weight": 4.57
+    },
+    {
+      "symbol": "NXT",
+      "name": "Nextdc Limited",
+      "weight": 4.08
+    },
+    {
+      "symbol": "GDS",
+      "name": "GDS Holdings Ltd. Sponsored ADR Class A",
+      "weight": 3.78
+    },
+    {
+      "symbol": "VNET",
+      "name": "VNET Group, Inc. Sponsored ADR",
+      "weight": 3.6
+    },
+    {
+      "symbol": "SBAC",
+      "name": "SBA Communications Corp. Class A",
+      "weight": 3.52
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 3.46
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 2.91
+    }
+  ]
+}

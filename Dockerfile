@@ -25,7 +25,7 @@ ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 # Copy dependencies from deps stage
 COPY --from=deps /app/node_modules ./node_modules
 
-# Copy application code
+# Copy application code and data
 COPY . .
 
 # Build the Next.js application
@@ -59,7 +59,7 @@ RUN adduser --system --uid 1001 nextjs
 # Copy necessary files from builder
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
-COPY --from=builder /app/db ./db
+COPY --from=builder /app/data ./data
 
 # Set correct permissions
 RUN chown -R nextjs:nodejs /app

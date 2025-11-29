@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getPool } from "@/lib/db";
+import { searchETFs, getAllETFs } from "@/lib/data";
 import { POPULAR_ETFS, ETFListItem } from "@/lib/etf-list";
 
 export async function GET(request: NextRequest) {
@@ -9,25 +9,12 @@ export async function GET(request: NextRequest) {
   try {
     let results: ETFListItem[] = [];
 
-    // Search in database first
-    try {
-      const pool = getPool();
-      const dbResult = await pool.query(
-        `SELECT DISTINCT symbol, name
-         FROM etfs
-         WHERE UPPER(symbol) LIKE $1 OR UPPER(name) LIKE $1
-         ORDER BY symbol
-         LIMIT 20`,
-        [`%${query}%`]
-      );
-
-      results = dbResult.rows.map((row) => ({
-        symbol: row.symbol,
-        name: row.name || row.symbol,
-      }));
-    } catch (dbError) {
-      console.log("Database search failed, using static list only:", dbError);
-    }
+    // Search in static data first
+    const staticResults = searchETFs(query);
+    results = staticResults.map((etf) => ({
+      symbol: etf.symbol,
+      name: etf.name || etf.symbol,
+    }));
 
     // Add popular ETFs that match
     const popularMatches = POPULAR_ETFS.filter(

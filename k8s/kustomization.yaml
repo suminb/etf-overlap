@@ -5,11 +5,6 @@ namespace: etf-overlap
 
 resources:
   - namespace.yaml
-  - configmap.yaml
-  - secret.yaml
-  - postgres-init-configmap.yaml
-  - postgres-pvc.yaml
-  - postgres-statefulset.yaml
   - app-deployment.yaml
   - app-service.yaml
 

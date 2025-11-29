@@ -1,0 +1,98 @@
+{
+  "symbol": "JEPI",
+  "last_updated": "2025-11-29T16:54:59.116Z",
+  "profile": {
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "May 20, 2020",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-equity-premium-income-etf-etf-shares-46641q332",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 41234700000,
+    "shares_outstanding": 717500000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.2
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 1.92
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.92
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 1.79
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 1.71
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 1.71
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 1.71
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "weight": 1.69
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 1.66
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 1.66
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "weight": 1.65
+    }
+  ]
+}

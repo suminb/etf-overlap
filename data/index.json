@@ -1,0 +1,46 @@
+{
+  "etfs": [
+    {
+      "symbol": "DTCR",
+      "issuer": "Mirae Asset Global Investments Co., Ltd.",
+      "expense_ratio": 0.005,
+      "aum": 606800000,
+      "last_updated": "2025-11-29T16:54:28.974Z"
+    },
+    {
+      "symbol": "JEPI",
+      "issuer": "JP Morgan",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 41234700000,
+      "last_updated": "2025-11-29T16:54:59.116Z"
+    },
+    {
+      "symbol": "JEPQ",
+      "issuer": "JP Morgan",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 31437900000,
+      "last_updated": "2025-11-29T16:55:14.767Z"
+    },
+    {
+      "symbol": "QQQ",
+      "issuer": "Invesco",
+      "expense_ratio": 0.002,
+      "aum": 398258000000,
+      "last_updated": "2025-11-29T16:52:33.470Z"
+    },
+    {
+      "symbol": "SPY",
+      "issuer": "State Street",
+      "expense_ratio": 0.0009,
+      "aum": 691455000000,
+      "last_updated": "2025-11-29T16:52:09.506Z"
+    },
+    {
+      "symbol": "TLT",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 50181300000,
+      "last_updated": "2025-11-29T16:55:32.871Z"
+    }
+  ]
+}

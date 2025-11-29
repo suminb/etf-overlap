@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getCachedHoldings } from "@/lib/db";
+import { getHoldings } from "@/lib/data";
 
 interface OverlapResult {
   etf1: string;
@@ -182,12 +182,12 @@ export async function GET(request: NextRequest) {
     >();
 
     for (const ticker of tickers) {
-      const holdings = await getCachedHoldings(ticker, 24);
+      const holdings = getHoldings(ticker);
 
       if (!holdings || holdings.length === 0) {
         return NextResponse.json(
           {
-            error: `No cached holdings found for ${ticker}. Please fetch ${ticker} holdings first.`,
+            error: `No holdings found for ${ticker}. Run 'npm run scrape ${ticker}' to fetch its data.`,
             etfs: tickers,
             matrix: [],
           },

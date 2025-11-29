@@ -5,191 +5,200 @@ This guide explains how to run the ETF Overlap application using Docker.
 ## Prerequisites
 
 - Docker (20.10 or later)
-- Docker Compose (2.0 or later)
 
 ## Quick Start
 
-1. **Clone the repository** (if you haven't already):
+1. **Scrape ETF data** (if not already done):
 
    ```bash
-   git clone <repository-url>
-   cd etf-overlap
+   npm install
+   npm run scrape QQQ SPY VTI
+   # Or scrape all popular ETFs
+   npm run scrape --all
    ```
 
-2. **Create environment file** (optional):
+2. **Build the Docker image**:
 
    ```bash
-   cp .env.example .env
+   docker build -t etf-overlap:latest .
    ```
 
-   Edit `.env` to customize database credentials and ports if needed.
-
-3. **Start the application**:
+3. **Run the container**:
 
    ```bash
-   docker-compose up -d
+   docker run -p 3000:3000 etf-overlap:latest
    ```
 
 4. **Access the application**:
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
-The database will be automatically initialized with the schema on first startup.
-
 ## Docker Commands
 
-### Start the application
+### Build the image
 
 ```bash
-docker-compose up -d
+docker build -t etf-overlap:latest .
 ```
 
-### Stop the application
+### Run the container
 
 ```bash
-docker-compose down
+docker run -p 3000:3000 etf-overlap:latest
 ```
 
-### Stop and remove all data (including database)
+### Run in detached mode
 
 ```bash
-docker-compose down -v
+docker run -d -p 3000:3000 --name etf-overlap etf-overlap:latest
+```
+
+### Stop the container
+
+```bash
+docker stop etf-overlap
+```
+
+### Remove the container
+
+```bash
+docker rm etf-overlap
 ```
 
 ### View logs
 
 ```bash
-# All services
-docker-compose logs -f
-
-# Just the app
-docker-compose logs -f app
-
-# Just the database
-docker-compose logs -f db
+docker logs -f etf-overlap
 ```
 
-### Rebuild after code changes
+### Execute commands in running container
 
 ```bash
-docker-compose up -d --build
+docker exec -it etf-overlap sh
 ```
-
-### Access the database
-
-```bash
-docker-compose exec db psql -U postgres -d etf_overlap
-```
-
-## Environment Variables
-
-You can customize the following environment variables in your `.env` file:
-
-| Variable            | Description              | Default       |
-| ------------------- | ------------------------ | ------------- |
-| `POSTGRES_USER`     | Database username        | `postgres`    |
-| `POSTGRES_PASSWORD` | Database password        | `postgres`    |
-| `POSTGRES_DB`       | Database name            | `etf_overlap` |
-| `POSTGRES_PORT`     | PostgreSQL port on host  | `5432`        |
-| `APP_PORT`          | Application port on host | `3000`        |
 
 ## Architecture
 
-The Docker setup consists of two services:
+The Docker image:
+- Built using multi-stage Docker build for optimization
+- Includes Chromium for Puppeteer web scraping
+- Runs on Node.js 18 Alpine
+- Contains pre-scraped ETF data in `/app/data/`
+- Exposed on port 3000
 
-1. **app**: The Next.js application
-   - Built using multi-stage Docker build for optimization
-   - Includes Chromium for Puppeteer web scraping
-   - Runs on Node.js 18 Alpine
-   - Exposed on port 3000 (configurable)
+## Data Management
 
-2. **db**: PostgreSQL 15 database
-   - Stores ETF metadata and holdings cache
-   - Data persisted in Docker volume
-   - Automatically initialized with schema on first run
-   - Exposed on port 5432 (configurable)
+### Updating ETF Data
 
-## Data Persistence
+To update ETF holdings data:
 
-Database data is stored in a Docker volume named `postgres_data`. This ensures your data persists across container restarts. To completely remove all data:
+1. Scrape new data locally:
+   ```bash
+   npm run scrape QQQ SPY
+   ```
+
+2. Rebuild the Docker image:
+   ```bash
+   docker build -t etf-overlap:latest .
+   ```
+
+3. Stop and remove the old container:
+   ```bash
+   docker stop etf-overlap
+   docker rm etf-overlap
+   ```
+
+4. Start a new container with updated data:
+   ```bash
+   docker run -d -p 3000:3000 --name etf-overlap etf-overlap:latest
+   ```
+
+### Checking Available ETF Data
 
 ```bash
-docker-compose down -v
+docker exec etf-overlap ls -la /app/data/etfs/
 ```
 
 ## Troubleshooting
 
 ### Port conflicts
 
-If ports 3000 or 5432 are already in use on your system, edit the `.env` file:
+If port 3000 is already in use on your system:
 
-```env
-APP_PORT=3001
-POSTGRES_PORT=5433
+```bash
+docker run -p 8080:3000 etf-overlap:latest
 ```
+
+Then access at http://localhost:8080
 
 ### Chromium/Puppeteer issues
 
 The Chromium browser runs inside the Docker container with:
-
-- `seccomp:unconfined` for proper sandboxing
+- `seccomp:unconfined` for proper sandboxing (if needed)
 - 2GB shared memory for browser operations
 
-If you encounter browser-related errors, check the app logs:
+If you encounter browser-related errors, check the container logs:
 
 ```bash
-docker-compose logs app
+docker logs etf-overlap
 ```
 
-### Database connection issues
-
-Ensure the database is healthy before the app starts:
+To run with additional security options:
 
 ```bash
-docker-compose ps
+docker run -p 3000:3000 \
+  --security-opt seccomp=unconfined \
+  --shm-size=2g \
+  etf-overlap:latest
 ```
 
-Both services should show as "healthy" or "running".
+### Container won't start
+
+Check logs for errors:
+
+```bash
+docker logs etf-overlap
+```
+
+Verify the image was built correctly:
+
+```bash
+docker images | grep etf-overlap
+```
 
 ## Production Considerations
 
 For production deployments:
 
-1. **Change default passwords**: Always use strong, unique passwords in production
-2. **Use secrets management**: Consider using Docker secrets or environment variable injection
-3. **Enable HTTPS**: Use a reverse proxy (nginx, Traefik, Caddy) for SSL termination
-4. **Resource limits**: Add resource constraints to docker-compose.yml
-5. **Monitoring**: Add logging and monitoring solutions
-6. **Backups**: Implement regular database backups
+1. **Use specific tags**: Tag images with version numbers instead of `latest`
+   ```bash
+   docker build -t etf-overlap:1.0.0 .
+   ```
 
-Example resource limits:
+2. **Resource limits**: Add resource constraints
+   ```bash
+   docker run -p 3000:3000 \
+     --memory=2g \
+     --cpus=1 \
+     etf-overlap:latest
+   ```
 
-```yaml
-app:
-  deploy:
-    resources:
-      limits:
-        cpus: "1"
-        memory: 2G
-      reservations:
-        cpus: "0.5"
-        memory: 512M
-```
+3. **Health checks**: Docker includes built-in health checks from the Dockerfile
 
-## Building Docker Image Only
+4. **Logging**: Configure log drivers for centralized logging
+   ```bash
+   docker run -p 3000:3000 \
+     --log-driver=json-file \
+     --log-opt max-size=10m \
+     --log-opt max-file=3 \
+     etf-overlap:latest
+   ```
 
-To build just the Docker image without docker-compose:
-
-```bash
-docker build -t etf-overlap:latest .
-```
-
-To run the image (you'll need to provide database connection separately):
-
-```bash
-docker run -p 3000:3000 \
-  -e DATABASE_URL=postgresql://user:password@host:5432/dbname \
-  etf-overlap:latest
-```
+5. **Restart policy**: Automatically restart on failure
+   ```bash
+   docker run -p 3000:3000 \
+     --restart=unless-stopped \
+     etf-overlap:latest
+   ```
 
 ## Cross-Platform Builds (ARM to x86/AMD64)
 
@@ -228,30 +237,32 @@ docker buildx build --platform linux/amd64,linux/arm64 \
   --push .
 ```
 
-### Using docker-compose with specific platform
-
-To specify platform in docker-compose.yml, add the `platform` field:
-
-```yaml
-services:
-  app:
-    platform: linux/amd64 # Force x86/AMD64
-    build:
-      context: .
-      dockerfile: Dockerfile
-    # ... rest of config
-```
-
-Or build with platform flag:
-
-```bash
-docker-compose build --build-arg BUILDPLATFORM=linux/amd64
-```
-
 ### Verify the platform
 
 Check which architecture an image was built for:
 
 ```bash
 docker inspect etf-overlap:latest | grep Architecture
+```
+
+## Registry Integration
+
+### Tag and push to Docker Hub
+
+```bash
+docker tag etf-overlap:latest username/etf-overlap:latest
+docker push username/etf-overlap:latest
+```
+
+### Tag and push to private registry
+
+```bash
+docker tag etf-overlap:latest registry.example.com/etf-overlap:latest
+docker push registry.example.com/etf-overlap:latest
+```
+
+### Pull from registry
+
+```bash
+docker pull username/etf-overlap:latest
 ```
