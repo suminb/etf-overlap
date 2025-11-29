@@ -394,7 +394,7 @@ export async function saveSnapshot(
         })
         .join(",");
 
-      const params = [dateStr];
+      const params: any[] = [dateStr];
       holdings.forEach((holding) => {
         params.push(
           etfId,
