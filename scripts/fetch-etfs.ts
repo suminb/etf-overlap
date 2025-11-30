@@ -379,9 +379,9 @@ Options:
     // Load popular ETFs from lib/etf-list.ts
     try {
       const etfListModule = await import('../lib/etf-list.js');
-      const popularETFs = etfListModule.popularETFs || [];
+      const popularETFs = etfListModule.POPULAR_ETFS || [];
       tickers = popularETFs.map((etf: any) => etf.symbol);
-      console.log(`Scraping ${tickers.length} popular ETFs...`);
+      console.log(`Fetching ${tickers.length} popular ETFs...`);
     } catch (error) {
       console.error('Error loading ETF list:', error);
       process.exit(1);
