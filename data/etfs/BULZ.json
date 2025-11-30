@@ -1,0 +1,23 @@
+{
+  "symbol": "BULZ",
+  "last_updated": "2025-11-30T17:27:08.706Z",
+  "profile": {
+    "issuer": "BMO Financial Group",
+    "brand": "REX Microsectors",
+    "structure": "ETN",
+    "expense_ratio": 0.0095,
+    "inception_date": "Aug 17, 2021",
+    "index_tracked": "Solactive FANG Innovation",
+    "home_page": "https://www.microsectors.com/fang-innovation",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2031400000,
+    "shares_outstanding": 8500000
+  },
+  "holdings": []
+}

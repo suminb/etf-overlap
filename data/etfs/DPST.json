@@ -1,0 +1,100 @@
+{
+  "symbol": "DPST",
+  "last_updated": "2025-11-30T17:39:10.460Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.009000000000000001,
+    "inception_date": "Aug 19, 2015",
+    "index_tracked": "S&P Regional Banks Select Industry (300%)",
+    "home_page": "http://www.direxioninvestments.com/products/direxion-daily-regional-banks-bull-3x-shares",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Financials",
+    "sector_specific": "Regional Banks",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 850200000,
+    "shares_outstanding": 9000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 16.91
+    },
+    {
+      "symbol": "COLB",
+      "name": "Columbia Banking System, Inc.",
+      "weight": 1.83
+    },
+    {
+      "symbol": "CADE",
+      "name": "Cadence Bank",
+      "weight": 1.81
+    },
+    {
+      "symbol": "VLY",
+      "name": "Valley National Bancorp",
+      "weight": 1.8
+    },
+    {
+      "symbol": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "weight": 1.77
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "weight": 1.74
+    },
+    {
+      "symbol": "PB",
+      "name": "Prosperity Bancshares, Inc.(R)",
+      "weight": 1.73
+    },
+    {
+      "symbol": "FNB",
+      "name": "F.N.B. Corporation",
+      "weight": 1.72
+    },
+    {
+      "symbol": "EWBC",
+      "name": "East West Bancorp, Inc.",
+      "weight": 1.67
+    },
+    {
+      "symbol": "FHN",
+      "name": "First Horizon Corporation",
+      "weight": 1.66
+    },
+    {
+      "symbol": "ONB",
+      "name": "Old National Bancorp",
+      "weight": 1.64
+    },
+    {
+      "symbol": "FLG",
+      "name": "Flagstar Bank, National Association",
+      "weight": 1.63
+    },
+    {
+      "symbol": "WBS",
+      "name": "Webster Financial Corporation",
+      "weight": 1.63
+    },
+    {
+      "symbol": "MTB",
+      "name": "M&T Bank Corporation",
+      "weight": 1.63
+    },
+    {
+      "symbol": "RF",
+      "name": "Regions Financial Corporation",
+      "weight": 1.6
+    }
+  ]
+}

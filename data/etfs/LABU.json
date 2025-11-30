@@ -1,0 +1,100 @@
+{
+  "symbol": "LABU",
+  "last_updated": "2025-11-30T17:38:59.240Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.009300000000000001,
+    "inception_date": "May 28, 2015",
+    "index_tracked": "S&P Biotechnology Select Industry Index (300%)",
+    "home_page": "Daily S&P Biotech Bull 3x Shareshttp://www.direxioninvestments.com/products/daily-sp-biotech-bull-3x-shares",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Healthcare",
+    "sector_specific": "Biotechnology",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 859300000,
+    "shares_outstanding": 5400000
+  },
+  "holdings": [
+    {
+      "symbol": "EXAS",
+      "name": "Exact Sciences Corporation",
+      "weight": 3.98
+    },
+    {
+      "symbol": "RVMD",
+      "name": "Revolution Medicines, Inc.",
+      "weight": 3.73
+    },
+    {
+      "symbol": "RNA",
+      "name": "Avidity Biosciences Inc",
+      "weight": 3.32
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "weight": 3.04
+    },
+    {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "weight": 3.01
+    },
+    {
+      "symbol": "MDGL",
+      "name": "Madrigal Pharmaceuticals, Inc.",
+      "weight": 3
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "weight": 3
+    },
+    {
+      "symbol": "BBIO",
+      "name": "BridgeBio Pharma, Inc.",
+      "weight": 2.91
+    },
+    {
+      "symbol": "IONS",
+      "name": "Ionis Pharmaceuticals, Inc.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "weight": 2.74
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 2.66
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 2.65
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "weight": 2.63
+    },
+    {
+      "symbol": "ROIV",
+      "name": "Roivant Sciences Ltd.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "EXEL",
+      "name": "Exelixis, Inc.",
+      "weight": 2.52
+    }
+  ]
+}

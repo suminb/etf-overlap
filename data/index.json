@@ -8,6 +8,13 @@
       "last_updated": "2025-11-30T16:54:54.467Z"
     },
     {
+      "symbol": "AGQ",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0095,
+      "aum": 1156100000,
+      "last_updated": "2025-11-30T17:38:08.735Z"
+    },
+    {
       "symbol": "AMZU",
       "issuer": "Rafferty Asset Management",
       "expense_ratio": 0.009899999999999999,
@@ -29,11 +36,32 @@
       "last_updated": "2025-11-30T16:53:45.466Z"
     },
     {
+      "symbol": "BITX",
+      "issuer": "Volatility Shares LLC",
+      "expense_ratio": 0.023799999999999998,
+      "aum": 1476100000,
+      "last_updated": "2025-11-30T17:27:53.704Z"
+    },
+    {
       "symbol": "BND",
       "issuer": "Vanguard",
       "expense_ratio": 0.0003,
       "aum": 144851000000,
       "last_updated": "2025-11-29T17:01:22.940Z"
+    },
+    {
+      "symbol": "BNO",
+      "issuer": "Marygold",
+      "expense_ratio": 0.01,
+      "aum": 94100000,
+      "last_updated": "2025-11-30T17:20:06.602Z"
+    },
+    {
+      "symbol": "BULZ",
+      "issuer": "BMO Financial Group",
+      "expense_ratio": 0.0095,
+      "aum": 2031400000,
+      "last_updated": "2025-11-30T17:27:08.706Z"
     },
     {
       "symbol": "CHIQ",
@@ -50,11 +78,32 @@
       "last_updated": "2025-11-30T14:15:44.328Z"
     },
     {
+      "symbol": "DDM",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0095,
+      "aum": 480400000,
+      "last_updated": "2025-11-30T17:23:47.387Z"
+    },
+    {
       "symbol": "DFEN",
       "issuer": "Rafferty Asset Management",
       "expense_ratio": 0.0095,
       "aum": 313000000,
       "last_updated": "2025-11-30T16:57:33.043Z"
+    },
+    {
+      "symbol": "DIA",
+      "issuer": "State Street",
+      "expense_ratio": 0.0016,
+      "aum": 41084600000,
+      "last_updated": "2025-11-30T17:20:51.951Z"
+    },
+    {
+      "symbol": "DPST",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.009000000000000001,
+      "aum": 850200000,
+      "last_updated": "2025-11-30T17:39:10.460Z"
     },
     {
       "symbol": "DTCR",
@@ -71,6 +120,13 @@
       "last_updated": "2025-11-30T14:16:53.800Z"
     },
     {
+      "symbol": "ETHU",
+      "issuer": "Volatility Shares LLC",
+      "expense_ratio": 0.026699999999999998,
+      "aum": 1438100000,
+      "last_updated": "2025-11-30T17:28:04.767Z"
+    },
+    {
       "symbol": "EUAD",
       "issuer": "Tuttle Capital Management LLC",
       "expense_ratio": 0.005,
@@ -85,11 +141,25 @@
       "last_updated": "2025-11-30T16:54:40.722Z"
     },
     {
+      "symbol": "FAS",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0089,
+      "aum": 2457900000,
+      "last_updated": "2025-11-30T17:26:39.247Z"
+    },
+    {
       "symbol": "FDIS",
       "issuer": "Fidelity",
       "expense_ratio": 0.0008,
       "aum": 1900100000,
       "last_updated": "2025-11-30T14:05:38.471Z"
+    },
+    {
+      "symbol": "FEZ",
+      "issuer": "State Street",
+      "expense_ratio": 0.0029,
+      "aum": 4652800000,
+      "last_updated": "2025-11-30T17:22:18.410Z"
     },
     {
       "symbol": "FITE",
@@ -99,6 +169,13 @@
       "last_updated": "2025-11-30T16:58:28.396Z"
     },
     {
+      "symbol": "FNGU",
+      "issuer": "BMO Financial Group",
+      "expense_ratio": 0.026000000000000002,
+      "aum": 2335500000,
+      "last_updated": "2025-11-30T17:26:50.261Z"
+    },
+    {
       "symbol": "FXD",
       "issuer": "First Trust",
       "expense_ratio": 0.0060999999999999995,
@@ -106,11 +183,18 @@
       "last_updated": "2025-11-30T14:17:43.465Z"
     },
     {
+      "symbol": "GDXU",
+      "issuer": "BMO Financial Group",
+      "expense_ratio": 0.0095,
+      "aum": 1546900000,
+      "last_updated": "2025-11-30T17:27:42.498Z"
+    },
+    {
       "symbol": "GGLL",
       "issuer": "Rafferty Asset Management",
       "expense_ratio": 0.009899999999999999,
       "aum": 1173700000,
-      "last_updated": "2025-11-30T14:06:07.834Z"
+      "last_updated": "2025-11-30T17:37:57.793Z"
     },
     {
       "symbol": "GGME",
@@ -148,11 +232,39 @@
       "last_updated": "2025-11-30T14:17:59.983Z"
     },
     {
+      "symbol": "INDY",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.006500000000000001,
+      "aum": 689100000,
+      "last_updated": "2025-11-30T17:23:35.935Z"
+    },
+    {
+      "symbol": "IOO",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.004,
+      "aum": 7899400000,
+      "last_updated": "2025-11-30T17:22:07.219Z"
+    },
+    {
       "symbol": "ITA",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0038,
       "aum": 11866400000,
       "last_updated": "2025-11-30T16:56:13.258Z"
+    },
+    {
+      "symbol": "IWL",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 1975100000,
+      "last_updated": "2025-11-30T17:23:18.721Z"
+    },
+    {
+      "symbol": "IWX",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.002,
+      "aum": 2989800000,
+      "last_updated": "2025-11-30T17:22:36.477Z"
     },
     {
       "symbol": "IYC",
@@ -183,6 +295,34 @@
       "last_updated": "2025-11-30T16:46:25.446Z"
     },
     {
+      "symbol": "LABU",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.009300000000000001,
+      "aum": 859300000,
+      "last_updated": "2025-11-30T17:38:59.240Z"
+    },
+    {
+      "symbol": "MGC",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 9034200000,
+      "last_updated": "2025-11-30T17:21:49.212Z"
+    },
+    {
+      "symbol": "MGK",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 32220000000,
+      "last_updated": "2025-11-30T17:21:03.215Z"
+    },
+    {
+      "symbol": "MGV",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 10470600000,
+      "last_updated": "2025-11-30T17:21:37.602Z"
+    },
+    {
       "symbol": "MISL",
       "issuer": "First Trust",
       "expense_ratio": 0.006,
@@ -195,6 +335,34 @@
       "expense_ratio": 0.0034999999999999996,
       "aum": 58900000,
       "last_updated": "2025-11-30T16:58:43.182Z"
+    },
+    {
+      "symbol": "NUGT",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0113,
+      "aum": 1021300000,
+      "last_updated": "2025-11-30T17:38:26.155Z"
+    },
+    {
+      "symbol": "NVDL",
+      "issuer": "GraniteShares",
+      "expense_ratio": 0.0105,
+      "aum": 4327000000,
+      "last_updated": "2025-11-30T17:26:13.708Z"
+    },
+    {
+      "symbol": "OEF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.002,
+      "aum": 28637900000,
+      "last_updated": "2025-11-30T17:21:14.737Z"
+    },
+    {
+      "symbol": "OIL",
+      "issuer": "Barclays Capital",
+      "expense_ratio": 0.005699999999999999,
+      "aum": 54800000,
+      "last_updated": "2025-11-30T17:20:20.681Z"
     },
     {
       "symbol": "ONLN",
@@ -257,7 +425,14 @@
       "issuer": "The Charles Schwab Corp.",
       "expense_ratio": 0.0006,
       "aum": 70346500000,
-      "last_updated": "2025-11-30T16:46:11.580Z"
+      "last_updated": "2025-11-30T17:18:21.458Z"
+    },
+    {
+      "symbol": "SCHH",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 8429800000,
+      "last_updated": "2025-11-30T17:18:35.385Z"
     },
     {
       "symbol": "SHLD",
@@ -267,6 +442,20 @@
       "last_updated": "2025-11-30T16:56:39.332Z"
     },
     {
+      "symbol": "SOXL",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0075,
+      "aum": 12324700000,
+      "last_updated": "2025-11-30T17:25:01.060Z"
+    },
+    {
+      "symbol": "SPXL",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0087,
+      "aum": 5989800000,
+      "last_updated": "2025-11-30T17:25:34.792Z"
+    },
+    {
       "symbol": "SPY",
       "issuer": "State Street",
       "expense_ratio": 0.0009,
@@ -274,11 +463,46 @@
       "last_updated": "2025-11-29T16:52:09.506Z"
     },
     {
+      "symbol": "SSO",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0087,
+      "aum": 7082300000,
+      "last_updated": "2025-11-30T17:25:12.282Z"
+    },
+    {
+      "symbol": "TECL",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0085,
+      "aum": 3898200000,
+      "last_updated": "2025-11-30T17:26:27.718Z"
+    },
+    {
       "symbol": "TLT",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
       "aum": 50181300000,
       "last_updated": "2025-11-29T16:58:25.083Z"
+    },
+    {
+      "symbol": "TMF",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0091,
+      "aum": 4482300000,
+      "last_updated": "2025-11-30T17:25:57.196Z"
+    },
+    {
+      "symbol": "TNA",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0103,
+      "aum": 1875000000,
+      "last_updated": "2025-11-30T17:27:19.838Z"
+    },
+    {
+      "symbol": "TQQQ",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.008199999999999999,
+      "aum": 29449800000,
+      "last_updated": "2025-11-30T17:24:49.965Z"
     },
     {
       "symbol": "TRFM",
@@ -292,7 +516,7 @@
       "issuer": "Rafferty Asset Management",
       "expense_ratio": 0.0095,
       "aum": 6126200000,
-      "last_updated": "2025-11-30T14:05:09.929Z"
+      "last_updated": "2025-11-30T17:25:23.544Z"
     },
     {
       "symbol": "TSLQ",
@@ -321,6 +545,27 @@
       "expense_ratio": 0.0075,
       "aum": 115100000,
       "last_updated": "2025-11-30T16:58:08.486Z"
+    },
+    {
+      "symbol": "UGL",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0095,
+      "aum": 881500000,
+      "last_updated": "2025-11-30T17:38:47.871Z"
+    },
+    {
+      "symbol": "UPRO",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0089,
+      "aum": 4925900000,
+      "last_updated": "2025-11-30T17:25:45.972Z"
+    },
+    {
+      "symbol": "USD",
+      "issuer": "Proshare Advisors LLC",
+      "expense_ratio": 0.0095,
+      "aum": 1597300000,
+      "last_updated": "2025-11-30T17:27:31.235Z"
     },
     {
       "symbol": "VCR",
@@ -365,6 +610,13 @@
       "last_updated": "2025-11-30T16:56:53.885Z"
     },
     {
+      "symbol": "XLG",
+      "issuer": "Invesco",
+      "expense_ratio": 0.002,
+      "aum": 11509900000,
+      "last_updated": "2025-11-30T17:21:26.408Z"
+    },
+    {
       "symbol": "XLY",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
@@ -377,6 +629,13 @@
       "expense_ratio": 0.0034999999999999996,
       "aum": 474000000,
       "last_updated": "2025-11-30T14:06:19.093Z"
+    },
+    {
+      "symbol": "YINN",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.013600000000000001,
+      "aum": 882000000,
+      "last_updated": "2025-11-30T17:38:37.130Z"
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "symbol": "NUGT",
+  "last_updated": "2025-11-30T17:38:26.155Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0113,
+    "inception_date": "Dec 08, 2010",
+    "index_tracked": "MarketVector Global Gold Miners Index - Benchmark TR Net (200%)",
+    "home_page": "https://www.direxion.com/product/daily-gold-miners-bull-bear-2x-etfs",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Gold Miners",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 1021300000,
+    "shares_outstanding": 6700000
+  },
+  "holdings": [
+    {
+      "symbol": "GDX",
+      "name": "VanEck Gold Miners ETF",
+      "weight": 89.14
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 10.86
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "FAS",
+  "last_updated": "2025-11-30T17:26:39.247Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0089,
+    "inception_date": "Nov 06, 2008",
+    "index_tracked": "Russell 1000 Financial Services Index (300%)",
+    "home_page": "http://www.direxioninvestments.com/products/direxion-daily-financial-bull-3x-etf",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Financials",
+    "sector_specific": "Financial Services",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2457900000,
+    "shares_outstanding": 15300000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 25.61
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 9.2
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 8.31
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 5.57
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 4.42
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 3.55
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 2.69
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 2.43
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 2
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 1.94
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 1.85
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corp",
+      "weight": 1.54
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global, Inc.",
+      "weight": 1.52
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 1.47
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial Corp",
+      "weight": 1.37
+    }
+  ]
+}

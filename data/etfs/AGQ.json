@@ -1,0 +1,26 @@
+{
+  "symbol": "AGQ",
+  "last_updated": "2025-11-30T17:38:08.735Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0095,
+    "inception_date": "Dec 01, 2008",
+    "index_tracked": "Dow Jones-UBS Silver Sub-Index (200%)",
+    "home_page": "http://www.proshares.com/funds/agq.html",
+    "category": "Leveraged Commodities",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1156100000,
+    "shares_outstanding": 13100000
+  },
+  "holdings": [
+    {
+      "symbol": "SILVER",
+      "name": "Silver",
+      "weight": 100
+    }
+  ]
+}

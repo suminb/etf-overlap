@@ -9,8 +9,7 @@
     "lint": "next lint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "fetch": "tsx scripts/fetch-etfs.ts",
-    "fetch-etf-list": "tsx scripts/fetch-etf-list.ts"
+    "fetch": "tsx scripts/fetch-etfs.ts"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",

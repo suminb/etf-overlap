@@ -1,0 +1,33 @@
+{
+  "symbol": "YINN",
+  "last_updated": "2025-11-30T17:38:37.130Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.013600000000000001,
+    "inception_date": "Dec 03, 2009",
+    "index_tracked": "FTSE China 50 Index (300%)",
+    "home_page": "http://www.direxioninvestments.com/products/direxion-daily-china-bull-3x-etf",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "China",
+    "aum": 882000000,
+    "shares_outstanding": 19000000
+  },
+  "holdings": [
+    {
+      "symbol": "FXI",
+      "name": "iShares China Large-Cap ETF",
+      "weight": 93.51
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 6.49
+    }
+  ]
+}

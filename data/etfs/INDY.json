@@ -1,0 +1,98 @@
+{
+  "symbol": "INDY",
+  "last_updated": "2025-11-30T17:23:35.935Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "Nov 18, 2009",
+    "index_tracked": "Nifty 50",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/INDY.htm?qt=INDY",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mega-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "India",
+    "aum": 689100000,
+    "shares_outstanding": 13000000
+  },
+  "holdings": [
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 12.79
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 8.87
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 8.2
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 4.83
+    },
+    {
+      "symbol": "BLACKROCK CASH FUNDS TREASURY SL AGENCY SHARES",
+      "name": "BlackRock Cash Funds Treasury SL Agency Shares",
+      "weight": 4.79
+    },
+    {
+      "symbol": "500209",
+      "name": "Infosys Limited",
+      "weight": 4.69
+    },
+    {
+      "symbol": "500510",
+      "name": "Larsen & Toubro Limited",
+      "weight": 3.98
+    },
+    {
+      "symbol": "500112",
+      "name": "State Bank of India",
+      "weight": 3.41
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC Limited",
+      "weight": 3.23
+    },
+    {
+      "symbol": "532215",
+      "name": "Axis Bank Limited",
+      "weight": 3.08
+    },
+    {
+      "symbol": "500520",
+      "name": "Mahindra & Mahindra Ltd.",
+      "weight": 2.73
+    },
+    {
+      "symbol": "532540",
+      "name": "Tata Consultancy Services Limited",
+      "weight": 2.7
+    },
+    {
+      "symbol": "500247",
+      "name": "Kotak Mahindra Bank Limited",
+      "weight": 2.58
+    },
+    {
+      "symbol": "500034",
+      "name": "Bajaj Finance Limited",
+      "weight": 2.24
+    },
+    {
+      "symbol": "500696",
+      "name": "Hindustan Unilever Limited",
+      "weight": 1.8
+    }
+  ]
+}

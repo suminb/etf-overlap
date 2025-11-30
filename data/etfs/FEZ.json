@@ -1,0 +1,93 @@
+{
+  "symbol": "FEZ",
+  "last_updated": "2025-11-30T17:22:18.410Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0029,
+    "inception_date": "Oct 15, 2002",
+    "index_tracked": "Euro STOXX 50",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=FEZ",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mega-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Europe",
+    "region_specific": "Broad",
+    "aum": 4652800000,
+    "shares_outstanding": 75500000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 8.35
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 5.14
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 4.2
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 3.86
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 3.49
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 3.31
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 3.18
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 3.16
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 2.92
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 2.72
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 2.64
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 2.6
+    },
+    {
+      "symbol": "UCG",
+      "name": "UniCredit S.p.A.",
+      "weight": 2.42
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 2.39
+    }
+  ]
+}

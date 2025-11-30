@@ -1,0 +1,98 @@
+{
+  "symbol": "DDM",
+  "last_updated": "2025-11-30T17:23:47.387Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "Dow Jones Industrial Average Index (200%)",
+    "home_page": "http://www.proshares.com/funds/ddm.html",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mega-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 480400000,
+    "shares_outstanding": 8800000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 10.66
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 13-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 13-JAN-2026",
+      "weight": 10.22
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 8.38
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 5.89
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.99
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 3.74
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 3.65
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 3.54
+    },
+    {
+      "symbol": "SHW",
+      "name": "Sherwin-Williams Company",
+      "weight": 3.53
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 3.43
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 3.39
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 3.21
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 3.16
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 3.11
+    },
+    {
+      "symbol": "TRV",
+      "name": "Travelers Companies, Inc.",
+      "weight": 3.02
+    }
+  ]
+}

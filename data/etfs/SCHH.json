@@ -1,0 +1,100 @@
+{
+  "symbol": "SCHH",
+  "last_updated": "2025-11-30T17:18:35.385Z",
+  "profile": {
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Jan 13, 2011",
+    "index_tracked": "Dow Jones U.S. Select REIT Index",
+    "home_page": "http://www.schwab.com/public/schwab/investing/investment_help/investment_research/etf_research/etfs.html?&&path=%2FProspect%2FResearch%2Fetfs%2Fsummary.asp%3Fsymbol%3DSCHH",
+    "category": "Real Estate",
+    "asset_class": "Real Estate",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Real Estate",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8429800000,
+    "shares_outstanding": 394100000
+  },
+  "holdings": [
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 10.1
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "weight": 8.72
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "weight": 4.76
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 4.66
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 4
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 3.92
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 3.89
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "weight": 3.32
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "weight": 3
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "weight": 2.37
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "weight": 2.17
+    },
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "weight": 1.99
+    },
+    {
+      "symbol": "IRM",
+      "name": "Iron Mountain, Inc.",
+      "weight": 1.95
+    },
+    {
+      "symbol": "EQR",
+      "name": "Equity Residential",
+      "weight": 1.64
+    }
+  ]
+}

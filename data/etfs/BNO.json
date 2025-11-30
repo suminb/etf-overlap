@@ -1,0 +1,24 @@
+{
+  "symbol": "BNO",
+  "last_updated": "2025-11-30T17:20:06.602Z",
+  "profile": {
+    "issuer": "Marygold",
+    "brand": "US Commodity Funds",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.01,
+    "inception_date": "Jun 02, 2010",
+    "index_tracked": "Crude Oil Brent ICE Near Term ($/bbl)",
+    "home_page": "http://www.unitedstatescommodityfunds.com/fund-details.php?fund=bno",
+    "category": "Oil & Gas",
+    "asset_class": "Commodity",
+    "aum": 94100000,
+    "shares_outstanding": 3300000
+  },
+  "holdings": [
+    {
+      "symbol": "BRENT CRUDE OIL",
+      "name": "Brent Crude Oil",
+      "weight": 100
+    }
+  ]
+}

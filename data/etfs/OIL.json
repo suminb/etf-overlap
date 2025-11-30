@@ -1,0 +1,26 @@
+{
+  "symbol": "OIL",
+  "last_updated": "2025-11-30T17:20:20.681Z",
+  "profile": {
+    "issuer": "Barclays Capital",
+    "brand": "iPath",
+    "structure": "ETN",
+    "expense_ratio": 0.005699999999999999,
+    "inception_date": "Apr 20, 2011",
+    "index_tracked": "Barclays WTI Crude Oil Pure Beta (TR)",
+    "home_page": "http://www.ipathetn.com/US/16/en//instruments.app?searchType=text&dataType=html&searchTerm=oil#/details/1194",
+    "category": "Oil & Gas",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 54800000,
+    "shares_outstanding": 2000000
+  },
+  "holdings": [
+    {
+      "symbol": "SWEET LIGHT CRUDE OIL WTI",
+      "name": "Sweet Light Crude Oil (WTI)",
+      "weight": 100
+    }
+  ]
+}

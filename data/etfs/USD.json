@@ -1,0 +1,100 @@
+{
+  "symbol": "USD",
+  "last_updated": "2025-11-30T17:27:31.235Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Jan 30, 2007",
+    "index_tracked": "Dow Jones U.S. Semiconductors Index (200%)",
+    "home_page": "http://www.proshares.com/funds/usd.html",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Semiconductors",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1597300000,
+    "shares_outstanding": 31600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 40
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 22.64
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 9.62
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 7.49
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 11-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 11-DEC-2025",
+      "weight": 4.8
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 26-DEC-2025",
+      "weight": 2.99
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 1.79
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 1.33
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 1.2
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 1.01
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 0.92
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 0.83
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 0.79
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 0.77
+    }
+  ]
+}

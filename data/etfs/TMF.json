@@ -1,0 +1,31 @@
+{
+  "symbol": "TMF",
+  "last_updated": "2025-11-30T17:25:57.196Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0091,
+    "inception_date": "Apr 16, 2009",
+    "index_tracked": "U.S. Treasury 20+ Year Index (300%)",
+    "home_page": "https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs",
+    "category": "Leveraged Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4482300000,
+    "shares_outstanding": 108100000
+  },
+  "holdings": [
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "weight": 72.61
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 27.39
+    }
+  ]
+}

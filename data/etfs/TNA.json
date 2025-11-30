@@ -1,0 +1,28 @@
+{
+  "symbol": "TNA",
+  "last_updated": "2025-11-30T17:27:19.838Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0103,
+    "inception_date": "Nov 05, 2008",
+    "index_tracked": "Russell 2000 Index (300%)",
+    "home_page": "http://direxionshares.com/etf/sc_bull_3x_shares.html",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Micro-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1875000000,
+    "shares_outstanding": 41500000
+  },
+  "holdings": [
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "weight": 102.74
+    }
+  ]
+}

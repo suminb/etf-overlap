@@ -1,0 +1,31 @@
+{
+  "symbol": "BITX",
+  "last_updated": "2025-11-30T17:27:53.704Z",
+  "profile": {
+    "issuer": "Volatility Shares LLC",
+    "brand": "Volatility Shares",
+    "structure": "ETF",
+    "expense_ratio": 0.023799999999999998,
+    "inception_date": "Jun 27, 2023",
+    "index_tracked": "BTC/USD Exchange Rate - USD - Benchmark Price Return (200%)",
+    "home_page": "https://volatilityshares.com/bitx",
+    "category": "Leveraged Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1476100000,
+    "shares_outstanding": 50400000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 287.79
+    },
+    {
+      "symbol": "MUTUAL FUND OTHER",
+      "name": "MUTUAL FUND (OTHER)",
+      "weight": 85.17
+    }
+  ]
+}

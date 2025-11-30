@@ -1,0 +1,22 @@
+{
+  "symbol": "GDXU",
+  "last_updated": "2025-11-30T17:27:42.498Z",
+  "profile": {
+    "issuer": "BMO Financial Group",
+    "brand": "REX Microsectors",
+    "structure": "ETN",
+    "expense_ratio": 0.0095,
+    "inception_date": "Dec 02, 2020",
+    "index_tracked": "S-Network MicroSectors Gold Miners Index",
+    "home_page": "https://www.microsectors.com/goldminers",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "sector_general": "Materials",
+    "sector_specific": "Gold Miners",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1546900000,
+    "shares_outstanding": 8500000
+  },
+  "holdings": []
+}

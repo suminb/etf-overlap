@@ -1,0 +1,26 @@
+{
+  "symbol": "ETHU",
+  "last_updated": "2025-11-30T17:28:04.767Z",
+  "profile": {
+    "issuer": "Volatility Shares LLC",
+    "brand": "Volatility Shares",
+    "structure": "ETF",
+    "expense_ratio": 0.026699999999999998,
+    "inception_date": "Jun 04, 2024",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.volatilityshares.com/ethu?gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V_SsqubGLi1LiVxOh2y9SHQ1kfu0QmsO5f4_irBtydMR7ikeFXlJzsaAhEyEALw_wcB",
+    "category": "Leveraged Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1438100000,
+    "shares_outstanding": 25500000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 372.43
+    }
+  ]
+}

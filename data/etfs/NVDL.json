@@ -1,0 +1,29 @@
+{
+  "symbol": "NVDL",
+  "last_updated": "2025-11-30T17:26:13.708Z",
+  "profile": {
+    "issuer": "GraniteShares",
+    "brand": "GraniteShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0105,
+    "inception_date": "Dec 13, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://graniteshares.com/institutional/us/en-us/etfs/nvdl/",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "sector_general": "Technology",
+    "sector_specific": "Semiconductors",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4327000000,
+    "shares_outstanding": 53100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

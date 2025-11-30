@@ -1,0 +1,75 @@
+{
+  "symbol": "FNGU",
+  "last_updated": "2025-11-30T17:26:50.261Z",
+  "profile": {
+    "issuer": "BMO Financial Group",
+    "brand": "REX Microsectors",
+    "structure": "ETN",
+    "expense_ratio": 0.026000000000000002,
+    "inception_date": "Feb 19, 2025",
+    "index_tracked": "NYSE FANG+ Index (+300%)",
+    "home_page": "https://www.microsectors.com/fang",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2335500000,
+    "shares_outstanding": 80000000
+  },
+  "holdings": [
+    {
+      "symbol": "TWTR",
+      "name": "Twitter Inc",
+      "weight": 12.88
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "weight": 12.17
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "weight": 9.99
+    },
+    {
+      "symbol": "FB",
+      "name": "Facebook Inc",
+      "weight": 9.82
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc",
+      "weight": 9.74
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Ltd",
+      "weight": 9.55
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc",
+      "weight": 9.18
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "weight": 9.15
+    },
+    {
+      "symbol": "BIDU",
+      "name": "Baidu Inc",
+      "weight": 8.97
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "weight": 8.55
+    }
+  ]
+}
