@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useCallback, Suspense } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import ETFAutocomplete from "@/components/ETFAutocomplete";
 
 interface SharedHolding {
@@ -118,7 +119,11 @@ function DonutChart({ overlap, total }: { overlap: number; total: number }) {
   );
 }
 
-export default function OverlapPage() {
+const STORAGE_KEY = "etf-overlap-selected-tickers";
+
+function OverlapPage() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const [tickers, setTickers] = useState<string[]>([]);
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState<OverlapMatrixResponse | null>(null);
@@ -126,9 +131,52 @@ export default function OverlapPage() {
   const [selectedDetail, setSelectedDetail] = useState<OverlapDetail | null>(
     null
   );
+  const [isInitialized, setIsInitialized] = useState(false);
 
-  const calculateOverlap = async () => {
-    if (tickers.length < 2) {
+  // Load tickers from URL on mount
+  useEffect(() => {
+    const urlTickers = searchParams.get("tickers");
+    if (urlTickers) {
+      const tickerList = urlTickers.split(",").filter(Boolean);
+      if (tickerList.length > 0) {
+        setTickers(tickerList);
+        setIsInitialized(true);
+        return;
+      }
+    }
+
+    // Fallback to localStorage if no URL params
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (stored) {
+      try {
+        const parsed = JSON.parse(stored);
+        if (Array.isArray(parsed)) {
+          setTickers(parsed);
+        }
+      } catch (e) {
+        console.error("Failed to load stored ETFs:", e);
+      }
+    }
+    setIsInitialized(true);
+  }, [searchParams]);
+
+  // Update URL when tickers change (after initialization)
+  useEffect(() => {
+    if (!isInitialized) return;
+
+    if (tickers.length > 0) {
+      const params = new URLSearchParams();
+      params.set("tickers", tickers.join(","));
+      router.replace(`?${params.toString()}`, { scroll: false });
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(tickers));
+    } else {
+      router.replace("/", { scroll: false });
+      localStorage.removeItem(STORAGE_KEY);
+    }
+  }, [tickers, router, isInitialized]);
+
+  const calculateOverlap = useCallback(async (tickerList: string[]) => {
+    if (tickerList.length < 2) {
       setError("Please enter at least 2 ETF tickers");
       return;
     }
@@ -138,7 +186,7 @@ export default function OverlapPage() {
     setData(null);
 
     try {
-      const response = await fetch(`/api/overlap?tickers=${tickers.join(",")}`);
+      const response = await fetch(`/api/overlap?tickers=${tickerList.join(",")}`);
       const result: OverlapMatrixResponse = await response.json();
 
       if (!response.ok || result.error) {
@@ -154,7 +202,14 @@ export default function OverlapPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, []);
+
+  // Auto-calculate when tickers are loaded from URL
+  useEffect(() => {
+    if (isInitialized && tickers.length >= 2 && !data && !loading) {
+      calculateOverlap(tickers);
+    }
+  }, [isInitialized, tickers, data, loading, calculateOverlap]);
 
   const getHeatmapColor = (value: number): string => {
     // Color scale: 0% = white, 100% = dark blue
@@ -211,7 +266,7 @@ export default function OverlapPage() {
 
         <div style={{ marginTop: "1rem" }}>
           <button
-            onClick={calculateOverlap}
+            onClick={() => calculateOverlap(tickers)}
             disabled={loading || tickers.length < 2}
             style={{
               padding: "0.75rem 1.5rem",
@@ -906,5 +961,13 @@ export default function OverlapPage() {
         </div>
       )}
     </main>
+  );
+}
+
+export default function Page() {
+  return (
+    <Suspense fallback={<div style={{ padding: "2rem" }}>Loading...</div>}>
+      <OverlapPage />
+    </Suspense>
   );
 }
