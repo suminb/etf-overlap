@@ -253,6 +253,13 @@
       "last_updated": "2025-11-30T16:56:13.258Z"
     },
     {
+      "symbol": "IVV",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0003,
+      "aum": 723964000000,
+      "last_updated": "2025-11-30T17:55:31.053Z"
+    },
+    {
       "symbol": "IWL",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,

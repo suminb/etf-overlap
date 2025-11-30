@@ -132,6 +132,7 @@ function OverlapPage() {
     null
   );
   const [isInitialized, setIsInitialized] = useState(false);
+  const [hasAttemptedCalculation, setHasAttemptedCalculation] = useState(false);
 
   // Load tickers from URL on mount
   useEffect(() => {
@@ -141,6 +142,7 @@ function OverlapPage() {
       if (tickerList.length > 0) {
         setTickers(tickerList);
         setIsInitialized(true);
+        setHasAttemptedCalculation(false); // Reset when loading from URL
         return;
       }
     }
@@ -173,6 +175,12 @@ function OverlapPage() {
       router.replace("/", { scroll: false });
       localStorage.removeItem(STORAGE_KEY);
     }
+
+    // Reset calculation flag when user manually changes tickers
+    // (but not on initial load)
+    if (hasAttemptedCalculation) {
+      setHasAttemptedCalculation(false);
+    }
   }, [tickers, router, isInitialized]);
 
   const calculateOverlap = useCallback(async (tickerList: string[]) => {
@@ -183,7 +191,7 @@ function OverlapPage() {
 
     setLoading(true);
     setError(null);
-    setData(null);
+    // Don't clear data immediately to prevent flicker
 
     try {
       const response = await fetch(`/api/overlap?tickers=${tickerList.join(",")}`);
@@ -191,6 +199,7 @@ function OverlapPage() {
 
       if (!response.ok || result.error) {
         setError(result.error || "Failed to calculate overlap");
+        setData(null); // Only clear on error
         return;
       }
 
@@ -199,6 +208,7 @@ function OverlapPage() {
       setError(
         err instanceof Error ? err.message : "An unexpected error occurred"
       );
+      setData(null); // Only clear on error
     } finally {
       setLoading(false);
     }
@@ -206,10 +216,11 @@ function OverlapPage() {
 
   // Auto-calculate when tickers are loaded from URL
   useEffect(() => {
-    if (isInitialized && tickers.length >= 2 && !data && !loading) {
+    if (isInitialized && tickers.length >= 2 && !hasAttemptedCalculation && !loading) {
+      setHasAttemptedCalculation(true);
       calculateOverlap(tickers);
     }
-  }, [isInitialized, tickers, data, loading, calculateOverlap]);
+  }, [isInitialized, tickers, hasAttemptedCalculation, loading, calculateOverlap]);
 
   const getHeatmapColor = (value: number): string => {
     // Color scale: 0% = white, 100% = dark blue
@@ -266,7 +277,10 @@ function OverlapPage() {
 
         <div style={{ marginTop: "1rem" }}>
           <button
-            onClick={() => calculateOverlap(tickers)}
+            onClick={() => {
+              setHasAttemptedCalculation(true);
+              calculateOverlap(tickers);
+            }}
             disabled={loading || tickers.length < 2}
             style={{
               padding: "0.75rem 1.5rem",
