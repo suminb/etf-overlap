@@ -1,0 +1,91 @@
+{
+  "symbol": "VTEB",
+  "last_updated": "2025-11-29T16:59:28.891Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Aug 21, 2015",
+    "index_tracked": "S&P National AMT-Free Municipal Bond",
+    "home_page": "https://personal.vanguard.com/us/funds/snapshot?FundId=4391&FundIntExt=INT",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 41811500000,
+    "shares_outstanding": 829800000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.34
+    },
+    {
+      "symbol": "UNIVERSITY CALIF REVS VAR 15-MAY-2048",
+      "name": "University Calif Revs VAR 15-MAY-2048",
+      "weight": 0.15
+    },
+    {
+      "symbol": "MARYLAND ST 50 01-FEB-2026",
+      "name": "Maryland St 5.0% 01-FEB-2026",
+      "weight": 0.13
+    },
+    {
+      "symbol": "CALIFORNIA ST 525 01-AUG-2032",
+      "name": "California St 5.25% 01-AUG-2032",
+      "weight": 0.12
+    },
+    {
+      "symbol": "SOUTH CAROLINA ASSN GOVERNMENTAL ORGANIZTAIONS CTF",
+      "name": "South Carolina Assn Governmental Organiztaions Ctfs Partn 5.0% 02-MAR-2026",
+      "weight": 0.11
+    },
+    {
+      "symbol": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH REV 50 0",
+      "name": "New York N Y City Transitional Fin Auth Rev 5.0% 01-NOV-2033",
+      "weight": 0.11
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-AUG-2031",
+      "name": "New York N Y 5.0% 01-AUG-2031",
+      "weight": 0.1
+    },
+    {
+      "symbol": "TARRANT CNTY TEX CULTURAL ED FACS FIN CORP HOSPREV",
+      "name": "Tarrant Cnty Tex Cultural Ed Facs Fin Corp Hosprev VAR 01-AUG-2050",
+      "weight": 0.09
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 5",
+      "name": "New York St Dorm Auth Revs Non St Supported Debt 5.5% 01-JUL-2054",
+      "weight": 0.09
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH ST PERS INCOME TAX REV 40",
+      "name": "New York St Dorm Auth St Pers Income Tax Rev 4.0% 15-FEB-2047",
+      "weight": 0.09
+    },
+    {
+      "symbol": "NEW JERSEY ST 50 01-JUN-2029",
+      "name": "New Jersey St 5.0% 01-JUN-2029",
+      "weight": 0.09
+    },
+    {
+      "symbol": "ILLINOIS ST 50 01-NOV-2029",
+      "name": "Illinois St 5.0% 01-NOV-2029",
+      "weight": 0.08
+    },
+    {
+      "symbol": "NORTHWEST TEX INDPT SCH DIST 525 15-FEB-2055",
+      "name": "Northwest Tex Indpt Sch Dist 5.25% 15-FEB-2055",
+      "weight": 0.08
+    },
+    {
+      "symbol": "LOS ANGELES CALIF UNI SCH DIST 50 01-JUL-2032",
+      "name": "Los Angeles Calif Uni Sch Dist 5.0% 01-JUL-2032",
+      "weight": 0.08
+    }
+  ]
+}

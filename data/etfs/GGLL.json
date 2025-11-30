@@ -1,0 +1,34 @@
+{
+  "symbol": "GGLL",
+  "last_updated": "2025-11-30T14:06:07.834Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.009899999999999999,
+    "inception_date": "Sep 07, 2022",
+    "index_tracked": "Alphabet Inc. - Benchmark Price Return (200%)",
+    "home_page": "https://www.direxion.com/product/daily-googl-bull-and-bear-leveraged-single-stock-etfs",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Media",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1173700000,
+    "shares_outstanding": 10900000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 92.26
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 7.74
+    }
+  ]
+}

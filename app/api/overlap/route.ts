@@ -187,7 +187,7 @@ export async function GET(request: NextRequest) {
       if (!holdings || holdings.length === 0) {
         return NextResponse.json(
           {
-            error: `No holdings found for ${ticker}. Run 'npm run scrape ${ticker}' to fetch its data.`,
+            error: `No holdings found for ${ticker}`,
             etfs: tickers,
             matrix: [],
           },

@@ -1,10 +1,10 @@
 #!/usr/bin/env tsx
 /**
- * ETF Holdings Scraper Script
+ * ETF Holdings Fetchr Script
  *
  * Usage:
- *   npm run scrape QQQ SPY VTI
- *   npm run scrape --all  # Scrape all popular ETFs from lib/etf-list.ts
+ *   npm run fetch QQQ SPY VTI
+ *   npm run fetch --all  # Fetch all popular ETFs from lib/etf-list.ts
  */
 
 import puppeteer from 'puppeteer';
@@ -182,7 +182,7 @@ function extractProfileData($: any): ETFProfile {
   return profile;
 }
 
-async function scrapeETF(ticker: string): Promise<ETFData | null> {
+async function fetchETF(ticker: string): Promise<ETFData | null> {
   console.log(`\nScraping ${ticker}...`);
 
   // Try to find Chrome on macOS
@@ -274,15 +274,22 @@ async function scrapeETF(ticker: string): Promise<ETFData | null> {
           const nameCell = $(cells[1]);
           const weightCell = $(cells[2]);
 
-          const symbol = symbolCell.find('a').text().trim() || symbolCell.text().trim();
+          let symbol = symbolCell.find('a').text().trim() || symbolCell.text().trim();
           const name = nameCell.text().trim();
           const weightText = weightCell.text().trim();
           const weight = parseFloat(weightText.replace(/[%,]/g, '')) || 0;
 
-          if (symbol && /^[A-Z]{1,6}$/.test(symbol)) {
+          // Handle bonds and other holdings without stock symbols
+          if (!symbol || symbol === 'N/A' || symbol.length === 0) {
+            // Use the holding name as the symbol for bonds/commodities
+            // Extract a meaningful identifier from the name
+            symbol = name.substring(0, 50).replace(/[^a-zA-Z0-9\s-]/g, '').trim();
+          }
+
+          if (symbol && name && weight > 0) {
             holdings.push({
               symbol: symbol.toUpperCase(),
-              name: name || symbol,
+              name: name,
               weight,
             });
           }
@@ -354,11 +361,11 @@ async function main() {
 
   if (args.length === 0 || args.includes('--help') || args.includes('-h')) {
     console.log(`
-ETF Holdings Scraper
+ETF Holdings Fetchr
 
 Usage:
-  npm run scrape QQQ SPY VTI        # Scrape specific ETFs
-  npm run scrape --all               # Scrape popular ETFs from lib/etf-list.ts
+  npm run fetch QQQ SPY VTI        # Fetch specific ETFs
+  npm run fetch --all               # Fetch popular ETFs from lib/etf-list.ts
 
 Options:
   -h, --help    Show this help message
@@ -383,10 +390,10 @@ Options:
     tickers = args.map(t => t.toUpperCase());
   }
 
-  console.log(`\nStarting scrape for: ${tickers.join(', ')}\n`);
+  console.log(`\nStarting fetch for: ${tickers.join(', ')}\n`);
 
   for (const ticker of tickers) {
-    const etfData = await scrapeETF(ticker);
+    const etfData = await fetchETF(ticker);
 
     if (etfData) {
       saveETFData(etfData);

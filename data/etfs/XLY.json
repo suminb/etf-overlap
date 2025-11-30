@@ -1,0 +1,100 @@
+{
+  "symbol": "XLY",
+  "last_updated": "2025-11-30T14:04:43.184Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Consumer Discretionary Select Sector Index",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xly",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 22983000000,
+    "shares_outstanding": 98500000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 22.88
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 20.02
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 5.94
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 4.56
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 4.09
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 3.83
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe\\'s Companies, Inc.",
+      "weight": 3.21
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "weight": 2.35
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 2.07
+    },
+    {
+      "symbol": "NKE",
+      "name": "NIKE, Inc. Class B",
+      "weight": 1.82
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 1.74
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 1.67
+    },
+    {
+      "symbol": "MAR",
+      "name": "Marriott International, Inc. Class A",
+      "weight": 1.65
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 1.62
+    },
+    {
+      "symbol": "HLT",
+      "name": "Hilton Worldwide Holdings Inc.",
+      "weight": 1.61
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "FXD",
+  "last_updated": "2025-11-30T14:17:43.465Z",
+  "profile": {
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0060999999999999995,
+    "inception_date": "May 08, 2007",
+    "index_tracked": "StrataQuant Consumer Discretionary Index",
+    "home_page": "http://www.ftportfolios.com/retail/ETF/ETFsummary.aspx?Ticker=FXD",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 289700000,
+    "shares_outstanding": 4400000
+  },
+  "holdings": [
+    {
+      "symbol": "GAP",
+      "name": "Gap, Inc.",
+      "weight": 1.88
+    },
+    {
+      "symbol": "MAT",
+      "name": "Mattel, Inc.",
+      "weight": 1.85
+    },
+    {
+      "symbol": "W",
+      "name": "Wayfair, Inc. Class A",
+      "weight": 1.84
+    },
+    {
+      "symbol": "M",
+      "name": "Macy\\'s, Inc.",
+      "weight": 1.83
+    },
+    {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 1.75
+    },
+    {
+      "symbol": "RL",
+      "name": "Ralph Lauren Corporation Class A",
+      "weight": 1.73
+    },
+    {
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "SGI",
+      "name": "Somnigroup International Inc.",
+      "weight": 1.57
+    },
+    {
+      "symbol": "LEA",
+      "name": "Lear Corporation",
+      "weight": 1.57
+    },
+    {
+      "symbol": "VIK",
+      "name": "Viking Holdings Ltd",
+      "weight": 1.57
+    },
+    {
+      "symbol": "LEN",
+      "name": "Lennar Corporation Class A",
+      "weight": 1.52
+    },
+    {
+      "symbol": "COLM",
+      "name": "Columbia Sportswear Company",
+      "weight": 1.51
+    },
+    {
+      "symbol": "TOL",
+      "name": "Toll Brothers, Inc.",
+      "weight": 1.49
+    },
+    {
+      "symbol": "LAD",
+      "name": "Lithia Motors, Inc.",
+      "weight": 1.48
+    }
+  ]
+}

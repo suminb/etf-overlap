@@ -16,23 +16,23 @@ A Next.js web application for analyzing ETF overlaps using static data files.
 npm install
 ```
 
-2. Scrape ETF holdings data:
+2. Fetch ETF holdings data:
 
 ```bash
-# Scrape specific ETFs
-npm run scrape QQQ SPY VTI
+# Fetch specific ETFs
+npm run fetch QQQ SPY VTI
 
-# Or scrape all popular ETFs
-npm run scrape --all
+# Or fetch all popular ETFs
+npm run fetch --all
 ```
 
 This will generate JSON files in the `data/etfs/` directory containing holdings for each ETF.
 
 ### Data Source
 
-This app fetches ETF holdings data from [ETFdb.com](https://etfdb.com) using headless browser scraping with Puppeteer. **No API key required!** The scraper saves data as static JSON files that are bundled with the application.
+This app fetches ETF holdings data from [ETFdb.com](https://etfdb.com) using headless browser fetching with Puppeteer. **No API key required!** The fetchr saves data as static JSON files that are bundled with the application.
 
-**Storage:** Holdings are stored as static JSON files in the `data/` directory. To update ETF data, run the scraper script and redeploy the application.
+**Storage:** Holdings are stored as static JSON files in the `data/` directory. To update ETF data, run the fetchr script and redeploy the application.
 
 ### Development
 
@@ -57,7 +57,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 5. **Click any cell** in the heatmap to see detailed overlapping holdings
 6. View the **Core Overlap** section to see holdings shared by ALL selected ETFs
 
-**Note**: Only ETFs that have been scraped will be available. If an ETF is not found, run `npm run scrape [TICKER]` to fetch its data, then restart the app.
+**Note**: Only ETFs that have been fetchd will be available. If an ETF is not found, run `npm run fetch [TICKER]` to fetch its data, then restart the app.
 
 ### Build
 
@@ -79,10 +79,10 @@ ETF holdings data is stored as static files and needs to be updated periodically
 
 ```bash
 # Update specific ETFs
-npm run scrape QQQ SPY
+npm run fetch QQQ SPY
 
 # Update all ETFs
-npm run scrape --all
+npm run fetch --all
 ```
 
 After updating data files:
@@ -114,7 +114,7 @@ etf-overlap/
 │       ├── SPY.json
 │       └── ...
 ├── scripts/                   # Utility scripts
-│   └── scrape-etfs.ts         # ETF scraper script
+│   └── fetch-etfs.ts         # ETF fetchr script
 ├── k8s/                       # Kubernetes manifests
 ├── Dockerfile                 # Docker build configuration
 ├── next.config.js             # Next.js configuration
@@ -126,10 +126,10 @@ etf-overlap/
 - **Next.js 14** - React framework with App Router
 - **TypeScript** - Type safety
 - **React 18** - UI library
-- **Puppeteer** - Headless Chrome for web scraping (scraper script only)
+- **Puppeteer** - Headless Chrome for web fetching (fetchr script only)
 - **Cheerio** - HTML parsing
 - **Static JSON Files** - Data storage
-- **ETFdb.com** - Free ETF holdings data source (web scraping)
+- **ETFdb.com** - Free ETF holdings data source (web fetching)
 
 ## Features
 
@@ -141,7 +141,7 @@ etf-overlap/
 - **Visual Heatmap**: Color-coded matrix showing overlap intensity
 - **Static Data**: Fast, no database required
 - **Profile Data**: Stores ETF metadata (issuer, expense ratio, AUM, etc.)
-- **Web Scraping**: Fetches data from ETFdb.com using Puppeteer
+- **Web Fetching**: Fetches data from ETFdb.com using Puppeteer
 
 ## Deployment
 
@@ -149,12 +149,12 @@ See `DOCKER.md` for Docker deployment instructions and `k8s/README.md` for Kuber
 
 ## Alternative Data Sources
 
-The current implementation scrapes ETFdb.com (free, no API key). Other options:
+The current implementation fetchs ETFdb.com (free, no API key). Other options:
 
 - **API Ninjas** - Free tier (first 3 holdings only)
 - **AInvest API** - Free tier (top 10 holdings only)
 - **Alpha Vantage** - Free tier (limited)
 - **Intrinio** - Paid, comprehensive
-- **Yahoo Finance** - Unofficial, may require scraping
+- **Yahoo Finance** - Unofficial, may require fetching
 
-To switch data sources, modify `scripts/scrape-etfs.ts` with your preferred provider's endpoint and response format.
+To switch data sources, modify `scripts/fetch-etfs.ts` with your preferred provider's endpoint and response format.

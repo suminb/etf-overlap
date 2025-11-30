@@ -1,0 +1,100 @@
+{
+  "symbol": "INCO",
+  "last_updated": "2025-11-30T14:17:59.983Z",
+  "profile": {
+    "issuer": "Ameriprise Financial",
+    "brand": "Columbia",
+    "structure": "ETF",
+    "expense_ratio": 0.0075,
+    "inception_date": "Aug 10, 2011",
+    "index_tracked": "Indxx India Consumer Index",
+    "home_page": "http://www.emergingglobaladvisors.com/inco.cfm",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "India",
+    "aum": 284800000,
+    "shares_outstanding": 4400000
+  },
+  "holdings": [
+    {
+      "symbol": "532500",
+      "name": "Maruti Suzuki India Limited",
+      "weight": 5.69
+    },
+    {
+      "symbol": "543320",
+      "name": "Eternal Limited",
+      "weight": 5.59
+    },
+    {
+      "symbol": "500520",
+      "name": "Mahindra & Mahindra Ltd.",
+      "weight": 5.52
+    },
+    {
+      "symbol": "500114",
+      "name": "Titan Company Limited",
+      "weight": 5.13
+    },
+    {
+      "symbol": "532977",
+      "name": "Bajaj Auto Limited",
+      "weight": 5.05
+    },
+    {
+      "symbol": "505200",
+      "name": "Eicher Motors Limited",
+      "weight": 4.87
+    },
+    {
+      "symbol": "500790",
+      "name": "Nestle India Ltd.",
+      "weight": 4.67
+    },
+    {
+      "symbol": "500696",
+      "name": "Hindustan Unilever Limited",
+      "weight": 4.49
+    },
+    {
+      "symbol": "532343",
+      "name": "TVS Motor Company Limited",
+      "weight": 4.24
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC Limited",
+      "weight": 4.07
+    },
+    {
+      "symbol": "500182",
+      "name": "Hero Motocorp Limited",
+      "weight": 4.05
+    },
+    {
+      "symbol": "500800",
+      "name": "Tata Consumer Products Limited",
+      "weight": 3.96
+    },
+    {
+      "symbol": "500825",
+      "name": "Britannia Industries Ltd",
+      "weight": 3.54
+    },
+    {
+      "symbol": "500251",
+      "name": "Trent Limited",
+      "weight": 3.48
+    },
+    {
+      "symbol": "500850",
+      "name": "Indian Hotels Co. Ltd.",
+      "weight": 3.19
+    }
+  ]
+}

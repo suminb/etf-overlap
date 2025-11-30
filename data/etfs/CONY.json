@@ -1,0 +1,57 @@
+{
+  "symbol": "CONY",
+  "last_updated": "2025-11-30T14:15:44.328Z",
+  "profile": {
+    "issuer": "Tidal Financial Group",
+    "brand": "YieldMax",
+    "expense_ratio": 0.012199999999999999,
+    "inception_date": "Aug 15, 2023",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 869500000,
+    "shares_outstanding": 187700000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-JUL-2026",
+      "name": "United States Treasury Bills 0.0% 09-JUL-2026",
+      "weight": 42.56
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 28.78
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 11-JUN-2026",
+      "name": "United States Treasury Bills 0.0% 11-JUN-2026",
+      "weight": 25.8
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 06-AUG-2026",
+      "name": "United States Treasury Bills 0.0% 06-AUG-2026",
+      "weight": 22.44
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-APR-2026",
+      "name": "United States Treasury Bills 0.0% 09-APR-2026",
+      "weight": 10.26
+    },
+    {
+      "symbol": "FGXXX",
+      "name": "First American Funds Inc X Government Obligations Fund",
+      "weight": 0.57
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-JAN-2026",
+      "name": "United States Treasury Notes 3.875% 15-JAN-2026",
+      "weight": 0.11
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.05
+    }
+  ]
+}

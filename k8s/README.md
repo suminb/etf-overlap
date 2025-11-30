@@ -15,8 +15,8 @@ This guide explains how to deploy the ETF Overlap application to Kubernetes.
 First, build the Docker image with ETF data included:
 
 ```bash
-# Scrape ETF data first (if not already done)
-npm run scrape QQQ SPY VTI  # Or any ETFs you want to include
+# Fetch ETF data first (if not already done)
+npm run fetch QQQ SPY VTI  # Or any ETFs you want to include
 
 # Build the image (data files will be included)
 docker build -t etf-overlap:latest .
@@ -130,11 +130,11 @@ kubectl apply -k k8s/
 
 To update ETF holdings data:
 
-1. Run the scraper locally:
+1. Run the fetchr locally:
    ```bash
-   npm run scrape QQQ SPY VTI  # Update specific ETFs
+   npm run fetch QQQ SPY VTI  # Update specific ETFs
    # or
-   npm run scrape --all        # Update all ETFs
+   npm run fetch --all        # Update all ETFs
    ```
 
 2. Commit the updated data files:
@@ -281,7 +281,7 @@ kubectl delete namespace etf-overlap
    - Monitor memory usage as data grows
 
 6. **Data Updates:**
-   - Set up automated scraping jobs (CronJob)
+   - Set up automated fetching jobs (CronJob)
    - Implement CI/CD pipeline for data updates
    - Consider blue-green deployments for zero-downtime updates
 
@@ -290,10 +290,10 @@ kubectl delete namespace etf-overlap
 Example GitHub Actions workflow:
 
 ```yaml
-- name: Scrape ETF data
+- name: Fetch ETF data
   run: |
     npm install
-    npm run scrape --all
+    npm run fetch --all
 
 - name: Build and push Docker image
   run: |
@@ -309,13 +309,13 @@ Example GitHub Actions workflow:
 
 ## Scheduled Data Updates (Optional)
 
-Create a CronJob to periodically scrape and update data:
+Create a CronJob to periodically fetch and update data:
 
 ```yaml
 apiVersion: batch/v1
 kind: CronJob
 metadata:
-  name: etf-data-scraper
+  name: etf-data-fetchr
   namespace: etf-overlap
 spec:
   schedule: "0 0 * * 0"  # Weekly on Sunday
@@ -324,9 +324,9 @@ spec:
       template:
         spec:
           containers:
-          - name: scraper
+          - name: fetchr
             image: etf-overlap:latest
-            command: ["npm", "run", "scrape", "--all"]
+            command: ["npm", "run", "fetch", "--all"]
           restartPolicy: OnFailure
 ```
 

@@ -1,11 +1,81 @@
 {
   "etfs": [
     {
+      "symbol": "AMZU",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.009899999999999999,
+      "aum": 300500000,
+      "last_updated": "2025-11-30T14:17:27.444Z"
+    },
+    {
+      "symbol": "BND",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 144851000000,
+      "last_updated": "2025-11-29T17:01:22.940Z"
+    },
+    {
+      "symbol": "CONY",
+      "issuer": "Tidal Financial Group",
+      "expense_ratio": 0.012199999999999999,
+      "aum": 869500000,
+      "last_updated": "2025-11-30T14:15:44.328Z"
+    },
+    {
       "symbol": "DTCR",
       "issuer": "Mirae Asset Global Investments Co., Ltd.",
       "expense_ratio": 0.005,
       "aum": 606800000,
       "last_updated": "2025-11-29T16:54:28.974Z"
+    },
+    {
+      "symbol": "ESPO",
+      "issuer": "VanEck",
+      "expense_ratio": 0.005600000000000001,
+      "aum": 400000000,
+      "last_updated": "2025-11-30T14:16:53.800Z"
+    },
+    {
+      "symbol": "FDIS",
+      "issuer": "Fidelity",
+      "expense_ratio": 0.0008,
+      "aum": 1900100000,
+      "last_updated": "2025-11-30T14:05:38.471Z"
+    },
+    {
+      "symbol": "FXD",
+      "issuer": "First Trust",
+      "expense_ratio": 0.0060999999999999995,
+      "aum": 289700000,
+      "last_updated": "2025-11-30T14:17:43.465Z"
+    },
+    {
+      "symbol": "GGLL",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.009899999999999999,
+      "aum": 1173700000,
+      "last_updated": "2025-11-30T14:06:07.834Z"
+    },
+    {
+      "symbol": "GLD",
+      "issuer": "State Street",
+      "expense_ratio": 0.004,
+      "aum": 136568000000,
+      "last_updated": "2025-11-29T17:20:11.863Z"
+    },
+    {
+      "symbol": "INCO",
+      "issuer": "Ameriprise Financial",
+      "expense_ratio": 0.0075,
+      "aum": 284800000,
+      "last_updated": "2025-11-30T14:17:59.983Z"
+    },
+    {
+      "symbol": "IYC",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0038,
+      "aum": 1534700000,
+      "last_updated": "2025-11-30T14:05:50.633Z"
     },
     {
       "symbol": "JEPI",
@@ -29,6 +99,13 @@
       "last_updated": "2025-11-29T16:52:33.470Z"
     },
     {
+      "symbol": "RXI",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0039000000000000003,
+      "aum": 456600000,
+      "last_updated": "2025-11-30T14:16:42.155Z"
+    },
+    {
       "symbol": "SPY",
       "issuer": "State Street",
       "expense_ratio": 0.0009,
@@ -40,7 +117,70 @@
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
       "aum": 50181300000,
-      "last_updated": "2025-11-29T16:55:32.871Z"
+      "last_updated": "2025-11-29T16:58:25.083Z"
+    },
+    {
+      "symbol": "TSLL",
+      "issuer": "Rafferty Asset Management",
+      "expense_ratio": 0.0095,
+      "aum": 6126200000,
+      "last_updated": "2025-11-30T14:05:09.929Z"
+    },
+    {
+      "symbol": "TSLQ",
+      "issuer": "AXS Investments",
+      "expense_ratio": 0.011699999999999999,
+      "aum": 325300000,
+      "last_updated": "2025-11-30T14:17:10.709Z"
+    },
+    {
+      "symbol": "TSLY",
+      "issuer": "Tidal Financial Group",
+      "expense_ratio": 0.0104,
+      "aum": 1189800000,
+      "last_updated": "2025-11-30T14:15:27.961Z"
+    },
+    {
+      "symbol": "VCR",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0009,
+      "aum": 6187300000,
+      "last_updated": "2025-11-30T14:04:58.043Z"
+    },
+    {
+      "symbol": "VOO",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 803941000000,
+      "last_updated": "2025-11-29T17:01:03.267Z"
+    },
+    {
+      "symbol": "VTEB",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 41811500000,
+      "last_updated": "2025-11-29T16:59:28.891Z"
+    },
+    {
+      "symbol": "VTV",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0004,
+      "aum": 151570000000,
+      "last_updated": "2025-11-29T17:01:57.106Z"
+    },
+    {
+      "symbol": "XLY",
+      "issuer": "State Street",
+      "expense_ratio": 0.0008,
+      "aum": 22983000000,
+      "last_updated": "2025-11-30T14:04:43.184Z"
+    },
+    {
+      "symbol": "XRT",
+      "issuer": "State Street",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 474000000,
+      "last_updated": "2025-11-30T14:06:19.093Z"
     }
   ]
 }

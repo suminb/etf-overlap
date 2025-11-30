@@ -1,0 +1,34 @@
+{
+  "symbol": "AMZU",
+  "last_updated": "2025-11-30T14:17:27.444Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.009899999999999999,
+    "inception_date": "Sep 07, 2022",
+    "index_tracked": "Amazon.com, Inc. (200%)",
+    "home_page": "https://www.direxion.com/product/daily-amzn-bull-and-bear-leveraged-single-stock-etfs",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Retail",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 300500000,
+    "shares_outstanding": 8200000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 87.93
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 12.07
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "XRT",
+  "last_updated": "2025-11-30T14:06:19.093Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "S&P Retail Select Industry",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=XRT",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Retail",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 474000000,
+    "shares_outstanding": 5700000
+  },
+  "holdings": [
+    {
+      "symbol": "REAL",
+      "name": "RealReal, Inc.",
+      "weight": 2.31
+    },
+    {
+      "symbol": "VSCO",
+      "name": "Victoria\\'s Secret & Company",
+      "weight": 2.1
+    },
+    {
+      "symbol": "KSS",
+      "name": "Kohl\\'s Corporation",
+      "weight": 1.98
+    },
+    {
+      "symbol": "M",
+      "name": "Macy\\'s, Inc.",
+      "weight": 1.81
+    },
+    {
+      "symbol": "ODP",
+      "name": "ODP Corporation",
+      "weight": 1.79
+    },
+    {
+      "symbol": "EYE",
+      "name": "National Vision Holdings, Inc.",
+      "weight": 1.78
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "weight": 1.67
+    },
+    {
+      "symbol": "DDS",
+      "name": "Dillard\\'s, Inc. Class A",
+      "weight": 1.66
+    },
+    {
+      "symbol": "PSMT",
+      "name": "PriceSmart, Inc.",
+      "weight": 1.6
+    },
+    {
+      "symbol": "FIVE",
+      "name": "Five Below, Inc.",
+      "weight": 1.58
+    },
+    {
+      "symbol": "GAP",
+      "name": "Gap, Inc.",
+      "weight": 1.56
+    },
+    {
+      "symbol": "SBH",
+      "name": "Sally Beauty Holdings, Inc.",
+      "weight": 1.55
+    },
+    {
+      "symbol": "SIG",
+      "name": "Signet Jewelers Limited",
+      "weight": 1.55
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 1.54
+    },
+    {
+      "symbol": "DLTR",
+      "name": "Dollar Tree, Inc.",
+      "weight": 1.51
+    }
+  ]
+}

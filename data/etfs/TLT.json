@@ -1,6 +1,6 @@
 {
   "symbol": "TLT",
-  "last_updated": "2025-11-29T16:55:32.871Z",
+  "last_updated": "2025-11-29T16:58:25.083Z",
   "profile": {
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
@@ -16,5 +16,81 @@
     "aum": 50181300000,
     "shares_outstanding": 556200000
   },
-  "holdings": []
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BOND 20 15-AUG-2051",
+      "name": "United States Treasury Bond 2.0% 15-AUG-2051",
+      "weight": 5.02
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1875 15-NOV-2051",
+      "name": "United States Treasury Bond 1.875% 15-NOV-2051",
+      "weight": 4.74
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4125 15-AUG-2053",
+      "name": "United States Treasury Bond 4.125% 15-AUG-2053",
+      "weight": 4.58
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-NOV-2053",
+      "name": "United States Treasury Bond 4.75% 15-NOV-2053",
+      "weight": 4.5
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-MAY-2055",
+      "name": "United States Treasury Bond 4.75% 15-MAY-2055",
+      "weight": 4.46
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4625 15-MAY-2054",
+      "name": "United States Treasury Bond 4.625% 15-MAY-2054",
+      "weight": 4.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 425 15-AUG-2054",
+      "name": "United States Treasury Bond 4.25% 15-AUG-2054",
+      "weight": 4.25
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1875 15-FEB-2051",
+      "name": "United States Treasury Bond 1.875% 15-FEB-2051",
+      "weight": 4.06
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 425 15-FEB-2054",
+      "name": "United States Treasury Bond 4.25% 15-FEB-2054",
+      "weight": 4.04
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3625 15-MAY-2053",
+      "name": "United States Treasury Bond 3.625% 15-MAY-2053",
+      "weight": 3.86
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4625 15-FEB-2055",
+      "name": "United States Treasury Bond 4.625% 15-FEB-2055",
+      "weight": 3.81
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1625 15-NOV-2050",
+      "name": "United States Treasury Bond 1.625% 15-NOV-2050",
+      "weight": 3.35
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 40 15-NOV-2052",
+      "name": "United States Treasury Bond 4.0% 15-NOV-2052",
+      "weight": 3.34
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 45 15-NOV-2054",
+      "name": "United States Treasury Bond 4.5% 15-NOV-2054",
+      "weight": 3.34
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 20 15-FEB-2050",
+      "name": "United States Treasury Bond 2.0% 15-FEB-2050",
+      "weight": 3.15
+    }
+  ]
 }

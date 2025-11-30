@@ -35,7 +35,7 @@ export async function GET(request: NextRequest) {
       console.log(`✗ No data found for ${normalizedTicker}`);
       return NextResponse.json(
         {
-          error: `ETF "${normalizedTicker}" not found. Run 'npm run scrape ${normalizedTicker}' to fetch its data.`,
+          error: `ETF "${normalizedTicker}" not found`,
           symbol: normalizedTicker,
           holdings: [],
         },

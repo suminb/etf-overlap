@@ -1,0 +1,100 @@
+{
+  "symbol": "IYC",
+  "last_updated": "2025-11-30T14:05:50.633Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "Jun 12, 2000",
+    "index_tracked": "Russell 1000 Consumer Discretionary 40 Act 15/22.5 Daily Capped Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IYC.htm?qt=IYC",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Consumer Services",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1534700000,
+    "shares_outstanding": 15200000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 13.65
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 8.75
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 4.63
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 4.16
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 4.12
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 3.97
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 3.56
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Company",
+      "weight": 2.99
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies, Inc.",
+      "weight": 2.75
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 2.73
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 2.55
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe\\'s Companies, Inc.",
+      "weight": 2.16
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "weight": 1.57
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology SA",
+      "weight": 1.45
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 1.38
+    }
+  ]
+}

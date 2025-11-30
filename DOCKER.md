@@ -8,13 +8,13 @@ This guide explains how to run the ETF Overlap application using Docker.
 
 ## Quick Start
 
-1. **Scrape ETF data** (if not already done):
+1. **Fetch ETF data** (if not already done):
 
    ```bash
    npm install
-   npm run scrape QQQ SPY VTI
-   # Or scrape all popular ETFs
-   npm run scrape --all
+   npm run fetch QQQ SPY VTI
+   # Or fetch all popular ETFs
+   npm run fetch --all
    ```
 
 2. **Build the Docker image**:
@@ -80,9 +80,9 @@ docker exec -it etf-overlap sh
 
 The Docker image:
 - Built using multi-stage Docker build for optimization
-- Includes Chromium for Puppeteer web scraping
+- Includes Chromium for Puppeteer web fetching
 - Runs on Node.js 18 Alpine
-- Contains pre-scraped ETF data in `/app/data/`
+- Contains pre-fetchd ETF data in `/app/data/`
 - Exposed on port 3000
 
 ## Data Management
@@ -91,9 +91,9 @@ The Docker image:
 
 To update ETF holdings data:
 
-1. Scrape new data locally:
+1. Fetch new data locally:
    ```bash
-   npm run scrape QQQ SPY
+   npm run fetch QQQ SPY
    ```
 
 2. Rebuild the Docker image:

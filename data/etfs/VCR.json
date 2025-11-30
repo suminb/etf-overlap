@@ -1,0 +1,100 @@
+{
+  "symbol": "VCR",
+  "last_updated": "2025-11-30T14:04:58.043Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "MSCI US IMI 25/50 Consumer Discretionary",
+    "home_page": "https://advisors.vanguard.com/investments/products/vcr/vanguard-consumer-discretionary-etf",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6187300000,
+    "shares_outstanding": 16100000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 24
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 18.7
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 5.14
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 3.13
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 2.45
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 2.32
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe\\'s Companies, Inc.",
+      "weight": 1.85
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre, Inc.",
+      "weight": 1.58
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "weight": 1.36
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 1.35
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 1.22
+    },
+    {
+      "symbol": "NKE",
+      "name": "NIKE, Inc. Class B",
+      "weight": 1.15
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 1.1
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 1.06
+    },
+    {
+      "symbol": "HLT",
+      "name": "Hilton Worldwide Holdings Inc.",
+      "weight": 0.95
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+AGG	iShares Core U.S. Aggregate Bond ETF
+BND	Vanguard Total Bond Market ETF
+BNDX	Vanguard Total International Bond ETF
+GLD	SPDR Gold Shares
+IEFA	iShares Core MSCI EAFE ETF
+IEMG	iShares Core MSCI Emerging Markets ETF
+IJH	iShares Core S&P Mid-Cap ETF
+IJR	iShares Core S&P Small-Cap ETF
+ITOT	iShares Core S&P Total U.S. Stock Market ETF
+IVV	iShares Core S&P 500 ETF
+IWF	iShares Russell 1000 Growth ETF
+QQQ	Invesco QQQ Trust Series I
+SPY	SPDR S&P 500 ETF Trust
+SPYM	State Street SPDR Portfolio S&P 500 ETF
+VEA	Vanguard FTSE Developed Markets ETF
+VGT	Vanguard Information Technology ETF
+VIG	Vanguard Dividend Appreciation ETF
+VO	Vanguard Mid-Cap ETF
+VOO	Vanguard S&P 500 ETF
+VTI	Vanguard Total Stock Market ETF
+VTV	Vanguard Value ETF
+VUG	Vanguard Growth ETF
+VWO	Vanguard FTSE Emerging Markets ETF
+VXUS	Vanguard Total International Stock ETF
+XLK	Technology Select Sector SPDR Fund

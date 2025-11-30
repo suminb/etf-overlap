@@ -1,0 +1,100 @@
+{
+  "symbol": "RXI",
+  "last_updated": "2025-11-30T14:16:42.155Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Sep 12, 2006",
+    "index_tracked": "S&P Global 1200 Consumer Discretionary (Sector) Capped Index (USD)",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/RXI.htm?qt=RXI",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 456600000,
+    "shares_outstanding": 2300000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 10.56
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 9.77
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 4.03
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 3.96
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 3.76
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 3.49
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 2.89
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 2.81
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 2.68
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 2.49
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe\\'s Companies, Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "CFR",
+      "name": "Compagnie Financiere Richemont SA",
+      "weight": 1.78
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "weight": 1.54
+    },
+    {
+      "symbol": "RMS",
+      "name": "Hermes International S.A.",
+      "weight": 1.36
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 1.35
+    }
+  ]
+}

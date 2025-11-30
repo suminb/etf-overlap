@@ -1,0 +1,100 @@
+{
+  "symbol": "ESPO",
+  "last_updated": "2025-11-30T14:16:53.800Z",
+  "profile": {
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.005600000000000001,
+    "inception_date": "Oct 16, 2018",
+    "index_tracked": "MVIS Global Video Gaming & eSports",
+    "home_page": "https://www.vaneck.com/etf/equity/espo/overview/",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Gaming",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 400000000,
+    "shares_outstanding": 3700000
+  },
+  "holdings": [
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 8.63
+    },
+    {
+      "symbol": "7974",
+      "name": "Nintendo Co., Ltd.",
+      "weight": 7.93
+    },
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "weight": 7.11
+    },
+    {
+      "symbol": "NTES",
+      "name": "Netease Inc Sponsored ADR",
+      "weight": 6.83
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "weight": 6.5
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 5.25
+    },
+    {
+      "symbol": "3659",
+      "name": "NEXON Co., Ltd.",
+      "weight": 5.05
+    },
+    {
+      "symbol": "9766",
+      "name": "KONAMI Group Corporation",
+      "weight": 4.98
+    },
+    {
+      "symbol": "U",
+      "name": "Unity Software, Inc.",
+      "weight": 4.86
+    },
+    {
+      "symbol": "3293",
+      "name": "International Games System Co., Ltd.",
+      "weight": 4.67
+    },
+    {
+      "symbol": "ALL",
+      "name": "Aristocrat Leisure Limited",
+      "weight": 4.42
+    },
+    {
+      "symbol": "9697",
+      "name": "Capcom Co., Ltd.",
+      "weight": 4.42
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp. Class A",
+      "weight": 4.25
+    },
+    {
+      "symbol": "7832",
+      "name": "Bandai Namco Holdings Inc.",
+      "weight": 4.21
+    },
+    {
+      "symbol": "259960",
+      "name": "Krafton, Inc.",
+      "weight": 3.63
+    }
+  ]
+}

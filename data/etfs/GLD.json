@@ -1,0 +1,24 @@
+{
+  "symbol": "GLD",
+  "last_updated": "2025-11-29T17:20:11.863Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.004,
+    "inception_date": "Nov 18, 2004",
+    "index_tracked": "LBMA Gold Price PM ($/ozt)",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=GLD",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "aum": 136568000000,
+    "shares_outstanding": 363700000
+  },
+  "holdings": [
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "weight": 100
+    }
+  ]
+}

@@ -58,9 +58,9 @@ Contains holdings for a specific ETF:
 
 To update ETF holdings data:
 
-1. Run the scraper script:
+1. Run the fetchr script:
    ```bash
-   npm run scrape -- QQQ SPY VTI
+   npm run fetch -- QQQ SPY VTI
    ```
 
 2. Review the generated/updated JSON files in `data/etfs/`
@@ -75,5 +75,5 @@ To update ETF holdings data:
 
 ## Data Source
 
-All data is scraped from [ETFdb.com](https://etfdb.com) using the scraper script.
+All data is fetchd from [ETFdb.com](https://etfdb.com) using the fetchr script.
 Data is typically updated monthly or quarterly as ETF holdings change.
