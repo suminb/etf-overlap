@@ -1,0 +1,100 @@
+{
+  "symbol": "HERO",
+  "last_updated": "2025-11-30T16:52:43.997Z",
+  "profile": {
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Oct 25, 2019",
+    "index_tracked": "Solactive Video Games & Esports Index",
+    "home_page": "https://www.globalxetfs.com/funds/hero",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Gaming",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 123800000,
+    "shares_outstanding": 4000000
+  },
+  "holdings": [
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "weight": 8.36
+    },
+    {
+      "symbol": "9766",
+      "name": "KONAMI Group Corporation",
+      "weight": 6.9
+    },
+    {
+      "symbol": "NTES",
+      "name": "Netease Inc Sponsored ADR",
+      "weight": 6.52
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "weight": 6.44
+    },
+    {
+      "symbol": "7974",
+      "name": "Nintendo Co., Ltd.",
+      "weight": 5.98
+    },
+    {
+      "symbol": "3659",
+      "name": "NEXON Co., Ltd.",
+      "weight": 5.79
+    },
+    {
+      "symbol": "U",
+      "name": "Unity Software, Inc.",
+      "weight": 5.44
+    },
+    {
+      "symbol": "BILI",
+      "name": "Bilibili, Inc. Sponsored ADR Class Z",
+      "weight": 5.16
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 4.63
+    },
+    {
+      "symbol": "3293",
+      "name": "International Games System Co., Ltd.",
+      "weight": 4.17
+    },
+    {
+      "symbol": "CDR",
+      "name": "CD Projekt S.A.",
+      "weight": 4.05
+    },
+    {
+      "symbol": "9684",
+      "name": "Square Enix Holdings Co., Ltd.",
+      "weight": 4.03
+    },
+    {
+      "symbol": "3888",
+      "name": "Kingsoft Corporation Ltd",
+      "weight": 3.94
+    },
+    {
+      "symbol": "9697",
+      "name": "Capcom Co., Ltd.",
+      "weight": 3.85
+    },
+    {
+      "symbol": "259960",
+      "name": "Krafton, Inc.",
+      "weight": 3.2
+    }
+  ]
+}

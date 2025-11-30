@@ -1,0 +1,100 @@
+{
+  "symbol": "ITA",
+  "last_updated": "2025-11-30T16:56:13.258Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "May 01, 2006",
+    "index_tracked": "Dow Jones U.S. Select Aerospace & Defense Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/ITA.htm?qt=ITA",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 11866400000,
+    "shares_outstanding": 58700000
+  },
+  "holdings": [
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 21.75
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 16.03
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 7.13
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 4.88
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 4.61
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 4.61
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 4.39
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 4.29
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 4.28
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise Inc",
+      "weight": 3.12
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 2.25
+    },
+    {
+      "symbol": "HEI.A",
+      "name": "HEICO Corporation Class A",
+      "weight": 2.01
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 1.9
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 1.89
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 1.73
+    }
+  ]
+}

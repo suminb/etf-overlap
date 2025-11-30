@@ -1,0 +1,100 @@
+{
+  "symbol": "GGME",
+  "last_updated": "2025-11-30T16:52:16.293Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0062,
+    "inception_date": "Jun 23, 2005",
+    "index_tracked": "STOXX World AC NexGen Media Index - Benchmark TR Gross",
+    "home_page": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-GGME",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Media",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 147500000,
+    "shares_outstanding": 2500000
+  },
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 10.26
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 8.65
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 7.5
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 7.43
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 7.17
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 6.58
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "weight": 4.33
+    },
+    {
+      "symbol": "7974",
+      "name": "Nintendo Co., Ltd.",
+      "weight": 4.24
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology SA",
+      "weight": 4.11
+    },
+    {
+      "symbol": "ADSK",
+      "name": "Autodesk, Inc.",
+      "weight": 3.41
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 3.32
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 3.22
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 2.59
+    },
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "weight": 2.45
+    },
+    {
+      "symbol": "9999",
+      "name": "Netease Inc",
+      "weight": 2.34
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "symbol": "AFK",
+  "last_updated": "2025-11-30T16:54:54.467Z",
+  "profile": {
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0088,
+    "inception_date": "Jul 10, 2008",
+    "index_tracked": "MVIS GDP Africa",
+    "home_page": "http://www.vaneck.com/index.cfm?cat=3192&cGroup=ETF&LN=3-02&tkr=AFK&LN=3_02",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Africa",
+    "region_specific": "Broad",
+    "aum": 88000000,
+    "shares_outstanding": 3700000
+  },
+  "holdings": [
+    {
+      "symbol": "NPN",
+      "name": "Naspers Limited Class N",
+      "weight": 5.5
+    },
+    {
+      "symbol": "AAF",
+      "name": "Airtel Africa Plc",
+      "weight": 4.88
+    },
+    {
+      "symbol": "ABX",
+      "name": "Barrick Mining Corporation",
+      "weight": 4.64
+    },
+    {
+      "symbol": "ATW",
+      "name": "Attijariwafa Bank SA",
+      "weight": 4.58
+    },
+    {
+      "symbol": "AAL",
+      "name": "Anglo American plc",
+      "weight": 4.14
+    },
+    {
+      "symbol": "EDV",
+      "name": "Endeavour Mining PLC",
+      "weight": 3.6
+    },
+    {
+      "symbol": "BCP",
+      "name": "Banque Centrale Populaire SA",
+      "weight": 3.46
+    },
+    {
+      "symbol": "IVN",
+      "name": "Ivanhoe Mines Ltd. Class A",
+      "weight": 3.4
+    },
+    {
+      "symbol": "GTCO",
+      "name": "Guaranty Trust Holding Company Plc",
+      "weight": 3.31
+    },
+    {
+      "symbol": "GFI",
+      "name": "Gold Fields Limited Sponsored ADR",
+      "weight": 3.26
+    },
+    {
+      "symbol": "IAG",
+      "name": "IAMGOLD Corporation",
+      "weight": 3.16
+    },
+    {
+      "symbol": "AU",
+      "name": "Anglogold Ashanti PLC",
+      "weight": 3.09
+    },
+    {
+      "symbol": "SCOM",
+      "name": "Safaricom PLC",
+      "weight": 2.86
+    },
+    {
+      "symbol": "MSA",
+      "name": "Marsa Maroc SA",
+      "weight": 2.8
+    },
+    {
+      "symbol": "CMGGF",
+      "name": "Commercial International Bank - Egypt (CIB) S.A.E. Sponsored GDR RegS",
+      "weight": 2.71
+    }
+  ]
+}

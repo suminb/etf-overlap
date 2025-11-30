@@ -1,0 +1,100 @@
+{
+  "symbol": "BETZ",
+  "last_updated": "2025-11-30T16:53:45.466Z",
+  "profile": {
+    "issuer": "Roundhill Investments",
+    "brand": "Roundhill",
+    "structure": "ETF",
+    "expense_ratio": 0.0075,
+    "inception_date": "Jun 04, 2020",
+    "index_tracked": "Morningstar Sports Betting & iGaming Select Index - Benchmark TR Gross",
+    "home_page": "https://www.roundhillinvestments.com/etf/betz/",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Gaming",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 62000000,
+    "shares_outstanding": 3000000
+  },
+  "holdings": [
+    {
+      "symbol": "LTMC",
+      "name": "Lottomatica Group S.P.A.",
+      "weight": 8.1
+    },
+    {
+      "symbol": "SGHC",
+      "name": "Super Group (SGHC) Limited",
+      "weight": 7.85
+    },
+    {
+      "symbol": "FLTR",
+      "name": "Flutter Entertainment Plc",
+      "weight": 7.45
+    },
+    {
+      "symbol": "RSI",
+      "name": "Rush Street Interactive, Inc. Class A",
+      "weight": 6.4
+    },
+    {
+      "symbol": "GENI",
+      "name": "Genius Sports Limited",
+      "weight": 5.94
+    },
+    {
+      "symbol": "OPAP",
+      "name": "Greek Organisation of Football Prognostics SA",
+      "weight": 5.75
+    },
+    {
+      "symbol": "DKNG",
+      "name": "DraftKings, Inc. Class A",
+      "weight": 5.7
+    },
+    {
+      "symbol": "BETS.B",
+      "name": "Betsson AB Class B",
+      "weight": 5.64
+    },
+    {
+      "symbol": "ENT",
+      "name": "Entain PLC",
+      "weight": 5.29
+    },
+    {
+      "symbol": "TLC",
+      "name": "Lottery Corporation Limited",
+      "weight": 5.14
+    },
+    {
+      "symbol": "SRAD",
+      "name": "Sportradar Group AG Class A",
+      "weight": 5.07
+    },
+    {
+      "symbol": "EVO",
+      "name": "Evolution AB",
+      "weight": 4.71
+    },
+    {
+      "symbol": "CHDN",
+      "name": "Churchill Downs Incorporated",
+      "weight": 4.55
+    },
+    {
+      "symbol": "TAH",
+      "name": "Tabcorp Holdings Limited",
+      "weight": 4.18
+    },
+    {
+      "symbol": "MGM",
+      "name": "MGM Resorts International",
+      "weight": 2.61
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "RTH",
+  "last_updated": "2025-11-30T16:51:12.401Z",
+  "profile": {
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "May 02, 2001",
+    "index_tracked": "MVIS US Listed Retail 25",
+    "home_page": "http://www.vaneck.com/funds/RTH.aspx",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Retail",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 255700000,
+    "shares_outstanding": 1000000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 19.78
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 9.71
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 7.4
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 6.6
+    },
+    {
+      "symbol": "MCK",
+      "name": "McKesson Corporation",
+      "weight": 5.62
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 5.4
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Health Corporation",
+      "weight": 4.65
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 4.31
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe\\'s Companies, Inc.",
+      "weight": 3.99
+    },
+    {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 3.75
+    },
+    {
+      "symbol": "AZO",
+      "name": "AutoZone, Inc.",
+      "weight": 3.59
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "weight": 2.82
+    },
+    {
+      "symbol": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "weight": 2.74
+    },
+    {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "weight": 2.54
+    },
+    {
+      "symbol": "JD",
+      "name": "JD.com, Inc. Sponsored ADR Class A",
+      "weight": 2.5
+    }
+  ]
+}

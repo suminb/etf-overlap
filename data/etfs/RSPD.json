@@ -1,0 +1,100 @@
+{
+  "symbol": "RSPD",
+  "last_updated": "2025-11-30T16:52:02.030Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Nov 01, 2006",
+    "index_tracked": "S&P 500 Equal Weighted / Consumer Discretionary -SEC",
+    "home_page": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-RSPD",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 209600000,
+    "shares_outstanding": 3700000
+  },
+  "holdings": [
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 2.66
+    },
+    {
+      "symbol": "LVS",
+      "name": "Las Vegas Sands Corp.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.57
+    },
+    {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "weight": 2.49
+    },
+    {
+      "symbol": "RL",
+      "name": "Ralph Lauren Corporation Class A",
+      "weight": 2.49
+    },
+    {
+      "symbol": "MAR",
+      "name": "Marriott International, Inc. Class A",
+      "weight": 2.43
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "weight": 2.42
+    },
+    {
+      "symbol": "LULU",
+      "name": "lululemon athletica inc.",
+      "weight": 2.32
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 2.29
+    },
+    {
+      "symbol": "HAS",
+      "name": "Hasbro, Inc.",
+      "weight": 2.23
+    },
+    {
+      "symbol": "BBY",
+      "name": "Best Buy Co., Inc.",
+      "weight": 2.21
+    },
+    {
+      "symbol": "WYNN",
+      "name": "Wynn Resorts, Limited",
+      "weight": 2.2
+    },
+    {
+      "symbol": "YUM",
+      "name": "Yum! Brands, Inc.",
+      "weight": 2.2
+    },
+    {
+      "symbol": "TPR",
+      "name": "Tapestry, Inc.",
+      "weight": 2.2
+    }
+  ]
+}

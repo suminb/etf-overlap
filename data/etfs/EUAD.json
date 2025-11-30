@@ -1,0 +1,93 @@
+{
+  "symbol": "EUAD",
+  "last_updated": "2025-11-30T16:57:05.956Z",
+  "profile": {
+    "issuer": "Tuttle Capital Management LLC",
+    "brand": "Tuttle Capital",
+    "expense_ratio": 0.005,
+    "inception_date": "Oct 22, 2024",
+    "index_tracked": "STOXX Europe TMI / Aerospace & Defense - SEC",
+    "home_page": "https://www.select-funds.com/",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "Developed Europe",
+    "region_specific": "Broad",
+    "aum": 1009800000,
+    "shares_outstanding": 25100000
+  },
+  "holdings": [
+    {
+      "symbol": "EADSY",
+      "name": "Airbus SE Unsponsored ADR",
+      "weight": 26.37
+    },
+    {
+      "symbol": "RNMBY",
+      "name": "Rheinmetall AG Unsponsored ADR",
+      "weight": 13.77
+    },
+    {
+      "symbol": "BAESY",
+      "name": "BAE Systems plc Sponsored ADR",
+      "weight": 11.03
+    },
+    {
+      "symbol": "SAFRY",
+      "name": "Safran SA Unsponsored ADR",
+      "weight": 10.57
+    },
+    {
+      "symbol": "THLLY",
+      "name": "Thales SA Unsponsored ADR",
+      "weight": 10.54
+    },
+    {
+      "symbol": "RYCEY",
+      "name": "Rolls-Royce Holdings PLC Sponsored ADR",
+      "weight": 9.72
+    },
+    {
+      "symbol": "FINMY",
+      "name": "Leonardo SpA Unsponsored ADR",
+      "weight": 4.9
+    },
+    {
+      "symbol": "SAABY",
+      "name": "Saab AB Unsponsored ADR",
+      "weight": 3.95
+    },
+    {
+      "symbol": "MTUAY",
+      "name": "MTU Aero Engines AG Unsponsored ADR",
+      "weight": 3.29
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.87
+    },
+    {
+      "symbol": "HAGHY",
+      "name": "HENSOLDT AG Unsponsored ADR",
+      "weight": 1.24
+    },
+    {
+      "symbol": "BCKIY",
+      "name": "Babcock International Group PLC Unsponsored ADR",
+      "weight": 0.83
+    },
+    {
+      "symbol": "QNTQY",
+      "name": "QinetiQ Group plc Unsponsored ADR",
+      "weight": 0.54
+    },
+    {
+      "symbol": "CMGMY",
+      "name": "Chemring Group PLC Unsponsored ADR",
+      "weight": 0.39
+    }
+  ]
+}

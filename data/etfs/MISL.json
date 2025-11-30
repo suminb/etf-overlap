@@ -1,0 +1,98 @@
+{
+  "symbol": "MISL",
+  "last_updated": "2025-11-30T16:57:53.076Z",
+  "profile": {
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "expense_ratio": 0.006,
+    "inception_date": "Oct 25, 2022",
+    "index_tracked": "Indxx US Aerospace & Defense Index - Benchmark TR Gross",
+    "home_page": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=MISL",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 213300000,
+    "shares_outstanding": 5300000
+  },
+  "holdings": [
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 9.13
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 8.49
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 8.46
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 7.48
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 7.37
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 4.62
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 4.41
+    },
+    {
+      "symbol": "HEI",
+      "name": "HEICO Corporation",
+      "weight": 4.27
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 3.93
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 3.78
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 3.55
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 3.09
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile, Inc. Class A",
+      "weight": 2.81
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 2.71
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 2.6
+    }
+  ]
+}

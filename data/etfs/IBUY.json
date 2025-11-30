@@ -1,0 +1,100 @@
+{
+  "symbol": "IBUY",
+  "last_updated": "2025-11-30T16:52:31.354Z",
+  "profile": {
+    "issuer": "Amplify Investments",
+    "brand": "Amplify",
+    "structure": "ETF",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "Apr 20, 2016",
+    "index_tracked": "EQM Online Retail Index - Discontinued as of 02-May-2024",
+    "home_page": "http://www.amplifyetfs.com/ibuy-online-retail-etf",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Retail",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 141300000,
+    "shares_outstanding": 2000000
+  },
+  "holdings": [
+    {
+      "symbol": "LQDT",
+      "name": "Liquidity Services, Inc.",
+      "weight": 3.12
+    },
+    {
+      "symbol": "FIGS",
+      "name": "FIGS, Inc. Class A",
+      "weight": 3.09
+    },
+    {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "weight": 2.92
+    },
+    {
+      "symbol": "UPWK",
+      "name": "Upwork, Inc.",
+      "weight": 2.91
+    },
+    {
+      "symbol": "CART",
+      "name": "Maplebear Inc.",
+      "weight": 2.8
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co. Class A",
+      "weight": 2.74
+    },
+    {
+      "symbol": "RVLV",
+      "name": "Revolve Group, Inc Class A",
+      "weight": 2.67
+    },
+    {
+      "symbol": "W",
+      "name": "Wayfair, Inc. Class A",
+      "weight": 2.63
+    },
+    {
+      "symbol": "EBAY",
+      "name": "eBay Inc.",
+      "weight": 2.47
+    },
+    {
+      "symbol": "MSM",
+      "name": "MSC Industrial Direct Co., Inc. Class A",
+      "weight": 2.47
+    },
+    {
+      "symbol": "CHWY",
+      "name": "Chewy, Inc. Class A",
+      "weight": 2.45
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 2.42
+    },
+    {
+      "symbol": "TRIP",
+      "name": "TripAdvisor, Inc.",
+      "weight": 2.38
+    },
+    {
+      "symbol": "LYFT",
+      "name": "Lyft, Inc. Class A",
+      "weight": 2.36
+    },
+    {
+      "symbol": "ABNB",
+      "name": "Airbnb, Inc. Class A",
+      "weight": 2.34
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "symbol": "TRFM",
+  "last_updated": "2025-11-30T16:53:04.342Z",
+  "profile": {
+    "issuer": "Sun Life Financial, Inc.",
+    "brand": "AAM",
+    "expense_ratio": 0.0049,
+    "inception_date": "Jul 11, 2022",
+    "index_tracked": "Pence Transformers Index - Benchmark TR Gross",
+    "home_page": "https://www.aamlive.com/ETF/Detail/TRFM",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 103900000,
+    "shares_outstanding": 2200000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 1.22
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 1.21
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.09
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 1.06
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 1.02
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 1.02
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin Corp. Class A",
+      "weight": 1
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 0.94
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 0.94
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 0.93
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 0.87
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "weight": 0.87
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 0.86
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 0.85
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "weight": 0.85
+    }
+  ]
+}

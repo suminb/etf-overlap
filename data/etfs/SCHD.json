@@ -1,0 +1,98 @@
+{
+  "symbol": "SCHD",
+  "last_updated": "2025-11-30T16:46:11.580Z",
+  "profile": {
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0006,
+    "inception_date": "Oct 20, 2011",
+    "index_tracked": "Dow Jones U.S. Dividend 100 Index",
+    "home_page": "https://www.csimfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHD",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 70346500000,
+    "shares_outstanding": 2575900000
+  },
+  "holdings": [
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 5.07
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 4.85
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 4.55
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 4.42
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 4.25
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "weight": 4.05
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "weight": 3.97
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 3.79
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 3.77
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 3.75
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 3.7
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group, Inc.",
+      "weight": 3.54
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 3.48
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 3.34
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service, Inc. Class B",
+      "weight": 2.82
+    }
+  ]
+}

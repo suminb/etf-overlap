@@ -1,0 +1,98 @@
+{
+  "symbol": "SHLD",
+  "last_updated": "2025-11-30T16:56:39.332Z",
+  "profile": {
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Sep 11, 2023",
+    "index_tracked": "Global X Defense Tech Index - Benchmark TR Net",
+    "home_page": "https://www.vcm.com/products/victoryshares-etfs/victoryshares-etfs-list/victoryshares-protect-america-etf",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4766200000,
+    "shares_outstanding": 77200000
+  },
+  "holdings": [
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 9.08
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 8.9
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 7.23
+    },
+    {
+      "symbol": "RHM",
+      "name": "Rheinmetall AG",
+      "weight": 6.57
+    },
+    {
+      "symbol": "BA",
+      "name": "BAE Systems plc",
+      "weight": 6.28
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 5.23
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 5.07
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 4.89
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 4.76
+    },
+    {
+      "symbol": "LDO",
+      "name": "Leonardo SpA",
+      "weight": 4.07
+    },
+    {
+      "symbol": "HO",
+      "name": "Thales SA",
+      "weight": 3.95
+    },
+    {
+      "symbol": "SAAB.B",
+      "name": "Saab AB Class B",
+      "weight": 3.63
+    },
+    {
+      "symbol": "012450",
+      "name": "Hanwha Aerospace Co., Ltd.",
+      "weight": 3.6
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 3.33
+    },
+    {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "weight": 2.56
+    }
+  ]
+}

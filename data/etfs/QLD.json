@@ -1,0 +1,98 @@
+{
+  "symbol": "QLD",
+  "last_updated": "2025-11-30T16:45:32.195Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "NASDAQ-100 Index (-200%)",
+    "home_page": "http://www.proshares.com/funds/qld.html",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10292600000,
+    "shares_outstanding": 148000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 13.62
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 7.21
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.78
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.94
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 5.09
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 4.02
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 20-JAN-2026",
+      "weight": 3.8
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 3.06
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.86
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.56
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.26
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 1.89
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 23-DEC-2025",
+      "weight": 1.86
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 1.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 1.67
+    }
+  ]
+}

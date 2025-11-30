@@ -1,0 +1,99 @@
+{
+  "symbol": "WAR",
+  "last_updated": "2025-11-30T16:59:19.482Z",
+  "profile": {
+    "issuer": "US Global Investors",
+    "brand": "US Global",
+    "structure": "ETF",
+    "expense_ratio": 0.006,
+    "inception_date": "Dec 30, 2024",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://usglobaletfs.com/fund/war/",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 11000000,
+    "shares_outstanding": 500000
+  },
+  "holdings": [
+    {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "weight": 8.29
+    },
+    {
+      "symbol": "MOG.A",
+      "name": "Moog Inc. Class A",
+      "weight": 8.2
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 7.8
+    },
+    {
+      "symbol": "RPD",
+      "name": "Rapid7 Inc.",
+      "weight": 6.19
+    },
+    {
+      "symbol": "FFIV",
+      "name": "F5, Inc.",
+      "weight": 5.59
+    },
+    {
+      "symbol": "ALAB",
+      "name": "Astera Labs, Inc.",
+      "weight": 5.41
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 5.11
+    },
+    {
+      "symbol": "AIXA",
+      "name": "AIXTRON SE",
+      "weight": 4.84
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 4.36
+    },
+    {
+      "symbol": "ASGN",
+      "name": "ASGN Incorporated",
+      "weight": 4.09
+    },
+    {
+      "symbol": "SCT",
+      "name": "Softcat Plc",
+      "weight": 3.73
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 3.28
+    },
+    {
+      "symbol": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "weight": 3.25
+    },
+    {
+      "symbol": "GEN",
+      "name": "Gen Digital Inc.",
+      "weight": 3.08
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 3.08
+    }
+  ]
+}

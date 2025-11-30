@@ -1,0 +1,100 @@
+{
+  "symbol": "XAR",
+  "last_updated": "2025-11-30T16:56:53.885Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Sep 28, 2011",
+    "index_tracked": "S&P Aerospace & Defense Select Industry",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=XAR",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4391400000,
+    "shares_outstanding": 19300000
+  },
+  "holdings": [
+    {
+      "symbol": "CRS",
+      "name": "Carpenter Technology Corporation",
+      "weight": 4.35
+    },
+    {
+      "symbol": "ATI",
+      "name": "ATI Inc.",
+      "weight": 4.33
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 4.1
+    },
+    {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "weight": 3.86
+    },
+    {
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 3.81
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "weight": 3.76
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 3.74
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 3.7
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 3.69
+    },
+    {
+      "symbol": "HXL",
+      "name": "Hexcel Corporation",
+      "weight": 3.56
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 3.52
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 3.52
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 3.5
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 3.45
+    },
+    {
+      "symbol": "TXT",
+      "name": "Textron Inc.",
+      "weight": 3.41
+    }
+  ]
+}

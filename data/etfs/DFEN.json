@@ -1,0 +1,100 @@
+{
+  "symbol": "DFEN",
+  "last_updated": "2025-11-30T16:57:33.043Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "May 03, 2017",
+    "index_tracked": "DJ US Select / Aerospace & Defense (300%)",
+    "home_page": "http://www.direxioninvestments.com/products/direxion-daily-aerospace-defense-bull-3x-shares",
+    "category": "Leveraged Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 313000000,
+    "shares_outstanding": 5200000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 27.59
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 15.76
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 11.61
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 5.16
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 3.53
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 3.34
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 3.34
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 3.18
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 3.11
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 3.1
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise Inc",
+      "weight": 2.26
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 1.63
+    },
+    {
+      "symbol": "HEI.A",
+      "name": "HEICO Corporation Class A",
+      "weight": 1.46
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 1.37
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 1.37
+    }
+  ]
+}

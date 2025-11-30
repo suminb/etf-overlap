@@ -1,0 +1,100 @@
+{
+  "symbol": "PEJ",
+  "last_updated": "2025-11-30T16:50:54.101Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.005699999999999999,
+    "inception_date": "Jun 23, 2005",
+    "index_tracked": "Dynamic Leisure and Entertainment Intellidex Index",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=PEJ",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Leisure & Entertainment",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 258400000,
+    "shares_outstanding": 4500000
+  },
+  "holdings": [
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc. Series A",
+      "weight": 10.31
+    },
+    {
+      "symbol": "LVS",
+      "name": "Las Vegas Sands Corp.",
+      "weight": 6.18
+    },
+    {
+      "symbol": "SYY",
+      "name": "Sysco Corporation",
+      "weight": 4.85
+    },
+    {
+      "symbol": "CCL",
+      "name": "Carnival Corporation",
+      "weight": 4.06
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 4.01
+    },
+    {
+      "symbol": "LYV",
+      "name": "Live Nation Entertainment, Inc.",
+      "weight": 4
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 3.83
+    },
+    {
+      "symbol": "FLUT",
+      "name": "Flutter Entertainment Plc",
+      "weight": 3.38
+    },
+    {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "weight": 3.35
+    },
+    {
+      "symbol": "LYFT",
+      "name": "Lyft, Inc. Class A",
+      "weight": 3.33
+    },
+    {
+      "symbol": "LION",
+      "name": "Lionsgate Studios Corp.",
+      "weight": 3.31
+    },
+    {
+      "symbol": "FOXA",
+      "name": "Fox Corporation Class A",
+      "weight": 3.06
+    },
+    {
+      "symbol": "CNK",
+      "name": "Cinemark Holdings, Inc.",
+      "weight": 2.95
+    },
+    {
+      "symbol": "TKO",
+      "name": "TKO Group Holdings, Inc. Class A",
+      "weight": 2.9
+    },
+    {
+      "symbol": "CPA",
+      "name": "Copa Holdings, S.A. Class A",
+      "weight": 2.82
+    }
+  ]
+}

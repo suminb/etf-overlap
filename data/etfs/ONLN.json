@@ -1,0 +1,100 @@
+{
+  "symbol": "ONLN",
+  "last_updated": "2025-11-30T16:53:17.093Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0058,
+    "inception_date": "Jul 13, 2018",
+    "index_tracked": "ProShares Online Retail Index",
+    "home_page": "http://www.proshares.com/funds/onln.html",
+    "category": "Consumer Discretionary Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Retail",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 81000000,
+    "shares_outstanding": 1400000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 25.13
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited Sponsored ADR",
+      "weight": 11.74
+    },
+    {
+      "symbol": "EBAY",
+      "name": "eBay Inc.",
+      "weight": 7.58
+    },
+    {
+      "symbol": "GCT",
+      "name": "GigaCloud Technology, Inc. Class A",
+      "weight": 5.53
+    },
+    {
+      "symbol": "FIGS",
+      "name": "FIGS, Inc. Class A",
+      "weight": 5.17
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co. Class A",
+      "weight": 4.79
+    },
+    {
+      "symbol": "W",
+      "name": "Wayfair, Inc. Class A",
+      "weight": 4.64
+    },
+    {
+      "symbol": "RVLV",
+      "name": "Revolve Group, Inc Class A",
+      "weight": 4.54
+    },
+    {
+      "symbol": "BKE",
+      "name": "Buckle, Inc.",
+      "weight": 4.5
+    },
+    {
+      "symbol": "CHWY",
+      "name": "Chewy, Inc. Class A",
+      "weight": 4.4
+    },
+    {
+      "symbol": "CPNG",
+      "name": "Coupang, Inc. Class A",
+      "weight": 4.12
+    },
+    {
+      "symbol": "ETSY",
+      "name": "Etsy, Inc.",
+      "weight": 3.15
+    },
+    {
+      "symbol": "BBBY",
+      "name": "Bed Bath & Beyond, Inc.",
+      "weight": 2.99
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 2.51
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre, Inc.",
+      "weight": 2.16
+    }
+  ]
+}

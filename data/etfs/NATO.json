@@ -1,0 +1,93 @@
+{
+  "symbol": "NATO",
+  "last_updated": "2025-11-30T16:58:43.182Z",
+  "profile": {
+    "issuer": "Themes ETF",
+    "brand": "Themes",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Oct 11, 2024",
+    "index_tracked": "Solactive Transatlantic Aerospace and Defense Index - Benchmark TR Net",
+    "home_page": "https://themesetfs.com/etfs/nato/",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 58900000,
+    "shares_outstanding": 1600000
+  },
+  "holdings": [
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 8.97
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 8.52
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 6.8
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 6.55
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "weight": 6.02
+    },
+    {
+      "symbol": "RR",
+      "name": "Rolls-Royce Holdings plc",
+      "weight": 5.76
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 4.64
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 4.35
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 4.25
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 4.25
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 3.95
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 3.9
+    },
+    {
+      "symbol": "RHM",
+      "name": "Rheinmetall AG",
+      "weight": 3.74
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 2.69
+    }
+  ]
+}

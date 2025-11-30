@@ -1,0 +1,100 @@
+{
+  "symbol": "FITE",
+  "last_updated": "2025-11-30T16:58:28.396Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0045000000000000005,
+    "inception_date": "Dec 26, 2017",
+    "index_tracked": "S&P Kensho Future Security",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-kensho-future-security-etf-XKFS",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 91500000,
+    "shares_outstanding": 1100000
+  },
+  "holdings": [
+    {
+      "symbol": "VSAT",
+      "name": "ViaSat, Inc.",
+      "weight": 3.98
+    },
+    {
+      "symbol": "PL",
+      "name": "Planet Labs PBC Class A",
+      "weight": 2.86
+    },
+    {
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 2.46
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 2.06
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.01
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "weight": 1.95
+    },
+    {
+      "symbol": "TTMI",
+      "name": "TTM Technologies, Inc.",
+      "weight": 1.88
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 1.84
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc. Class A",
+      "weight": 1.77
+    },
+    {
+      "symbol": "SANM",
+      "name": "Sanmina Corporation",
+      "weight": 1.77
+    },
+    {
+      "symbol": "HXL",
+      "name": "Hexcel Corporation",
+      "weight": 1.75
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "MOG.A",
+      "name": "Moog Inc. Class A",
+      "weight": 1.69
+    },
+    {
+      "symbol": "BRKR",
+      "name": "Bruker Corporation",
+      "weight": 1.64
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 1.61
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "symbol": "EZA",
+  "last_updated": "2025-11-30T16:54:40.722Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Feb 03, 2003",
+    "index_tracked": "MSCI South Africa 25-50",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EZA.htm?qt=EZA",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 551700000,
+    "shares_outstanding": 8400000
+  },
+  "holdings": [
+    {
+      "symbol": "NPN",
+      "name": "Naspers Limited Class N",
+      "weight": 14.26
+    },
+    {
+      "symbol": "ANG",
+      "name": "Anglogold Ashanti PLC",
+      "weight": 11.41
+    },
+    {
+      "symbol": "GFI",
+      "name": "Gold Fields Limited",
+      "weight": 9.9
+    },
+    {
+      "symbol": "FSR",
+      "name": "FirstRand Limited",
+      "weight": 6.36
+    },
+    {
+      "symbol": "CPI",
+      "name": "Capitec Bank Holdings Limited",
+      "weight": 4.55
+    },
+    {
+      "symbol": "SBK",
+      "name": "Standard Bank Group Limited",
+      "weight": 4.55
+    },
+    {
+      "symbol": "MTN",
+      "name": "MTN Group Limited",
+      "weight": 4.45
+    },
+    {
+      "symbol": "VAL",
+      "name": "Valterra Platinum Limited",
+      "weight": 4.43
+    },
+    {
+      "symbol": "HAR",
+      "name": "Harmony Gold Mining Co. Ltd.",
+      "weight": 3.24
+    },
+    {
+      "symbol": "IMP",
+      "name": "Impala Platinum Holdings Limited",
+      "weight": 3.19
+    },
+    {
+      "symbol": "ABG",
+      "name": "Absa Group Limited",
+      "weight": 3.18
+    },
+    {
+      "symbol": "SLM",
+      "name": "Sanlam Limited",
+      "weight": 3
+    },
+    {
+      "symbol": "SSW",
+      "name": "Sibanye Stillwater Limited",
+      "weight": 2.68
+    },
+    {
+      "symbol": "BID",
+      "name": "Bid Corporation Limited",
+      "weight": 2.51
+    },
+    {
+      "symbol": "SHP",
+      "name": "Shoprite Holdings Limited",
+      "weight": 2.41
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "UFO",
+  "last_updated": "2025-11-30T16:58:08.486Z",
+  "profile": {
+    "issuer": "ProcureAM",
+    "brand": "Procure",
+    "structure": "ETF",
+    "expense_ratio": 0.0075,
+    "inception_date": "Apr 11, 2019",
+    "index_tracked": "S-Network Space Index",
+    "home_page": "https://procureetfs.com/etfs/ufo.html",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 115100000,
+    "shares_outstanding": 3500000
+  },
+  "holdings": [
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile, Inc. Class A",
+      "weight": 7.2
+    },
+    {
+      "symbol": "GSAT",
+      "name": "Globalstar, Inc.",
+      "weight": 6.54
+    },
+    {
+      "symbol": "PL",
+      "name": "Planet Labs PBC Class A",
+      "weight": 5.68
+    },
+    {
+      "symbol": "VSAT",
+      "name": "ViaSat, Inc.",
+      "weight": 5.15
+    },
+    {
+      "symbol": "TRMB",
+      "name": "Trimble Inc.",
+      "weight": 4.86
+    },
+    {
+      "symbol": "SATS",
+      "name": "EchoStar Corporation Class A",
+      "weight": 4.59
+    },
+    {
+      "symbol": "SIRI",
+      "name": "SiriusXM Holdings Inc.",
+      "weight": 4.39
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 4.38
+    },
+    {
+      "symbol": "SESG",
+      "name": "SES SA FDR (Class A)",
+      "weight": 4.29
+    },
+    {
+      "symbol": "GRMN",
+      "name": "Garmin Ltd.",
+      "weight": 3.98
+    },
+    {
+      "symbol": "MDA",
+      "name": "MDA Space Ltd",
+      "weight": 3.74
+    },
+    {
+      "symbol": "IRDM",
+      "name": "Iridium Communications Inc.",
+      "weight": 3.29
+    },
+    {
+      "symbol": "9412",
+      "name": "SKY Perfect JSAT Holdings Inc.",
+      "weight": 3.13
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 2.72
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 2.55
+    }
+  ]
+}

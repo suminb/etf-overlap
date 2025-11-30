@@ -1,0 +1,100 @@
+{
+  "symbol": "PPA",
+  "last_updated": "2025-11-30T16:56:26.372Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0058,
+    "inception_date": "Oct 26, 2005",
+    "index_tracked": "SPADE Defense Index",
+    "home_page": "https://www.invesco.com/portal/site/us/financial-professional/etfs/product-detail?productId=PPA",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6465600000,
+    "shares_outstanding": 43300000
+  },
+  "holdings": [
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 8.63
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 7.83
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 7
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 6.8
+    },
+    {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corp.",
+      "weight": 5.21
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 4.94
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 4.31
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "weight": 4.14
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 3.93
+    },
+    {
+      "symbol": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "weight": 3.78
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 3.26
+    },
+    {
+      "symbol": "APH",
+      "name": "Amphenol Corporation Class A",
+      "weight": 3.12
+    },
+    {
+      "symbol": "ESLT",
+      "name": "Elbit Systems Ltd",
+      "weight": 2.36
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise Inc",
+      "weight": 2.22
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corp. Plc",
+      "weight": 2.16
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "symbol": "JEDI",
+  "last_updated": "2025-11-30T16:59:02.410Z",
+  "profile": {
+    "issuer": "Franklin Templeton",
+    "brand": "Defiance",
+    "structure": "ETF",
+    "expense_ratio": 0.0069,
+    "inception_date": "Sep 25, 2025",
+    "index_tracked": "BITA Drone & Modern Warfare Select Index - Benchmark TR Net",
+    "home_page": "https://www.defianceetfs.com/jedi/",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Industrials",
+    "sector_specific": "Aerospace & Defense",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 23800000,
+    "shares_outstanding": 1100000
+  },
+  "holdings": [
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 7.54
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 7.37
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 6.98
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 6.9
+    },
+    {
+      "symbol": "HO",
+      "name": "Thales SA",
+      "weight": 6.65
+    },
+    {
+      "symbol": "CACI",
+      "name": "CACI International Inc Class A",
+      "weight": 6.55
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "weight": 6.2
+    },
+    {
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 5.83
+    },
+    {
+      "symbol": "PSN",
+      "name": "Parsons Corporation",
+      "weight": 5.61
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 5.4
+    },
+    {
+      "symbol": "SAAB.B",
+      "name": "Saab AB Class B",
+      "weight": 5.01
+    },
+    {
+      "symbol": "ESLT",
+      "name": "Elbit Systems Ltd",
+      "weight": 4.86
+    },
+    {
+      "symbol": "MRCY",
+      "name": "Mercury Systems, Inc.",
+      "weight": 3.8
+    },
+    {
+      "symbol": "HAG",
+      "name": "HENSOLDT AG",
+      "weight": 3.77
+    },
+    {
+      "symbol": "SAIC",
+      "name": "Science Applications International Corp.",
+      "weight": 3.66
+    }
+  ]
+}

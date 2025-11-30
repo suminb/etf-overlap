@@ -1,0 +1,28 @@
+{
+  "symbol": "TSLS",
+  "last_updated": "2025-11-30T16:53:32.657Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "expense_ratio": 0.009399999999999999,
+    "inception_date": "Aug 09, 2022",
+    "index_tracked": "Tesla Inc (--100%)",
+    "home_page": "https://www.direxion.com/product/daily-tsla-bull-and-bear-leveraged-single-stock-etfs",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "sector_general": "Consumer Discretionary",
+    "sector_specific": "Automotive",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 70200000,
+    "shares_outstanding": 12700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}
