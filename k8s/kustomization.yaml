@@ -7,14 +7,10 @@ resources:
   - namespace.yaml
   - app-deployment.yaml
   - app-service.yaml
-
-# Add common labels to all resources
-commonLabels:
-  project: etf-overlap
-  managed-by: kustomize
+  - ingress.yaml
 
 # Configure image for the app
 images:
   - name: etf-overlap
-    newName: etf-overlap
+    newName: registry.whiterabbit.co.kr/apps/etf-overlap
     newTag: latest
