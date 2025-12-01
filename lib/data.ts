@@ -1,5 +1,5 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import * as fs from "fs";
+import * as path from "path";
 
 export interface ETFHoldingInsert {
   symbol: string;
@@ -50,9 +50,9 @@ export interface IndexData {
   etfs: IndexEntry[];
 }
 
-const DATA_DIR = path.join(process.cwd(), 'data');
-const ETFS_DIR = path.join(DATA_DIR, 'etfs');
-const INDEX_FILE = path.join(DATA_DIR, 'index.json');
+const DATA_DIR = path.join(process.cwd(), "data");
+const ETFS_DIR = path.join(DATA_DIR, "etfs");
+const INDEX_FILE = path.join(DATA_DIR, "index.json");
 
 /**
  * Get ETF holdings from static JSON file
@@ -67,7 +67,7 @@ export function getHoldings(ticker: string): ETFHoldingInsert[] | null {
   }
 
   try {
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const fileContent = fs.readFileSync(filePath, "utf-8");
     const etfData: ETFData = JSON.parse(fileContent);
     return etfData.holdings;
   } catch (error) {
@@ -89,7 +89,7 @@ export function getETFData(ticker: string): ETFData | null {
   }
 
   try {
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const fileContent = fs.readFileSync(filePath, "utf-8");
     return JSON.parse(fileContent);
   } catch (error) {
     console.error(`Error reading ETF data for ${ticker}:`, error);
@@ -107,11 +107,11 @@ export function getAllETFs(): IndexEntry[] {
   }
 
   try {
-    const fileContent = fs.readFileSync(INDEX_FILE, 'utf-8');
+    const fileContent = fs.readFileSync(INDEX_FILE, "utf-8");
     const indexData: IndexData = JSON.parse(fileContent);
     return indexData.etfs;
   } catch (error) {
-    console.error('Error reading ETF index:', error);
+    console.error("Error reading ETF index:", error);
     return [];
   }
 }

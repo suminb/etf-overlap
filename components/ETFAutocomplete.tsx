@@ -193,11 +193,7 @@ export default function ETFAutocomplete({
           onChange={(e) => setInputValue(e.target.value.toUpperCase())}
           onKeyDown={handleKeyDown}
           onFocus={() => inputValue.length > 0 && setShowSuggestions(true)}
-          placeholder={
-            selectedETFs.length === 0
-              ? t('searchPlaceholder')
-              : ""
-          }
+          placeholder={selectedETFs.length === 0 ? t("searchPlaceholder") : ""}
           disabled={disabled}
           style={{
             flex: "1",
@@ -263,7 +259,7 @@ export default function ETFAutocomplete({
       <div
         style={{ fontSize: "0.75rem", color: "#9ca3af", marginTop: "0.5rem" }}
       >
-        {t('searchHint')}
+        {t("searchHint")}
       </div>
     </div>
   );

@@ -1,9 +1,13 @@
 "use client";
 
-import { useEffect, useState } from 'react';
-import '@/lib/i18n/config';
+import { useEffect, useState } from "react";
+import "@/lib/i18n/config";
 
-export default function I18nProvider({ children }: { children: React.ReactNode }) {
+export default function I18nProvider({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   const [mounted, setMounted] = useState(false);
 
   // Only render children after mounting to avoid hydration mismatch

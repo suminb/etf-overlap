@@ -42,27 +42,30 @@ interface OverlapMatrixResponse {
   error?: string;
 }
 
-function DonutChart({ overlap, total, t }: { overlap: number; total: number; t: any }) {
+function DonutChart({
+  overlap,
+  total,
+  t,
+}: {
+  overlap: number;
+  total: number;
+  t: any;
+}) {
   const percentage = (overlap / total) * 100;
-  const radius = 80;
-  const strokeWidth = 40;
+  const radius = 60;
+  const strokeWidth = 30;
   const normalizedRadius = radius - strokeWidth / 2;
   const circumference = normalizedRadius * 2 * Math.PI;
   const strokeDashoffset = circumference - (percentage / 100) * circumference;
 
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        gap: "1rem",
-      }}
-    >
+    <div>
       <svg
         height={radius * 2}
         width={radius * 2}
         style={{ transform: "rotate(-90deg)" }}
+        role="img"
+        aria-label={`${overlap.toFixed(1)}% overlap visualization`}
       >
         {/* Background circle */}
         <circle
@@ -85,37 +88,7 @@ function DonutChart({ overlap, total, t }: { overlap: number; total: number; t: 
           cx={radius}
           cy={radius}
         />
-        {/* Center text */}
-        <text
-          x="50%"
-          y="50%"
-          textAnchor="middle"
-          dy=".3em"
-          style={{
-            fontSize: "28px",
-            fontWeight: "bold",
-            fill: "#0070f3",
-            transform: "rotate(90deg)",
-            transformOrigin: "center",
-          }}
-        >
-          {overlap.toFixed(1)}%
-        </text>
       </svg>
-      <div style={{ textAlign: "center" }}>
-        <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-          {t('totalOverlap')}
-        </div>
-        <div
-          style={{
-            fontSize: "0.75rem",
-            color: "#9ca3af",
-            marginTop: "0.25rem",
-          }}
-        >
-          {t('coreOverlapTitle', { count: Math.round(total / 100) })}
-        </div>
-      </div>
     </div>
   );
 }
@@ -196,7 +169,9 @@ function OverlapPage() {
     // Don't clear data immediately to prevent flicker
 
     try {
-      const response = await fetch(`/api/overlap?tickers=${tickerList.join(",")}`);
+      const response = await fetch(
+        `/api/overlap?tickers=${tickerList.join(",")}`
+      );
       const result: OverlapMatrixResponse = await response.json();
 
       if (!response.ok || result.error) {
@@ -218,11 +193,22 @@ function OverlapPage() {
 
   // Auto-calculate when tickers are loaded from URL
   useEffect(() => {
-    if (isInitialized && tickers.length >= 2 && !hasAttemptedCalculation && !loading) {
+    if (
+      isInitialized &&
+      tickers.length >= 2 &&
+      !hasAttemptedCalculation &&
+      !loading
+    ) {
       setHasAttemptedCalculation(true);
       calculateOverlap(tickers);
     }
-  }, [isInitialized, tickers, hasAttemptedCalculation, loading, calculateOverlap]);
+  }, [
+    isInitialized,
+    tickers,
+    hasAttemptedCalculation,
+    loading,
+    calculateOverlap,
+  ]);
 
   const getHeatmapColor = (value: number): string => {
     // Color scale: 0% = white, 100% = dark blue
@@ -256,6 +242,7 @@ function OverlapPage() {
 
   return (
     <main
+      className="main-container"
       style={{
         padding: "2rem",
         minHeight: "100vh",
@@ -263,13 +250,11 @@ function OverlapPage() {
         margin: "0 auto",
       }}
     >
-      <h1>{t('title')}</h1>
-      <p style={{ marginBottom: "2rem", color: "#666" }}>
-        {t('subtitle')}
-      </p>
+      <h1>{t("title")}</h1>
+      <p style={{ marginBottom: "2rem", color: "#666" }}>{t("subtitle")}</p>
 
       <div style={{ marginBottom: "2rem" }}>
-        <h3 style={{ marginBottom: "1rem" }}>{t('enterTickers')}</h3>
+        <h3 style={{ marginBottom: "1rem" }}>{t("enterTickers")}</h3>
 
         <ETFAutocomplete
           selectedETFs={tickers}
@@ -295,7 +280,7 @@ function OverlapPage() {
               opacity: loading || tickers.length < 2 ? 0.6 : 1,
             }}
           >
-            {loading ? t('calculating') : t('calculate')}
+            {loading ? t("calculating") : t("calculate")}
           </button>
           {tickers.length < 2 && tickers.length > 0 && (
             <span
@@ -305,7 +290,7 @@ function OverlapPage() {
                 fontSize: "0.875rem",
               }}
             >
-              {t('addAtLeastTwo')}
+              {t("addAtLeastTwo")}
             </span>
           )}
         </div>
@@ -340,19 +325,29 @@ function OverlapPage() {
               }}
             >
               <h2 style={{ marginBottom: "1.5rem", color: "#0070f3" }}>
-                {t('coreOverlapTitle', { count: data.etfs.length })}
+                {t("coreOverlapTitle", { count: data.etfs.length })}
               </h2>
 
               <div
+                className="core-overlap-container"
                 style={{
                   display: "flex",
-                  gap: "3rem",
+                  gap: "2rem",
                   alignItems: "center",
                   flexWrap: "wrap",
+                  justifyContent: "space-between",
                 }}
               >
                 {/* Donut Chart */}
-                <div>
+                <div
+                  className="donut-wrapper"
+                  style={{
+                    flexShrink: 0,
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                  }}
+                >
                   <DonutChart
                     overlap={data.coreOverlap.totalOverlap}
                     total={100}
@@ -362,45 +357,82 @@ function OverlapPage() {
 
                 {/* Statistics */}
                 <div style={{ flex: "1", minWidth: "300px" }}>
-                  <div style={{ display: "grid", gap: "1rem" }}>
+                  <div
+                    style={{
+                      display: "grid",
+                      gap: "1.5rem",
+                      padding: "1rem",
+                      backgroundColor: "white",
+                      borderRadius: "8px",
+                      border: "1px solid #e5e7eb",
+                    }}
+                  >
                     <div>
-                      <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                        {t('totalOverlap')}
+                      <div
+                        style={{
+                          fontSize: "0.75rem",
+                          color: "#6b7280",
+                          textTransform: "uppercase",
+                          letterSpacing: "0.05em",
+                          fontWeight: "600",
+                          marginBottom: "0.5rem",
+                        }}
+                      >
+                        {t("totalOverlap")}
                       </div>
                       <div
                         style={{
-                          fontSize: "2rem",
+                          fontSize: "clamp(2rem, 6vw, 3rem)",
                           fontWeight: "bold",
                           color: "#0070f3",
+                          lineHeight: "1",
+                          marginBottom: "0.5rem",
                         }}
                       >
-                        {data.coreOverlap.totalOverlap.toFixed(2)}%
+                        {data.coreOverlap.totalOverlap.toFixed(1)}%
                       </div>
                       <div
                         style={{
                           fontSize: "0.875rem",
                           color: "#6b7280",
-                          marginTop: "0.25rem",
+                          lineHeight: "1.4",
                         }}
                       >
-                        {t('coreOverlapDesc')}
+                        {t("coreOverlapDesc")}
                       </div>
                     </div>
                     <div>
-                      <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                        {t('sharedHoldings')}
+                      <div
+                        style={{
+                          fontSize: "0.75rem",
+                          color: "#6b7280",
+                          textTransform: "uppercase",
+                          letterSpacing: "0.05em",
+                          fontWeight: "600",
+                          marginBottom: "0.5rem",
+                        }}
+                      >
+                        {t("sharedHoldings")}
                       </div>
-                      <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
+                      <div
+                        style={{
+                          fontSize: "clamp(1.75rem, 5vw, 2.5rem)",
+                          fontWeight: "bold",
+                          color: "#1f2937",
+                          lineHeight: "1",
+                          marginBottom: "0.5rem",
+                        }}
+                      >
                         {data.coreOverlap.totalSharedHoldings}
                       </div>
                       <div
                         style={{
                           fontSize: "0.875rem",
                           color: "#6b7280",
-                          marginTop: "0.25rem",
+                          lineHeight: "1.4",
                         }}
                       >
-                        {t('sharedHoldingsDesc')}
+                        {t("sharedHoldingsDesc")}
                       </div>
                     </div>
                   </div>
@@ -411,7 +443,7 @@ function OverlapPage() {
               {data.coreOverlap.sharedHoldings.length > 0 && (
                 <div style={{ marginTop: "2rem" }}>
                   <h3 style={{ marginBottom: "1rem" }}>
-                    {t('holdingsSharedByAll', { count: data.etfs.length })}
+                    {t("holdingsSharedByAll", { count: data.etfs.length })}
                   </h3>
                   <div
                     style={{
@@ -433,7 +465,7 @@ function OverlapPage() {
                               borderBottom: "2px solid #ddd",
                             }}
                           >
-                            {t('symbol')}
+                            {t("symbol")}
                           </th>
                           <th
                             style={{
@@ -442,7 +474,7 @@ function OverlapPage() {
                               borderBottom: "2px solid #ddd",
                             }}
                           >
-                            {t('name')}
+                            {t("name")}
                           </th>
                           {data.etfs.map((etf) => (
                             <th
@@ -464,7 +496,7 @@ function OverlapPage() {
                               backgroundColor: "#eff6ff",
                             }}
                           >
-                            {t('minWeight')}
+                            {t("minWeight")}
                           </th>
                         </tr>
                       </thead>
@@ -523,7 +555,7 @@ function OverlapPage() {
                             colSpan={2 + data.etfs.length}
                             style={{ padding: "0.75rem", textAlign: "right" }}
                           >
-                            {t('totalOverlap')}:
+                            {t("totalOverlap")}:
                           </td>
                           <td
                             style={{
@@ -553,16 +585,16 @@ function OverlapPage() {
                   }}
                 >
                   <p style={{ margin: 0, color: "#856404" }}>
-                    {t('noSharedHoldings', { count: data.etfs.length })}
+                    {t("noSharedHoldings", { count: data.etfs.length })}
                   </p>
                 </div>
               )}
             </div>
           )}
 
-          <h2 style={{ marginBottom: "1rem" }}>{t('pairwiseTitle')}</h2>
+          <h2 style={{ marginBottom: "1rem" }}>{t("pairwiseTitle")}</h2>
           <p style={{ marginBottom: "1.5rem", color: "#666" }}>
-            {t('pairwiseDesc')}
+            {t("pairwiseDesc")}
           </p>
 
           <div style={{ overflowX: "auto" }}>
@@ -585,7 +617,7 @@ function OverlapPage() {
                       minWidth: "100px",
                     }}
                   >
-                    {t('etf')}
+                    {t("etf")}
                   </th>
                   {data.etfs.map((etf) => (
                     <th
@@ -667,7 +699,9 @@ function OverlapPage() {
               borderRadius: "8px",
             }}
           >
-            <h3 style={{ marginBottom: "1rem", fontSize: "1rem" }}>{t('legend')}</h3>
+            <h3 style={{ marginBottom: "1rem", fontSize: "1rem" }}>
+              {t("legend")}
+            </h3>
             <div
               style={{
                 display: "flex",
@@ -723,7 +757,7 @@ function OverlapPage() {
                 color: "#1e40af",
               }}
             >
-              {t('howToRead')}
+              {t("howToRead")}
             </h3>
             <ul
               style={{
@@ -732,11 +766,11 @@ function OverlapPage() {
                 lineHeight: "1.6",
               }}
             >
-              <li>{t('highOverlap')}</li>
-              <li>{t('mediumOverlap')}</li>
-              <li>{t('lowOverlap')}</li>
-              <li>{t('diagonal')}</li>
-              <li>{t('clickCell')}</li>
+              <li>{t("highOverlap")}</li>
+              <li>{t("mediumOverlap")}</li>
+              <li>{t("lowOverlap")}</li>
+              <li>{t("diagonal")}</li>
+              <li>{t("clickCell")}</li>
             </ul>
           </div>
 
@@ -761,7 +795,10 @@ function OverlapPage() {
                 }}
               >
                 <h2>
-                  {t('overlapDetails', { etf1: selectedDetail.etf1, etf2: selectedDetail.etf2 })}
+                  {t("overlapDetails", {
+                    etf1: selectedDetail.etf1,
+                    etf2: selectedDetail.etf2,
+                  })}
                 </h2>
                 <button
                   onClick={() => setSelectedDetail(null)}
@@ -775,7 +812,7 @@ function OverlapPage() {
                     cursor: "pointer",
                   }}
                 >
-                  {t('close')}
+                  {t("close")}
                 </button>
               </div>
 
@@ -795,7 +832,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    {t('totalOverlap')}
+                    {t("totalOverlap")}
                   </div>
                   <div
                     style={{
@@ -815,7 +852,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    {t('sharedHoldings')}
+                    {t("sharedHoldings")}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.totalSharedHoldings}
@@ -829,7 +866,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    {t('uniqueTo', { etf: selectedDetail.etf1 })}
+                    {t("uniqueTo", { etf: selectedDetail.etf1 })}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.uniqueHoldings1}
@@ -843,7 +880,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    {t('uniqueTo', { etf: selectedDetail.etf2 })}
+                    {t("uniqueTo", { etf: selectedDetail.etf2 })}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.uniqueHoldings2}
@@ -851,7 +888,9 @@ function OverlapPage() {
                 </div>
               </div>
 
-              <h3 style={{ marginBottom: "1rem" }}>{t('overlappingHoldings')}</h3>
+              <h3 style={{ marginBottom: "1rem" }}>
+                {t("overlappingHoldings")}
+              </h3>
               <div style={{ overflowX: "auto" }}>
                 <table style={{ width: "100%", borderCollapse: "collapse" }}>
                   <thead>
@@ -863,7 +902,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {t('symbol')}
+                        {t("symbol")}
                       </th>
                       <th
                         style={{
@@ -872,7 +911,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {t('name')}
+                        {t("name")}
                       </th>
                       <th
                         style={{
@@ -881,7 +920,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {t('weight', { etf: selectedDetail.etf1 })}
+                        {t("weight", { etf: selectedDetail.etf1 })}
                       </th>
                       <th
                         style={{
@@ -890,7 +929,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {t('weight', { etf: selectedDetail.etf2 })}
+                        {t("weight", { etf: selectedDetail.etf2 })}
                       </th>
                       <th
                         style={{
@@ -900,7 +939,7 @@ function OverlapPage() {
                           backgroundColor: "#eff6ff",
                         }}
                       >
-                        {t('overlapContribution')}
+                        {t("overlapContribution")}
                       </th>
                     </tr>
                   </thead>
@@ -942,7 +981,7 @@ function OverlapPage() {
                         colSpan={4}
                         style={{ padding: "0.75rem", textAlign: "right" }}
                       >
-                        {t('totalWeightedOverlap')}
+                        {t("totalWeightedOverlap")}
                       </td>
                       <td
                         style={{

@@ -764,6 +764,13 @@
       "last_updated": "2025-11-29T17:01:57.106Z"
     },
     {
+      "symbol": "VYM",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0006,
+      "aum": 67657700000,
+      "last_updated": "2025-12-01T04:23:41.131Z"
+    },
+    {
       "symbol": "WAR",
       "issuer": "US Global Investors",
       "expense_ratio": 0.006,

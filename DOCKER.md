@@ -79,6 +79,7 @@ docker exec -it etf-overlap sh
 ## Architecture
 
 The Docker image:
+
 - Built using multi-stage Docker build for optimization
 - Includes Chromium for Puppeteer web fetching
 - Runs on Node.js 18 Alpine
@@ -92,16 +93,19 @@ The Docker image:
 To update ETF holdings data:
 
 1. Fetch new data locally:
+
    ```bash
    npm run fetch QQQ SPY
    ```
 
 2. Rebuild the Docker image:
+
    ```bash
    docker build -t etf-overlap:latest .
    ```
 
 3. Stop and remove the old container:
+
    ```bash
    docker stop etf-overlap
    docker rm etf-overlap
@@ -133,6 +137,7 @@ Then access at http://localhost:8080
 ### Chromium/Puppeteer issues
 
 The Chromium browser runs inside the Docker container with:
+
 - `seccomp:unconfined` for proper sandboxing (if needed)
 - 2GB shared memory for browser operations
 
@@ -170,11 +175,13 @@ docker images | grep etf-overlap
 For production deployments:
 
 1. **Use specific tags**: Tag images with version numbers instead of `latest`
+
    ```bash
    docker build -t etf-overlap:1.0.0 .
    ```
 
 2. **Resource limits**: Add resource constraints
+
    ```bash
    docker run -p 3000:3000 \
      --memory=2g \
@@ -185,6 +192,7 @@ For production deployments:
 3. **Health checks**: Docker includes built-in health checks from the Dockerfile
 
 4. **Logging**: Configure log drivers for centralized logging
+
    ```bash
    docker run -p 3000:3000 \
      --log-driver=json-file \

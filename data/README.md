@@ -26,7 +26,7 @@ Contains metadata for all ETFs:
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust",
       "issuer": "Invesco",
-      "expense_ratio": 0.0020,
+      "expense_ratio": 0.002,
       "aum": 200000000000,
       "last_updated": "2025-01-15T00:00:00Z"
     }
@@ -59,6 +59,7 @@ Contains holdings for a specific ETF:
 To update ETF holdings data:
 
 1. Run the fetchr script:
+
    ```bash
    npm run fetch -- QQQ SPY VTI
    ```
@@ -66,6 +67,7 @@ To update ETF holdings data:
 2. Review the generated/updated JSON files in `data/etfs/`
 
 3. Commit the changes:
+
    ```bash
    git add data/
    git commit -m "Update ETF holdings data"

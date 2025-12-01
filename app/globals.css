@@ -22,3 +22,18 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+  .main-container {
+    padding: 1rem !important;
+  }
+
+  .core-overlap-container {
+    gap: 1rem !important;
+  }
+
+  .donut-wrapper {
+    display: none !important;
+  }
+}

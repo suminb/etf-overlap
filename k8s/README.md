@@ -131,6 +131,7 @@ kubectl apply -k k8s/
 To update ETF holdings data:
 
 1. Run the fetchr locally:
+
    ```bash
    npm run fetch QQQ SPY VTI  # Update specific ETFs
    # or
@@ -138,6 +139,7 @@ To update ETF holdings data:
    ```
 
 2. Commit the updated data files:
+
    ```bash
    git add data/
    git commit -m "Update ETF holdings data"
@@ -318,15 +320,15 @@ metadata:
   name: etf-data-fetchr
   namespace: etf-overlap
 spec:
-  schedule: "0 0 * * 0"  # Weekly on Sunday
+  schedule: "0 0 * * 0" # Weekly on Sunday
   jobTemplate:
     spec:
       template:
         spec:
           containers:
-          - name: fetchr
-            image: etf-overlap:latest
-            command: ["npm", "run", "fetch", "--all"]
+            - name: fetchr
+              image: etf-overlap:latest
+              command: ["npm", "run", "fetch", "--all"]
           restartPolicy: OnFailure
 ```
 
