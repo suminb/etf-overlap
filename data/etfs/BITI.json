@@ -1,0 +1,26 @@
+{
+  "symbol": "BITI",
+  "last_updated": "2025-12-01T02:46:50.154Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0103,
+    "inception_date": "Jun 21, 2022",
+    "index_tracked": "Bloomberg Bitcoin Index - Benchmark Price Return (--100%)",
+    "home_page": "https://www.proshares.com/our-etfs/leveraged-and-inverse/biti",
+    "category": "Leveraged Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 144200000,
+    "shares_outstanding": 6100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

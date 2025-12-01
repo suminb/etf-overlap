@@ -1,0 +1,43 @@
+{
+  "symbol": "SDS",
+  "last_updated": "2025-12-01T02:19:11.646Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0091,
+    "inception_date": "Jul 11, 2006",
+    "index_tracked": "S&P 500 Index (-200%)",
+    "home_page": "http://www.proshares.com/funds/sds.html",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 369400000,
+    "shares_outstanding": 5200000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 20-JAN-2026",
+      "weight": 61.38
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 04-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 04-DEC-2025",
+      "weight": 27.42
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 13.6
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 23-DEC-2025",
+      "weight": 10.53
+    }
+  ]
+}

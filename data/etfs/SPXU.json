@@ -1,0 +1,38 @@
+{
+  "symbol": "SPXU",
+  "last_updated": "2025-12-01T02:18:37.176Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.009000000000000001,
+    "inception_date": "Jun 25, 2009",
+    "index_tracked": "S&P 500 Index (-300%)",
+    "home_page": "http://www.proshares.com/funds/spxu.html",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 494700000,
+    "shares_outstanding": 9500000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 61.75
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 20-JAN-2026",
+      "weight": 30.77
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 10.22
+    }
+  ]
+}

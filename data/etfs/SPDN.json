@@ -1,0 +1,28 @@
+{
+  "symbol": "SPDN",
+  "last_updated": "2025-12-01T02:45:00.239Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Jun 08, 2016",
+    "index_tracked": "S&P 500 Index",
+    "home_page": "http://www.direxioninvestments.com/products/daily-sp-500-bear-1x-shares",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 249800000,
+    "shares_outstanding": 26100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

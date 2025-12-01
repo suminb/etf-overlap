@@ -1,0 +1,20 @@
+{
+  "symbol": "SBND",
+  "last_updated": "2025-12-01T02:47:57.134Z",
+  "profile": {
+    "issuer": "Ameriprise Financial",
+    "brand": "Columbia",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Sep 21, 2021",
+    "index_tracked": "Bloomberg Beta Advantage Short Term Bond (-100%)",
+    "home_page": "https://www.columbiathreadneedleus.com/investment-products/exchange-traded-funds/Columbia-Short-Duration-Bond-ETF/SBND/full-holdings/?cusip=19761L888",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 104100000,
+    "shares_outstanding": 5500000
+  },
+  "holdings": []
+}

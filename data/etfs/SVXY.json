@@ -1,0 +1,26 @@
+{
+  "symbol": "SVXY",
+  "last_updated": "2025-12-01T02:45:28.152Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0095,
+    "inception_date": "Oct 03, 2011",
+    "index_tracked": "S&P 500 VIX Short-Term Futures Index (-100%)",
+    "home_page": "http://proshares.com/funds/svxy.html",
+    "category": "Inverse Volatility",
+    "asset_class": "Volatility",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 210400000,
+    "shares_outstanding": 4300000
+  },
+  "holdings": [
+    {
+      "symbol": "CBOE VOLATILITY INDEX VIX FUTURES",
+      "name": "CBOE Volatility Index (VIX) Futures",
+      "weight": 100
+    }
+  ]
+}

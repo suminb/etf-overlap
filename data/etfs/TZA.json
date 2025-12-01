@@ -1,0 +1,28 @@
+{
+  "symbol": "TZA",
+  "last_updated": "2025-12-01T02:20:56.206Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0104,
+    "inception_date": "Nov 05, 2008",
+    "index_tracked": "Russell 2000 Index (-300%)",
+    "home_page": "http://direxionshares.com/etf/sc_bear_3x_shares.html",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 301000000,
+    "shares_outstanding": 39000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

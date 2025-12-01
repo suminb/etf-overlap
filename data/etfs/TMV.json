@@ -1,0 +1,26 @@
+{
+  "symbol": "TMV",
+  "last_updated": "2025-12-01T02:46:37.709Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Apr 16, 2009",
+    "index_tracked": "U.S. Treasury 20+ Year Index (300%)",
+    "home_page": "https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs",
+    "category": "Inverse Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 159500000,
+    "shares_outstanding": 4700000
+  },
+  "holdings": [
+    {
+      "symbol": "ISHARES 20 YEAR TREASURY BOND ETF",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "weight": 100
+    }
+  ]
+}

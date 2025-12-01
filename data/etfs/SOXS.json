@@ -1,0 +1,30 @@
+{
+  "symbol": "SOXS",
+  "last_updated": "2025-12-01T02:17:43.501Z",
+  "profile": {
+    "issuer": "Rafferty Asset Management",
+    "brand": "Direxion",
+    "structure": "ETF",
+    "expense_ratio": 0.0097,
+    "inception_date": "Mar 11, 2010",
+    "index_tracked": "ICE Semiconductor Index (-300%)",
+    "home_page": "https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Semiconductors",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1084200000,
+    "shares_outstanding": 274000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

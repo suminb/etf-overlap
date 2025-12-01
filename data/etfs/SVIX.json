@@ -1,0 +1,31 @@
+{
+  "symbol": "SVIX",
+  "last_updated": "2025-12-01T02:44:48.397Z",
+  "profile": {
+    "issuer": "Volatility Shares LLC",
+    "brand": "Volatility Shares",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0147,
+    "inception_date": "Mar 28, 2022",
+    "index_tracked": "S&P 500",
+    "home_page": "https://www.volatilityshares.com/svix/",
+    "category": "Inverse Volatility",
+    "asset_class": "Volatility",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 262900000,
+    "shares_outstanding": 13600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 99.7
+    },
+    {
+      "symbol": "OPTIONS",
+      "name": "OPTIONS",
+      "weight": 0.3
+    }
+  ]
+}

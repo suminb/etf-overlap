@@ -1,0 +1,26 @@
+{
+  "symbol": "KOLD",
+  "last_updated": "2025-12-01T02:45:40.176Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0095,
+    "inception_date": "Oct 04, 2011",
+    "index_tracked": "Bloomberg Natural Gas (200%)",
+    "home_page": "http://proshares.com/funds/kold.html",
+    "category": "Inverse Equities",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 194200000,
+    "shares_outstanding": 6500000
+  },
+  "holdings": [
+    {
+      "symbol": "NATURAL GAS",
+      "name": "Natural Gas",
+      "weight": 100
+    }
+  ]
+}

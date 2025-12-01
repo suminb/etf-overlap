@@ -1,0 +1,33 @@
+{
+  "symbol": "RWM",
+  "last_updated": "2025-12-01T02:46:25.604Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Jan 23, 2007",
+    "index_tracked": "Russell 2000 (-100%)",
+    "home_page": "http://www.proshares.com/funds/rwm.html",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Micro-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 160600000,
+    "shares_outstanding": 9700000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 62.75
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 37.25
+    }
+  ]
+}

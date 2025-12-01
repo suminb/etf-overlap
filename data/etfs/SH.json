@@ -1,0 +1,43 @@
+{
+  "symbol": "SH",
+  "last_updated": "2025-12-01T02:17:55.933Z",
+  "profile": {
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0089,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "S&P 500 (-100%)",
+    "home_page": "http://www.proshares.com/funds/sh.html",
+    "category": "Inverse Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 1047000000,
+    "shares_outstanding": 28500000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 52.76
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 20-JAN-2026",
+      "weight": 25.33
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 19.22
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 26-DEC-2025",
+      "weight": 4.79
+    }
+  ]
+}
