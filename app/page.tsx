@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import { useTranslation } from "react-i18next";
 import ETFAutocomplete from "@/components/ETFAutocomplete";
 
 interface SharedHolding {
@@ -41,7 +42,7 @@ interface OverlapMatrixResponse {
   error?: string;
 }
 
-function DonutChart({ overlap, total }: { overlap: number; total: number }) {
+function DonutChart({ overlap, total, t }: { overlap: number; total: number; t: any }) {
   const percentage = (overlap / total) * 100;
   const radius = 80;
   const strokeWidth = 40;
@@ -103,7 +104,7 @@ function DonutChart({ overlap, total }: { overlap: number; total: number }) {
       </svg>
       <div style={{ textAlign: "center" }}>
         <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-          Core Overlap
+          {t('totalOverlap')}
         </div>
         <div
           style={{
@@ -112,7 +113,7 @@ function DonutChart({ overlap, total }: { overlap: number; total: number }) {
             marginTop: "0.25rem",
           }}
         >
-          Holdings in ALL {Math.round(total / 100)} ETFs
+          {t('coreOverlapTitle', { count: Math.round(total / 100) })}
         </div>
       </div>
     </div>
@@ -122,6 +123,7 @@ function DonutChart({ overlap, total }: { overlap: number; total: number }) {
 const STORAGE_KEY = "etf-overlap-selected-tickers";
 
 function OverlapPage() {
+  const { t } = useTranslation();
   const router = useRouter();
   const searchParams = useSearchParams();
   const [tickers, setTickers] = useState<string[]>([]);
@@ -261,13 +263,13 @@ function OverlapPage() {
         margin: "0 auto",
       }}
     >
-      <h1>ETF Overlap Analysis</h1>
+      <h1>{t('title')}</h1>
       <p style={{ marginBottom: "2rem", color: "#666" }}>
-        Compare multiple ETFs to visualize their weighted overlap
+        {t('subtitle')}
       </p>
 
       <div style={{ marginBottom: "2rem" }}>
-        <h3 style={{ marginBottom: "1rem" }}>Enter ETF Tickers</h3>
+        <h3 style={{ marginBottom: "1rem" }}>{t('enterTickers')}</h3>
 
         <ETFAutocomplete
           selectedETFs={tickers}
@@ -293,7 +295,7 @@ function OverlapPage() {
               opacity: loading || tickers.length < 2 ? 0.6 : 1,
             }}
           >
-            {loading ? "Calculating..." : "Calculate Overlap"}
+            {loading ? t('calculating') : t('calculate')}
           </button>
           {tickers.length < 2 && tickers.length > 0 && (
             <span
@@ -303,7 +305,7 @@ function OverlapPage() {
                 fontSize: "0.875rem",
               }}
             >
-              Add at least 2 ETFs to compare
+              {t('addAtLeastTwo')}
             </span>
           )}
         </div>
@@ -338,7 +340,7 @@ function OverlapPage() {
               }}
             >
               <h2 style={{ marginBottom: "1.5rem", color: "#0070f3" }}>
-                Core Overlap - Holdings in ALL {data.etfs.length} ETFs
+                {t('coreOverlapTitle', { count: data.etfs.length })}
               </h2>
 
               <div
@@ -354,6 +356,7 @@ function OverlapPage() {
                   <DonutChart
                     overlap={data.coreOverlap.totalOverlap}
                     total={100}
+                    t={t}
                   />
                 </div>
 
@@ -362,7 +365,7 @@ function OverlapPage() {
                   <div style={{ display: "grid", gap: "1rem" }}>
                     <div>
                       <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                        Total Core Overlap
+                        {t('totalOverlap')}
                       </div>
                       <div
                         style={{
@@ -380,15 +383,15 @@ function OverlapPage() {
                           marginTop: "0.25rem",
                         }}
                       >
-                        of portfolio weight is shared across all ETFs
+                        {t('coreOverlapDesc')}
                       </div>
                     </div>
                     <div>
                       <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                        Shared Holdings
+                        {t('sharedHoldings')}
                       </div>
                       <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
-                        {data.coreOverlap.totalSharedHoldings} stocks
+                        {data.coreOverlap.totalSharedHoldings}
                       </div>
                       <div
                         style={{
@@ -397,7 +400,7 @@ function OverlapPage() {
                           marginTop: "0.25rem",
                         }}
                       >
-                        appear in all selected ETFs
+                        {t('sharedHoldingsDesc')}
                       </div>
                     </div>
                   </div>
@@ -408,7 +411,7 @@ function OverlapPage() {
               {data.coreOverlap.sharedHoldings.length > 0 && (
                 <div style={{ marginTop: "2rem" }}>
                   <h3 style={{ marginBottom: "1rem" }}>
-                    Holdings Shared by All {data.etfs.length} ETFs
+                    {t('holdingsSharedByAll', { count: data.etfs.length })}
                   </h3>
                   <div
                     style={{
@@ -430,7 +433,7 @@ function OverlapPage() {
                               borderBottom: "2px solid #ddd",
                             }}
                           >
-                            Symbol
+                            {t('symbol')}
                           </th>
                           <th
                             style={{
@@ -439,7 +442,7 @@ function OverlapPage() {
                               borderBottom: "2px solid #ddd",
                             }}
                           >
-                            Name
+                            {t('name')}
                           </th>
                           {data.etfs.map((etf) => (
                             <th
@@ -461,7 +464,7 @@ function OverlapPage() {
                               backgroundColor: "#eff6ff",
                             }}
                           >
-                            Min %
+                            {t('minWeight')}
                           </th>
                         </tr>
                       </thead>
@@ -520,7 +523,7 @@ function OverlapPage() {
                             colSpan={2 + data.etfs.length}
                             style={{ padding: "0.75rem", textAlign: "right" }}
                           >
-                            Total Core Overlap:
+                            {t('totalOverlap')}:
                           </td>
                           <td
                             style={{
@@ -550,18 +553,16 @@ function OverlapPage() {
                   }}
                 >
                   <p style={{ margin: 0, color: "#856404" }}>
-                    ⚠️ No holdings are shared across all {data.etfs.length}{" "}
-                    ETFs. They have completely different portfolios.
+                    {t('noSharedHoldings', { count: data.etfs.length })}
                   </p>
                 </div>
               )}
             </div>
           )}
 
-          <h2 style={{ marginBottom: "1rem" }}>Pairwise Overlap Heatmap</h2>
+          <h2 style={{ marginBottom: "1rem" }}>{t('pairwiseTitle')}</h2>
           <p style={{ marginBottom: "1.5rem", color: "#666" }}>
-            Values show weighted overlap percentage (0-100%). Darker colors
-            indicate higher overlap. Click any cell for details.
+            {t('pairwiseDesc')}
           </p>
 
           <div style={{ overflowX: "auto" }}>
@@ -584,7 +585,7 @@ function OverlapPage() {
                       minWidth: "100px",
                     }}
                   >
-                    ETF
+                    {t('etf')}
                   </th>
                   {data.etfs.map((etf) => (
                     <th
@@ -666,7 +667,7 @@ function OverlapPage() {
               borderRadius: "8px",
             }}
           >
-            <h3 style={{ marginBottom: "1rem", fontSize: "1rem" }}>Legend</h3>
+            <h3 style={{ marginBottom: "1rem", fontSize: "1rem" }}>{t('legend')}</h3>
             <div
               style={{
                 display: "flex",
@@ -722,7 +723,7 @@ function OverlapPage() {
                 color: "#1e40af",
               }}
             >
-              📊 How to Read This
+              {t('howToRead')}
             </h3>
             <ul
               style={{
@@ -731,25 +732,11 @@ function OverlapPage() {
                 lineHeight: "1.6",
               }}
             >
-              <li>
-                <strong>High overlap (60-100%)</strong>: Very similar holdings -
-                minimal diversification benefit
-              </li>
-              <li>
-                <strong>Medium overlap (30-60%)</strong>: Some shared exposure
-                with room for diversification
-              </li>
-              <li>
-                <strong>Low overlap (0-30%)</strong>: Different holdings - good
-                diversification potential
-              </li>
-              <li>
-                <strong>Diagonal (100%)</strong>: Each ETF compared to itself
-              </li>
-              <li>
-                <strong>💡 Click any cell</strong> to see detailed overlapping
-                holdings
-              </li>
+              <li>{t('highOverlap')}</li>
+              <li>{t('mediumOverlap')}</li>
+              <li>{t('lowOverlap')}</li>
+              <li>{t('diagonal')}</li>
+              <li>{t('clickCell')}</li>
             </ul>
           </div>
 
@@ -774,7 +761,7 @@ function OverlapPage() {
                 }}
               >
                 <h2>
-                  {selectedDetail.etf1} ↔ {selectedDetail.etf2} Overlap Details
+                  {t('overlapDetails', { etf1: selectedDetail.etf1, etf2: selectedDetail.etf2 })}
                 </h2>
                 <button
                   onClick={() => setSelectedDetail(null)}
@@ -788,7 +775,7 @@ function OverlapPage() {
                     cursor: "pointer",
                   }}
                 >
-                  Close
+                  {t('close')}
                 </button>
               </div>
 
@@ -808,7 +795,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    Total Overlap
+                    {t('totalOverlap')}
                   </div>
                   <div
                     style={{
@@ -828,7 +815,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    Shared Holdings
+                    {t('sharedHoldings')}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.totalSharedHoldings}
@@ -842,7 +829,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    Unique to {selectedDetail.etf1}
+                    {t('uniqueTo', { etf: selectedDetail.etf1 })}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.uniqueHoldings1}
@@ -856,7 +843,7 @@ function OverlapPage() {
                   }}
                 >
                   <div style={{ fontSize: "0.875rem", color: "#6b7280" }}>
-                    Unique to {selectedDetail.etf2}
+                    {t('uniqueTo', { etf: selectedDetail.etf2 })}
                   </div>
                   <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
                     {selectedDetail.uniqueHoldings2}
@@ -864,7 +851,7 @@ function OverlapPage() {
                 </div>
               </div>
 
-              <h3 style={{ marginBottom: "1rem" }}>Overlapping Holdings</h3>
+              <h3 style={{ marginBottom: "1rem" }}>{t('overlappingHoldings')}</h3>
               <div style={{ overflowX: "auto" }}>
                 <table style={{ width: "100%", borderCollapse: "collapse" }}>
                   <thead>
@@ -876,7 +863,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        Symbol
+                        {t('symbol')}
                       </th>
                       <th
                         style={{
@@ -885,7 +872,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        Name
+                        {t('name')}
                       </th>
                       <th
                         style={{
@@ -894,7 +881,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {selectedDetail.etf1} Weight
+                        {t('weight', { etf: selectedDetail.etf1 })}
                       </th>
                       <th
                         style={{
@@ -903,7 +890,7 @@ function OverlapPage() {
                           borderBottom: "2px solid #ddd",
                         }}
                       >
-                        {selectedDetail.etf2} Weight
+                        {t('weight', { etf: selectedDetail.etf2 })}
                       </th>
                       <th
                         style={{
@@ -913,7 +900,7 @@ function OverlapPage() {
                           backgroundColor: "#eff6ff",
                         }}
                       >
-                        Overlap Contribution
+                        {t('overlapContribution')}
                       </th>
                     </tr>
                   </thead>
@@ -955,7 +942,7 @@ function OverlapPage() {
                         colSpan={4}
                         style={{ padding: "0.75rem", textAlign: "right" }}
                       >
-                        Total Weighted Overlap:
+                        {t('totalWeightedOverlap')}
                       </td>
                       <td
                         style={{

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef, KeyboardEvent } from "react";
+import { useTranslation } from "react-i18next";
 
 interface ETFListItem {
   symbol: string;
@@ -18,6 +19,7 @@ export default function ETFAutocomplete({
   onChange,
   disabled,
 }: ETFAutocompleteProps) {
+  const { t } = useTranslation();
   const [inputValue, setInputValue] = useState("");
   const [suggestions, setSuggestions] = useState<ETFListItem[]>([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
@@ -193,7 +195,7 @@ export default function ETFAutocomplete({
           onFocus={() => inputValue.length > 0 && setShowSuggestions(true)}
           placeholder={
             selectedETFs.length === 0
-              ? "Type ETF ticker or name (e.g., SPY, QQQ)..."
+              ? t('searchPlaceholder')
               : ""
           }
           disabled={disabled}
@@ -261,7 +263,7 @@ export default function ETFAutocomplete({
       <div
         style={{ fontSize: "0.75rem", color: "#9ca3af", marginTop: "0.5rem" }}
       >
-        💡 Type to search, press Space or Enter to add, Backspace to remove
+        {t('searchHint')}
       </div>
     </div>
   );
