@@ -1,7 +1,9 @@
 {
   "symbol": "VEU",
-  "last_updated": "2025-12-01T05:30:37.973Z",
+  "name": "Vanguard FTSE All-World ex-US Index Fund",
+  "last_updated": "2025-12-01T08:51:51.205Z",
   "profile": {
+    "name": "Vanguard FTSE All-World ex-US Index Fund",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",

@@ -1,7 +1,9 @@
 {
   "symbol": "SCHF",
-  "last_updated": "2025-12-01T05:31:03.298Z",
+  "name": "Schwab International Equity ETF",
+  "last_updated": "2025-12-01T08:51:25.984Z",
   "profile": {
+    "name": "Schwab International Equity ETF",
     "issuer": "The Charles Schwab Corp.",
     "brand": "Schwab",
     "structure": "ETF",

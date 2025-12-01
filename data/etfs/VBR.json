@@ -1,0 +1,98 @@
+{
+  "symbol": "VBR",
+  "last_updated": "2025-12-01T08:23:32.259Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "CRSP US Small Value",
+    "home_page": "https://advisors.vanguard.com/investments/products/vbr/vanguard-small-cap-value-etf",
+    "category": "Small Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 31655400000,
+    "shares_outstanding": 150900000
+  },
+  "holdings": [
+    {
+      "symbol": "NRG",
+      "name": "NRG Energy, Inc.",
+      "weight": 0.86
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.8
+    },
+    {
+      "symbol": "EME",
+      "name": "EMCOR Group, Inc.",
+      "weight": 0.78
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "weight": 0.71
+    },
+    {
+      "symbol": "ATO",
+      "name": "Atmos Energy Corporation",
+      "weight": 0.67
+    },
+    {
+      "symbol": "WSM",
+      "name": "Williams-Sonoma, Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "TPR",
+      "name": "Tapestry, Inc.",
+      "weight": 0.59
+    },
+    {
+      "symbol": "JBL",
+      "name": "Jabil Inc.",
+      "weight": 0.58
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 0.52
+    },
+    {
+      "symbol": "SW",
+      "name": "Smurfit Westrock PLC",
+      "weight": 0.5
+    },
+    {
+      "symbol": "NVT",
+      "name": "nVent Electric plc",
+      "weight": 0.47
+    },
+    {
+      "symbol": "THC",
+      "name": "Tenet Healthcare Corporation",
+      "weight": 0.47
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "weight": 0.47
+    },
+    {
+      "symbol": "ACM",
+      "name": "AECOM",
+      "weight": 0.46
+    },
+    {
+      "symbol": "APTV",
+      "name": "Aptiv PLC",
+      "weight": 0.46
+    }
+  ]
+}

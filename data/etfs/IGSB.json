@@ -1,0 +1,96 @@
+{
+  "symbol": "IGSB",
+  "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
+  "last_updated": "2025-12-01T08:36:53.517Z",
+  "profile": {
+    "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "expense_ratio": 0.0004,
+    "inception_date": "Jan 05, 2007",
+    "index_tracked": "ICE BofA US Corporate (1-5 Y)",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 21895700000,
+    "shares_outstanding": 412400000
+  },
+  "holdings": [
+    {
+      "symbol": "EAGLE FUNDING LUXCO SA RL 55 17-AUG-2030",
+      "name": "Eagle Funding LuxCo S.a r.l. 5.5% 17-AUG-2030",
+      "weight": 0.32
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.19
+    },
+    {
+      "symbol": "T-MOBILE USA INC 3875 15-APR-2030",
+      "name": "T-Mobile USA, Inc. 3.875% 15-APR-2030",
+      "weight": 0.18
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 3419 20-DEC-2028",
+      "name": "Bank of America Corporation 3.419% 20-DEC-2028",
+      "weight": 0.16
+    },
+    {
+      "symbol": "ABBVIE INC 32 21-NOV-2029",
+      "name": "AbbVie Inc. 3.2% 21-NOV-2029",
+      "weight": 0.14
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 43 25-MAR-2028",
+      "name": "CVS Health Corporation 4.3% 25-MAR-2028",
+      "weight": 0.14
+    },
+    {
+      "symbol": "MARS INCORPORATED 48 01-MAR-2030",
+      "name": "Mars, Incorporated 4.8% 01-MAR-2030",
+      "weight": 0.12
+    },
+    {
+      "symbol": "BOEING COMPANY 515 01-MAY-2030",
+      "name": "Boeing Company 5.15% 01-MAY-2030",
+      "weight": 0.12
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5574 25-JUL-2029",
+      "name": "Wells Fargo & Company 5.574% 25-JUL-2029",
+      "weight": 0.12
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 3526 24-MAR-2028",
+      "name": "Wells Fargo & Company 3.526% 24-MAR-2028",
+      "weight": 0.11
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 445 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.45% 19-MAY-2028",
+      "weight": 0.11
+    },
+    {
+      "symbol": "CITIGROUP INC 4412 31-MAR-2031",
+      "name": "Citigroup Inc. 4.412% 31-MAR-2031",
+      "weight": 0.11
+    },
+    {
+      "symbol": "CITIGROUP INC 445 29-SEP-2027",
+      "name": "Citigroup Inc. 4.45% 29-SEP-2027",
+      "weight": 0.11
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4851 25-JUL-2028",
+      "name": "JPMorgan Chase & Co. 4.851% 25-JUL-2028",
+      "weight": 0.11
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 515 23-APR-2031",
+      "name": "Wells Fargo & Company 5.15% 23-APR-2031",
+      "weight": 0.1
+    }
+  ]
+}

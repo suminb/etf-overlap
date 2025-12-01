@@ -1,0 +1,102 @@
+{
+  "symbol": "XLV",
+  "name": "Health Care Select Sector SPDR Fund",
+  "last_updated": "2025-12-01T08:59:05.133Z",
+  "profile": {
+    "name": "Health Care Select Sector SPDR Fund",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Health Care Select Sector",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xlv",
+    "category": "Health & Biotech Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Healthcare",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 41238100000,
+    "shares_outstanding": 259700000
+  },
+  "holdings": [
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 15.32
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 8.64
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 7.11
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 5.13
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 4.58
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "weight": 3.92
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "weight": 3.87
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "weight": 3.6
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 3.19
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 2.74
+    },
+    {
+      "symbol": "BSX",
+      "name": "Boston Scientific Corporation",
+      "weight": 2.61
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher Corporation",
+      "weight": 2.55
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "weight": 2.54
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "weight": 2.34
+    },
+    {
+      "symbol": "SYK",
+      "name": "Stryker Corporation",
+      "weight": 2.24
+    }
+  ]
+}

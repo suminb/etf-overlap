@@ -1,7 +1,9 @@
 {
   "symbol": "TLT",
-  "last_updated": "2025-12-01T05:30:01.342Z",
+  "name": "iShares 20+ Year Treasury Bond ETF",
+  "last_updated": "2025-12-01T08:54:40.289Z",
   "profile": {
+    "name": "iShares 20+ Year Treasury Bond ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",

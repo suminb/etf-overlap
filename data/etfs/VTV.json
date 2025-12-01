@@ -1,7 +1,9 @@
 {
   "symbol": "VTV",
-  "last_updated": "2025-11-29T17:01:57.106Z",
+  "name": "Vanguard Value ETF",
+  "last_updated": "2025-12-01T08:43:13.892Z",
   "profile": {
+    "name": "Vanguard Value ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",

@@ -1,7 +1,9 @@
 {
   "symbol": "IEF",
-  "last_updated": "2025-12-01T05:29:11.659Z",
+  "name": "iShares 7-10 Year Treasury Bond ETF",
+  "last_updated": "2025-12-01T08:56:30.248Z",
   "profile": {
+    "name": "iShares 7-10 Year Treasury Bond ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",

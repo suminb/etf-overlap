@@ -1,0 +1,93 @@
+{
+  "symbol": "EFV",
+  "last_updated": "2025-12-01T08:25:24.727Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0033,
+    "inception_date": "Aug 01, 2005",
+    "index_tracked": "MSCI EAFE Value",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EFV.htm?qt=EFV",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 26733700000,
+    "shares_outstanding": 385600000
+  },
+  "holdings": [
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 2.69
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 2.37
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 2.08
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 1.89
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 1.77
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.66
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.56
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 1.36
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 1.33
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.29
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.27
+    },
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 1.24
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 1.21
+    }
+  ]
+}

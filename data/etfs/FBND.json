@@ -1,0 +1,98 @@
+{
+  "symbol": "FBND",
+  "name": "Fidelity Total Bond ETF",
+  "last_updated": "2025-12-01T08:36:02.998Z",
+  "profile": {
+    "name": "Fidelity Total Bond ETF",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "structure": "ETF",
+    "expense_ratio": 0.0036,
+    "inception_date": "Oct 06, 2014",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=FBND",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 22979600000,
+    "shares_outstanding": 493400000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 375 31-AUG-2031",
+      "name": "United States Treasury Notes 3.75% 31-AUG-2031",
+      "weight": 3.11
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-AUG-2035",
+      "name": "United States Treasury Notes 4.25% 15-AUG-2035",
+      "weight": 2.35
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2034",
+      "weight": 2.27
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 425 15-FEB-2054",
+      "name": "United States Treasury Bond 4.25% 15-FEB-2054",
+      "weight": 1.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-MAY-2035",
+      "name": "United States Treasury Notes 4.25% 15-MAY-2035",
+      "weight": 1.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-AUG-2030",
+      "name": "United States Treasury Notes 3.625% 31-AUG-2030",
+      "weight": 1.6
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 45 15-NOV-2054",
+      "name": "United States Treasury Bond 4.5% 15-NOV-2054",
+      "weight": 1.51
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 1.42
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 31-MAR-2032",
+      "name": "United States Treasury Notes 4.125% 31-MAR-2032",
+      "weight": 1.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-MAY-2055",
+      "name": "United States Treasury Bond 4.75% 15-MAY-2055",
+      "weight": 1.24
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 31-MAY-2032",
+      "name": "United States Treasury Notes 4.125% 31-MAY-2032",
+      "weight": 1.21
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-AUG-2055",
+      "name": "United States Treasury Bond 4.75% 15-AUG-2055",
+      "weight": 1.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-FEB-2035",
+      "name": "United States Treasury Notes 4.625% 15-FEB-2035",
+      "weight": 1.02
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 40 15-NOV-2052",
+      "name": "United States Treasury Bond 4.0% 15-NOV-2052",
+      "weight": 1
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4625 15-MAY-2054",
+      "name": "United States Treasury Bond 4.625% 15-MAY-2054",
+      "weight": 0.96
+    }
+  ]
+}

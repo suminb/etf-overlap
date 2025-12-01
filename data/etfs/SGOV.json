@@ -1,0 +1,98 @@
+{
+  "symbol": "SGOV",
+  "name": "iShares 0-3 Month Treasury Bond ETF",
+  "last_updated": "2025-12-01T08:50:24.537Z",
+  "profile": {
+    "name": "iShares 0-3 Month Treasury Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "May 26, 2020",
+    "index_tracked": "ICE 0-3 Month US Treasury Bill Index",
+    "home_page": "https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 64507900000,
+    "shares_outstanding": 641100000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 13-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 13-JAN-2026",
+      "weight": 11.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 06-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 06-JAN-2026",
+      "weight": 9.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 23-DEC-2025",
+      "weight": 9.13
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 16-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 16-DEC-2025",
+      "weight": 8.71
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 09-DEC-2025",
+      "weight": 6.94
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 29-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 29-JAN-2026",
+      "weight": 6.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 11-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 11-DEC-2025",
+      "weight": 6.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 5.45
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 5.23
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 08-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 08-JAN-2026",
+      "weight": 4.74
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 04-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 04-DEC-2025",
+      "weight": 4.27
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 3.53
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 26-DEC-2025",
+      "weight": 3.44
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 26-FEB-2026",
+      "weight": 3.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 05-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 05-FEB-2026",
+      "weight": 3.32
+    }
+  ]
+}

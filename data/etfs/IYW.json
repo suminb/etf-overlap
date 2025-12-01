@@ -1,0 +1,102 @@
+{
+  "symbol": "IYW",
+  "name": "iShares U.S. Technology ETF",
+  "last_updated": "2025-12-01T08:38:23.470Z",
+  "profile": {
+    "name": "iShares U.S. Technology ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "May 15, 2000",
+    "index_tracked": "Dow Jones U.S. Technology Index",
+    "home_page": "http://www.ishares.com/us/products/239522/ishares-us-technology-etf?qt=IYW",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 20575000000,
+    "shares_outstanding": 105300000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 16.03
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 15.48
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 13.73
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 3.86
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 3.14
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.98
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.56
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 2.49
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 2.4
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.97
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 1.79
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 1.65
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 1.48
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 1.4
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 1.38
+    }
+  ]
+}

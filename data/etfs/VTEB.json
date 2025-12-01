@@ -1,7 +1,9 @@
 {
   "symbol": "VTEB",
-  "last_updated": "2025-11-29T16:59:28.891Z",
+  "name": "Vanguard Tax-Exempt Bond ETF",
+  "last_updated": "2025-12-01T08:57:49.235Z",
   "profile": {
+    "name": "Vanguard Tax-Exempt Bond ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",

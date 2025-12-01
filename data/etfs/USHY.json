@@ -1,0 +1,96 @@
+{
+  "symbol": "USHY",
+  "last_updated": "2025-12-01T08:32:04.674Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Oct 25, 2017",
+    "index_tracked": "ICE BofA US High Yield Constrained",
+    "home_page": "https://www.ishares.com/us/products/291299/",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 25346100000,
+    "shares_outstanding": 677600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.65
+    },
+    {
+      "symbol": "ECHOSTAR CORPORATION 1075 30-NOV-2029",
+      "name": "EchoStar Corporation 10.75% 30-NOV-2029",
+      "weight": 0.42
+    },
+    {
+      "symbol": "1261229 BC LTD 100 15-APR-2032",
+      "name": "1261229 B.C. Ltd. 10.0% 15-APR-2032",
+      "weight": 0.35
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.31
+    },
+    {
+      "symbol": "QUIKRETE HOLDINGS INC 6375 01-MAR-2032",
+      "name": "QUIKRETE Holdings, Inc. 6.375% 01-MAR-2032",
+      "weight": 0.29
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.28
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.28
+    },
+    {
+      "symbol": "HUB INTERNATIONAL LIMITED 725 15-JUN-2030",
+      "name": "HUB International Limited 7.25% 15-JUN-2030",
+      "weight": 0.25
+    },
+    {
+      "symbol": "WARNERMEDIA HOLDINGS INC 505 15-MAR-2042",
+      "name": "WarnerMedia Holdings, Inc. 5.05% 15-MAR-2042",
+      "weight": 0.24
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 5125 01-MAY-2027",
+      "name": "CCO Holdings, LLC 5.125% 01-MAY-2027",
+      "weight": 0.23
+    },
+    {
+      "symbol": "VENTURE GLOBAL LNG INC 95 01-FEB-2029",
+      "name": "Venture Global LNG, Inc. 9.5% 01-FEB-2029",
+      "weight": 0.22
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.22
+    },
+    {
+      "symbol": "AADVANTAGE LOYALTY IP LTD 575 20-APR-2029",
+      "name": "AAdvantage Loyalty IP Ltd. 5.75% 20-APR-2029",
+      "weight": 0.22
+    },
+    {
+      "symbol": "PANTHER ESCROW ISSUER LLC 7125 01-JUN-2031",
+      "name": "Panther Escrow Issuer, LLC 7.125% 01-JUN-2031",
+      "weight": 0.22
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 475 01-MAR-2030",
+      "name": "CCO Holdings, LLC 4.75% 01-MAR-2030",
+      "weight": 0.2
+    }
+  ]
+}

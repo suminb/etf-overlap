@@ -1,0 +1,98 @@
+{
+  "symbol": "IDEV",
+  "last_updated": "2025-12-01T08:29:52.819Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Mar 21, 2017",
+    "index_tracked": "MSCI World ex USA IMI",
+    "home_page": "https://www.ishares.com/us/products/286762/IDEV?referrer=tickerSearch",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 23271500000,
+    "shares_outstanding": 289700000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.55
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.1
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.97
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 0.95
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 0.94
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.93
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.81
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.81
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.76
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify, Inc. Class A",
+      "weight": 0.74
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.73
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 0.69
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 0.68
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 0.68
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "DVY",
+  "name": "iShares Select Dividend ETF",
+  "last_updated": "2025-12-01T08:37:58.670Z",
+  "profile": {
+    "name": "iShares Select Dividend ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "Nov 03, 2003",
+    "index_tracked": "Dow Jones U.S. Select Dividend Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/DVY.htm?qt=DVY",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 20750900000,
+    "shares_outstanding": 146200000
+  },
+  "holdings": [
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "weight": 2.63
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "weight": 2.49
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group, Inc.",
+      "weight": 2.3
+    },
+    {
+      "symbol": "EIX",
+      "name": "Edison International",
+      "weight": 2.01
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "weight": 1.92
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 1.79
+    },
+    {
+      "symbol": "ADM",
+      "name": "Archer-Daniels-Midland Company",
+      "weight": 1.66
+    },
+    {
+      "symbol": "KEY",
+      "name": "KeyCorp",
+      "weight": 1.62
+    },
+    {
+      "symbol": "ES",
+      "name": "Eversource Energy",
+      "weight": 1.6
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy Inc",
+      "weight": 1.59
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Health Corporation",
+      "weight": 1.51
+    },
+    {
+      "symbol": "RF",
+      "name": "Regions Financial Corporation",
+      "weight": 1.47
+    },
+    {
+      "symbol": "FE",
+      "name": "FirstEnergy Corp.",
+      "weight": 1.46
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "weight": 1.45
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy Corporation",
+      "weight": 1.43
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "VXUS",
+  "name": "Vanguard Total International Stock ETF",
+  "last_updated": "2025-12-01T08:44:29.753Z",
+  "profile": {
+    "name": "Vanguard Total International Stock ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Jan 26, 2011",
+    "index_tracked": "FTSE Global All Cap x US",
+    "home_page": "https://advisors.vanguard.com/investments/products/vxus/vanguard-total-international-stock-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Broad Asia",
+    "region_specific": "Broad",
+    "aum": 111754000000,
+    "shares_outstanding": 1516300000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 3.02
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.14
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 1.29
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.07
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 0.98
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 0.9
+    },
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 0.76
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 0.69
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 0.64
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.63
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 0.59
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.59
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.57
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.56
+    }
+  ]
+}

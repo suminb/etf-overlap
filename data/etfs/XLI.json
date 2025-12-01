@@ -1,0 +1,100 @@
+{
+  "symbol": "XLI",
+  "last_updated": "2025-12-01T08:30:52.388Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Industrial Select Sector",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xli",
+    "category": "Industrials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Industrials",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 23991200000,
+    "shares_outstanding": 157900000
+  },
+  "holdings": [
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 6.7
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 5.72
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 4.96
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies, Inc.",
+      "weight": 3.76
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "weight": 3.36
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Company",
+      "weight": 2.97
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific Corporation",
+      "weight": 2.93
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corp. Plc",
+      "weight": 2.82
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "weight": 2.7
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "weight": 2.35
+    },
+    {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "weight": 2.24
+    },
+    {
+      "symbol": "TT",
+      "name": "Trane Technologies plc",
+      "weight": 2.01
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 2
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "weight": 1.97
+    }
+  ]
+}

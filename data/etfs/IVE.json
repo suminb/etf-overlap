@@ -1,7 +1,9 @@
 {
   "symbol": "IVE",
-  "last_updated": "2025-12-01T05:29:36.660Z",
+  "name": "iShares S&P 500 Value ETF",
+  "last_updated": "2025-12-01T08:56:04.701Z",
   "profile": {
+    "name": "iShares S&P 500 Value ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",

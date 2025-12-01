@@ -1,0 +1,100 @@
+{
+  "symbol": "IEMG",
+  "name": "iShares Core MSCI Emerging Markets ETF",
+  "last_updated": "2025-12-01T08:44:17.450Z",
+  "profile": {
+    "name": "iShares Core MSCI Emerging Markets ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Oct 18, 2012",
+    "index_tracked": "MSCI Emerging Markets Investable Market Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IEMG.htm?fundSearch=true&qt=IEMG",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Broad Asia",
+    "region_specific": "Pacific ex-Japan",
+    "aum": 115934000000,
+    "shares_outstanding": 1750800000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 9.85
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 4.41
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 2.93
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 2.89
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 1.71
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 1.1
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 0.93
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 0.88
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 0.79
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 0.77
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 0.71
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 0.71
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 0.57
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 0.55
+    },
+    {
+      "symbol": "BLACKROCK CASH FUNDS TREASURY SL AGENCY SHARES",
+      "name": "BlackRock Cash Funds Treasury SL Agency Shares",
+      "weight": 0.53
+    }
+  ]
+}

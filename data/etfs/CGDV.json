@@ -1,0 +1,98 @@
+{
+  "symbol": "CGDV",
+  "last_updated": "2025-12-01T08:31:40.413Z",
+  "profile": {
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "structure": "ETF",
+    "expense_ratio": 0.0033,
+    "inception_date": "Feb 22, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgdv",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 25208000000,
+    "shares_outstanding": 582300000
+  },
+  "holdings": [
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 6.49
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.58
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 5.55
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 5.38
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 4.58
+    },
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 3.65
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 3.32
+    },
+    {
+      "symbol": "CMQXX",
+      "name": "Capital Group Central Fund Series M Cash Fund",
+      "weight": 3.13
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 2.93
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "weight": 2.52
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.46
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 2.42
+    },
+    {
+      "symbol": "CARR",
+      "name": "Carrier Global Corp.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.26
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 2.17
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "SCHD",
-  "last_updated": "2025-12-01T05:26:48.370Z",
+  "name": "Schwab US Dividend Equity ETF",
+  "last_updated": "2025-12-01T08:48:36.376Z",
   "profile": {
+    "name": "Schwab US Dividend Equity ETF",
     "issuer": "The Charles Schwab Corp.",
     "brand": "Schwab",
     "structure": "ETF",

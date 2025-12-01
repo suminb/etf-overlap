@@ -1,0 +1,98 @@
+{
+  "symbol": "VGK",
+  "last_updated": "2025-12-01T08:25:00.096Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0006,
+    "inception_date": "Mar 04, 2005",
+    "index_tracked": "FTSE Developed Europe All Cap",
+    "home_page": "https://advisors.vanguard.com/investments/products/vgk/vanguard-ftse-europe-etf",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Europe",
+    "region_specific": "Broad",
+    "aum": 27876500000,
+    "shares_outstanding": 347800000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.89
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.86
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.72
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.69
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.68
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.61
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.57
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.53
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.45
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 1.25
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 1.09
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.08
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 1.07
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.05
+    },
+    {
+      "symbol": "ULVR",
+      "name": "Unilever PLC",
+      "weight": 1.01
+    }
+  ]
+}

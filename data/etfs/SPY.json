@@ -1,7 +1,9 @@
 {
   "symbol": "SPY",
-  "last_updated": "2025-11-29T16:52:09.506Z",
+  "name": "SPDR S&P 500 ETF Trust",
+  "last_updated": "2025-12-01T08:41:58.831Z",
   "profile": {
+    "name": "SPDR S&P 500 ETF Trust",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "UIT",
@@ -63,6 +65,11 @@
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
       "weight": 2.03
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 1.61
     },
     {
       "symbol": "LLY",

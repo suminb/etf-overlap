@@ -1,0 +1,102 @@
+{
+  "symbol": "VGT",
+  "name": "Vanguard Information Technology ETF",
+  "last_updated": "2025-12-01T08:44:42.161Z",
+  "profile": {
+    "name": "Vanguard Information Technology ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "MSCI US IMI 25/50 Information Technology",
+    "home_page": "https://advisors.vanguard.com/investments/products/vgt/vanguard-information-technology-etf",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 110046000000,
+    "shares_outstanding": 148900000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 18.18
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 14.29
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 12.93
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 4.48
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 2.09
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 2.05
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 1.97
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.36
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 1.21
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 1.18
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 0.99
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 0.95
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 0.92
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc.",
+      "weight": 0.92
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "VBK",
+  "name": "Vanguard Small Cap Growth ETF",
+  "last_updated": "2025-12-01T08:38:36.541Z",
+  "profile": {
+    "name": "Vanguard Small Cap Growth ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "CRSP U.S. Small Cap Growth Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vbk/vanguard-small-cap-growth-etf",
+    "category": "Small Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 20476700000,
+    "shares_outstanding": 68500000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.71
+    },
+    {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "weight": 1.31
+    },
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.12
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies Inc",
+      "weight": 1.11
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 1
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "weight": 0.95
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation Class A",
+      "weight": 0.91
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd.",
+      "weight": 0.9
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "weight": 0.88
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "ALAB",
+      "name": "Astera Labs, Inc.",
+      "weight": 0.81
+    },
+    {
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "weight": 0.78
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 0.73
+    },
+    {
+      "symbol": "FWONK",
+      "name": "Liberty Media Corporation Series C Liberty Formula One",
+      "weight": 0.7
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 0.67
+    }
+  ]
+}

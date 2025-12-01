@@ -1,7 +1,9 @@
 {
   "symbol": "XLF",
-  "last_updated": "2025-12-01T05:30:25.310Z",
+  "name": "Financial Select Sector SPDR Fund",
+  "last_updated": "2025-12-01T08:52:04.006Z",
   "profile": {
+    "name": "Financial Select Sector SPDR Fund",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",

@@ -1,0 +1,96 @@
+{
+  "symbol": "JAAA",
+  "last_updated": "2025-12-01T08:31:52.417Z",
+  "profile": {
+    "issuer": "Janus Henderson",
+    "brand": "Janus Henderson",
+    "structure": "ETF",
+    "expense_ratio": 0.002,
+    "inception_date": "Oct 16, 2020",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.janushenderson.com/en-us/advisor/product/jaaa-aaa-clo-etf/?utm_source=google&utm_medium=paid+search&utm_campaign=fund_aaa+clo+etf&gad=1&gclid=Cj0KCQiAo7KqBhDhARIsAKhZ4uibTznh2ekpGoZpNttpA4SdTT-tPepN3-HzzWvCqDwKzLGKK3-5J0oaAvqUEALw_wcB",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 25299200000,
+    "shares_outstanding": 498900000
+  },
+  "holdings": [
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 3.78
+    },
+    {
+      "symbol": "OCP CLO 2021-23  AR 504163 17-JAN-2037",
+      "name": "OCP CLO 2021-23  AR 5.04163% 17-JAN-2037",
+      "weight": 1.06
+    },
+    {
+      "symbol": "OCTAGON 51  AR 487444 20-JUL-2034",
+      "name": "Octagon 51  AR 4.87444% 20-JUL-2034",
+      "weight": 1.04
+    },
+    {
+      "symbol": "KKR CLO 35  AR 508444 20-JAN-2038",
+      "name": "KKR CLO 35  AR 5.08444% 20-JAN-2038",
+      "weight": 1.03
+    },
+    {
+      "symbol": "ARES LOAN FUNDING VIII  A1 511541 24-JAN-2038",
+      "name": "Ares Loan Funding VIII  A1 5.11541% 24-JAN-2038",
+      "weight": 0.97
+    },
+    {
+      "symbol": "BALBOA BAY LOAN FUNDING 2021-1  AR 487444 20-JUL",
+      "name": "Balboa Bay Loan Funding 2021-1  AR 4.87444% 20-JUL-2034",
+      "weight": 0.97
+    },
+    {
+      "symbol": "ANCHORAGE CAPITAL CLO 16  A1RR 513444 19-JAN-203",
+      "name": "Anchorage Capital CLO 16  A1RR 5.13444% 19-JAN-2038",
+      "weight": 0.94
+    },
+    {
+      "symbol": "NEUBERGER BM LN ADV 2021-40R  AR",
+      "name": "NEUBERGER BM LN ADV 2021-40R  AR",
+      "weight": 0.87
+    },
+    {
+      "symbol": "ANCHORAGE CAPITAL CLO 17  A1R 513454 15-FEB-2038",
+      "name": "Anchorage Capital CLO 17  A1R 5.13454% 15-FEB-2038",
+      "weight": 0.83
+    },
+    {
+      "symbol": "RAD CLO 21  A1R 492798 25-JAN-2037",
+      "name": "RAD CLO 21  A1R 4.92798% 25-JAN-2037",
+      "weight": 0.82
+    },
+    {
+      "symbol": "OCP CLO AEGIS 2024-39  A1 511363 16-JAN-2037",
+      "name": "OCP CLO Aegis 2024-39  A1 5.11363% 16-JAN-2037",
+      "weight": 0.8
+    },
+    {
+      "symbol": "MAGNETITE XXXII  AR 5131047 15-OCT-2037",
+      "name": "Magnetite XXXII  AR 5.131047% 15-OCT-2037",
+      "weight": 0.8
+    },
+    {
+      "symbol": "CIFC FUNDING 2018-II LTD",
+      "name": "CIFC FUNDING 2018-II LTD",
+      "weight": 0.72
+    },
+    {
+      "symbol": "MAGNETITE XXXIX  AR 502798 25-JAN-2037",
+      "name": "Magnetite XXXIX  AR 5.02798% 25-JAN-2037",
+      "weight": 0.71
+    },
+    {
+      "symbol": "AB BSL CLO 1  A1R2 518673 15-OCT-2038",
+      "name": "AB BSL CLO 1  A1R2 5.18673% 15-OCT-2038",
+      "weight": 0.7
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "VOO",
-  "last_updated": "2025-11-29T17:01:03.267Z",
+  "name": "Vanguard S&P 500 ETF",
+  "last_updated": "2025-12-01T08:41:33.783Z",
   "profile": {
+    "name": "Vanguard S&P 500 ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",

@@ -1,7 +1,9 @@
 {
   "symbol": "JPST",
-  "last_updated": "2025-12-01T05:35:08.425Z",
+  "name": "JPMorgan Ultra-Short Income ETF",
+  "last_updated": "2025-12-01T09:01:08.480Z",
   "profile": {
+    "name": "JPMorgan Ultra-Short Income ETF",
     "issuer": "JP Morgan",
     "brand": "JPMorgan",
     "structure": "ETF",

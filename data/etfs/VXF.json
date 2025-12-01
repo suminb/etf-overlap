@@ -1,0 +1,98 @@
+{
+  "symbol": "VXF",
+  "last_updated": "2025-12-01T08:31:27.771Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Dec 27, 2001",
+    "index_tracked": "S&P Completion Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vxf/vanguard-extended-market-etf",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 24858700000,
+    "shares_outstanding": 119700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.13
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake, Inc.",
+      "weight": 1.14
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "weight": 1
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH public limited company",
+      "weight": 0.99
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 0.98
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co. Class A",
+      "weight": 0.91
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 0.91
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy Inc Class A",
+      "weight": 0.88
+    },
+    {
+      "symbol": "ALNY",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "weight": 0.74
+    },
+    {
+      "symbol": "FERG",
+      "name": "Ferguson Enterprises Inc.",
+      "weight": 0.61
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy, Inc.",
+      "weight": 0.58
+    },
+    {
+      "symbol": "VEEV",
+      "name": "Veeva Systems Inc Class A",
+      "weight": 0.54
+    },
+    {
+      "symbol": "CPNG",
+      "name": "Coupang, Inc. Class A",
+      "weight": 0.53
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co. Class A",
+      "weight": 0.52
+    },
+    {
+      "symbol": "FLUT",
+      "name": "Flutter Entertainment Plc",
+      "weight": 0.51
+    }
+  ]
+}

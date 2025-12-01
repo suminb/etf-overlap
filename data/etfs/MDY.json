@@ -1,0 +1,98 @@
+{
+  "symbol": "MDY",
+  "last_updated": "2025-12-01T08:29:40.402Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "UIT",
+    "expense_ratio": 0.0024,
+    "inception_date": "May 04, 1995",
+    "index_tracked": "S&P MidCap 400 Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=MDY",
+    "category": "Small Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 23237200000,
+    "shares_outstanding": 38800000
+  },
+  "holdings": [
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "weight": 0.89
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 0.84
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.83
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 0.75
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 0.69
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "weight": 0.69
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings, Inc.",
+      "weight": 0.67
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey\\'s General Stores, Inc.",
+      "weight": 0.67
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 0.67
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "weight": 0.63
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio, Inc. Class A",
+      "weight": 0.61
+    },
+    {
+      "symbol": "THC",
+      "name": "Tenet Healthcare Corporation",
+      "weight": 0.6
+    },
+    {
+      "symbol": "SGI",
+      "name": "Somnigroup International Inc.",
+      "weight": 0.6
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC plc",
+      "weight": 0.58
+    }
+  ]
+}

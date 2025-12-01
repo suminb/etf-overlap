@@ -1,0 +1,98 @@
+{
+  "symbol": "VCSH",
+  "name": "Vanguard Short-Term Corporate Bond ETF",
+  "last_updated": "2025-12-01T08:59:42.859Z",
+  "profile": {
+    "name": "Vanguard Short-Term Corporate Bond ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 19, 2009",
+    "index_tracked": "Bloomberg US Corporate (1-5 Y)",
+    "home_page": "https://advisors.vanguard.com/investments/products/vcsh/vanguard-short-term-corporate-bond-etf",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 40148000000,
+    "shares_outstanding": 501700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.87
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-OCT-2030",
+      "name": "United States Treasury Notes 3.625% 31-OCT-2030",
+      "weight": 0.74
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 3419 20-DEC-2028",
+      "name": "Bank of America Corporation 3.419% 20-DEC-2028",
+      "weight": 0.24
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 43 25-MAR-2028",
+      "name": "CVS Health Corporation 4.3% 25-MAR-2028",
+      "weight": 0.21
+    },
+    {
+      "symbol": "ABBVIE INC 32 21-NOV-2029",
+      "name": "AbbVie Inc. 3.2% 21-NOV-2029",
+      "weight": 0.2
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5574 25-JUL-2029",
+      "name": "Wells Fargo & Company 5.574% 25-JUL-2029",
+      "weight": 0.19
+    },
+    {
+      "symbol": "T-MOBILE USA INC 375 15-APR-2027",
+      "name": "T-Mobile USA, Inc. 3.75% 15-APR-2027",
+      "weight": 0.19
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 445 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.45% 19-MAY-2028",
+      "weight": 0.18
+    },
+    {
+      "symbol": "CITIGROUP INC 445 29-SEP-2027",
+      "name": "Citigroup Inc. 4.45% 29-SEP-2027",
+      "weight": 0.17
+    },
+    {
+      "symbol": "AMGEN INC 515 02-MAR-2028",
+      "name": "Amgen Inc. 5.15% 02-MAR-2028",
+      "weight": 0.17
+    },
+    {
+      "symbol": "BOEING COMPANY 515 01-MAY-2030",
+      "name": "Boeing Company 5.15% 01-MAY-2030",
+      "weight": 0.16
+    },
+    {
+      "symbol": "CIGNA GROUP 4375 15-OCT-2028",
+      "name": "Cigna Group 4.375% 15-OCT-2028",
+      "weight": 0.16
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 3526 24-MAR-2028",
+      "name": "Wells Fargo & Company 3.526% 24-MAR-2028",
+      "weight": 0.16
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4851 25-JUL-2028",
+      "name": "JPMorgan Chase & Co. 4.851% 25-JUL-2028",
+      "weight": 0.16
+    },
+    {
+      "symbol": "COMCAST CORPORATION 415 15-OCT-2028",
+      "name": "Comcast Corporation 4.15% 15-OCT-2028",
+      "weight": 0.16
+    }
+  ]
+}

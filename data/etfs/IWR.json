@@ -1,0 +1,100 @@
+{
+  "symbol": "IWR",
+  "name": "iShares Russell Midcap ETF",
+  "last_updated": "2025-12-01T08:56:42.824Z",
+  "profile": {
+    "name": "iShares Russell Midcap ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0018,
+    "inception_date": "Jul 17, 2001",
+    "index_tracked": "Russell Midcap Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IWR.htm?qt=IWR",
+    "category": "Mid Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 45269300000,
+    "shares_outstanding": 473200000
+  },
+  "holdings": [
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 0.76
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 0.65
+    },
+    {
+      "symbol": "BK",
+      "name": "Bank of New York Mellon Corp",
+      "weight": 0.63
+    },
+    {
+      "symbol": "CMI",
+      "name": "Cummins Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "weight": 0.54
+    },
+    {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 0.54
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 0.54
+    },
+    {
+      "symbol": "HLT",
+      "name": "Hilton Worldwide Holdings Inc.",
+      "weight": 0.53
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co. Class A",
+      "weight": 0.52
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "weight": 0.52
+    },
+    {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories, Inc.",
+      "weight": 0.49
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 0.49
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 0.48
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra Corp.",
+      "weight": 0.48
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "weight": 0.47
+    }
+  ]
+}

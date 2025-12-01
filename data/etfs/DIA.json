@@ -1,7 +1,9 @@
 {
   "symbol": "DIA",
-  "last_updated": "2025-11-30T17:20:51.951Z",
+  "name": "SPDR Dow Jones Industrial Average ETF Trust",
+  "last_updated": "2025-12-01T08:59:30.725Z",
   "profile": {
+    "name": "SPDR Dow Jones Industrial Average ETF Trust",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "UIT",

@@ -1,0 +1,100 @@
+{
+  "symbol": "XLC",
+  "last_updated": "2025-12-01T08:25:55.830Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Jun 18, 2018",
+    "index_tracked": "S&P Communication Services Select Sector Index",
+    "home_page": "https://us.spdrs.com/en/etf/communication-services-select-sector-spdr-fund-XLC",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Telecom",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 25962100000,
+    "shares_outstanding": 227200000
+  },
+  "holdings": [
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 13.2
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 11.69
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 9.39
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc. Series A",
+      "weight": 5.92
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 5.21
+    },
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "weight": 4.66
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 4.38
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "weight": 4.34
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc",
+      "weight": 4.3
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Company",
+      "weight": 4.2
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "weight": 4.06
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation Class A",
+      "weight": 3.95
+    },
+    {
+      "symbol": "LYV",
+      "name": "Live Nation Entertainment, Inc.",
+      "weight": 3.56
+    },
+    {
+      "symbol": "CHTR",
+      "name": "Charter Communications, Inc. Class A",
+      "weight": 3.24
+    },
+    {
+      "symbol": "TTD",
+      "name": "Trade Desk, Inc. Class A",
+      "weight": 3.03
+    }
+  ]
+}

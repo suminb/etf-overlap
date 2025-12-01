@@ -1,0 +1,100 @@
+{
+  "symbol": "IEFA",
+  "name": "iShares Core MSCI EAFE ETF",
+  "last_updated": "2025-12-01T08:43:01.287Z",
+  "profile": {
+    "name": "iShares Core MSCI EAFE ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Oct 18, 2012",
+    "index_tracked": "MSCI EAFE Investable Market Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IEFA.htm?fundSearch=true&qt=IEFA",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 157476000000,
+    "shares_outstanding": 1803600000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.76
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.25
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.18
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.1
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.09
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.07
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.05
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.92
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.87
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.83
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 0.78
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 0.78
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 0.78
+    },
+    {
+      "symbol": "CBA",
+      "name": "Commonwealth Bank of Australia",
+      "weight": 0.72
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 0.72
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "IAU",
-  "last_updated": "2025-12-01T04:53:58.872Z",
+  "name": "iShares Gold Trust",
+  "last_updated": "2025-12-01T08:50:36.648Z",
   "profile": {
+    "name": "iShares Gold Trust",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "Grantor Trust",

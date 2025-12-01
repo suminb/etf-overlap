@@ -1,0 +1,98 @@
+{
+  "symbol": "BIL",
+  "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+  "last_updated": "2025-12-01T08:57:20.119Z",
+  "profile": {
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0014000000000000002,
+    "inception_date": "May 25, 2007",
+    "index_tracked": "Bloomberg US Treasury - Bills (1-3 M)",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=BIL",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 43673900000,
+    "shares_outstanding": 476400000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 04-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 04-DEC-2025",
+      "weight": 9.35
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 11-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 11-DEC-2025",
+      "weight": 9.11
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 26-DEC-2025",
+      "weight": 8.5
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 22-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 22-JAN-2026",
+      "weight": 7.07
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 23-DEC-2025",
+      "weight": 6.38
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 6.38
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 09-DEC-2025",
+      "weight": 5.92
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 08-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 08-JAN-2026",
+      "weight": 5.9
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 15-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 15-JAN-2026",
+      "weight": 5.9
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 29-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 29-JAN-2026",
+      "weight": 5.89
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 16-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 16-DEC-2025",
+      "weight": 5.85
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 02-JAN-2026",
+      "weight": 5.74
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 5.62
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 30-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 30-DEC-2025",
+      "weight": 2.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 06-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 06-JAN-2026",
+      "weight": 2.36
+    }
+  ]
+}

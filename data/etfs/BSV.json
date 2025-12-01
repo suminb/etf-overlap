@@ -1,0 +1,98 @@
+{
+  "symbol": "BSV",
+  "name": "Vanguard Short-Term Bond ETF",
+  "last_updated": "2025-12-01T08:58:52.771Z",
+  "profile": {
+    "name": "Vanguard Short-Term Bond ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Apr 03, 2007",
+    "index_tracked": "Bloomberg US Government/Credit - Float Adjusted (1-5 Y)",
+    "home_page": "https://advisors.vanguard.com/investments/products/bsv/vanguard-short-term-bond-etf",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 41462500000,
+    "shares_outstanding": 524000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.75
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-OCT-2030",
+      "name": "United States Treasury Notes 3.625% 31-OCT-2030",
+      "weight": 1.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 28-FEB-2030",
+      "name": "United States Treasury Notes 4.0% 28-FEB-2030",
+      "weight": 0.91
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 30-SEP-2030",
+      "name": "United States Treasury Notes 3.625% 30-SEP-2030",
+      "weight": 0.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 31-OCT-2027",
+      "name": "United States Treasury Notes 3.5% 31-OCT-2027",
+      "weight": 0.82
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-AUG-2029",
+      "name": "United States Treasury Notes 3.625% 31-AUG-2029",
+      "weight": 0.81
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 31-JUL-2029",
+      "name": "United States Treasury Notes 4.0% 31-JUL-2029",
+      "weight": 0.79
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 31-JUL-2030",
+      "name": "United States Treasury Notes 3.875% 31-JUL-2030",
+      "weight": 0.79
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 30-SEP-2029",
+      "name": "United States Treasury Notes 3.5% 30-SEP-2029",
+      "weight": 0.77
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 30-JUN-2029",
+      "name": "United States Treasury Notes 4.25% 30-JUN-2029",
+      "weight": 0.75
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-AUG-2030",
+      "name": "United States Treasury Notes 3.625% 31-AUG-2030",
+      "weight": 0.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0625 15-AUG-2030",
+      "name": "United States Treasury Notes 0.625% 15-AUG-2030",
+      "weight": 0.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 375 30-JUN-2027",
+      "name": "United States Treasury Notes 3.75% 30-JUN-2027",
+      "weight": 0.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-JUN-2027",
+      "name": "United States Treasury Notes 4.625% 15-JUN-2027",
+      "weight": 0.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 31-MAR-2030",
+      "name": "United States Treasury Notes 4.0% 31-MAR-2030",
+      "weight": 0.69
+    }
+  ]
+}
