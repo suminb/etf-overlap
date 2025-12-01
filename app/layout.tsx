@@ -7,6 +7,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "ETF Overlap Analysis",
   description: "Compare multiple ETFs and visualize their weighted overlap",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 const GA_MEASUREMENT_ID = "G-PHV3JS8LLP";
