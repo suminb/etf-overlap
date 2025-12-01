@@ -636,9 +636,10 @@ function OverlapPage() {
                         style={{
                           padding: "1.5rem",
                           textAlign: "center",
-                          backgroundColor: getHeatmapColor(value),
-                          color: getTextColor(value),
-                          fontWeight: i === j ? "bold" : "normal",
+                          backgroundColor:
+                            i === j ? "#f9fafb" : getHeatmapColor(value),
+                          color: i === j ? "#9ca3af" : getTextColor(value),
+                          fontWeight: i === j ? "normal" : "normal",
                           fontSize: "1.1rem",
                           border: "1px solid #e5e7eb",
                           transition: "all 0.2s",
@@ -646,7 +647,7 @@ function OverlapPage() {
                         }}
                         title={
                           i === j
-                            ? `${etf1}: 100%`
+                            ? `${etf1}`
                             : `Click to see ${etf1} vs ${data.etfs[j]} overlap details`
                         }
                         onMouseEnter={(e) => {
@@ -661,7 +662,7 @@ function OverlapPage() {
                           e.currentTarget.style.boxShadow = "none";
                         }}
                       >
-                        {value.toFixed(1)}%
+                        {i === j ? "—" : `${value.toFixed(1)}%`}
                       </td>
                     ))}
                   </tr>
@@ -749,7 +750,6 @@ function OverlapPage() {
               <li>{t("highOverlap")}</li>
               <li>{t("mediumOverlap")}</li>
               <li>{t("lowOverlap")}</li>
-              <li>{t("diagonal")}</li>
               <li>{t("clickCell")}</li>
             </ul>
           </div>

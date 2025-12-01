@@ -20,7 +20,6 @@
   "highOverlap": "High overlap (60-100%): Very similar holdings - minimal diversification benefit",
   "mediumOverlap": "Medium overlap (30-60%): Some shared exposure with room for diversification",
   "lowOverlap": "Low overlap (0-30%): Different holdings - good diversification potential",
-  "diagonal": "Diagonal (100%): Each ETF compared to itself",
   "clickCell": "💡 Click any cell to see detailed overlapping holdings",
   "overlapDetails": "{{etf1}} ↔ {{etf2}} Overlap Details",
   "close": "Close",
