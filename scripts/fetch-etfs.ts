@@ -73,6 +73,26 @@ if (!fs.existsSync(ETFS_DIR)) {
 function extractProfileData($: any): ETFProfile {
   const profile: ETFProfile = {};
 
+  // Extract ETF name from page title or h1
+  const pageTitle = $("title").text();
+  const h1Text = $("h1").first().text().trim();
+
+  // Try to extract name from title (format: "SYMBOL - Name | ETF Database")
+  const titleMatch = pageTitle.match(/^([A-Z]+)\s*-\s*(.+?)\s*\|/);
+  if (titleMatch) {
+    profile.name = titleMatch[2].trim();
+  } else if (h1Text) {
+    // Fallback to h1 text, remove ticker and clean up
+    // Handle formats like "SPY\nSPDR S&P 500" or "SPY - SPDR S&P 500"
+    const cleanName = h1Text
+      .replace(/^[A-Z]+[\s\n-]+/, "") // Remove ticker at start
+      .replace(/\n/g, " ") // Replace newlines with spaces
+      .trim();
+    if (cleanName) {
+      profile.name = cleanName;
+    }
+  }
+
   // Extract from Vitals section
   $(".ticker-assets .row").each((_: any, row: any) => {
     const $row = $(row);
