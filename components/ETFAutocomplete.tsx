@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef, KeyboardEvent } from "react";
+import { flushSync } from "react-dom";
 import { useTranslation } from "react-i18next";
 
 interface ETFListItem {
@@ -12,18 +13,21 @@ interface ETFAutocompleteProps {
   selectedETFs: string[];
   onChange: (etfs: string[]) => void;
   disabled?: boolean;
+  onSubmit?: () => void;
 }
 
 export default function ETFAutocomplete({
   selectedETFs,
   onChange,
   disabled,
+  onSubmit,
 }: ETFAutocompleteProps) {
   const { t } = useTranslation();
   const [inputValue, setInputValue] = useState("");
   const [suggestions, setSuggestions] = useState<ETFListItem[]>([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(-1);
+  const [shouldFocus, setShouldFocus] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
@@ -76,19 +80,28 @@ export default function ETFAutocomplete({
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const addETF = (symbol: string) => {
-    if (!selectedETFs.includes(symbol)) {
-      onChange([...selectedETFs, symbol]);
-    }
-    setInputValue("");
-    setSuggestions([]);
-    setShowSuggestions(false);
-    setSelectedIndex(-1);
-
-    // Focus after React finishes rendering
-    setTimeout(() => {
+  // Handle focus restoration after adding ETF
+  useEffect(() => {
+    if (shouldFocus && !disabled) {
       inputRef.current?.focus();
-    }, 0);
+      setShouldFocus(false);
+    }
+  }, [shouldFocus, disabled]);
+
+  const addETF = (symbol: string) => {
+    // Use flushSync to ensure state updates are applied synchronously
+    flushSync(() => {
+      if (!selectedETFs.includes(symbol)) {
+        onChange([...selectedETFs, symbol]);
+      }
+      setInputValue("");
+      setSuggestions([]);
+      setShowSuggestions(false);
+      setSelectedIndex(-1);
+    });
+
+    // Set flag to restore focus after re-render
+    setShouldFocus(true);
   };
 
   const removeETF = (symbol: string) => {
@@ -111,6 +124,13 @@ export default function ETFAutocomplete({
       } else if (inputValue.trim().length > 0) {
         // User pressed Enter without selecting from dropdown
         addETF(inputValue.trim().toUpperCase());
+      } else if (inputValue.trim().length === 0 && onSubmit) {
+        // Empty input + Enter = trigger calculation
+        onSubmit();
+        // Restore focus after submit
+        setTimeout(() => {
+          inputRef.current?.focus();
+        }, 0);
       }
     } else if (e.key === " ") {
       // Space key - add current input as tag

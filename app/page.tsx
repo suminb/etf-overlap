@@ -109,22 +109,24 @@ function OverlapPage() {
   const [isInitialized, setIsInitialized] = useState(false);
   const [hasAttemptedCalculation, setHasAttemptedCalculation] = useState(false);
 
-  // Load tickers from URL on mount
+  // Load tickers from URL on mount (only once)
   useEffect(() => {
     const urlTickers = searchParams.get("tickers");
     if (urlTickers) {
       const tickerList = urlTickers.split(",").filter(Boolean);
-      if (tickerList.length > 0) {
+      if (tickerList.length >= 2) {
         setTickers(tickerList);
         setIsInitialized(true);
-        setHasAttemptedCalculation(false); // Reset when loading from URL
+        // Auto-calculate only when loading from URL
+        calculateOverlap(tickerList);
         return;
       }
     }
 
     // Don't load from localStorage - start with empty state
     setIsInitialized(true);
-  }, [searchParams]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // Only run once on mount
 
   // Update URL when tickers change (after initialization)
   useEffect(() => {
@@ -180,24 +182,7 @@ function OverlapPage() {
     }
   }, []);
 
-  // Auto-calculate when tickers are loaded from URL
-  useEffect(() => {
-    if (
-      isInitialized &&
-      tickers.length >= 2 &&
-      !hasAttemptedCalculation &&
-      !loading
-    ) {
-      setHasAttemptedCalculation(true);
-      calculateOverlap(tickers);
-    }
-  }, [
-    isInitialized,
-    tickers,
-    hasAttemptedCalculation,
-    loading,
-    calculateOverlap,
-  ]);
+  // No auto-calculation - user must click the button manually
 
   const getHeatmapColor = (value: number): string => {
     // Color scale: 0% = white, 100% = dark blue
@@ -248,7 +233,13 @@ function OverlapPage() {
         <ETFAutocomplete
           selectedETFs={tickers}
           onChange={setTickers}
-          disabled={loading}
+          disabled={false}
+          onSubmit={() => {
+            if (tickers.length >= 2 && !loading) {
+              setHasAttemptedCalculation(true);
+              calculateOverlap(tickers);
+            }
+          }}
         />
 
         <div style={{ marginTop: "1rem" }}>
