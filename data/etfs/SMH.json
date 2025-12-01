@@ -1,0 +1,100 @@
+{
+  "symbol": "SMH",
+  "last_updated": "2025-12-01T05:34:55.671Z",
+  "profile": {
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "May 05, 2000",
+    "index_tracked": "MVIS US Listed Semiconductor 25",
+    "home_page": "http://www.vaneck.com/funds/SMH.aspx",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Semiconductors",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 34166100000,
+    "shares_outstanding": 100500000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 17.66
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 9.63
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 9.17
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 6.35
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 5.88
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 5.69
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 5.61
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 5.57
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 5.4
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 4.82
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 4.07
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 4
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 3.48
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "weight": 2.57
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "weight": 2.38
+    }
+  ]
+}

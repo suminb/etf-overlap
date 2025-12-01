@@ -1,6 +1,13 @@
 {
   "etfs": [
     {
+      "symbol": "AAAU",
+      "issuer": "Goldman Sachs",
+      "expense_ratio": 0.0018,
+      "aum": 2340100000,
+      "last_updated": "2025-12-01T04:55:39.033Z"
+    },
+    {
       "symbol": "AFK",
       "issuer": "VanEck",
       "expense_ratio": 0.0088,
@@ -12,7 +19,7 @@
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.0095,
       "aum": 1156100000,
-      "last_updated": "2025-11-30T17:38:08.735Z"
+      "last_updated": "2025-12-01T04:59:14.213Z"
     },
     {
       "symbol": "AMZU",
@@ -27,6 +34,20 @@
       "expense_ratio": 0.0075,
       "aum": 7536500000,
       "last_updated": "2025-11-30T16:57:19.396Z"
+    },
+    {
+      "symbol": "BAR",
+      "issuer": "GraniteShares",
+      "expense_ratio": 0.0017000000000000001,
+      "aum": 1429500000,
+      "last_updated": "2025-12-01T04:58:37.638Z"
+    },
+    {
+      "symbol": "BCI",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.0026,
+      "aum": 1942200000,
+      "last_updated": "2025-12-01T04:56:24.868Z"
     },
     {
       "symbol": "BETZ",
@@ -57,6 +78,13 @@
       "last_updated": "2025-11-29T17:01:22.940Z"
     },
     {
+      "symbol": "BNDX",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 73942200000,
+      "last_updated": "2025-12-01T05:02:34.793Z"
+    },
+    {
       "symbol": "BNO",
       "issuer": "Marygold",
       "expense_ratio": 0.01,
@@ -78,11 +106,32 @@
       "last_updated": "2025-11-30T16:51:42.208Z"
     },
     {
+      "symbol": "CMDT",
+      "issuer": "Allianz Investment Management LLC",
+      "expense_ratio": 0.006500000000000001,
+      "aum": 582300000,
+      "last_updated": "2025-12-01T05:01:09.102Z"
+    },
+    {
       "symbol": "CONY",
       "issuer": "Tidal Financial Group",
       "expense_ratio": 0.012199999999999999,
       "aum": 869500000,
       "last_updated": "2025-11-30T14:15:44.328Z"
+    },
+    {
+      "symbol": "DBA",
+      "issuer": "Invesco",
+      "expense_ratio": 0.009300000000000001,
+      "aum": 739000000,
+      "last_updated": "2025-12-01T05:00:15.385Z"
+    },
+    {
+      "symbol": "DBC",
+      "issuer": "Invesco",
+      "expense_ratio": 0.0077,
+      "aum": 1234000000,
+      "last_updated": "2025-12-01T04:59:01.961Z"
     },
     {
       "symbol": "DDM",
@@ -99,11 +148,25 @@
       "last_updated": "2025-11-30T16:57:33.043Z"
     },
     {
+      "symbol": "DGRO",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0008,
+      "aum": 35271600000,
+      "last_updated": "2025-12-01T05:35:33.172Z"
+    },
+    {
       "symbol": "DIA",
       "issuer": "State Street",
       "expense_ratio": 0.0016,
       "aum": 41084600000,
       "last_updated": "2025-11-30T17:20:51.951Z"
+    },
+    {
+      "symbol": "DJP",
+      "issuer": "Barclays Capital",
+      "expense_ratio": 0.006999999999999999,
+      "aum": 670400000,
+      "last_updated": "2025-12-01T05:00:28.113Z"
     },
     {
       "symbol": "DOG",
@@ -132,6 +195,13 @@
       "expense_ratio": 0.009300000000000001,
       "aum": 112800000,
       "last_updated": "2025-12-01T02:47:18.313Z"
+    },
+    {
+      "symbol": "EFA",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0032,
+      "aum": 67523100000,
+      "last_updated": "2025-12-01T05:27:51.639Z"
     },
     {
       "symbol": "ESPO",
@@ -204,6 +274,13 @@
       "last_updated": "2025-11-30T17:26:50.261Z"
     },
     {
+      "symbol": "FTGC",
+      "issuer": "First Trust",
+      "expense_ratio": 0.0098,
+      "aum": 2141500000,
+      "last_updated": "2025-12-01T04:56:06.655Z"
+    },
+    {
       "symbol": "FXD",
       "issuer": "First Trust",
       "expense_ratio": 0.0060999999999999995,
@@ -236,7 +313,35 @@
       "issuer": "State Street",
       "expense_ratio": 0.004,
       "aum": 136568000000,
-      "last_updated": "2025-11-29T17:20:11.863Z"
+      "last_updated": "2025-12-01T04:53:46.661Z"
+    },
+    {
+      "symbol": "GLDM",
+      "issuer": "State Street",
+      "expense_ratio": 0.001,
+      "aum": 23424000000,
+      "last_updated": "2025-12-01T04:54:23.074Z"
+    },
+    {
+      "symbol": "GLTR",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.006,
+      "aum": 2160500000,
+      "last_updated": "2025-12-01T04:55:51.065Z"
+    },
+    {
+      "symbol": "GOVT",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0005,
+      "aum": 33491300000,
+      "last_updated": "2025-12-01T05:34:17.911Z"
+    },
+    {
+      "symbol": "GSG",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0075,
+      "aum": 1062400000,
+      "last_updated": "2025-12-01T04:59:26.166Z"
     },
     {
       "symbol": "HERO",
@@ -246,11 +351,60 @@
       "last_updated": "2025-11-30T16:52:43.997Z"
     },
     {
+      "symbol": "HGER",
+      "issuer": "Harbor",
+      "expense_ratio": 0.0068000000000000005,
+      "aum": 1347800000,
+      "last_updated": "2025-12-01T04:58:49.862Z"
+    },
+    {
+      "symbol": "IAU",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0025,
+      "aum": 64205000000,
+      "last_updated": "2025-12-01T04:53:58.872Z"
+    },
+    {
+      "symbol": "IAUM",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0009,
+      "aum": 5512200000,
+      "last_updated": "2025-12-01T04:54:47.802Z"
+    },
+    {
+      "symbol": "IBIT",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0012,
+      "aum": 68925300000,
+      "last_updated": "2025-12-01T05:27:26.292Z"
+    },
+    {
       "symbol": "IBUY",
       "issuer": "Amplify Investments",
       "expense_ratio": 0.006500000000000001,
       "aum": 141300000,
       "last_updated": "2025-11-30T16:52:31.354Z"
+    },
+    {
+      "symbol": "IEF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 45512400000,
+      "last_updated": "2025-12-01T05:29:11.659Z"
+    },
+    {
+      "symbol": "IJH",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0005,
+      "aum": 100272000000,
+      "last_updated": "2025-12-01T05:03:37.989Z"
+    },
+    {
+      "symbol": "IJR",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0006,
+      "aum": 87600400000,
+      "last_updated": "2025-12-01T05:02:59.559Z"
     },
     {
       "symbol": "INCO",
@@ -281,6 +435,27 @@
       "last_updated": "2025-11-30T16:56:13.258Z"
     },
     {
+      "symbol": "ITOT",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0003,
+      "aum": 79355000000,
+      "last_updated": "2025-12-01T05:02:47.472Z"
+    },
+    {
+      "symbol": "IUSB",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0006,
+      "aum": 33969800000,
+      "last_updated": "2025-12-01T05:34:30.030Z"
+    },
+    {
+      "symbol": "IVE",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0018,
+      "aum": 46736000000,
+      "last_updated": "2025-12-01T05:29:36.660Z"
+    },
+    {
       "symbol": "IVV",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0003,
@@ -295,11 +470,25 @@
       "last_updated": "2025-11-30T17:23:18.721Z"
     },
     {
+      "symbol": "IWM",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0019,
+      "aum": 71103800000,
+      "last_updated": "2025-12-01T05:26:36.161Z"
+    },
+    {
       "symbol": "IWX",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.002,
       "aum": 2989800000,
       "last_updated": "2025-11-30T17:22:36.477Z"
+    },
+    {
+      "symbol": "IXUS",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 50256400000,
+      "last_updated": "2025-12-01T05:30:12.990Z"
     },
     {
       "symbol": "IYC",
@@ -330,6 +519,13 @@
       "last_updated": "2025-12-01T01:52:18.106Z"
     },
     {
+      "symbol": "JPST",
+      "issuer": "JP Morgan",
+      "expense_ratio": 0.0018,
+      "aum": 35118500000,
+      "last_updated": "2025-12-01T05:35:08.425Z"
+    },
+    {
       "symbol": "KOLD",
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.0095,
@@ -344,6 +540,13 @@
       "last_updated": "2025-11-30T17:38:59.240Z"
     },
     {
+      "symbol": "LQD",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0014000000000000002,
+      "aum": 33273600000,
+      "last_updated": "2025-12-01T05:33:40.372Z"
+    },
+    {
       "symbol": "MGC",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
@@ -355,7 +558,7 @@
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
       "aum": 32220000000,
-      "last_updated": "2025-11-30T17:21:03.215Z"
+      "last_updated": "2025-12-01T05:33:28.398Z"
     },
     {
       "symbol": "MGV",
@@ -414,6 +617,27 @@
       "last_updated": "2025-11-30T16:53:17.093Z"
     },
     {
+      "symbol": "OUNZ",
+      "issuer": "VanEck",
+      "expense_ratio": 0.0025,
+      "aum": 2357300000,
+      "last_updated": "2025-12-01T04:55:26.534Z"
+    },
+    {
+      "symbol": "PALL",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.006,
+      "aum": 797800000,
+      "last_updated": "2025-12-01T05:00:02.446Z"
+    },
+    {
+      "symbol": "PBDC",
+      "issuer": "Franklin Templeton",
+      "expense_ratio": 0.1349,
+      "aum": 262600000,
+      "last_updated": "2025-12-01T04:55:02.418Z"
+    },
+    {
       "symbol": "PEJ",
       "issuer": "Invesco",
       "expense_ratio": 0.005699999999999999,
@@ -426,6 +650,13 @@
       "expense_ratio": 0.0058,
       "aum": 6465600000,
       "last_updated": "2025-11-30T16:56:26.372Z"
+    },
+    {
+      "symbol": "PPLT",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.006,
+      "aum": 1934900000,
+      "last_updated": "2025-12-01T04:58:25.534Z"
     },
     {
       "symbol": "PSQ",
@@ -454,6 +685,27 @@
       "expense_ratio": 0.002,
       "aum": 398258000000,
       "last_updated": "2025-12-01T02:30:42.858Z"
+    },
+    {
+      "symbol": "QQQM",
+      "issuer": "Invesco",
+      "expense_ratio": 0.0015,
+      "aum": 68920900000,
+      "last_updated": "2025-12-01T05:27:01.457Z"
+    },
+    {
+      "symbol": "QUAL",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 47566700000,
+      "last_updated": "2025-12-01T05:29:48.968Z"
+    },
+    {
+      "symbol": "RSP",
+      "issuer": "Invesco",
+      "expense_ratio": 0.002,
+      "aum": 73886000000,
+      "last_updated": "2025-12-01T05:26:23.877Z"
     },
     {
       "symbol": "RSPD",
@@ -495,7 +747,21 @@
       "issuer": "The Charles Schwab Corp.",
       "expense_ratio": 0.0006,
       "aum": 70346500000,
-      "last_updated": "2025-12-01T01:52:01.963Z"
+      "last_updated": "2025-12-01T05:26:48.370Z"
+    },
+    {
+      "symbol": "SCHF",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0003,
+      "aum": 52307600000,
+      "last_updated": "2025-12-01T05:31:03.298Z"
+    },
+    {
+      "symbol": "SCHG",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0004,
+      "aum": 51927500000,
+      "last_updated": "2025-12-01T05:30:51.083Z"
     },
     {
       "symbol": "SCHH",
@@ -519,6 +785,13 @@
       "last_updated": "2025-12-01T02:19:11.646Z"
     },
     {
+      "symbol": "SGOL",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.0017000000000000001,
+      "aum": 6977700000,
+      "last_updated": "2025-12-01T04:54:35.656Z"
+    },
+    {
       "symbol": "SH",
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.0089,
@@ -531,6 +804,27 @@
       "expense_ratio": 0.005,
       "aum": 4766200000,
       "last_updated": "2025-11-30T16:56:39.332Z"
+    },
+    {
+      "symbol": "SIVR",
+      "issuer": "Abrdn Plc",
+      "expense_ratio": 0.003,
+      "aum": 3593000000,
+      "last_updated": "2025-12-01T04:55:14.578Z"
+    },
+    {
+      "symbol": "SLV",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.005,
+      "aum": 25644200000,
+      "last_updated": "2025-12-01T04:54:10.882Z"
+    },
+    {
+      "symbol": "SMH",
+      "issuer": "VanEck",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 34166100000,
+      "last_updated": "2025-12-01T05:34:55.671Z"
     },
     {
       "symbol": "SOXL",
@@ -552,6 +846,13 @@
       "expense_ratio": 0.004699999999999999,
       "aum": 249800000,
       "last_updated": "2025-12-01T02:45:00.239Z"
+    },
+    {
+      "symbol": "SPDW",
+      "issuer": "State Street",
+      "expense_ratio": 0.0003,
+      "aum": 31972900000,
+      "last_updated": "2025-12-01T05:33:16.356Z"
     },
     {
       "symbol": "SPXL",
@@ -580,6 +881,13 @@
       "expense_ratio": 0.0009,
       "aum": 691455000000,
       "last_updated": "2025-11-29T16:52:09.506Z"
+    },
+    {
+      "symbol": "SPYM",
+      "issuer": "State Street",
+      "expense_ratio": 0.0002,
+      "aum": 95970400000,
+      "last_updated": "2025-12-01T05:03:25.425Z"
     },
     {
       "symbol": "SQQQ",
@@ -635,7 +943,7 @@
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
       "aum": 50181300000,
-      "last_updated": "2025-11-29T16:58:25.083Z"
+      "last_updated": "2025-12-01T05:30:01.342Z"
     },
     {
       "symbol": "TMF",
@@ -719,7 +1027,7 @@
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.0095,
       "aum": 881500000,
-      "last_updated": "2025-11-30T17:38:47.871Z"
+      "last_updated": "2025-12-01T04:59:50.458Z"
     },
     {
       "symbol": "UPRO",
@@ -736,6 +1044,27 @@
       "last_updated": "2025-11-30T17:27:31.235Z"
     },
     {
+      "symbol": "USO",
+      "issuer": "Marygold",
+      "expense_ratio": 0.006,
+      "aum": 916100000,
+      "last_updated": "2025-12-01T04:59:38.063Z"
+    },
+    {
+      "symbol": "VB",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0005,
+      "aum": 68081400000,
+      "last_updated": "2025-12-01T05:27:14.135Z"
+    },
+    {
+      "symbol": "VCIT",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 58746400000,
+      "last_updated": "2025-12-01T05:31:28.468Z"
+    },
+    {
       "symbol": "VCR",
       "issuer": "Vanguard",
       "expense_ratio": 0.0009,
@@ -743,11 +1072,60 @@
       "last_updated": "2025-11-30T14:04:58.043Z"
     },
     {
+      "symbol": "VEU",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0004,
+      "aum": 51799200000,
+      "last_updated": "2025-12-01T05:30:37.973Z"
+    },
+    {
+      "symbol": "VGIT",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 35852000000,
+      "last_updated": "2025-12-01T05:35:45.228Z"
+    },
+    {
+      "symbol": "VIG",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0005,
+      "aum": 100793000000,
+      "last_updated": "2025-12-01T05:03:50.746Z"
+    },
+    {
+      "symbol": "VNQ",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0013,
+      "aum": 34057700000,
+      "last_updated": "2025-12-01T05:34:42.590Z"
+    },
+    {
+      "symbol": "VO",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0004,
+      "aum": 88552600000,
+      "last_updated": "2025-12-01T05:01:29.298Z"
+    },
+    {
+      "symbol": "VONG",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 35164000000,
+      "last_updated": "2025-12-01T05:35:20.803Z"
+    },
+    {
       "symbol": "VOO",
       "issuer": "Vanguard",
       "expense_ratio": 0.0003,
       "aum": 803941000000,
       "last_updated": "2025-11-29T17:01:03.267Z"
+    },
+    {
+      "symbol": "VT",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0006,
+      "aum": 57384700000,
+      "last_updated": "2025-12-01T05:31:16.191Z"
     },
     {
       "symbol": "VTEB",
@@ -764,11 +1142,25 @@
       "last_updated": "2025-11-29T17:01:57.106Z"
     },
     {
+      "symbol": "VV",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0004,
+      "aum": 46664600000,
+      "last_updated": "2025-12-01T05:29:24.298Z"
+    },
+    {
+      "symbol": "VWO",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 103304000000,
+      "last_updated": "2025-12-01T05:04:03.143Z"
+    },
+    {
       "symbol": "VYM",
       "issuer": "Vanguard",
       "expense_ratio": 0.0006,
       "aum": 67657700000,
-      "last_updated": "2025-12-01T04:23:41.131Z"
+      "last_updated": "2025-12-01T05:27:39.063Z"
     },
     {
       "symbol": "WAR",
@@ -785,11 +1177,32 @@
       "last_updated": "2025-11-30T16:56:53.885Z"
     },
     {
+      "symbol": "XLE",
+      "issuer": "State Street",
+      "expense_ratio": 0.0008,
+      "aum": 26732200000,
+      "last_updated": "2025-12-01T04:49:38.546Z"
+    },
+    {
+      "symbol": "XLF",
+      "issuer": "State Street",
+      "expense_ratio": 0.0008,
+      "aum": 51536000000,
+      "last_updated": "2025-12-01T05:30:25.310Z"
+    },
+    {
       "symbol": "XLG",
       "issuer": "Invesco",
       "expense_ratio": 0.002,
       "aum": 11509900000,
       "last_updated": "2025-11-30T17:21:26.408Z"
+    },
+    {
+      "symbol": "XLK",
+      "issuer": "State Street",
+      "expense_ratio": 0.0008,
+      "aum": 91707600000,
+      "last_updated": "2025-12-01T05:03:12.409Z"
     },
     {
       "symbol": "XLY",

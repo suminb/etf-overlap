@@ -1,0 +1,98 @@
+{
+  "symbol": "SPDW",
+  "last_updated": "2025-12-01T05:33:16.356Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Apr 20, 2007",
+    "index_tracked": "S&P Developed Ex-U.S. BMI Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-world-ex-us-etf-SPDW",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 31972900000,
+    "shares_outstanding": 745000000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.37
+    },
+    {
+      "symbol": "SMSN",
+      "name": "Samsung Electronics Co., Ltd. Sponsored GDR",
+      "weight": 1.17
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.01
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.96
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.92
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 0.89
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.85
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 0.84
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.76
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.75
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.69
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify, Inc. Class A",
+      "weight": 0.67
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 0.67
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 0.66
+    }
+  ]
+}

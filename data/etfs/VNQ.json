@@ -1,0 +1,100 @@
+{
+  "symbol": "VNQ",
+  "last_updated": "2025-12-01T05:34:42.590Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0013,
+    "inception_date": "Sep 23, 2004",
+    "index_tracked": "MSCI US Investable Market Real Estate 25/50 Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vnq/vanguard-real-estate-etf",
+    "category": "Real Estate",
+    "asset_class": "Real Estate",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Real Estate",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 34057700000,
+    "shares_outstanding": 375800000
+  },
+  "holdings": [
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 8
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "weight": 7.78
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "weight": 5.63
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 5.59
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 3.88
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 3.88
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 3.54
+    },
+    {
+      "symbol": "CBRE",
+      "name": "CBRE Group, Inc. Class A",
+      "weight": 3.07
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "weight": 2.97
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "weight": 2.65
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "weight": 2.25
+    },
+    {
+      "symbol": "IRM",
+      "name": "Iron Mountain, Inc.",
+      "weight": 2.05
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "weight": 1.98
+    },
+    {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "weight": 1.95
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "weight": 1.91
+    }
+  ]
+}

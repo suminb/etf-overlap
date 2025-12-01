@@ -1,0 +1,26 @@
+{
+  "symbol": "IBIT",
+  "last_updated": "2025-12-01T05:27:26.292Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0012,
+    "inception_date": "Jan 05, 2024",
+    "index_tracked": "CME CF Benchmarks Bitcoin Reference Rate-New York Variant",
+    "home_page": "https://www.ishares.com/us/products/333011/ishares-bitcoin-trust",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 68925300000,
+    "shares_outstanding": 1368100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "DBA",
+  "last_updated": "2025-12-01T05:00:15.385Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.009300000000000001,
+    "inception_date": "Jan 05, 2007",
+    "index_tracked": "DBIQ Diversified Agriculture Index TR",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=DBA",
+    "category": "Agricultural Commodities",
+    "asset_class": "Commodity",
+    "aum": 739000000,
+    "shares_outstanding": 28600000
+  },
+  "holdings": [
+    {
+      "symbol": "AGPXX",
+      "name": "Short Term Investments Trust Government & Agency Portfolio Institutional",
+      "weight": 64.99
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 19.38
+    },
+    {
+      "symbol": "TBLL",
+      "name": "Invesco Short Term Treasury ETF",
+      "weight": 15.63
+    }
+  ]
+}

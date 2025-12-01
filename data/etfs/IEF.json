@@ -1,0 +1,96 @@
+{
+  "symbol": "IEF",
+  "last_updated": "2025-12-01T05:29:11.659Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Jul 22, 2002",
+    "index_tracked": "ICE BofA US Treasury (7-10 Y)",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IEF.htm?qt=IEF",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 45512400000,
+    "shares_outstanding": 466500000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-FEB-2035",
+      "name": "United States Treasury Notes 4.625% 15-FEB-2035",
+      "weight": 9
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-MAY-2034",
+      "name": "United States Treasury Notes 4.375% 15-MAY-2034",
+      "weight": 8.85
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 15-FEB-2034",
+      "name": "United States Treasury Notes 4.0% 15-FEB-2034",
+      "weight": 8.78
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 8.76
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 15-NOV-2033",
+      "name": "United States Treasury Notes 4.5% 15-NOV-2033",
+      "weight": 8.75
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-AUG-2035",
+      "name": "United States Treasury Notes 4.25% 15-AUG-2035",
+      "weight": 8.74
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2034",
+      "weight": 8.52
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-MAY-2035",
+      "name": "United States Treasury Notes 4.25% 15-MAY-2035",
+      "weight": 8.24
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2033",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2033",
+      "weight": 8.07
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3375 15-MAY-2033",
+      "name": "United States Treasury Notes 3.375% 15-MAY-2033",
+      "weight": 6.8
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 15-FEB-2033",
+      "name": "United States Treasury Notes 3.5% 15-FEB-2033",
+      "weight": 6.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 15-NOV-2032",
+      "name": "United States Treasury Notes 4.125% 15-NOV-2032",
+      "weight": 3.8
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 30-SEP-2032",
+      "name": "United States Treasury Notes 3.875% 30-SEP-2032",
+      "weight": 1.91
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.69
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 375 31-OCT-2032",
+      "name": "United States Treasury Notes 3.75% 31-OCT-2032",
+      "weight": 0.53
+    }
+  ]
+}

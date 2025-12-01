@@ -1,0 +1,96 @@
+{
+  "symbol": "BNDX",
+  "last_updated": "2025-12-01T05:02:34.793Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Jun 04, 2013",
+    "index_tracked": "Bloomberg Global Aggregate x USD Float Adjusted RIC Capped",
+    "home_page": "https://advisors.vanguard.com/investments/products/bndx/vanguard-total-international-bond-etf",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 73942200000,
+    "shares_outstanding": 1492900000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 4.05
+    },
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 0.97
+    },
+    {
+      "symbol": "FRANCE 275 25-FEB-2029",
+      "name": "France 2.75% 25-FEB-2029",
+      "weight": 0.42
+    },
+    {
+      "symbol": "GOVERNMENT OF UNITED KINGDOM 4375 07-MAR-2030",
+      "name": "Government of United Kingdom 4.375% 07-MAR-2030",
+      "weight": 0.37
+    },
+    {
+      "symbol": "TREASURY GILT 4125 22-JUL-2029",
+      "name": "Treasury Gilt 4.125% 22-JUL-2029",
+      "weight": 0.36
+    },
+    {
+      "symbol": "GERMANY 26 15-AUG-2035",
+      "name": "Germany 2.6% 15-AUG-2035",
+      "weight": 0.34
+    },
+    {
+      "symbol": "FRANCE 30 25-NOV-2034",
+      "name": "France 3.0% 25-NOV-2034",
+      "weight": 0.33
+    },
+    {
+      "symbol": "TREASURY GILT 4125 29-JAN-2027",
+      "name": "Treasury Gilt 4.125% 29-JAN-2027",
+      "weight": 0.32
+    },
+    {
+      "symbol": "GERMANY 22 13-APR-2028",
+      "name": "Germany 2.2% 13-APR-2028",
+      "weight": 0.32
+    },
+    {
+      "symbol": "TREASURY GILT 375 29-JAN-2038",
+      "name": "Treasury Gilt 3.75% 29-JAN-2038",
+      "weight": 0.31
+    },
+    {
+      "symbol": "FRANCE 00 25-FEB-2027",
+      "name": "France 0.0% 25-FEB-2027",
+      "weight": 0.26
+    },
+    {
+      "symbol": "GERMANY 26 15-AUG-2034",
+      "name": "Germany 2.6% 15-AUG-2034",
+      "weight": 0.26
+    },
+    {
+      "symbol": "FRANCE 00 25-NOV-2031",
+      "name": "France 0.0% 25-NOV-2031",
+      "weight": 0.26
+    },
+    {
+      "symbol": "ITALY 335 01-JUL-2029",
+      "name": "Italy 3.35% 01-JUL-2029",
+      "weight": 0.24
+    },
+    {
+      "symbol": "FRANCE 00 25-NOV-2030",
+      "name": "France 0.0% 25-NOV-2030",
+      "weight": 0.24
+    }
+  ]
+}

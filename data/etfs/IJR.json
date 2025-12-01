@@ -1,0 +1,98 @@
+{
+  "symbol": "IJR",
+  "last_updated": "2025-12-01T05:02:59.559Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0006,
+    "inception_date": "May 22, 2000",
+    "index_tracked": "S&P SmallCap 600 Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IJR.htm?qt=IJR",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 87600400000,
+    "shares_outstanding": 729500000
+  },
+  "holdings": [
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.36
+    },
+    {
+      "symbol": "SPXC",
+      "name": "SPX Technologies, Inc.",
+      "weight": 0.71
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 0.71
+    },
+    {
+      "symbol": "DY",
+      "name": "Dycom Industries, Inc.",
+      "weight": 0.69
+    },
+    {
+      "symbol": "BWA",
+      "name": "BorgWarner Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "IDCC",
+      "name": "InterDigital, Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "SANM",
+      "name": "Sanmina Corporation",
+      "weight": 0.56
+    },
+    {
+      "symbol": "AWI",
+      "name": "Armstrong World Industries, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "CTRE",
+      "name": "CareTrust REIT, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "ARWR",
+      "name": "Arrowhead Pharmaceuticals, Inc.",
+      "weight": 0.53
+    },
+    {
+      "symbol": "AEIS",
+      "name": "Advanced Energy Industries, Inc.",
+      "weight": 0.53
+    },
+    {
+      "symbol": "CORT",
+      "name": "Corcept Therapeutics Incorporated.",
+      "weight": 0.5
+    },
+    {
+      "symbol": "JBTM",
+      "name": "JBT Marel Corporation",
+      "weight": 0.49
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo, Inc.",
+      "weight": 0.48
+    }
+  ]
+}

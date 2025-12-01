@@ -1,0 +1,26 @@
+{
+  "symbol": "SIVR",
+  "last_updated": "2025-12-01T04:55:14.578Z",
+  "profile": {
+    "issuer": "Abrdn Plc",
+    "brand": "Aberdeen",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.003,
+    "inception_date": "Jul 20, 2009",
+    "index_tracked": "LBMA Silver Price ($/ozt)",
+    "home_page": "https://www.abrdn.com/en-us/us/investor/fund-details/abrdn-physical-silver-shares-etf/share/us0032641088",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 3593000000,
+    "shares_outstanding": 73700000
+  },
+  "holdings": [
+    {
+      "symbol": "SILVER",
+      "name": "Silver",
+      "weight": 100
+    }
+  ]
+}

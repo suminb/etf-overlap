@@ -1,0 +1,26 @@
+{
+  "symbol": "AAAU",
+  "last_updated": "2025-12-01T04:55:39.033Z",
+  "profile": {
+    "issuer": "Goldman Sachs",
+    "brand": "Goldman Sachs",
+    "structure": "ETF",
+    "expense_ratio": 0.0018,
+    "inception_date": "Jul 26, 2018",
+    "index_tracked": "LBMA Gold PM Price",
+    "home_page": "https://aaauetf.com",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 2340100000,
+    "shares_outstanding": 57500000
+  },
+  "holdings": [
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "weight": 100
+    }
+  ]
+}

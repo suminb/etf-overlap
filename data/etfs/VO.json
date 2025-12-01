@@ -1,0 +1,98 @@
+{
+  "symbol": "VO",
+  "last_updated": "2025-12-01T05:01:29.298Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "CRSP US Mid Cap",
+    "home_page": "https://advisors.vanguard.com/investments/products/vo/vanguard-mid-cap-etf",
+    "category": "Mid Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 88552600000,
+    "shares_outstanding": 307600000
+  },
+  "holdings": [
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "weight": 1.3
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 1.26
+    },
+    {
+      "symbol": "NEM",
+      "name": "Newmont Corporation",
+      "weight": 0.99
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 0.96
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 0.92
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH public limited company",
+      "weight": 0.89
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 0.83
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 0.82
+    },
+    {
+      "symbol": "TEL",
+      "name": "TE Connectivity plc",
+      "weight": 0.81
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co. Class A",
+      "weight": 0.8
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 0.78
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 0.77
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "weight": 0.76
+    },
+    {
+      "symbol": "MSI",
+      "name": "Motorola Solutions, Inc.",
+      "weight": 0.75
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc. Class A",
+      "weight": 0.75
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "symbol": "HGER",
+  "last_updated": "2025-12-01T04:58:49.862Z",
+  "profile": {
+    "issuer": "Harbor",
+    "brand": "Harbor",
+    "structure": "ETF",
+    "expense_ratio": 0.0068000000000000005,
+    "inception_date": "Feb 09, 2022",
+    "index_tracked": "Quantix Commodity Index - Benchmark TR Net",
+    "home_page": "https://www.harborcapital.com/etf/HGER?category=No%20category%20possible",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1347800000,
+    "shares_outstanding": 51300000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 15-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 15-JAN-2026",
+      "weight": 15.31
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 12-FEB-2026",
+      "weight": 14.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-APR-2026",
+      "name": "United States Treasury Bills 0.0% 09-APR-2026",
+      "weight": 14.2
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 14.18
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 12-MAR-2026",
+      "weight": 13.94
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 11.09
+    },
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 8.7
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 07-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 07-MAY-2026",
+      "weight": 8.16
+    }
+  ]
+}

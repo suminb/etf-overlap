@@ -1,0 +1,99 @@
+{
+  "symbol": "PBDC",
+  "last_updated": "2025-12-01T04:55:02.418Z",
+  "profile": {
+    "issuer": "Franklin Templeton",
+    "brand": "Putnam",
+    "structure": "ETF",
+    "expense_ratio": 0.1349,
+    "inception_date": "Sep 29, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.putnam.com/individual/etf/846-putnam-bdc-income-etf",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Financials",
+    "sector_specific": "Business Development Company",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 262600000,
+    "shares_outstanding": 8500000
+  },
+  "holdings": [
+    {
+      "symbol": "ARCC",
+      "name": "Ares Capital Corporation",
+      "weight": 11.55
+    },
+    {
+      "symbol": "OBDC",
+      "name": "Blue Owl Capital Corporation",
+      "weight": 9.58
+    },
+    {
+      "symbol": "MAIN",
+      "name": "Main Street Capital Corporation",
+      "weight": 8.49
+    },
+    {
+      "symbol": "BXSL",
+      "name": "Blackstone Secured Lending Fund",
+      "weight": 8.09
+    },
+    {
+      "symbol": "HTGC",
+      "name": "Hercules Capital, Inc.",
+      "weight": 7.75
+    },
+    {
+      "symbol": "FSK",
+      "name": "FS KKR Capital Corp.",
+      "weight": 6.08
+    },
+    {
+      "symbol": "TSLX",
+      "name": "Sixth Street Specialty Lending, Inc.",
+      "weight": 5.15
+    },
+    {
+      "symbol": "GBDC",
+      "name": "Golub Capital BDC, Inc.",
+      "weight": 4.96
+    },
+    {
+      "symbol": "TRIN",
+      "name": "Trinity Capital, Inc.",
+      "weight": 4.08
+    },
+    {
+      "symbol": "BBDC",
+      "name": "Barings BDC, Inc.",
+      "weight": 3.49
+    },
+    {
+      "symbol": "KBDC",
+      "name": "Kayne Anderson BDC, Inc.",
+      "weight": 3.49
+    },
+    {
+      "symbol": "BCSF",
+      "name": "Bain Capital Specialty Finance, Inc.",
+      "weight": 3.1
+    },
+    {
+      "symbol": "CCAP",
+      "name": "Crescent Capital BDC, Inc.",
+      "weight": 3.08
+    },
+    {
+      "symbol": "SLRC",
+      "name": "SLR Investment Corp.",
+      "weight": 2.91
+    },
+    {
+      "symbol": "MSDL",
+      "name": "Morgan Stanley Direct Lending Fund",
+      "weight": 2.79
+    }
+  ]
+}

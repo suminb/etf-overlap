@@ -1,0 +1,26 @@
+{
+  "symbol": "PALL",
+  "last_updated": "2025-12-01T05:00:02.446Z",
+  "profile": {
+    "issuer": "Abrdn Plc",
+    "brand": "abrdn",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.006,
+    "inception_date": "Jan 06, 2010",
+    "index_tracked": "Palladium London PM Fix ($/ozt)",
+    "home_page": "https://www.abrdn.com/en-us/us/investor/fund-details/abrdn-physical-palladium-shares-etf/share/us0032621023",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 797800000,
+    "shares_outstanding": 6300000
+  },
+  "holdings": [
+    {
+      "symbol": "PALLADIUM",
+      "name": "Palladium",
+      "weight": 100
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "symbol": "EFA",
+  "last_updated": "2025-12-01T05:27:51.639Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0032,
+    "inception_date": "Aug 14, 2001",
+    "index_tracked": "MSCI EAFE",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EFA.htm?qt=EFA",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 67523100000,
+    "shares_outstanding": 721200000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.05
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.46
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.28
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.27
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.25
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.22
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.07
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.02
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.97
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 0.91
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 0.91
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 0.91
+    },
+    {
+      "symbol": "CBA",
+      "name": "Commonwealth Bank of Australia",
+      "weight": 0.84
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 0.84
+    }
+  ]
+}

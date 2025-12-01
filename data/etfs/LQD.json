@@ -1,0 +1,96 @@
+{
+  "symbol": "LQD",
+  "last_updated": "2025-12-01T05:33:40.372Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0014000000000000002,
+    "inception_date": "Jul 22, 2002",
+    "index_tracked": "iBoxx USD Liquid Investment Grade Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/LQD.htm?qt=LQD",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 33273600000,
+    "shares_outstanding": 298100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.53
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH COMPANIES LLC 49 01-FEB-2046",
+      "name": "Anheuser-Busch Companies, LLC. 4.9% 01-FEB-2046",
+      "weight": 0.22
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 505 25-MAR-2048",
+      "name": "CVS Health Corporation 5.05% 25-MAR-2048",
+      "weight": 0.18
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 53 19-MA",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 5.3% 19-MAY-2053",
+      "weight": 0.16
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 675 01-OCT-2037",
+      "name": "Goldman Sachs Group, Inc. 6.75% 01-OCT-2037",
+      "weight": 0.16
+    },
+    {
+      "symbol": "T-MOBILE USA INC 3875 15-APR-2030",
+      "name": "T-Mobile USA, Inc. 3.875% 15-APR-2030",
+      "weight": 0.16
+    },
+    {
+      "symbol": "ABBVIE INC 32 21-NOV-2029",
+      "name": "AbbVie Inc. 3.2% 21-NOV-2029",
+      "weight": 0.16
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
+      "name": "Bank of America Corporation 5.468% 23-JAN-2035",
+      "weight": 0.15
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 2383 21-JUL-2032",
+      "name": "Goldman Sachs Group, Inc. 2.383% 21-JUL-2032",
+      "weight": 0.15
+    },
+    {
+      "symbol": "META PLATFORMS INC 55 15-NOV-2045",
+      "name": "Meta Platforms, Inc. 5.5% 15-NOV-2045",
+      "weight": 0.14
+    },
+    {
+      "symbol": "ATT INC 35 15-SEP-2053",
+      "name": "AT&T Inc. 3.5% 15-SEP-2053",
+      "weight": 0.14
+    },
+    {
+      "symbol": "BOEING COMPANY 5805 01-MAY-2050",
+      "name": "Boeing Company 5.805% 01-MAY-2050",
+      "weight": 0.14
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH COMPANIES LLC 47 01-FEB-2036",
+      "name": "Anheuser-Busch Companies, LLC. 4.7% 01-FEB-2036",
+      "weight": 0.14
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5015 22-JUL-2033",
+      "name": "Bank of America Corporation 5.015% 22-JUL-2033",
+      "weight": 0.14
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5288 25-APR-2034",
+      "name": "Bank of America Corporation 5.288% 25-APR-2034",
+      "weight": 0.13
+    }
+  ]
+}

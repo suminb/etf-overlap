@@ -1,0 +1,100 @@
+{
+  "symbol": "XLF",
+  "last_updated": "2025-12-01T05:30:25.310Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Financial Select Sector Index",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xlf",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Financials",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 51536000000,
+    "shares_outstanding": 981100000
+  },
+  "holdings": [
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 12.4
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 11.08
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 7.56
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 6
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 4.76
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 3.63
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 3.23
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 2.67
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 2.62
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 2.48
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corp",
+      "weight": 2.06
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global, Inc.",
+      "weight": 2.05
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 1.97
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial Corp",
+      "weight": 1.82
+    },
+    {
+      "symbol": "PGR",
+      "name": "Progressive Corporation",
+      "weight": 1.76
+    }
+  ]
+}

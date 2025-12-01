@@ -1,0 +1,98 @@
+{
+  "symbol": "VWO",
+  "last_updated": "2025-12-01T05:04:03.143Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Mar 04, 2005",
+    "index_tracked": "FTSE Custom Emerging Markets All Cap China A Inclusion Net Tax (US RIC) Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/bnd/vanguard-total-bond-market-etf",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 103304000000,
+    "shares_outstanding": 1926600000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 10.67
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 4.58
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 4
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 3.46
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 1.14
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 1.04
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 0.93
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 0.92
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 0.87
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 0.87
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 0.73
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 0.64
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 0.59
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 0.56
+    },
+    {
+      "symbol": "2308",
+      "name": "Delta Electronics, Inc.",
+      "weight": 0.56
+    }
+  ]
+}

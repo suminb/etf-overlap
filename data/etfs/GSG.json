@@ -1,0 +1,18 @@
+{
+  "symbol": "GSG",
+  "last_updated": "2025-12-01T04:59:26.166Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0075,
+    "inception_date": "Jul 10, 2006",
+    "index_tracked": "S&P GSCI Total Return Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/GSG.htm?qt=GSG",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 1062400000,
+    "shares_outstanding": 46900000
+  },
+  "holdings": []
+}

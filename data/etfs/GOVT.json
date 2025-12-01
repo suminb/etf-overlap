@@ -1,0 +1,96 @@
+{
+  "symbol": "GOVT",
+  "last_updated": "2025-12-01T05:34:17.911Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Feb 14, 2012",
+    "index_tracked": "ICE U.S. Treasury Core Bond Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/GOVT.htm",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 33491300000,
+    "shares_outstanding": 1439000000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 1375 15-NOV-2031",
+      "name": "United States Treasury Notes 1.375% 15-NOV-2031",
+      "weight": 5.21
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 2625 15-FEB-2029",
+      "name": "United States Treasury Notes 2.625% 15-FEB-2029",
+      "weight": 2.89
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 275 15-FEB-2028",
+      "name": "United States Treasury Notes 2.75% 15-FEB-2028",
+      "weight": 2.55
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 225 15-FEB-2027",
+      "name": "United States Treasury Notes 2.25% 15-FEB-2027",
+      "weight": 2.28
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3125 15-NOV-2028",
+      "name": "United States Treasury Notes 3.125% 15-NOV-2028",
+      "weight": 2.04
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1875 15-FEB-2051",
+      "name": "United States Treasury Bond 1.875% 15-FEB-2051",
+      "weight": 1.73
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 2875 15-MAY-2028",
+      "name": "United States Treasury Notes 2.875% 15-MAY-2028",
+      "weight": 1.57
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 25 15-MAY-2046",
+      "name": "United States Treasury Bond 2.5% 15-MAY-2046",
+      "weight": 1.56
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 275 15-NOV-2042",
+      "name": "United States Treasury Bond 2.75% 15-NOV-2042",
+      "weight": 1.52
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 375 15-NOV-2043",
+      "name": "United States Treasury Bond 3.75% 15-NOV-2043",
+      "weight": 1.43
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 6125 15-NOV-2027",
+      "name": "United States Treasury Bond 6.125% 15-NOV-2027",
+      "weight": 1.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 225 15-NOV-2027",
+      "name": "United States Treasury Notes 2.25% 15-NOV-2027",
+      "weight": 1.31
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.25
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 15-FEB-2027",
+      "name": "United States Treasury Notes 4.125% 15-FEB-2027",
+      "weight": 1.13
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 2375 15-MAY-2029",
+      "name": "United States Treasury Notes 2.375% 15-MAY-2029",
+      "weight": 1.05
+    }
+  ]
+}

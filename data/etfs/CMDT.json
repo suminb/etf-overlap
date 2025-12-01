@@ -1,0 +1,94 @@
+{
+  "symbol": "CMDT",
+  "last_updated": "2025-12-01T05:01:09.102Z",
+  "profile": {
+    "issuer": "Allianz Investment Management LLC",
+    "brand": "PIMCO",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "May 09, 2023",
+    "index_tracked": "Bloomberg Roll Select Commodity Total Return Index",
+    "home_page": "https://www.ishares.com/us/products/253433/ishares-dow-jonesubs-roll-select-commodity-index-trust-fund",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 582300000,
+    "shares_outstanding": 21400000
+  },
+  "holdings": [
+    {
+      "symbol": "MUTUAL FUND OTHER",
+      "name": "MUTUAL FUND (OTHER)",
+      "weight": 23.44
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 9.46
+    },
+    {
+      "symbol": "MINT",
+      "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+      "weight": 2.68
+    },
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 1.86
+    },
+    {
+      "symbol": "GINNIE MAE REMIC TRUST 2025-098  GF 508379 20-JU",
+      "name": "Ginnie Mae REMIC Trust 2025-098  GF 5.08379% 20-JUN-2055",
+      "weight": 1.85
+    },
+    {
+      "symbol": "FANNIE MAE REMIC TRUST 2025-18  FM 508279 25-SEP",
+      "name": "Fannie Mae REMIC Trust 2025-18  FM 5.08279% 25-SEP-2054",
+      "weight": 1.62
+    },
+    {
+      "symbol": "ALGONQUIN POWER  UTILITIES CORP 5365 15-JUN-20",
+      "name": "Algonquin Power & Utilities Corp. 5.365% 15-JUN-2026",
+      "weight": 1.01
+    },
+    {
+      "symbol": "ORACLE CORPORATION 00 16-JAN-2026",
+      "name": "Oracle Corporation 0.0% 16-JAN-2026",
+      "weight": 1
+    },
+    {
+      "symbol": "ENBRIDGE US INC 00 22-DEC-2025",
+      "name": "Enbridge (U.S.), Inc. 0.0% 22-DEC-2025",
+      "weight": 0.98
+    },
+    {
+      "symbol": "PACIFIC GAS AND ELECTRIC COMPANY 315 01-JAN-2026",
+      "name": "Pacific Gas and Electric Company 3.15% 01-JAN-2026",
+      "weight": 0.96
+    },
+    {
+      "symbol": "MOLSON COORS BEVERAGE COMPANY 30 15-JUL-2026",
+      "name": "Molson Coors Beverage Company 3.0% 15-JUL-2026",
+      "weight": 0.95
+    },
+    {
+      "symbol": "DAIMLER TRUCKS FINANCE NORTH AMERICA LLC 465 12-",
+      "name": "Daimler Trucks Finance North America LLC 4.65% 12-OCT-2030",
+      "weight": 0.94
+    },
+    {
+      "symbol": "BERRY GLOBAL INC 157 15-JAN-2026",
+      "name": "Berry Global, Inc. 1.57% 15-JAN-2026",
+      "weight": 0.88
+    },
+    {
+      "symbol": "BARCLAYS PLC 5829 09-MAY-2027",
+      "name": "Barclays PLC 5.829% 09-MAY-2027",
+      "weight": 0.87
+    },
+    {
+      "symbol": "MORGAN STANLEY PRIVATE BANK NATIONAL ASSOCIATION",
+      "name": "Morgan Stanley Private Bank, National Association FRN 06-JUL-2028",
+      "weight": 0.87
+    }
+  ]
+}

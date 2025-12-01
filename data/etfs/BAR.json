@@ -1,0 +1,26 @@
+{
+  "symbol": "BAR",
+  "last_updated": "2025-12-01T04:58:37.638Z",
+  "profile": {
+    "issuer": "GraniteShares",
+    "brand": "GraniteShares",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.0017000000000000001,
+    "inception_date": "Aug 31, 2017",
+    "index_tracked": "LBMA Gold Price PM ($/ozt)",
+    "home_page": "https://graniteshares.com/institutional/us/en-us/etfs/bar/",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1429500000,
+    "shares_outstanding": 35200000
+  },
+  "holdings": [
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "weight": 100
+    }
+  ]
+}

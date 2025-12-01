@@ -1,0 +1,96 @@
+{
+  "symbol": "BCI",
+  "last_updated": "2025-12-01T04:56:24.868Z",
+  "profile": {
+    "issuer": "Abrdn Plc",
+    "brand": "abrdn",
+    "structure": "ETF",
+    "expense_ratio": 0.0026,
+    "inception_date": "Mar 30, 2017",
+    "index_tracked": "Bloomberg Commodity Index",
+    "home_page": "https://www.abrdn.com/en-us/us/investor/fund-details/aberdeen-standard-bloomberg-all-commodity-strategy-k-1-free-etf/share/us0032611040",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1942200000,
+    "shares_outstanding": 87700000
+  },
+  "holdings": [
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 21.2
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 5.64
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 06-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 06-JAN-2026",
+      "weight": 4.66
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 13-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 13-JAN-2026",
+      "weight": 4.66
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 12-FEB-2026",
+      "weight": 4.64
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 4.54
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 05-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 05-FEB-2026",
+      "weight": 4.44
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 30-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 30-DEC-2025",
+      "weight": 4.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 29-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 29-JAN-2026",
+      "weight": 4.29
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 16-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 16-DEC-2025",
+      "weight": 4.26
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 23-DEC-2025",
+      "weight": 4.26
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 4.22
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 15-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 15-JAN-2026",
+      "weight": 4.2
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 09-DEC-2025",
+      "weight": 4.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 04-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 04-DEC-2025",
+      "weight": 3.96
+    }
+  ]
+}

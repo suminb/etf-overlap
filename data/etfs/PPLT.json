@@ -1,0 +1,26 @@
+{
+  "symbol": "PPLT",
+  "last_updated": "2025-12-01T04:58:25.534Z",
+  "profile": {
+    "issuer": "Abrdn Plc",
+    "brand": "abrdn",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.006,
+    "inception_date": "Jan 08, 2010",
+    "index_tracked": "Platinum London PM Fix ($/ozt)",
+    "home_page": "https://www.abrdn.com/en-us/us/investor/fund-details/abrdn-physical-platinum-shares-etf/share/us0032601066",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 1934900000,
+    "shares_outstanding": 13700000
+  },
+  "holdings": [
+    {
+      "symbol": "PLATINUM",
+      "name": "Platinum",
+      "weight": 100
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "symbol": "SLV",
+  "last_updated": "2025-12-01T04:54:10.882Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.005,
+    "inception_date": "Apr 21, 2006",
+    "index_tracked": "LBMA Silver Price ($/ozt)",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/SLV.htm?qt=SLV",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "aum": 25644200000,
+    "shares_outstanding": 552200000
+  },
+  "holdings": [
+    {
+      "symbol": "SILVER",
+      "name": "Silver",
+      "weight": 100
+    }
+  ]
+}

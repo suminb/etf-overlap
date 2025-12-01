@@ -1,0 +1,94 @@
+{
+  "symbol": "DJP",
+  "last_updated": "2025-12-01T05:00:28.113Z",
+  "profile": {
+    "issuer": "Barclays Capital",
+    "brand": "iPath",
+    "structure": "ETN",
+    "expense_ratio": 0.006999999999999999,
+    "inception_date": "Jun 06, 2006",
+    "index_tracked": "Bloomberg Commodity Index",
+    "home_page": "http://www.ipathetn.com/US/16/en//instruments.app?searchType=text&dataType=html&searchTerm=djp#/details/1193",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 670400000,
+    "shares_outstanding": 18300000
+  },
+  "holdings": [
+    {
+      "symbol": "SWEET LIGHT CRUDE OIL WTI",
+      "name": "Sweet Light Crude Oil (WTI)",
+      "weight": 12.72
+    },
+    {
+      "symbol": "NATURAL GAS",
+      "name": "Natural Gas",
+      "weight": 12.55
+    },
+    {
+      "symbol": "SOYBEAN",
+      "name": "Soybean",
+      "weight": 7.75
+    },
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "weight": 6.83
+    },
+    {
+      "symbol": "ALUMINUM",
+      "name": "Aluminum",
+      "weight": 6.8
+    },
+    {
+      "symbol": "COPPER",
+      "name": "Copper",
+      "weight": 6.19
+    },
+    {
+      "symbol": "LIVE CATTLE",
+      "name": "Live Cattle",
+      "weight": 6.14
+    },
+    {
+      "symbol": "CORN",
+      "name": "Corn",
+      "weight": 5.63
+    },
+    {
+      "symbol": "WHEAT",
+      "name": "Wheat",
+      "weight": 4.72
+    },
+    {
+      "symbol": "GASOLINE RBOB",
+      "name": "Gasoline RBOB",
+      "weight": 3.94
+    },
+    {
+      "symbol": "NY HARBOR ULSD HEATING OIL",
+      "name": "NY Harbor ULSD (Heating Oil)",
+      "weight": 3.79
+    },
+    {
+      "symbol": "COTTON",
+      "name": "Cotton",
+      "weight": 3.15
+    },
+    {
+      "symbol": "SUGAR",
+      "name": "Sugar",
+      "weight": 3.12
+    },
+    {
+      "symbol": "COFFEE",
+      "name": "Coffee",
+      "weight": 3.02
+    },
+    {
+      "symbol": "LEAN HOGS",
+      "name": "Lean Hogs",
+      "weight": 3.01
+    }
+  ]
+}

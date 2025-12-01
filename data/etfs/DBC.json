@@ -1,0 +1,34 @@
+{
+  "symbol": "DBC",
+  "last_updated": "2025-12-01T04:59:01.961Z",
+  "profile": {
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.0077,
+    "inception_date": "Feb 03, 2006",
+    "index_tracked": "DBIQ Optimum Yield Diversified Commodity Index Excess Return",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=DBC",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 1234000000,
+    "shares_outstanding": 54800000
+  },
+  "holdings": [
+    {
+      "symbol": "AGPXX",
+      "name": "Short Term Investments Trust Government & Agency Portfolio Institutional",
+      "weight": 62.55
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 20.08
+    },
+    {
+      "symbol": "TBLL",
+      "name": "Invesco Short Term Treasury ETF",
+      "weight": 17.37
+    }
+  ]
+}

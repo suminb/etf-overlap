@@ -1,0 +1,24 @@
+{
+  "symbol": "IAUM",
+  "last_updated": "2025-12-01T04:54:47.802Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jun 15, 2021",
+    "index_tracked": "LBMA Gold Price PM ($/ozt)",
+    "home_page": "https://www.ishares.com/us/products/306979/ishares-gold-trust-micro",
+    "category": "n/a",
+    "asset_class": "Commodity",
+    "aum": 5512200000,
+    "shares_outstanding": 134000000
+  },
+  "holdings": [
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 100
+    }
+  ]
+}

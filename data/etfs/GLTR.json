@@ -1,0 +1,26 @@
+{
+  "symbol": "GLTR",
+  "last_updated": "2025-12-01T04:55:51.065Z",
+  "profile": {
+    "issuer": "Abrdn Plc",
+    "brand": "abrdn",
+    "structure": "Grantor Trust",
+    "expense_ratio": 0.006,
+    "inception_date": "Oct 22, 2010",
+    "index_tracked": "LBMA & LPPM Precious Metals Price PM  - Benchmark Price Return",
+    "home_page": "https://www.aberdeenstandardetfs.us/institutional/us/en-us/products/product/etfs-physical-precious-metals-basket-shares-gltr-arca",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 2160500000,
+    "shares_outstanding": 12200000
+  },
+  "holdings": [
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 100
+    }
+  ]
+}

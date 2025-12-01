@@ -1,0 +1,69 @@
+{
+  "symbol": "FTGC",
+  "last_updated": "2025-12-01T04:56:06.655Z",
+  "profile": {
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0098,
+    "inception_date": "Oct 22, 2013",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "http://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FTGC",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 2141500000,
+    "shares_outstanding": 80900000
+  },
+  "holdings": [
+    {
+      "symbol": "MUTUAL FUND OTHER",
+      "name": "MUTUAL FUND (OTHER)",
+      "weight": 20.3
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 11-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 11-DEC-2025",
+      "weight": 15.52
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0375 30-NOV-2025",
+      "name": "United States Treasury Notes 0.375% 30-NOV-2025",
+      "weight": 14.84
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-MAR-2026",
+      "name": "United States Treasury Notes 0.75% 31-MAR-2026",
+      "weight": 12.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 12-FEB-2026",
+      "weight": 6.9
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0875 30-JUN-2026",
+      "name": "United States Treasury Notes 0.875% 30-JUN-2026",
+      "weight": 6.84
+    },
+    {
+      "symbol": "MISXX",
+      "name": "Morgan Stanley Institutional Liquidity Funds treasury Portfolio Institutional",
+      "weight": 6.18
+    },
+    {
+      "symbol": "AGENCY BOND",
+      "name": "AGENCY BOND",
+      "weight": 6.18
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 13-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 13-JAN-2026",
+      "weight": 6
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 22-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 22-JAN-2026",
+      "weight": 4.61
+    }
+  ]
+}

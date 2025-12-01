@@ -1,0 +1,24 @@
+{
+  "symbol": "OUNZ",
+  "last_updated": "2025-12-01T04:55:26.534Z",
+  "profile": {
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "May 16, 2014",
+    "index_tracked": "LBMA Gold Price PM ($/ozt)",
+    "home_page": "http://www.merkgold.com/market-data.html",
+    "category": "Precious Metals",
+    "asset_class": "Commodity",
+    "aum": 2357300000,
+    "shares_outstanding": 59300000
+  },
+  "holdings": [
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "weight": 100
+    }
+  ]
+}

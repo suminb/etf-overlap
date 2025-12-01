@@ -1,0 +1,24 @@
+{
+  "symbol": "USO",
+  "last_updated": "2025-12-01T04:59:38.063Z",
+  "profile": {
+    "issuer": "Marygold",
+    "brand": "US Commodity Funds",
+    "structure": "Commodity Pool",
+    "expense_ratio": 0.006,
+    "inception_date": "Apr 10, 2006",
+    "index_tracked": "Front Month Light Sweet Crude Oil",
+    "home_page": "http://www.unitedstatescommodityfunds.com/fund-details.php?fund=uso",
+    "category": "Oil & Gas",
+    "asset_class": "Commodity",
+    "aum": 916100000,
+    "shares_outstanding": 13200000
+  },
+  "holdings": [
+    {
+      "symbol": "SWEET LIGHT CRUDE OIL WTI",
+      "name": "Sweet Light Crude Oil (WTI)",
+      "weight": 100
+    }
+  ]
+}

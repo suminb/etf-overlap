@@ -1,0 +1,96 @@
+{
+  "symbol": "VCIT",
+  "last_updated": "2025-12-01T05:31:28.468Z",
+  "profile": {
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 19, 2009",
+    "index_tracked": "Bloomberg US Aggregate Credit - Corporate (5-10 Y)",
+    "home_page": "https://advisors.vanguard.com/investments/products/vcit/vanguard-intermediate-term-corporate-bond-etf",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 58746400000,
+    "shares_outstanding": 696000000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.37
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5015 22-JUL-2033",
+      "name": "Bank of America Corporation 5.015% 22-JUL-2033",
+      "weight": 0.29
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 475 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.75% 19-MAY-2033",
+      "weight": 0.29
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 535 01-JUN-2034",
+      "name": "JPMorgan Chase & Co. 5.35% 01-JUN-2034",
+      "weight": 0.26
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5557 25-JUL-2034",
+      "name": "Wells Fargo & Company 5.557% 25-JUL-2034",
+      "weight": 0.25
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4912 25-JUL-2033",
+      "name": "JPMorgan Chase & Co. 4.912% 25-JUL-2033",
+      "weight": 0.25
+    },
+    {
+      "symbol": "AMGEN INC 525 02-MAR-2033",
+      "name": "Amgen Inc. 5.25% 02-MAR-2033",
+      "weight": 0.25
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
+      "name": "Bank of America Corporation 5.468% 23-JAN-2035",
+      "weight": 0.25
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 30-SEP-2030",
+      "name": "United States Treasury Notes 3.625% 30-SEP-2030",
+      "weight": 0.24
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5872 15-SEP-2034",
+      "name": "Bank of America Corporation 5.872% 15-SEP-2034",
+      "weight": 0.23
+    },
+    {
+      "symbol": "ORACLE CORPORATION 52 26-SEP-2035",
+      "name": "Oracle Corporation 5.2% 26-SEP-2035",
+      "weight": 0.23
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 5576 23-JUL-2036",
+      "name": "JPMorgan Chase & Co. 5.576% 23-JUL-2036",
+      "weight": 0.22
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 2355 15-MAR-2032",
+      "name": "Verizon Communications Inc. 2.355% 15-MAR-2032",
+      "weight": 0.22
+    },
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 3.3% 30-JAN-2032",
+      "weight": 0.22
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 5572 22-APR-2036",
+      "name": "JPMorgan Chase & Co. 5.572% 22-APR-2036",
+      "weight": 0.22
+    }
+  ]
+}

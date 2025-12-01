@@ -1,0 +1,96 @@
+{
+  "symbol": "JPST",
+  "last_updated": "2025-12-01T05:35:08.425Z",
+  "profile": {
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0018,
+    "inception_date": "May 17, 2017",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-ultra-short-income-etf-etf-shares-46641q837##Documents",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 35118500000,
+    "shares_outstanding": 692400000
+  },
+  "holdings": [
+    {
+      "symbol": "MGMXX",
+      "name": "JPMorgan Trust II U.S. Government Money Market Fund -IM-",
+      "weight": 8.22
+    },
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 1.22
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0875 30-SEP-2026",
+      "name": "United States Treasury Notes 0.875% 30-SEP-2026",
+      "weight": 0.76
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.74
+    },
+    {
+      "symbol": "ATHENE GLOBAL FUNDING 486 27-AUG-2026",
+      "name": "Athene Global Funding 4.86% 27-AUG-2026",
+      "weight": 0.64
+    },
+    {
+      "symbol": "FIRST ABU DHABI BANK PJSC 00 10-NOV-2022",
+      "name": "First Abu Dhabi Bank P.J.S.C. 0.0% 10-NOV-2022",
+      "weight": 0.63
+    },
+    {
+      "symbol": "NATIONAL BANK OF CANADA 4702 05-MAR-2027",
+      "name": "National Bank of Canada 4.702% 05-MAR-2027",
+      "weight": 0.56
+    },
+    {
+      "symbol": "ROYAL BANK OF CANADA FRN 03-AUG-2026",
+      "name": "Royal Bank of Canada FRN 03-AUG-2026",
+      "weight": 0.52
+    },
+    {
+      "symbol": "MITSUBISHI TRUST  BANKING CORP NEW YORK FRN 11",
+      "name": "Mitsubishi Trust & Banking Corp. (New York) FRN 11-MAR-2026",
+      "weight": 0.52
+    },
+    {
+      "symbol": "DEUTSCHE BANK AG NEW YORK BRANCH 2311 16-NOV-20",
+      "name": "Deutsche Bank AG, New York Branch 2.311% 16-NOV-2027",
+      "weight": 0.51
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 30-SEP-2027",
+      "name": "United States Treasury Notes 4.125% 30-SEP-2027",
+      "weight": 0.48
+    },
+    {
+      "symbol": "BNP PARIBAS NEW YORK BRANCH 456 12-FEB-2026",
+      "name": "BNP Paribas, New York Branch 4.56% 12-FEB-2026",
+      "weight": 0.47
+    },
+    {
+      "symbol": "SOCIETE GENERALE SA 1488 14-DEC-2026",
+      "name": "Societe Generale SA 1.488% 14-DEC-2026",
+      "weight": 0.47
+    },
+    {
+      "symbol": "CATERPILLAR FINANCIAL SERVICES CORPORATION FRN 15-",
+      "name": "Caterpillar Financial Services Corporation FRN 15-AUG-2028",
+      "weight": 0.46
+    },
+    {
+      "symbol": "ABN AMRO BANK NV 6339 18-SEP-2027",
+      "name": "ABN AMRO Bank N.V. 6.339% 18-SEP-2027",
+      "weight": 0.45
+    }
+  ]
+}

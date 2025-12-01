@@ -1,0 +1,96 @@
+{
+  "symbol": "IUSB",
+  "last_updated": "2025-12-01T05:34:30.030Z",
+  "profile": {
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0006,
+    "inception_date": "Jun 10, 2014",
+    "index_tracked": "Bloomberg US Universal",
+    "home_page": "http://www.ishares.com/us/products/264615/IUSB",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 33969800000,
+    "shares_outstanding": 723500000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.93
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 0.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-MAY-2034",
+      "name": "United States Treasury Notes 4.375% 15-MAY-2034",
+      "weight": 0.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2034",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 28-FEB-2030",
+      "name": "United States Treasury Notes 4.0% 28-FEB-2030",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-MAY-2035",
+      "name": "United States Treasury Notes 4.25% 15-MAY-2035",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 15-FEB-2034",
+      "name": "United States Treasury Notes 4.0% 15-FEB-2034",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-FEB-2035",
+      "name": "United States Treasury Notes 4.625% 15-FEB-2035",
+      "weight": 0.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 30-SEP-2030",
+      "name": "United States Treasury Notes 3.625% 30-SEP-2030",
+      "weight": 0.36
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2033",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2033",
+      "weight": 0.36
+    },
+    {
+      "symbol": "FNMA 30YR POOLMA4018 2000 01-MAY-2050 20 01-M",
+      "name": "FNMA 30yr Pool#MA4018 2.000% 01-May-2050 2.0% 01-MAY-2050",
+      "weight": 0.36
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 15-NOV-2033",
+      "name": "United States Treasury Notes 4.5% 15-NOV-2033",
+      "weight": 0.34
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 30-APR-2030",
+      "name": "United States Treasury Notes 3.875% 30-APR-2030",
+      "weight": 0.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 31-MAR-2030",
+      "name": "United States Treasury Notes 4.0% 31-MAR-2030",
+      "weight": 0.31
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-AUG-2035",
+      "name": "United States Treasury Notes 4.25% 15-AUG-2035",
+      "weight": 0.31
+    }
+  ]
+}

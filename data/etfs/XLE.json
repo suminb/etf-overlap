@@ -1,0 +1,100 @@
+{
+  "symbol": "XLE",
+  "last_updated": "2025-12-01T04:49:38.546Z",
+  "profile": {
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Energy Select Sector Index",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xle",
+    "category": "Energy Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Energy",
+    "sector_specific": "Oil & Gas Exploration & Production",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 26732200000,
+    "shares_outstanding": 301700000
+  },
+  "holdings": [
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 23.5
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 17.57
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 6.65
+    },
+    {
+      "symbol": "WMB",
+      "name": "Williams Companies, Inc.",
+      "weight": 4.56
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "weight": 4.12
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources, Inc.",
+      "weight": 3.96
+    },
+    {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "weight": 3.86
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy Corporation",
+      "weight": 3.85
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB Limited",
+      "weight": 3.82
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan Inc Class P",
+      "weight": 3.7
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company Class A",
+      "weight": 3.47
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK, Inc.",
+      "weight": 3.18
+    },
+    {
+      "symbol": "TRGP",
+      "name": "Targa Resources Corp.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corporation",
+      "weight": 2.52
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum Corporation",
+      "weight": 2.12
+    }
+  ]
+}
