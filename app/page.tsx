@@ -122,18 +122,7 @@ function OverlapPage() {
       }
     }
 
-    // Fallback to localStorage if no URL params
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored) {
-      try {
-        const parsed = JSON.parse(stored);
-        if (Array.isArray(parsed)) {
-          setTickers(parsed);
-        }
-      } catch (e) {
-        console.error("Failed to load stored ETFs:", e);
-      }
-    }
+    // Don't load from localStorage - start with empty state
     setIsInitialized(true);
   }, [searchParams]);
 

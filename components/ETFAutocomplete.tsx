@@ -84,7 +84,11 @@ export default function ETFAutocomplete({
     setSuggestions([]);
     setShowSuggestions(false);
     setSelectedIndex(-1);
-    inputRef.current?.focus();
+
+    // Focus after React finishes rendering
+    setTimeout(() => {
+      inputRef.current?.focus();
+    }, 0);
   };
 
   const removeETF = (symbol: string) => {
