@@ -1,0 +1,98 @@
+{
+  "symbol": "TLH",
+  "name": "iShares 10-20 Year Treasury Bond ETF",
+  "last_updated": "2025-12-02T08:01:07.349Z",
+  "profile": {
+    "name": "iShares 10-20 Year Treasury Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Jan 05, 2007",
+    "index_tracked": "ICE US Treasury 10-20 Year Bond Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/TLH.htm?qt=TLH",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 12695900000,
+    "shares_outstanding": 121600000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-NOV-2043",
+      "name": "United States Treasury Bond 4.75% 15-NOV-2043",
+      "weight": 5.54
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 45 15-FEB-2044",
+      "name": "United States Treasury Bond 4.5% 15-FEB-2044",
+      "weight": 5.53
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 20 15-NOV-2041",
+      "name": "United States Treasury Bond 2.0% 15-NOV-2041",
+      "weight": 4.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3875 15-FEB-2043",
+      "name": "United States Treasury Bond 3.875% 15-FEB-2043",
+      "weight": 4.08
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 175 15-AUG-2041",
+      "name": "United States Treasury Bond 1.75% 15-AUG-2041",
+      "weight": 3.96
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4125 15-AUG-2044",
+      "name": "United States Treasury Bond 4.125% 15-AUG-2044",
+      "weight": 3.95
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4375 15-AUG-2043",
+      "name": "United States Treasury Bond 4.375% 15-AUG-2043",
+      "weight": 3.71
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 40 15-NOV-2042",
+      "name": "United States Treasury Bond 4.0% 15-NOV-2042",
+      "weight": 3.68
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3375 15-AUG-2042",
+      "name": "United States Treasury Bond 3.375% 15-AUG-2042",
+      "weight": 3.58
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3875 15-MAY-2043",
+      "name": "United States Treasury Bond 3.875% 15-MAY-2043",
+      "weight": 3.5
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1875 15-FEB-2041",
+      "name": "United States Treasury Bond 1.875% 15-FEB-2041",
+      "weight": 3.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-FEB-2045",
+      "name": "United States Treasury Bond 4.75% 15-FEB-2045",
+      "weight": 3.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 2375 15-FEB-2042",
+      "name": "United States Treasury Bond 2.375% 15-FEB-2042",
+      "weight": 2.88
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 225 15-MAY-2041",
+      "name": "United States Treasury Bond 2.25% 15-MAY-2041",
+      "weight": 2.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 1375 15-NOV-2040",
+      "name": "United States Treasury Bond 1.375% 15-NOV-2040",
+      "weight": 2.8
+    }
+  ]
+}

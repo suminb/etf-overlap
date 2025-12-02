@@ -1,0 +1,98 @@
+{
+  "symbol": "IAGG",
+  "name": "iShares Core International Aggregate Bond ETF",
+  "last_updated": "2025-12-02T08:05:16.399Z",
+  "profile": {
+    "name": "iShares Core International Aggregate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Nov 10, 2015",
+    "index_tracked": "Bloomberg Global Aggregate x USD 10% Issuer Cap",
+    "home_page": "https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 11311200000,
+    "shares_outstanding": 218600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.97
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 268 21-MAY-2030",
+      "name": "Government of China 2.68% 21-MAY-2030",
+      "weight": 0.78
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 267 25-MAY-2033",
+      "name": "Government of China 2.67% 25-MAY-2033",
+      "weight": 0.61
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 162 15-AUG-2027",
+      "name": "Government of China 1.62% 15-AUG-2027",
+      "weight": 0.56
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 228 25-MAR-2031",
+      "name": "Government of China 2.28% 25-MAR-2031",
+      "weight": 0.52
+    },
+    {
+      "symbol": "CHINA DEVELOPMENT BANK 365 21-MAY-2029",
+      "name": "China Development Bank 3.65% 21-MAY-2029",
+      "weight": 0.51
+    },
+    {
+      "symbol": "CHINA DEVELOPMENT BANK 366 01-MAR-2031",
+      "name": "China Development Bank 3.66% 01-MAR-2031",
+      "weight": 0.48
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 252 25-AUG-2033",
+      "name": "Government of China 2.52% 25-AUG-2033",
+      "weight": 0.45
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 205 15-APR-2029",
+      "name": "Government of China 2.05% 15-APR-2029",
+      "weight": 0.43
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 144 15-SEP-2027",
+      "name": "Government of China 1.44% 15-SEP-2027",
+      "weight": 0.43
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 191 15-JUL-2029",
+      "name": "Government of China 1.91% 15-JUL-2029",
+      "weight": 0.4
+    },
+    {
+      "symbol": "CHINA DEVELOPMENT BANK 348 08-JAN-2029",
+      "name": "China Development Bank 3.48% 08-JAN-2029",
+      "weight": 0.38
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 26 01-SEP-2032",
+      "name": "Government of China 2.6% 01-SEP-2032",
+      "weight": 0.37
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 244 15-OCT-2027",
+      "name": "Government of China 2.44% 15-OCT-2027",
+      "weight": 0.36
+    },
+    {
+      "symbol": "GOVERNMENT OF CHINA 327 25-MAR-2073",
+      "name": "Government of China 3.27% 25-MAR-2073",
+      "weight": 0.34
+    }
+  ]
+}

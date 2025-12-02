@@ -1,0 +1,100 @@
+{
+  "symbol": "HDV",
+  "name": "iShares Core High Dividend ETF",
+  "last_updated": "2025-12-02T08:03:59.732Z",
+  "profile": {
+    "name": "iShares Core High Dividend ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Mar 29, 2011",
+    "index_tracked": "Morningstar Dividend Yield Focus Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/HDV.htm",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 11759800000,
+    "shares_outstanding": 95400000
+  },
+  "holdings": [
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 8.69
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 7.1
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 6.21
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 6.13
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 4.8
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 4.51
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 4.22
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "weight": 3.99
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 3.97
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 3.79
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 3.65
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc",
+      "weight": 3.49
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group, Inc.",
+      "weight": 3
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 2.18
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 2.09
+    }
+  ]
+}

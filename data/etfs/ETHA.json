@@ -1,0 +1,28 @@
+{
+  "symbol": "ETHA",
+  "name": "iShares Ethereum Trust ETF",
+  "last_updated": "2025-12-02T08:05:56.045Z",
+  "profile": {
+    "name": "iShares Ethereum Trust ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Jun 24, 2024",
+    "index_tracked": "CME CF Ether-Dollar Reference Rate - New York Variant - Benchmark Price Return",
+    "home_page": "https://www.ishares.com/us/products/337614/ishares-ethereum-trust-etf",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 11016800000,
+    "shares_outstanding": 482600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

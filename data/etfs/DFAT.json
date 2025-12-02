@@ -1,0 +1,100 @@
+{
+  "symbol": "DFAT",
+  "name": "Dimensional U.S. Targeted Value ETF",
+  "last_updated": "2025-12-02T08:03:46.736Z",
+  "profile": {
+    "name": "Dimensional U.S. Targeted Value ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0028000000000000004,
+    "inception_date": "Jun 14, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://us.dimensional.com/etfs/dfat/us-targeted-value-etf",
+    "category": "Mid Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 11789300000,
+    "shares_outstanding": 200200000
+  },
+  "holdings": [
+    {
+      "symbol": "WCC",
+      "name": "WESCO International, Inc.",
+      "weight": 0.73
+    },
+    {
+      "symbol": "SNX",
+      "name": "TD SYNNEX Corporation",
+      "weight": 0.67
+    },
+    {
+      "symbol": "TOL",
+      "name": "Toll Brothers, Inc.",
+      "weight": 0.66
+    },
+    {
+      "symbol": "ALLY",
+      "name": "Ally Financial Inc",
+      "weight": 0.62
+    },
+    {
+      "symbol": "AA",
+      "name": "Alcoa Corporation",
+      "weight": 0.6
+    },
+    {
+      "symbol": "PR",
+      "name": "Permian Resources Corporation Class A",
+      "weight": 0.58
+    },
+    {
+      "symbol": "FHN",
+      "name": "First Horizon Corporation",
+      "weight": 0.58
+    },
+    {
+      "symbol": "ELAN",
+      "name": "Elanco Animal Health, Inc.",
+      "weight": 0.56
+    },
+    {
+      "symbol": "GAP",
+      "name": "Gap, Inc.",
+      "weight": 0.54
+    },
+    {
+      "symbol": "VTRS",
+      "name": "Viatris, Inc.",
+      "weight": 0.54
+    },
+    {
+      "symbol": "OVV",
+      "name": "Ovintiv Inc",
+      "weight": 0.53
+    },
+    {
+      "symbol": "IVZ",
+      "name": "Invesco Ltd.",
+      "weight": 0.53
+    },
+    {
+      "symbol": "BWA",
+      "name": "BorgWarner Inc.",
+      "weight": 0.51
+    },
+    {
+      "symbol": "CMA",
+      "name": "Comerica Incorporated",
+      "weight": 0.5
+    },
+    {
+      "symbol": "WBS",
+      "name": "Webster Financial Corporation",
+      "weight": 0.48
+    }
+  ]
+}

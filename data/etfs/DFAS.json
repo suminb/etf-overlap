@@ -1,0 +1,99 @@
+{
+  "symbol": "DFAS",
+  "name": "Dimensional U.S. Small Cap ETF",
+  "last_updated": "2025-12-02T08:03:13.750Z",
+  "profile": {
+    "name": "Dimensional U.S. Small Cap ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0027,
+    "inception_date": "Jun 14, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://us.dimensional.com/etfs/dfas/us-small-cap-etf",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 11871100000,
+    "shares_outstanding": 170600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.33
+    },
+    {
+      "symbol": "ROIV",
+      "name": "Roivant Sciences Ltd.",
+      "weight": 0.3
+    },
+    {
+      "symbol": "EXAS",
+      "name": "Exact Sciences Corporation",
+      "weight": 0.29
+    },
+    {
+      "symbol": "MLI",
+      "name": "Mueller Industries, Inc.",
+      "weight": 0.28
+    },
+    {
+      "symbol": "MTSI",
+      "name": "MACOM Technology Solutions Holdings, Inc.",
+      "weight": 0.28
+    },
+    {
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 0.27
+    },
+    {
+      "symbol": "WCC",
+      "name": "WESCO International, Inc.",
+      "weight": 0.27
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 0.26
+    },
+    {
+      "symbol": "ENSG",
+      "name": "Ensign Group, Inc.",
+      "weight": 0.25
+    },
+    {
+      "symbol": "ELAN",
+      "name": "Elanco Animal Health, Inc.",
+      "weight": 0.25
+    },
+    {
+      "symbol": "STRL",
+      "name": "Sterling Infrastructure, Inc.",
+      "weight": 0.25
+    },
+    {
+      "symbol": "AYI",
+      "name": "Acuity Inc.",
+      "weight": 0.25
+    },
+    {
+      "symbol": "ALB",
+      "name": "Albemarle Corporation",
+      "weight": 0.25
+    },
+    {
+      "symbol": "JAZZ",
+      "name": "Jazz Pharmaceuticals Public Limited Company",
+      "weight": 0.25
+    },
+    {
+      "symbol": "NXT",
+      "name": "Nextpower Inc. Class A",
+      "weight": 0.24
+    }
+  ]
+}

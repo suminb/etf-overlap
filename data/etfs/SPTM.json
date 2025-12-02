@@ -1,100 +1,100 @@
 {
-  "symbol": "XLG",
-  "name": "Invesco S&P 500® Top 50 ETF",
-  "last_updated": "2025-12-02T08:04:38.568Z",
+  "symbol": "SPTM",
+  "name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
+  "last_updated": "2025-12-02T08:04:25.301Z",
   "profile": {
-    "name": "Invesco S&P 500® Top 50 ETF",
-    "issuer": "Invesco",
-    "brand": "Invesco",
+    "name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
     "structure": "ETF",
-    "expense_ratio": 0.002,
-    "inception_date": "May 04, 2005",
-    "index_tracked": "S&P 500 Top 50",
-    "home_page": "http://guggenheiminvestments.com/products/etf/details?productid=101",
-    "category": "Large Cap Growth Equities",
+    "expense_ratio": 0.0003,
+    "inception_date": "Oct 04, 2000",
+    "index_tracked": "S&P Composite 1500 Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-total-stock-market-etf-SPTM",
+    "category": "All Cap Equities",
     "asset_class": "Equity",
-    "asset_class_size": "Mega-Cap",
-    "asset_class_style": "Growth",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 11581500000,
-    "shares_outstanding": 195300000
+    "aum": 11741800000,
+    "shares_outstanding": 142800000
   },
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 11.84
+      "weight": 6.83
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 11.34
+      "weight": 6.54
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 10.02
+      "weight": 5.78
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 6.2
+      "weight": 3.58
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 5.19
+      "weight": 3
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 5.1
+      "weight": 2.94
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 4.1
+      "weight": 2.36
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 3.85
+      "weight": 2.22
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "weight": 3.31
+      "weight": 1.91
     },
     {
       "symbol": "BRK.B",
       "name": "Berkshire Hathaway Inc. Class B",
-      "weight": 2.58
+      "weight": 1.49
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 2.36
+      "weight": 1.36
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly and Company",
-      "weight": 2.34
+      "weight": 1.35
     },
     {
       "symbol": "V",
       "name": "Visa Inc. Class A",
-      "weight": 1.56
+      "weight": 0.9
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "weight": 1.37
+      "weight": 0.79
     },
     {
       "symbol": "XOM",
       "name": "Exxon Mobil Corporation",
-      "weight": 1.35
+      "weight": 0.78
     }
   ]
 }

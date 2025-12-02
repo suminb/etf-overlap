@@ -1,0 +1,100 @@
+{
+  "symbol": "MOAT",
+  "name": "VanEck Morningstar Wide Moat ETF",
+  "last_updated": "2025-12-02T08:00:42.306Z",
+  "profile": {
+    "name": "VanEck Morningstar Wide Moat ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Apr 25, 2012",
+    "index_tracked": "Morningstar Wide Moat Focus Index",
+    "home_page": "http://vaneck.com/funds/MOAT.aspx",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 12738900000,
+    "shares_outstanding": 123800000
+  },
+  "holdings": [
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 3.58
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "weight": 3.13
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 3.02
+    },
+    {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "weight": 2.98
+    },
+    {
+      "symbol": "A",
+      "name": "Agilent Technologies, Inc.",
+      "weight": 2.95
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 2.87
+    },
+    {
+      "symbol": "EL",
+      "name": "Estee Lauder Companies Inc. Class A",
+      "weight": 2.84
+    },
+    {
+      "symbol": "WST",
+      "name": "West Pharmaceutical Services, Inc.",
+      "weight": 2.72
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher Corporation",
+      "weight": 2.69
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service, Inc. Class B",
+      "weight": 2.48
+    },
+    {
+      "symbol": "GEHC",
+      "name": "GE Healthcare Technologies Inc.",
+      "weight": 2.47
+    },
+    {
+      "symbol": "USB",
+      "name": "U.S. Bancorp",
+      "weight": 2.47
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "weight": 2.43
+    },
+    {
+      "symbol": "TER",
+      "name": "Teradyne, Inc.",
+      "weight": 2.41
+    },
+    {
+      "symbol": "IEX",
+      "name": "IDEX Corporation",
+      "weight": 2.37
+    }
+  ]
+}

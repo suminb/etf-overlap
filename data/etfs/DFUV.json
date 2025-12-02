@@ -1,0 +1,100 @@
+{
+  "symbol": "DFUV",
+  "name": "Dimensional US Marketwide Value ETF",
+  "last_updated": "2025-12-02T08:01:32.846Z",
+  "profile": {
+    "name": "Dimensional US Marketwide Value ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0021,
+    "inception_date": "May 09, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfuv/us-marketwide-value-etf",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 12538700000,
+    "shares_outstanding": 275100000
+  },
+  "holdings": [
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 4.4
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 2.99
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 2.9
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 2.67
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 1.92
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 1.87
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 1.73
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 1.64
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc",
+      "weight": 1.25
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 1.22
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 1.1
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "weight": 1.1
+    },
+    {
+      "symbol": "LIN",
+      "name": "Linde plc",
+      "weight": 1.08
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 1.04
+    }
+  ]
+}

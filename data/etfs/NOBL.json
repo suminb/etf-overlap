@@ -1,0 +1,100 @@
+{
+  "symbol": "NOBL",
+  "name": "ProShares S&P 500 Dividend Aristocrats ETF",
+  "last_updated": "2025-12-02T08:05:03.578Z",
+  "profile": {
+    "name": "ProShares S&P 500 Dividend Aristocrats ETF",
+    "issuer": "Proshare Advisors LLC",
+    "brand": "ProShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Oct 09, 2013",
+    "index_tracked": "S&P 500 Dividend Aristocrats",
+    "home_page": "http://www.proshares.com/funds/nobl.html",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 11328500000,
+    "shares_outstanding": 108100000
+  },
+  "holdings": [
+    {
+      "symbol": "ALB",
+      "name": "Albemarle Corporation",
+      "weight": 2.02
+    },
+    {
+      "symbol": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "weight": 1.89
+    },
+    {
+      "symbol": "CHRW",
+      "name": "C.H. Robinson Worldwide, Inc.",
+      "weight": 1.77
+    },
+    {
+      "symbol": "EXPD",
+      "name": "Expeditors International of Washington, Inc.",
+      "weight": 1.75
+    },
+    {
+      "symbol": "NUE",
+      "name": "Nucor Corporation",
+      "weight": 1.66
+    },
+    {
+      "symbol": "KVUE",
+      "name": "Kenvue, Inc.",
+      "weight": 1.62
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 1.59
+    },
+    {
+      "symbol": "DOV",
+      "name": "Dover Corporation",
+      "weight": 1.57
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "weight": 1.56
+    },
+    {
+      "symbol": "CINF",
+      "name": "Cincinnati Financial Corporation",
+      "weight": 1.53
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.52
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.52
+    },
+    {
+      "symbol": "CB",
+      "name": "Chubb Limited",
+      "weight": 1.52
+    },
+    {
+      "symbol": "AMCR",
+      "name": "Amcor PLC",
+      "weight": 1.49
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "weight": 1.48
+    }
+  ]
+}

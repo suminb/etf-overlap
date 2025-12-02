@@ -1,0 +1,100 @@
+{
+  "symbol": "DFIC",
+  "name": "Dimensional International Core Equity 2 ETF",
+  "last_updated": "2025-12-02T08:05:29.990Z",
+  "profile": {
+    "name": "Dimensional International Core Equity 2 ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0023,
+    "inception_date": "Mar 23, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfic/international-core-equity-2-etf",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 11278500000,
+    "shares_outstanding": 337800000
+  },
+  "holdings": [
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc Sponsored ADR",
+      "weight": 0.87
+    },
+    {
+      "symbol": "NVS",
+      "name": "Novartis AG Sponsored ADR",
+      "weight": 0.81
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 0.78
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.77
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.7
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 0.7
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.69
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 0.5
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 0.48
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC Sponsored ADR",
+      "weight": 0.48
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A. Sponsored ADR",
+      "weight": 0.47
+    },
+    {
+      "symbol": "HSBC",
+      "name": "HSBC Holdings PLC Sponsored ADR",
+      "weight": 0.43
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 0.42
+    },
+    {
+      "symbol": "UCG",
+      "name": "UniCredit S.p.A.",
+      "weight": 0.39
+    }
+  ]
+}

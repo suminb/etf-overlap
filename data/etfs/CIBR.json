@@ -1,0 +1,102 @@
+{
+  "symbol": "CIBR",
+  "name": "First Trust NASDAQ Cybersecurity ETF",
+  "last_updated": "2025-12-02T08:06:08.501Z",
+  "profile": {
+    "name": "First Trust NASDAQ Cybersecurity ETF",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Jul 06, 2015",
+    "index_tracked": "Nasdaq CTA Cybersecurity Index",
+    "home_page": "https://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=CIBR",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Internet Architecture",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10976000000,
+    "shares_outstanding": 150300000
+  },
+  "holdings": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 10.69
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc. Class A",
+      "weight": 9.48
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 8.79
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited Sponsored ADR",
+      "weight": 8.2
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "weight": 7.87
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 4.17
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet, Inc.",
+      "weight": 4.06
+    },
+    {
+      "symbol": "CYBR",
+      "name": "CyberArk Software Ltd.",
+      "weight": 3.99
+    },
+    {
+      "symbol": "HO",
+      "name": "Thales SA",
+      "weight": 3.91
+    },
+    {
+      "symbol": "CHKP",
+      "name": "Check Point Software Technologies Ltd.",
+      "weight": 3.82
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 3.78
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler, Inc.",
+      "weight": 3.58
+    },
+    {
+      "symbol": "GEN",
+      "name": "Gen Digital Inc.",
+      "weight": 3.23
+    },
+    {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies, Inc.",
+      "weight": 2.76
+    },
+    {
+      "symbol": "FFIV",
+      "name": "F5, Inc.",
+      "weight": 2.63
+    }
+  ]
+}

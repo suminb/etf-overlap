@@ -1,0 +1,98 @@
+{
+  "symbol": "SPIB",
+  "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
+  "last_updated": "2025-12-02T08:06:21.835Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Feb 10, 2009",
+    "index_tracked": "Bloomberg US Aggregate Credit - Corporate - Investment Grade - Intermediate",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-intermediate-term-corporate-bond-etf-SPIB",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 10900000000,
+    "shares_outstanding": 320400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.61
+    },
+    {
+      "symbol": "CITIGROUP INC 5174 11-SEP-2036",
+      "name": "Citigroup Inc. 5.174% 11-SEP-2036",
+      "weight": 0.24
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 5576 23-JUL-2036",
+      "name": "JPMorgan Chase & Co. 5.576% 23-JUL-2036",
+      "weight": 0.21
+    },
+    {
+      "symbol": "META PLATFORMS INC 4875 15-NOV-2035",
+      "name": "Meta Platforms, Inc. 4.875% 15-NOV-2035",
+      "weight": 0.2
+    },
+    {
+      "symbol": "SUMITOMO MITSUI FINANCIAL GROUP INC 466 08-JUL",
+      "name": "Sumitomo Mitsui Financial Group, Inc. 4.66% 08-JUL-2031",
+      "weight": 0.18
+    },
+    {
+      "symbol": "T-MOBILE USA INC 3875 15-APR-2030",
+      "name": "T-Mobile USA, Inc. 3.875% 15-APR-2030",
+      "weight": 0.15
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 4369 21-OCT-2031",
+      "name": "Goldman Sachs Group, Inc. 4.369% 21-OCT-2031",
+      "weight": 0.15
+    },
+    {
+      "symbol": "HSBC HOLDINGS PLC 5741 10-SEP-2036",
+      "name": "HSBC Holdings Plc 5.741% 10-SEP-2036",
+      "weight": 0.14
+    },
+    {
+      "symbol": "ORACLE CORPORATION 52 26-SEP-2035",
+      "name": "Oracle Corporation 5.2% 26-SEP-2035",
+      "weight": 0.13
+    },
+    {
+      "symbol": "AMERICAN EXPRESS COMPANY 4804 24-OCT-2036",
+      "name": "American Express Company 4.804% 24-OCT-2036",
+      "weight": 0.13
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 4892 15-SEP-2036",
+      "name": "Wells Fargo & Company 4.892% 15-SEP-2036",
+      "weight": 0.13
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 43 25-MAR-2028",
+      "name": "CVS Health Corporation 4.3% 25-MAR-2028",
+      "weight": 0.12
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 4937 23-APR-2028",
+      "name": "Goldman Sachs Group, Inc. 4.937% 23-APR-2028",
+      "weight": 0.12
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 3782 01-FEB-2028",
+      "name": "JPMorgan Chase & Co. 3.782% 01-FEB-2028",
+      "weight": 0.12
+    },
+    {
+      "symbol": "DUKE ENERGY CORPORATION 325 15-JAN-2082",
+      "name": "Duke Energy Corporation 3.25% 15-JAN-2082",
+      "weight": 0.11
+    }
+  ]
+}
