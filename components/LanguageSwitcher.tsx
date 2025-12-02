@@ -19,6 +19,7 @@ export default function LanguageSwitcher() {
 
   return (
     <div
+      className="language-switcher"
       style={{
         position: "fixed",
         top: "1rem",
