@@ -1,0 +1,100 @@
+{
+  "symbol": "SPHQ",
+  "name": "Invesco S&P 500® Quality ETF",
+  "last_updated": "2025-12-02T03:45:32.026Z",
+  "profile": {
+    "name": "Invesco S&P 500® Quality ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Dec 06, 2005",
+    "index_tracked": "S&P 500 Quality",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=SPHQ",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 15014200000,
+    "shares_outstanding": 201900000
+  },
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.65
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 4.42
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "weight": 4.41
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 4.35
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 4.27
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 4.25
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 3.16
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 3.14
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 2.77
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 2.57
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "weight": 2.38
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 2.26
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 2.24
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "weight": 2.16
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "weight": 2.16
+    }
+  ]
+}

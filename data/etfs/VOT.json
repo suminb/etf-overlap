@@ -1,0 +1,100 @@
+{
+  "symbol": "VOT",
+  "name": "Vanguard Mid-Cap Growth ETF",
+  "last_updated": "2025-12-02T03:39:19.586Z",
+  "profile": {
+    "name": "Vanguard Mid-Cap Growth ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Aug 17, 2006",
+    "index_tracked": "CRSP US Mid Growth",
+    "home_page": "https://advisors.vanguard.com/investments/products/vot/vanguard-mid-cap-growth-etf",
+    "category": "Mid Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 17756400000,
+    "shares_outstanding": 63100000
+  },
+  "holdings": [
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "weight": 3.05
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 2.94
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 2.23
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 2.15
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 1.95
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc. Class A",
+      "weight": 1.91
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "weight": 1.91
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co. Class A",
+      "weight": 1.91
+    },
+    {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Group",
+      "weight": 1.82
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 1.81
+    },
+    {
+      "symbol": "MSI",
+      "name": "Motorola Solutions, Inc.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "weight": 1.73
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra Corp.",
+      "weight": 1.65
+    },
+    {
+      "symbol": "ALNY",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "weight": 1.55
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise Inc",
+      "weight": 1.42
+    }
+  ]
+}

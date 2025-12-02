@@ -1,0 +1,100 @@
+{
+  "symbol": "PFF",
+  "name": "iShares Preferred & Income Securities ETF",
+  "last_updated": "2025-12-02T03:48:28.409Z",
+  "profile": {
+    "name": "iShares Preferred & Income Securities ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0045000000000000005,
+    "inception_date": "Mar 26, 2007",
+    "index_tracked": "ICE Exchange-Listed Preferred & Hybrid Securities Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/PFF.htm?qt=PFF",
+    "category": "Preferred Stock/Convertible Bonds",
+    "asset_class": "Preferred Stock",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 14217200000,
+    "shares_outstanding": 460000000
+  },
+  "holdings": [
+    {
+      "symbol": "BA.PRA",
+      "name": "Boeing Company 6% Pfd Registered shs Series A",
+      "weight": 4
+    },
+    {
+      "symbol": "WFC.PRL",
+      "name": "Wells Fargo & Company 7.5 % Non Cum Perp Conv Pfd Registered Shs A Series L",
+      "weight": 2.38
+    },
+    {
+      "symbol": "STRC",
+      "name": "Strategy Inc 9% Perp Stretch PFD Registered Shs Series A",
+      "weight": 1.49
+    },
+    {
+      "symbol": "C.PRN",
+      "name": "Citigroup Capital XIII Tr Pfd Secs 2010-30.10.40 Global Fltg Rt",
+      "weight": 1.48
+    },
+    {
+      "symbol": "KKR.PRD",
+      "name": "KKR & Co Inc 6.25% Mandatory Conv Pfd Registered Shs Series D",
+      "weight": 1.41
+    },
+    {
+      "symbol": "ALB.PRA",
+      "name": "Albemarle Corporation Depository Shs Repr 1/20th 7.25 % Conv Pfd Registered Shs",
+      "weight": 1.38
+    },
+    {
+      "symbol": "BAC.PRL",
+      "name": "Bank of America Corp 7.25 % Non Cum Perp Conv Pfd Registered Shs Series L",
+      "weight": 1.36
+    },
+    {
+      "symbol": "NEE.PRS",
+      "name": "NextEra Energy, Inc. Corpoarate Unit Const of 1 Deb 06.29 + 1 PC 06.27",
+      "weight": 1.19
+    },
+    {
+      "symbol": "APO.PRA",
+      "name": "Apollo Global Management Inc Mandatory Conv Pfd Registered Shs Series A",
+      "weight": 1.09
+    },
+    {
+      "symbol": "JPM.PRC",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Perp Red Pfd Registered ShsSeries -EE-",
+      "weight": 1.03
+    },
+    {
+      "symbol": "HPE.PRC",
+      "name": "Hewlett Packard Enterprise Co. 7.625 % Conv Pfd Registered Shs 2024-01.09.27 Series C",
+      "weight": 1.01
+    },
+    {
+      "symbol": "JPM.PRD",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Red Pfd Registered Shs Series -DD-",
+      "weight": 0.93
+    },
+    {
+      "symbol": "NEE.PRT",
+      "name": "NextEra Energy, Inc. Corpoarate Unit Const of 1 Deb 11.29 + 1 PC 11.27",
+      "weight": 0.85
+    },
+    {
+      "symbol": "MCHPP",
+      "name": "Microchip Technology Incorporated Pfd Shs Depositary Shares Repr 1/20th Conv Pfd Shs Series A",
+      "weight": 0.84
+    },
+    {
+      "symbol": "ARES.PRB",
+      "name": "Ares Management Corporation Pfd Registered shs Series B",
+      "weight": 0.82
+    }
+  ]
+}

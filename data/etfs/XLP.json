@@ -1,0 +1,102 @@
+{
+  "symbol": "XLP",
+  "name": "Consumer Staples Select Sector SPDR Fund",
+  "last_updated": "2025-12-02T03:42:05.707Z",
+  "profile": {
+    "name": "Consumer Staples Select Sector SPDR Fund",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 16, 1998",
+    "index_tracked": "S&P Consumer Staples Select Sector Index",
+    "home_page": "http://www.sectorspdr.com/sectorspdr/sector/xlp",
+    "category": "Consumer Staples Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Consumer Staples",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 15391500000,
+    "shares_outstanding": 195100000
+  },
+  "holdings": [
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 11.25
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 9.39
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 8.05
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 6.57
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 5.68
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "weight": 4.72
+    },
+    {
+      "symbol": "CL",
+      "name": "Colgate-Palmolive Company",
+      "weight": 4.31
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International, Inc. Class A",
+      "weight": 4.18
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group, Inc.",
+      "weight": 4.03
+    },
+    {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corporation",
+      "weight": 3.54
+    },
+    {
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "weight": 2.73
+    },
+    {
+      "symbol": "KR",
+      "name": "Kroger Co.",
+      "weight": 2.71
+    },
+    {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "weight": 2.51
+    },
+    {
+      "symbol": "SYY",
+      "name": "Sysco Corporation",
+      "weight": 2.41
+    },
+    {
+      "symbol": "KMB",
+      "name": "Kimberly-Clark Corporation",
+      "weight": 2.4
+    }
+  ]
+}

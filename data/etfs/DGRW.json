@@ -1,0 +1,100 @@
+{
+  "symbol": "DGRW",
+  "name": "WisdomTree US Quality Dividend Growth Fund",
+  "last_updated": "2025-12-02T03:41:17.856Z",
+  "profile": {
+    "name": "WisdomTree US Quality Dividend Growth Fund",
+    "issuer": "WisdomTree, Inc.",
+    "brand": "WisdomTree",
+    "structure": "ETF",
+    "expense_ratio": 0.0028000000000000004,
+    "inception_date": "May 22, 2013",
+    "index_tracked": "WisdomTree U.S. Quality Dividend Growth Index - USD",
+    "home_page": "http://www.wisdomtree.com/etfs/fund-details.aspx?etfid=82",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 16091800000,
+    "shares_outstanding": 179500000
+  },
+  "holdings": [
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 8.42
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.36
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 4.46
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 4.22
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 2.62
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.59
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 2.48
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 2.46
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.44
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 2.4
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 2.32
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 2.01
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "weight": 1.97
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 1.94
+    }
+  ]
+}

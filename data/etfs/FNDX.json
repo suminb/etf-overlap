@@ -1,7 +1,7 @@
 {
   "symbol": "FNDX",
   "name": "Schwab Fundamental U.S. Large Company ETF",
-  "last_updated": "2025-12-01T08:37:18.010Z",
+  "last_updated": "2025-12-02T03:32:45.038Z",
   "profile": {
     "name": "Schwab Fundamental U.S. Large Company ETF",
     "issuer": "The Charles Schwab Corp.",
@@ -17,24 +17,24 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 21490600000,
-    "shares_outstanding": 799800000
+    "aum": 21641400000,
+    "shares_outstanding": 800100000
   },
   "holdings": [
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 4.74
+      "weight": 4.7
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 2.68
+      "weight": 2.73
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 2.58
+      "weight": 2.52
     },
     {
       "symbol": "XOM",
@@ -44,22 +44,27 @@
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 2.09
+      "weight": 2.04
     },
     {
       "symbol": "BRK.B",
       "name": "Berkshire Hathaway Inc. Class B",
-      "weight": 1.75
+      "weight": 1.74
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 1.69
+      "weight": 1.72
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
       "weight": 1.54
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 1.42
     },
     {
       "symbol": "CVX",
@@ -69,32 +74,27 @@
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 1.27
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel Corporation",
-      "weight": 1.27
-    },
-    {
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "weight": 1.18
+      "weight": 1.28
     },
     {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "weight": 1.15
+      "weight": 1.18
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.16
     },
     {
       "symbol": "CVS",
       "name": "CVS Health Corporation",
-      "weight": 1.07
+      "weight": 1.08
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corp",
-      "weight": 1.06
+      "weight": 1.07
     }
   ]
 }

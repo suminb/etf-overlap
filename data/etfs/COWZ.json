@@ -1,0 +1,100 @@
+{
+  "symbol": "COWZ",
+  "name": "Pacer US Cash Cows 100 ETF",
+  "last_updated": "2025-12-02T03:38:20.571Z",
+  "profile": {
+    "name": "Pacer US Cash Cows 100 ETF",
+    "issuer": "Pacer Advisors",
+    "brand": "Pacer",
+    "structure": "ETF",
+    "expense_ratio": 0.0049,
+    "inception_date": "Dec 16, 2016",
+    "index_tracked": "Pacer US Cash Cows 100 Index",
+    "home_page": "http://paceretfs.com/products/cowz",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 18144900000,
+    "shares_outstanding": 305300000
+  },
+  "holdings": [
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 2.96
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc. Series A",
+      "weight": 2.71
+    },
+    {
+      "symbol": "MCK",
+      "name": "McKesson Corporation",
+      "weight": 2.45
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 2.36
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 2.32
+    },
+    {
+      "symbol": "HCA",
+      "name": "HCA Healthcare Inc",
+      "weight": 2.3
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 2.19
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "weight": 2.16
+    },
+    {
+      "symbol": "NEM",
+      "name": "Newmont Corporation",
+      "weight": 2.15
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 2.09
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 2.02
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 2
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "weight": 1.99
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "weight": 1.98
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 1.88
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "symbol": "FBTC",
+  "name": "Fidelity Wise Origin Bitcoin Fund",
+  "last_updated": "2025-12-02T03:38:32.892Z",
+  "profile": {
+    "name": "Fidelity Wise Origin Bitcoin Fund",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Jan 10, 2024",
+    "index_tracked": "CME CF Benchmarks Bitcoin Reference Rate-New York Variant",
+    "home_page": "https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 17972700000,
+    "shares_outstanding": 229400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

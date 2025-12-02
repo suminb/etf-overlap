@@ -1,0 +1,100 @@
+{
+  "symbol": "SCHA",
+  "name": "Schwab U.S. Small-Cap ETF",
+  "last_updated": "2025-12-02T03:35:27.494Z",
+  "profile": {
+    "name": "Schwab U.S. Small-Cap ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Nov 03, 2009",
+    "index_tracked": "Dow Jones U.S. Small-Cap Total Stock Market Total Return Index",
+    "home_page": "https://www.csimfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?&&symbol=SCHA",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 19170500000,
+    "shares_outstanding": 672700000
+  },
+  "holdings": [
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "weight": 0.77
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings, Inc.",
+      "weight": 0.57
+    },
+    {
+      "symbol": "RKT",
+      "name": "Rocket Companies, Inc. Class A",
+      "weight": 0.48
+    },
+    {
+      "symbol": "ATI",
+      "name": "ATI Inc.",
+      "weight": 0.35
+    },
+    {
+      "symbol": "RVMD",
+      "name": "Revolution Medicines, Inc.",
+      "weight": 0.34
+    },
+    {
+      "symbol": "NXT",
+      "name": "Nextpower Inc. Class A",
+      "weight": 0.34
+    },
+    {
+      "symbol": "GH",
+      "name": "Guardant Health, Inc.",
+      "weight": 0.34
+    },
+    {
+      "symbol": "IONS",
+      "name": "Ionis Pharmaceuticals, Inc.",
+      "weight": 0.33
+    },
+    {
+      "symbol": "MLI",
+      "name": "Mueller Industries, Inc.",
+      "weight": 0.3
+    },
+    {
+      "symbol": "BBIO",
+      "name": "BridgeBio Pharma, Inc.",
+      "weight": 0.3
+    },
+    {
+      "symbol": "W",
+      "name": "Wayfair, Inc. Class A",
+      "weight": 0.29
+    },
+    {
+      "symbol": "IOT",
+      "name": "Samsara, Inc. Class A",
+      "weight": 0.28
+    },
+    {
+      "symbol": "MTSI",
+      "name": "MACOM Technology Solutions Holdings, Inc.",
+      "weight": 0.28
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 0.28
+    },
+    {
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 0.28
+    }
+  ]
+}

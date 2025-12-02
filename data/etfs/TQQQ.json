@@ -1,7 +1,9 @@
 {
   "symbol": "TQQQ",
-  "last_updated": "2025-12-01T08:24:33.611Z",
+  "name": "ProShares UltraPro QQQ",
+  "last_updated": "2025-12-02T03:27:00.823Z",
   "profile": {
+    "name": "ProShares UltraPro QQQ",
     "issuer": "Proshare Advisors LLC",
     "brand": "ProShares",
     "structure": "ETF",
@@ -15,84 +17,84 @@
     "asset_class_style": "Growth",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 29449800000,
-    "shares_outstanding": 565800000
+    "aum": 30092100000,
+    "shares_outstanding": 563600000
   },
   "holdings": [
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 17.48
+      "weight": 16.56
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 16-DEC-2025",
       "name": "United States Treasury Bills 0.0% 16-DEC-2025",
-      "weight": 5.45
+      "weight": 5.35
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 5.35
+      "weight": 5.34
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 5.03
+      "weight": 5.14
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 4.41
+      "weight": 4.54
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 3.78
+      "weight": 3.89
     },
     {
       "symbol": "TREASURY ISSUES SHORT-TERM",
       "name": "TREASURY ISSUES (SHORT-TERM)",
-      "weight": 3.28
+      "weight": 3.23
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 2.99
+      "weight": 3.09
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
       "name": "United States Treasury Bills 0.0% 23-DEC-2025",
-      "weight": 2.97
+      "weight": 2.92
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
       "name": "United States Treasury Bills 0.0% 20-JAN-2026",
-      "weight": 2.8
+      "weight": 2.75
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
       "name": "United States Treasury Bills 0.0% 26-DEC-2025",
-      "weight": 2.64
+      "weight": 2.59
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
       "name": "United States Treasury Bills 0.0% 19-FEB-2026",
-      "weight": 2.46
+      "weight": 2.42
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 2.27
-    },
-    {
-      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
-      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
-      "weight": 2.15
+      "weight": 2.31
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 2.13
+      "weight": 2.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 18-DEC-2025",
+      "weight": 2.11
     }
   ]
 }

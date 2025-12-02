@@ -1,7 +1,9 @@
 {
   "symbol": "CGDV",
-  "last_updated": "2025-12-01T08:31:40.413Z",
+  "name": "Capital Group Dividend Value ETF",
+  "last_updated": "2025-12-02T03:24:19.933Z",
   "profile": {
+    "name": "Capital Group Dividend Value ETF",
     "issuer": "The Capital Group Companies",
     "brand": "Capital Group",
     "structure": "ETF",
@@ -15,84 +17,84 @@
     "asset_class_style": "Value",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 25208000000,
-    "shares_outstanding": 582300000
+    "aum": 25494900000,
+    "shares_outstanding": 584100000
   },
   "holdings": [
     {
       "symbol": "LLY",
       "name": "Eli Lilly and Company",
-      "weight": 6.49
+      "weight": 6.21
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 5.58
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "weight": 5.55
+      "weight": 5.68
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 5.38
+      "weight": 5.56
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 5.45
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "weight": 4.58
+      "weight": 4.6
     },
     {
       "symbol": "BATS",
       "name": "British American Tobacco p.l.c.",
-      "weight": 3.65
+      "weight": 3.72
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "weight": 3.32
+      "weight": 3.34
     },
     {
       "symbol": "CMQXX",
       "name": "Capital Group Central Fund Series M Cash Fund",
-      "weight": 3.13
+      "weight": 3.19
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials, Inc.",
-      "weight": 2.93
+      "weight": 3.01
     },
     {
       "symbol": "SBUX",
       "name": "Starbucks Corporation",
-      "weight": 2.52
+      "weight": 2.53
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 2.46
+      "weight": 2.47
     },
     {
       "symbol": "PM",
       "name": "Philip Morris International Inc.",
-      "weight": 2.42
+      "weight": 2.39
     },
     {
       "symbol": "CARR",
       "name": "Carrier Global Corp.",
-      "weight": 2.27
+      "weight": 2.28
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 2.26
+      "weight": 2.21
     },
     {
-      "symbol": "AAPL",
-      "name": "Apple Inc.",
-      "weight": 2.17
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.21
     }
   ]
 }

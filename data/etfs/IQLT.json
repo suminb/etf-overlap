@@ -1,0 +1,100 @@
+{
+  "symbol": "IQLT",
+  "name": "iShares MSCI Intl Quality Factor ETF",
+  "last_updated": "2025-12-02T03:49:35.409Z",
+  "profile": {
+    "name": "iShares MSCI Intl Quality Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Jan 13, 2015",
+    "index_tracked": "World ex USA Sector Neutral Quality",
+    "home_page": "https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 13222900000,
+    "shares_outstanding": 296000000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 4.81
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 2.6
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 2.26
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 2.18
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 2.17
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 2.13
+    },
+    {
+      "symbol": "ZURN",
+      "name": "Zurich Insurance Group Ltd",
+      "weight": 1.8
+    },
+    {
+      "symbol": "ABBN",
+      "name": "ABB Ltd.",
+      "weight": 1.7
+    },
+    {
+      "symbol": "ULVR",
+      "name": "Unilever PLC",
+      "weight": 1.49
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 1.43
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 1.4
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 1.39
+    },
+    {
+      "symbol": "8766",
+      "name": "Tokio Marine Holdings, Inc.",
+      "weight": 1.34
+    },
+    {
+      "symbol": "MUV2",
+      "name": "Munchener Ruckversicherungs-Gesellschaft AG",
+      "weight": 1.33
+    }
+  ]
+}

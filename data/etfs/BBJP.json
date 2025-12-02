@@ -1,0 +1,100 @@
+{
+  "symbol": "BBJP",
+  "name": "JPMorgan BetaBuilders Japan ETF",
+  "last_updated": "2025-12-02T03:45:44.480Z",
+  "profile": {
+    "name": "JPMorgan BetaBuilders Japan ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0019,
+    "inception_date": "Jun 15, 2018",
+    "index_tracked": "Morningstar Japan Target Market Exposure Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-betabuilders-japan-etf-etf-shares-46641q712",
+    "category": "Japan Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "Japan",
+    "aum": 14859400000,
+    "shares_outstanding": 215700000
+  },
+  "holdings": [
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 4.83
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 3.74
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 3.69
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 3.04
+    },
+    {
+      "symbol": "8316",
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "weight": 2.45
+    },
+    {
+      "symbol": "9984",
+      "name": "SoftBank Group Corp.",
+      "weight": 2.11
+    },
+    {
+      "symbol": "7974",
+      "name": "Nintendo Co., Ltd.",
+      "weight": 2.06
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 2.05
+    },
+    {
+      "symbol": "8058",
+      "name": "Mitsubishi Corporation",
+      "weight": 1.9
+    },
+    {
+      "symbol": "8035",
+      "name": "Tokyo Electron Ltd.",
+      "weight": 1.89
+    },
+    {
+      "symbol": "8411",
+      "name": "Mizuho Financial Group, Inc.",
+      "weight": 1.85
+    },
+    {
+      "symbol": "7011",
+      "name": "Mitsubishi Heavy Industries, Ltd.",
+      "weight": 1.78
+    },
+    {
+      "symbol": "8001",
+      "name": "Itochu Corporation",
+      "weight": 1.78
+    },
+    {
+      "symbol": "6098",
+      "name": "Recruit Holdings Co., Ltd.",
+      "weight": 1.53
+    },
+    {
+      "symbol": "8031",
+      "name": "Mitsui & Co.,Ltd",
+      "weight": 1.44
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "symbol": "VFH",
+  "name": "Vanguard Financials ETF",
+  "last_updated": "2025-12-02T03:50:28.067Z",
+  "profile": {
+    "name": "Vanguard Financials ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jan 26, 2004",
+    "index_tracked": "MSCI US IMI 25/50 Financials",
+    "home_page": "https://advisors.vanguard.com/investments/products/vfh/vanguard-financials-etf",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Financials",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 12919400000,
+    "shares_outstanding": 100000000
+  },
+  "holdings": [
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 10.2
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 7.63
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 5.58
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 4.51
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 4.24
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 3.3
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 2.86
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.62
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 2.39
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 2.32
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 2.2
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corp",
+      "weight": 1.92
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 1.88
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global, Inc.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial Corp",
+      "weight": 1.66
+    }
+  ]
+}

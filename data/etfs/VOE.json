@@ -1,0 +1,100 @@
+{
+  "symbol": "VOE",
+  "name": "Vanguard Mid-Cap Value ETF",
+  "last_updated": "2025-12-02T03:34:57.279Z",
+  "profile": {
+    "name": "Vanguard Mid-Cap Value ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Aug 17, 2006",
+    "index_tracked": "CRSP US Mid Cap Value Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/voe/vanguard-mid-cap-value-etf",
+    "category": "Mid Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 19602500000,
+    "shares_outstanding": 111100000
+  },
+  "holdings": [
+    {
+      "symbol": "NEM",
+      "name": "Newmont Corporation",
+      "weight": 1.72
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH public limited company",
+      "weight": 1.55
+    },
+    {
+      "symbol": "TEL",
+      "name": "TE Connectivity plc",
+      "weight": 1.41
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "weight": 1.33
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 1.27
+    },
+    {
+      "symbol": "AJG",
+      "name": "Arthur J. Gallagher & Co.",
+      "weight": 1.24
+    },
+    {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 1.2
+    },
+    {
+      "symbol": "CMI",
+      "name": "Cummins Inc.",
+      "weight": 1.17
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "weight": 1.14
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 1.12
+    },
+    {
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "weight": 1.08
+    },
+    {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "weight": 1.06
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB Limited",
+      "weight": 1.05
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 1.05
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc. Series A",
+      "weight": 1.02
+    }
+  ]
+}

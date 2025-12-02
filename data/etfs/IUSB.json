@@ -1,7 +1,7 @@
 {
   "symbol": "IUSB",
   "name": "iShares Core Total USD Bond Market ETF",
-  "last_updated": "2025-12-01T09:01:56.047Z",
+  "last_updated": "2025-12-02T03:28:47.638Z",
   "profile": {
     "name": "iShares Core Total USD Bond Market ETF",
     "issuer": "BlackRock, Inc.",
@@ -15,14 +15,14 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 33969800000,
+    "aum": 34003500000,
     "shares_outstanding": 723500000
   },
   "holdings": [
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 1.93
+      "weight": 1.96
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",

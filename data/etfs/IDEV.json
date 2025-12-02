@@ -1,7 +1,9 @@
 {
   "symbol": "IDEV",
-  "last_updated": "2025-12-01T08:29:52.819Z",
+  "name": "iShares Core MSCI International Developed Markets ETF",
+  "last_updated": "2025-12-02T03:31:00.252Z",
   "profile": {
+    "name": "iShares Core MSCI International Developed Markets ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -15,24 +17,24 @@
     "asset_class_style": "Blend",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 23271500000,
+    "aum": 23539800000,
     "shares_outstanding": 289700000
   },
   "holdings": [
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
-      "weight": 1.55
+      "weight": 1.56
     },
     {
       "symbol": "AZN",
       "name": "AstraZeneca PLC",
-      "weight": 1.1
+      "weight": 1.09
     },
     {
       "symbol": "ROG",
       "name": "Roche Holding Ltd Dividend Right Cert.",
-      "weight": 1.03
+      "weight": 1.01
     },
     {
       "symbol": "NESN",
@@ -72,26 +74,26 @@
     {
       "symbol": "SHOP",
       "name": "Shopify, Inc. Class A",
-      "weight": 0.74
+      "weight": 0.73
     },
     {
       "symbol": "7203",
       "name": "Toyota Motor Corp.",
-      "weight": 0.73
+      "weight": 0.72
     },
     {
       "symbol": "MC",
       "name": "LVMH Moet Hennessy Louis Vuitton SE",
-      "weight": 0.69
-    },
-    {
-      "symbol": "8306",
-      "name": "Mitsubishi UFJ Financial Group, Inc.",
-      "weight": 0.68
+      "weight": 0.7
     },
     {
       "symbol": "6758",
       "name": "Sony Group Corporation",
+      "weight": 0.68
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
       "weight": 0.68
     }
   ]

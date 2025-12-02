@@ -1,0 +1,98 @@
+{
+  "symbol": "HYG",
+  "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+  "last_updated": "2025-12-02T03:37:12.950Z",
+  "profile": {
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0049,
+    "inception_date": "Apr 04, 2007",
+    "index_tracked": "iBoxx USD Liquid High Yield Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/HYG.htm?qt=HYG",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 18357900000,
+    "shares_outstanding": 227700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.48
+    },
+    {
+      "symbol": "1261229 BC LTD 100 15-APR-2032",
+      "name": "1261229 B.C. Ltd. 10.0% 15-APR-2032",
+      "weight": 0.41
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.39
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.38
+    },
+    {
+      "symbol": "QUIKRETE HOLDINGS INC 6375 01-MAR-2032",
+      "name": "QUIKRETE Holdings, Inc. 6.375% 01-MAR-2032",
+      "weight": 0.38
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.35
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.34
+    },
+    {
+      "symbol": "HUB INTERNATIONAL LIMITED 725 15-JUN-2030",
+      "name": "HUB International Limited 7.25% 15-JUN-2030",
+      "weight": 0.31
+    },
+    {
+      "symbol": "AADVANTAGE LOYALTY IP LTD 575 20-APR-2029",
+      "name": "AAdvantage Loyalty IP Ltd. 5.75% 20-APR-2029",
+      "weight": 0.3
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 5125 01-MAY-2027",
+      "name": "CCO Holdings, LLC 5.125% 01-MAY-2027",
+      "weight": 0.3
+    },
+    {
+      "symbol": "VENTURE GLOBAL LNG INC 95 01-FEB-2029",
+      "name": "Venture Global LNG, Inc. 9.5% 01-FEB-2029",
+      "weight": 0.29
+    },
+    {
+      "symbol": "EMRLD BORROWER LP 6625 15-DEC-2030",
+      "name": "EMRLD Borrower LP 6.625% 15-DEC-2030",
+      "weight": 0.27
+    },
+    {
+      "symbol": "PANTHER ESCROW ISSUER LLC 7125 01-JUN-2031",
+      "name": "Panther Escrow Issuer, LLC 7.125% 01-JUN-2031",
+      "weight": 0.27
+    },
+    {
+      "symbol": "MAUSER PACKAGING SOLUTIONS HOLDING COMPANY 7875",
+      "name": "Mauser Packaging Solutions Holding Company 7.875% 15-APR-2027",
+      "weight": 0.27
+    },
+    {
+      "symbol": "DAVITA INC 4625 01-JUN-2030",
+      "name": "DaVita Inc. 4.625% 01-JUN-2030",
+      "weight": 0.25
+    }
+  ]
+}

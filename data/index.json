@@ -9,10 +9,11 @@
     },
     {
       "symbol": "ACWI",
+      "name": "iShares MSCI ACWI ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0032,
-      "aum": 24063100000,
-      "last_updated": "2025-12-01T08:31:05.389Z"
+      "aum": 24260100000,
+      "last_updated": "2025-12-02T03:23:23.200Z"
     },
     {
       "symbol": "AFK",
@@ -51,11 +52,43 @@
       "last_updated": "2025-11-30T16:57:19.396Z"
     },
     {
+      "symbol": "AVDV",
+      "name": "Avantis International Small Cap Value ETF",
+      "issuer": "American Century Investments",
+      "expense_ratio": 0.0036,
+      "aum": 14405300000,
+      "last_updated": "2025-12-02T03:47:50.164Z"
+    },
+    {
+      "symbol": "AVEM",
+      "name": "Avantis Emerging Markets Equity ETF",
+      "issuer": "American Century Investments",
+      "expense_ratio": 0.0033,
+      "aum": 15060600000,
+      "last_updated": "2025-12-02T03:43:44.890Z"
+    },
+    {
+      "symbol": "AVUV",
+      "name": "Avantis U.S. Small Cap Value ETF",
+      "issuer": "American Century Investments",
+      "expense_ratio": 0.0025,
+      "aum": 19405100000,
+      "last_updated": "2025-12-02T03:35:09.195Z"
+    },
+    {
       "symbol": "BAR",
       "issuer": "GraniteShares",
       "expense_ratio": 0.0017000000000000001,
       "aum": 1429500000,
       "last_updated": "2025-12-01T04:58:37.638Z"
+    },
+    {
+      "symbol": "BBJP",
+      "name": "JPMorgan BetaBuilders Japan ETF",
+      "issuer": "JP Morgan",
+      "expense_ratio": 0.0019,
+      "aum": 14859400000,
+      "last_updated": "2025-12-02T03:45:44.480Z"
     },
     {
       "symbol": "BCI",
@@ -80,6 +113,14 @@
       "last_updated": "2025-12-01T08:57:20.119Z"
     },
     {
+      "symbol": "BINC",
+      "name": "iShares Flexible Income Active ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.004,
+      "aum": 14420700000,
+      "last_updated": "2025-12-02T03:47:37.654Z"
+    },
+    {
       "symbol": "BITI",
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.0103,
@@ -95,10 +136,11 @@
     },
     {
       "symbol": "BIV",
+      "name": "Vanguard Intermediate-Term Bond ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0003,
-      "aum": 26853300000,
-      "last_updated": "2025-12-01T08:25:12.241Z"
+      "aum": 26912100000,
+      "last_updated": "2025-12-02T03:25:42.441Z"
     },
     {
       "symbol": "BND",
@@ -140,10 +182,19 @@
     },
     {
       "symbol": "CGDV",
+      "name": "Capital Group Dividend Value ETF",
       "issuer": "The Capital Group Companies",
       "expense_ratio": 0.0033,
-      "aum": 25208000000,
-      "last_updated": "2025-12-01T08:31:40.413Z"
+      "aum": 25494900000,
+      "last_updated": "2025-12-02T03:24:19.933Z"
+    },
+    {
+      "symbol": "CGGR",
+      "name": "Capital Group Growth ETF",
+      "issuer": "The Capital Group Companies",
+      "expense_ratio": 0.0039000000000000003,
+      "aum": 18304700000,
+      "last_updated": "2025-12-02T03:37:32.736Z"
     },
     {
       "symbol": "CHIQ",
@@ -165,6 +216,14 @@
       "expense_ratio": 0.012199999999999999,
       "aum": 869500000,
       "last_updated": "2025-11-30T14:15:44.328Z"
+    },
+    {
+      "symbol": "COWZ",
+      "name": "Pacer US Cash Cows 100 ETF",
+      "issuer": "Pacer Advisors",
+      "expense_ratio": 0.0049,
+      "aum": 18144900000,
+      "last_updated": "2025-12-02T03:38:20.571Z"
     },
     {
       "symbol": "DBA",
@@ -203,12 +262,36 @@
       "last_updated": "2025-11-30T16:57:33.043Z"
     },
     {
+      "symbol": "DFIV",
+      "name": "Dimensional International Value ETF",
+      "issuer": "Dimensional",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 14798200000,
+      "last_updated": "2025-12-02T03:46:25.601Z"
+    },
+    {
+      "symbol": "DFUS",
+      "name": "Dimensional U.S. Equity Market ETF",
+      "issuer": "Dimensional",
+      "expense_ratio": 0.0009,
+      "aum": 17902800000,
+      "last_updated": "2025-12-02T03:38:53.614Z"
+    },
+    {
       "symbol": "DGRO",
       "name": "iShares Core Dividend Growth ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0008,
       "aum": 35271600000,
       "last_updated": "2025-12-01T09:00:43.846Z"
+    },
+    {
+      "symbol": "DGRW",
+      "name": "WisdomTree US Quality Dividend Growth Fund",
+      "issuer": "WisdomTree, Inc.",
+      "expense_ratio": 0.0028000000000000004,
+      "aum": 16091800000,
+      "last_updated": "2025-12-02T03:41:17.856Z"
     },
     {
       "symbol": "DIA",
@@ -258,23 +341,24 @@
       "name": "iShares Select Dividend ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0038,
-      "aum": 20750900000,
-      "last_updated": "2025-12-01T08:37:58.670Z"
+      "aum": 20904600000,
+      "last_updated": "2025-12-02T03:33:16.149Z"
     },
     {
       "symbol": "DYNF",
+      "name": "iShares U.S. Equity Factor Rotation Active ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0026,
-      "aum": 29493800000,
-      "last_updated": "2025-12-01T08:24:21.633Z"
+      "aum": 29779900000,
+      "last_updated": "2025-12-02T03:26:48.435Z"
     },
     {
       "symbol": "EEM",
       "name": "iShares MSCI Emerging Markets ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0072,
-      "aum": 20417600000,
-      "last_updated": "2025-12-01T08:38:49.225Z"
+      "aum": 20612100000,
+      "last_updated": "2025-12-02T03:34:06.261Z"
     },
     {
       "symbol": "EFA",
@@ -286,10 +370,35 @@
     },
     {
       "symbol": "EFV",
+      "name": "iShares MSCI EAFE Value ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0033,
-      "aum": 26733700000,
-      "last_updated": "2025-12-01T08:25:24.727Z"
+      "aum": 27021200000,
+      "last_updated": "2025-12-02T03:26:01.380Z"
+    },
+    {
+      "symbol": "EMB",
+      "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0039000000000000003,
+      "aum": 15653200000,
+      "last_updated": "2025-12-02T03:41:42.525Z"
+    },
+    {
+      "symbol": "EMXC",
+      "name": "iShares MSCI Emerging Markets ex China ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0025,
+      "aum": 13148400000,
+      "last_updated": "2025-12-02T03:49:56.356Z"
+    },
+    {
+      "symbol": "ESGU",
+      "name": "iShares ESG Aware MSCI USA ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 15138200000,
+      "last_updated": "2025-12-02T03:43:18.185Z"
     },
     {
       "symbol": "ESPO",
@@ -311,6 +420,14 @@
       "expense_ratio": 0.005,
       "aum": 1009800000,
       "last_updated": "2025-11-30T16:57:05.956Z"
+    },
+    {
+      "symbol": "EWJ",
+      "name": "iShares MSCI Japan ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.005,
+      "aum": 15859400000,
+      "last_updated": "2025-12-02T03:41:30.510Z"
     },
     {
       "symbol": "EZA",
@@ -338,8 +455,16 @@
       "name": "Fidelity Total Bond ETF",
       "issuer": "Fidelity",
       "expense_ratio": 0.0036,
-      "aum": 22979600000,
-      "last_updated": "2025-12-01T08:36:02.998Z"
+      "aum": 22919300000,
+      "last_updated": "2025-12-02T03:31:55.780Z"
+    },
+    {
+      "symbol": "FBTC",
+      "name": "Fidelity Wise Origin Bitcoin Fund",
+      "issuer": "Fidelity",
+      "expense_ratio": 0.0025,
+      "aum": 17972700000,
+      "last_updated": "2025-12-02T03:38:32.892Z"
     },
     {
       "symbol": "FDIS",
@@ -363,12 +488,20 @@
       "last_updated": "2025-11-30T16:58:28.396Z"
     },
     {
+      "symbol": "FNDF",
+      "name": "Schwab Fundamental International Equity ETF",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0025,
+      "aum": 18674300000,
+      "last_updated": "2025-12-02T03:35:40.042Z"
+    },
+    {
       "symbol": "FNDX",
       "name": "Schwab Fundamental U.S. Large Company ETF",
       "issuer": "The Charles Schwab Corp.",
       "expense_ratio": 0.0025,
-      "aum": 21490600000,
-      "last_updated": "2025-12-01T08:37:18.010Z"
+      "aum": 21641400000,
+      "last_updated": "2025-12-02T03:32:45.038Z"
     },
     {
       "symbol": "FNGU",
@@ -376,6 +509,14 @@
       "expense_ratio": 0.026000000000000002,
       "aum": 2335500000,
       "last_updated": "2025-11-30T17:26:50.261Z"
+    },
+    {
+      "symbol": "FTEC",
+      "name": "Fidelity MSCI Information Technology Index ETF",
+      "issuer": "Fidelity",
+      "expense_ratio": 0.0008,
+      "aum": 16536400000,
+      "last_updated": "2025-12-02T03:40:44.638Z"
     },
     {
       "symbol": "FTGC",
@@ -392,12 +533,20 @@
       "last_updated": "2025-11-30T14:17:43.465Z"
     },
     {
+      "symbol": "GBTC",
+      "name": "Grayscale Bitcoin Trust ETF",
+      "issuer": "Digital Currency Group, Inc.",
+      "expense_ratio": 0.015,
+      "aum": 15064700000,
+      "last_updated": "2025-12-02T03:43:32.094Z"
+    },
+    {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "issuer": "VanEck",
       "expense_ratio": 0.0051,
-      "aum": 22881100000,
-      "last_updated": "2025-12-01T08:36:15.349Z"
+      "aum": 23958000000,
+      "last_updated": "2025-12-02T03:30:16.116Z"
     },
     {
       "symbol": "GDXU",
@@ -430,10 +579,11 @@
     },
     {
       "symbol": "GLDM",
+      "name": "SPDR Gold Minishares Trust of beneficial interest",
       "issuer": "State Street",
       "expense_ratio": 0.001,
-      "aum": 23424000000,
-      "last_updated": "2025-12-01T08:30:05.030Z"
+      "aum": 23498600000,
+      "last_updated": "2025-12-02T03:31:12.587Z"
     },
     {
       "symbol": "GLTR",
@@ -444,10 +594,11 @@
     },
     {
       "symbol": "GOVT",
+      "name": "iShares U.S. Treasury Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0005,
-      "aum": 33491300000,
-      "last_updated": "2025-12-01T05:34:17.911Z"
+      "aum": 33502900000,
+      "last_updated": "2025-12-02T03:28:35.592Z"
     },
     {
       "symbol": "GSG",
@@ -455,6 +606,14 @@
       "expense_ratio": 0.0075,
       "aum": 1062400000,
       "last_updated": "2025-12-01T04:59:26.166Z"
+    },
+    {
+      "symbol": "GSLC",
+      "name": "TR Activebeta US Large Cap Equity ETF",
+      "issuer": "Goldman Sachs",
+      "expense_ratio": 0.0009,
+      "aum": 14757200000,
+      "last_updated": "2025-12-02T03:46:38.747Z"
     },
     {
       "symbol": "HERO",
@@ -469,6 +628,14 @@
       "expense_ratio": 0.0068000000000000005,
       "aum": 1347800000,
       "last_updated": "2025-12-01T04:58:49.862Z"
+    },
+    {
+      "symbol": "HYG",
+      "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0049,
+      "aum": 18357900000,
+      "last_updated": "2025-12-02T03:37:12.950Z"
     },
     {
       "symbol": "IAU",
@@ -502,10 +669,11 @@
     },
     {
       "symbol": "IDEV",
+      "name": "iShares Core MSCI International Developed Markets ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0004,
-      "aum": 23271500000,
-      "last_updated": "2025-12-01T08:29:52.819Z"
+      "aum": 23539800000,
+      "last_updated": "2025-12-02T03:31:00.252Z"
     },
     {
       "symbol": "IEF",
@@ -524,6 +692,14 @@
       "last_updated": "2025-12-01T08:43:01.287Z"
     },
     {
+      "symbol": "IEI",
+      "name": "iShares 3-7 Year Treasury Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 17630100000,
+      "last_updated": "2025-12-02T03:39:31.777Z"
+    },
+    {
       "symbol": "IEMG",
       "name": "iShares Core MSCI Emerging Markets ETF",
       "issuer": "BlackRock, Inc.",
@@ -532,12 +708,20 @@
       "last_updated": "2025-12-01T08:44:17.450Z"
     },
     {
+      "symbol": "IGIB",
+      "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0004,
+      "aum": 16973800000,
+      "last_updated": "2025-12-02T03:40:06.441Z"
+    },
+    {
       "symbol": "IGSB",
       "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0004,
-      "aum": 21895700000,
-      "last_updated": "2025-12-01T08:36:53.517Z"
+      "aum": 21851700000,
+      "last_updated": "2025-12-02T03:32:32.645Z"
     },
     {
       "symbol": "IJH",
@@ -577,6 +761,14 @@
       "last_updated": "2025-11-30T17:22:07.219Z"
     },
     {
+      "symbol": "IQLT",
+      "name": "iShares MSCI Intl Quality Factor ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.003,
+      "aum": 13222900000,
+      "last_updated": "2025-12-02T03:49:35.409Z"
+    },
+    {
       "symbol": "ITA",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0038,
@@ -596,22 +788,24 @@
       "name": "iShares Core Total USD Bond Market ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0006,
-      "aum": 33969800000,
-      "last_updated": "2025-12-01T09:01:56.047Z"
+      "aum": 34003500000,
+      "last_updated": "2025-12-02T03:28:47.638Z"
     },
     {
       "symbol": "IUSG",
+      "name": "iShares Core S&P U.S. Growth ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0004,
-      "aum": 25876900000,
-      "last_updated": "2025-12-01T08:26:19.566Z"
+      "aum": 26079400000,
+      "last_updated": "2025-12-02T03:25:04.291Z"
     },
     {
       "symbol": "IUSV",
+      "name": "iShares Core S&P U.S. Value ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0004,
-      "aum": 23636200000,
-      "last_updated": "2025-12-01T08:30:27.260Z"
+      "aum": 23835300000,
+      "last_updated": "2025-12-02T03:30:47.784Z"
     },
     {
       "symbol": "IVE",
@@ -677,12 +871,20 @@
       "last_updated": "2025-12-01T08:48:23.864Z"
     },
     {
+      "symbol": "IWO",
+      "name": "iShares Russell 2000 Growth ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0024,
+      "aum": 13122200000,
+      "last_updated": "2025-12-02T03:50:07.352Z"
+    },
+    {
       "symbol": "IWP",
       "name": "iShares Russell Mid-Cap Growth ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0023,
-      "aum": 19759000000,
-      "last_updated": "2025-12-01T08:39:43.436Z"
+      "aum": 19940400000,
+      "last_updated": "2025-12-02T03:34:44.648Z"
     },
     {
       "symbol": "IWR",
@@ -693,11 +895,35 @@
       "last_updated": "2025-12-01T08:56:42.824Z"
     },
     {
+      "symbol": "IWS",
+      "name": "iShares Russell Mid-Cap Value ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0023,
+      "aum": 14008000000,
+      "last_updated": "2025-12-02T03:48:53.394Z"
+    },
+    {
+      "symbol": "IWV",
+      "name": "iShares Russell 3000 ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.002,
+      "aum": 18152600000,
+      "last_updated": "2025-12-02T03:37:57.875Z"
+    },
+    {
       "symbol": "IWX",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.002,
       "aum": 2989800000,
       "last_updated": "2025-11-30T17:22:36.477Z"
+    },
+    {
+      "symbol": "IWY",
+      "name": "iShares Russell Top 200 Growth ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.002,
+      "aum": 16664600000,
+      "last_updated": "2025-12-02T03:40:31.718Z"
     },
     {
       "symbol": "IXUS",
@@ -719,15 +945,16 @@
       "name": "iShares U.S. Technology ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0038,
-      "aum": 20575000000,
-      "last_updated": "2025-12-01T08:38:23.470Z"
+      "aum": 20759300000,
+      "last_updated": "2025-12-02T03:33:28.971Z"
     },
     {
       "symbol": "JAAA",
+      "name": "Janus Henderson AAA CLO ETF",
       "issuer": "Janus Henderson",
       "expense_ratio": 0.002,
-      "aum": 25299200000,
-      "last_updated": "2025-12-01T08:31:52.417Z"
+      "aum": 25299100000,
+      "last_updated": "2025-12-02T03:23:55.291Z"
     },
     {
       "symbol": "JEDI",
@@ -746,10 +973,11 @@
     },
     {
       "symbol": "JEPQ",
+      "name": "JPMorgan NASDAQ Equity Premium Income ETF",
       "issuer": "JP Morgan",
       "expense_ratio": 0.0034999999999999996,
-      "aum": 31437900000,
-      "last_updated": "2025-12-01T08:23:44.737Z"
+      "aum": 31715200000,
+      "last_updated": "2025-12-02T03:27:33.153Z"
     },
     {
       "symbol": "JPST",
@@ -775,10 +1003,11 @@
     },
     {
       "symbol": "LQD",
+      "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0014000000000000002,
-      "aum": 33273600000,
-      "last_updated": "2025-12-01T05:33:40.372Z"
+      "aum": 33216900000,
+      "last_updated": "2025-12-02T03:28:23.428Z"
     },
     {
       "symbol": "MBB",
@@ -790,10 +1019,11 @@
     },
     {
       "symbol": "MDY",
+      "name": "SPDR S&P Midcap 400 ETF Trust",
       "issuer": "State Street",
       "expense_ratio": 0.0024,
-      "aum": 23237200000,
-      "last_updated": "2025-12-01T08:29:40.402Z"
+      "aum": 23408000000,
+      "last_updated": "2025-12-02T03:31:24.845Z"
     },
     {
       "symbol": "MGC",
@@ -804,10 +1034,11 @@
     },
     {
       "symbol": "MGK",
+      "name": "Vanguard Mega Cap Growth ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
-      "aum": 32220000000,
-      "last_updated": "2025-12-01T05:33:28.398Z"
+      "aum": 32433800000,
+      "last_updated": "2025-12-02T03:27:58.426Z"
     },
     {
       "symbol": "MGV",
@@ -815,6 +1046,14 @@
       "expense_ratio": 0.0007000000000000001,
       "aum": 10470600000,
       "last_updated": "2025-11-30T17:21:37.602Z"
+    },
+    {
+      "symbol": "MINT",
+      "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+      "issuer": "Allianz Investment Management LLC",
+      "expense_ratio": 0.0034999999999999996,
+      "aum": 14525100000,
+      "last_updated": "2025-12-02T03:47:08.758Z"
     },
     {
       "symbol": "MISL",
@@ -828,8 +1067,8 @@
       "name": "iShares MSCI USA Momentum Factor ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
-      "aum": 19901300000,
-      "last_updated": "2025-12-01T08:39:14.736Z"
+      "aum": 20218200000,
+      "last_updated": "2025-12-02T03:34:18.732Z"
     },
     {
       "symbol": "MUB",
@@ -862,10 +1101,11 @@
     },
     {
       "symbol": "OEF",
+      "name": "iShares S&P 100 ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.002,
-      "aum": 28637900000,
-      "last_updated": "2025-12-01T08:24:46.931Z"
+      "aum": 28857100000,
+      "last_updated": "2025-12-02T03:26:26.737Z"
     },
     {
       "symbol": "OIL",
@@ -910,6 +1150,14 @@
       "last_updated": "2025-11-30T16:50:54.101Z"
     },
     {
+      "symbol": "PFF",
+      "name": "iShares Preferred & Income Securities ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0045000000000000005,
+      "aum": 14217200000,
+      "last_updated": "2025-12-02T03:48:28.409Z"
+    },
+    {
       "symbol": "PPA",
       "issuer": "Invesco",
       "expense_ratio": 0.0058,
@@ -929,6 +1177,14 @@
       "expense_ratio": 0.0095,
       "aum": 738400000,
       "last_updated": "2025-12-01T02:18:09.293Z"
+    },
+    {
+      "symbol": "PULS",
+      "name": "PGIM Ultra Short Bond ETF",
+      "issuer": "Prudential",
+      "expense_ratio": 0.0015,
+      "aum": 13210500000,
+      "last_updated": "2025-12-02T03:49:45.840Z"
     },
     {
       "symbol": "QID",
@@ -967,6 +1223,14 @@
       "expense_ratio": 0.0015,
       "aum": 47566700000,
       "last_updated": "2025-12-01T08:55:51.062Z"
+    },
+    {
+      "symbol": "RDVY",
+      "name": "First Trust Rising Dividend Achievers ETF",
+      "issuer": "First Trust",
+      "expense_ratio": 0.0048,
+      "aum": 18211700000,
+      "last_updated": "2025-12-02T03:37:45.158Z"
     },
     {
       "symbol": "RSP",
@@ -1012,6 +1276,14 @@
       "last_updated": "2025-12-01T06:23:11.936Z"
     },
     {
+      "symbol": "SCHA",
+      "name": "Schwab U.S. Small-Cap ETF",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0004,
+      "aum": 19170500000,
+      "last_updated": "2025-12-02T03:35:27.494Z"
+    },
+    {
       "symbol": "SCHB",
       "name": "Schwab U.S. Broad Market ETF",
       "issuer": "The Charles Schwab Corp.",
@@ -1051,6 +1323,22 @@
       "last_updated": "2025-12-01T01:52:45.668Z"
     },
     {
+      "symbol": "SCHP",
+      "name": "Schwab U.S. TIPS ETF",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0003,
+      "aum": 14806500000,
+      "last_updated": "2025-12-02T03:46:13.150Z"
+    },
+    {
+      "symbol": "SCHV",
+      "name": "Schwab U.S. Large-Cap Value ETF",
+      "issuer": "The Charles Schwab Corp.",
+      "expense_ratio": 0.0004,
+      "aum": 14014300000,
+      "last_updated": "2025-12-02T03:48:40.869Z"
+    },
+    {
       "symbol": "SCHX",
       "name": "Schwab U.S. Large-Cap ETF",
       "issuer": "The Charles Schwab Corp.",
@@ -1077,8 +1365,8 @@
       "name": "State Street SPDR S&P Dividend ETF",
       "issuer": "State Street",
       "expense_ratio": 0.0034999999999999996,
-      "aum": 19952600000,
-      "last_updated": "2025-12-01T08:39:01.638Z"
+      "aum": 20063400000,
+      "last_updated": "2025-12-02T03:34:31.874Z"
     },
     {
       "symbol": "SGOL",
@@ -1114,15 +1402,16 @@
       "name": "iShares Short Treasury Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
-      "aum": 20724900000,
-      "last_updated": "2025-12-01T08:38:10.817Z"
+      "aum": 20728300000,
+      "last_updated": "2025-12-02T03:33:41.203Z"
     },
     {
       "symbol": "SHY",
+      "name": "iShares 1-3 Year Treasury Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
-      "aum": 23793100000,
-      "last_updated": "2025-12-01T08:30:40.014Z"
+      "aum": 23864300000,
+      "last_updated": "2025-12-02T03:30:28.117Z"
     },
     {
       "symbol": "SIVR",
@@ -1133,10 +1422,11 @@
     },
     {
       "symbol": "SLV",
+      "name": "iShares Silver Trust",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.005,
-      "aum": 25644200000,
-      "last_updated": "2025-12-01T08:32:29.181Z"
+      "aum": 26332300000,
+      "last_updated": "2025-12-02T03:25:17.486Z"
     },
     {
       "symbol": "SMH",
@@ -1148,10 +1438,11 @@
     },
     {
       "symbol": "SOXL",
+      "name": "Direxion Daily Semiconductor Bull 3x Shares",
       "issuer": "Rafferty Asset Management",
       "expense_ratio": 0.0075,
-      "aum": 12324700000,
-      "last_updated": "2025-11-30T17:25:01.060Z"
+      "aum": 12896700000,
+      "last_updated": "2025-12-02T03:50:38.614Z"
     },
     {
       "symbol": "SOXS",
@@ -1159,6 +1450,14 @@
       "expense_ratio": 0.0097,
       "aum": 1084200000,
       "last_updated": "2025-12-01T02:17:43.501Z"
+    },
+    {
+      "symbol": "SOXX",
+      "name": "iShares Semiconductor ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0034000000000000002,
+      "aum": 16395100000,
+      "last_updated": "2025-12-02T03:40:57.288Z"
     },
     {
       "symbol": "SPDN",
@@ -1169,10 +1468,51 @@
     },
     {
       "symbol": "SPDW",
+      "name": "SPDR Portfolio Developed World ex-US ETF",
       "issuer": "State Street",
       "expense_ratio": 0.0003,
-      "aum": 31972900000,
-      "last_updated": "2025-12-01T05:33:16.356Z"
+      "aum": 32451600000,
+      "last_updated": "2025-12-02T03:28:11.072Z"
+    },
+    {
+      "symbol": "SPEM",
+      "name": "SPDR Portfolio Emerging Markets ETF",
+      "issuer": "State Street",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 15220600000,
+      "last_updated": "2025-12-02T03:42:18.791Z"
+    },
+    {
+      "symbol": "SPHQ",
+      "name": "Invesco S&P 500® Quality ETF",
+      "issuer": "Invesco",
+      "expense_ratio": 0.0015,
+      "aum": 15014200000,
+      "last_updated": "2025-12-02T03:45:32.026Z"
+    },
+    {
+      "symbol": "SPMD",
+      "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF",
+      "issuer": "State Street",
+      "expense_ratio": 0.0003,
+      "aum": 14820300000,
+      "last_updated": "2025-12-02T03:46:01.096Z"
+    },
+    {
+      "symbol": "SPMO",
+      "name": "Invesco S&P 500® Momentum ETF",
+      "issuer": "Invesco",
+      "expense_ratio": 0.0013,
+      "aum": 12860100000,
+      "last_updated": "2025-12-02T03:50:49.042Z"
+    },
+    {
+      "symbol": "SPSM",
+      "name": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
+      "issuer": "State Street",
+      "expense_ratio": 0.0003,
+      "aum": 12965500000,
+      "last_updated": "2025-12-02T03:50:17.605Z"
     },
     {
       "symbol": "SPXL",
@@ -1221,10 +1561,11 @@
     },
     {
       "symbol": "SPYV",
+      "name": "State Street SPDR Portfolio S&P 500 Value ETF",
       "issuer": "State Street",
       "expense_ratio": 0.0004,
-      "aum": 31178700000,
-      "last_updated": "2025-12-01T08:23:57.222Z"
+      "aum": 31167500000,
+      "last_updated": "2025-12-02T03:27:20.654Z"
     },
     {
       "symbol": "SQQQ",
@@ -1276,6 +1617,14 @@
       "last_updated": "2025-11-30T17:26:27.718Z"
     },
     {
+      "symbol": "TIP",
+      "name": "iShares TIPS Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0018,
+      "aum": 14703900000,
+      "last_updated": "2025-12-02T03:46:56.326Z"
+    },
+    {
       "symbol": "TLT",
       "name": "iShares 20+ Year Treasury Bond ETF",
       "issuer": "BlackRock, Inc.",
@@ -1306,10 +1655,11 @@
     },
     {
       "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
       "issuer": "Proshare Advisors LLC",
       "expense_ratio": 0.008199999999999999,
-      "aum": 29449800000,
-      "last_updated": "2025-12-01T08:24:33.611Z"
+      "aum": 30092100000,
+      "last_updated": "2025-12-02T03:27:00.823Z"
     },
     {
       "symbol": "TRFM",
@@ -1382,19 +1732,36 @@
       "last_updated": "2025-11-30T17:27:31.235Z"
     },
     {
+      "symbol": "USFR",
+      "name": "WisdomTree Floating Rate Treasury Fund",
+      "issuer": "WisdomTree, Inc.",
+      "expense_ratio": 0.0015,
+      "aum": 16731100000,
+      "last_updated": "2025-12-02T03:40:18.735Z"
+    },
+    {
       "symbol": "USHY",
+      "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0008,
-      "aum": 25346100000,
-      "last_updated": "2025-12-01T08:32:04.674Z"
+      "aum": 25554400000,
+      "last_updated": "2025-12-02T03:24:32.180Z"
+    },
+    {
+      "symbol": "USIG",
+      "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
+      "issuer": "BlackRock, Inc.",
+      "expense_ratio": 0.0004,
+      "aum": 15537200000,
+      "last_updated": "2025-12-02T03:41:55.083Z"
     },
     {
       "symbol": "USMV",
       "name": "iShares MSCI USA Min Vol Factor ETF",
       "issuer": "BlackRock, Inc.",
       "expense_ratio": 0.0015,
-      "aum": 22828600000,
-      "last_updated": "2025-12-01T08:36:28.689Z"
+      "aum": 22898500000,
+      "last_updated": "2025-12-02T03:32:08.104Z"
     },
     {
       "symbol": "USO",
@@ -1416,15 +1783,16 @@
       "name": "Vanguard Small Cap Growth ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
-      "aum": 20476700000,
-      "last_updated": "2025-12-01T08:38:36.541Z"
+      "aum": 20647500000,
+      "last_updated": "2025-12-02T03:33:53.516Z"
     },
     {
       "symbol": "VBR",
+      "name": "Vanguard Small Cap Value ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
-      "aum": 31655400000,
-      "last_updated": "2025-12-01T08:23:32.259Z"
+      "aum": 31835100000,
+      "last_updated": "2025-12-02T03:27:46.193Z"
     },
     {
       "symbol": "VCIT",
@@ -1466,6 +1834,14 @@
       "last_updated": "2025-12-01T08:51:51.205Z"
     },
     {
+      "symbol": "VFH",
+      "name": "Vanguard Financials ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0009,
+      "aum": 12919400000,
+      "last_updated": "2025-12-02T03:50:28.067Z"
+    },
+    {
       "symbol": "VGIT",
       "name": "Vanguard Intermediate-Term Treasury ETF",
       "issuer": "Vanguard",
@@ -1475,17 +1851,19 @@
     },
     {
       "symbol": "VGK",
+      "name": "Vanguard FTSE Europe ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0006,
-      "aum": 27876500000,
-      "last_updated": "2025-12-01T08:25:00.096Z"
+      "aum": 28187000000,
+      "last_updated": "2025-12-02T03:26:13.915Z"
     },
     {
       "symbol": "VGSH",
+      "name": "Vanguard Short-Term Treasury ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0003,
-      "aum": 25436900000,
-      "last_updated": "2025-12-01T08:32:16.830Z"
+      "aum": 25404600000,
+      "last_updated": "2025-12-02T03:24:07.469Z"
     },
     {
       "symbol": "VGT",
@@ -1496,12 +1874,28 @@
       "last_updated": "2025-12-01T08:44:42.161Z"
     },
     {
+      "symbol": "VHT",
+      "name": "Vanguard Health Care ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0009,
+      "aum": 17814000000,
+      "last_updated": "2025-12-02T03:39:06.212Z"
+    },
+    {
       "symbol": "VIG",
       "name": "Vanguard Dividend Appreciation ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0005,
       "aum": 100793000000,
       "last_updated": "2025-12-01T08:45:07.130Z"
+    },
+    {
+      "symbol": "VMBS",
+      "name": "Vanguard Mortgage-Backed Securities ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 14466400000,
+      "last_updated": "2025-12-02T03:47:21.078Z"
     },
     {
       "symbol": "VNQ",
@@ -1520,12 +1914,28 @@
       "last_updated": "2025-12-01T08:47:20.189Z"
     },
     {
+      "symbol": "VOE",
+      "name": "Vanguard Mid-Cap Value ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 19602500000,
+      "last_updated": "2025-12-02T03:34:57.279Z"
+    },
+    {
       "symbol": "VONG",
       "name": "Vanguard Russell 1000 Growth ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
       "aum": 35164000000,
       "last_updated": "2025-12-01T09:00:56.377Z"
+    },
+    {
+      "symbol": "VONV",
+      "name": "Vanguard Russell 1000 Value ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 14220200000,
+      "last_updated": "2025-12-02T03:48:10.902Z"
     },
     {
       "symbol": "VOO",
@@ -1540,8 +1950,16 @@
       "name": "Vanguard S&P 500 Growth ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0007000000000000001,
-      "aum": 21391300000,
-      "last_updated": "2025-12-01T08:37:46.023Z"
+      "aum": 21547100000,
+      "last_updated": "2025-12-02T03:32:57.044Z"
+    },
+    {
+      "symbol": "VOT",
+      "name": "Vanguard Mid-Cap Growth ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 17756400000,
+      "last_updated": "2025-12-02T03:39:19.586Z"
     },
     {
       "symbol": "VT",
@@ -1568,12 +1986,28 @@
       "last_updated": "2025-12-01T08:42:10.840Z"
     },
     {
+      "symbol": "VTIP",
+      "name": "Vanguard Short-Term Inflation-Protected Securities ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0003,
+      "aum": 17066700000,
+      "last_updated": "2025-12-02T03:39:48.500Z"
+    },
+    {
       "symbol": "VTV",
       "name": "Vanguard Value ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0004,
       "aum": 151570000000,
       "last_updated": "2025-12-01T08:43:13.892Z"
+    },
+    {
+      "symbol": "VTWO",
+      "name": "Vanguard Russell 2000 ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0007000000000000001,
+      "aum": 13628900000,
+      "last_updated": "2025-12-02T03:49:18.336Z"
     },
     {
       "symbol": "VUG",
@@ -1601,10 +2035,11 @@
     },
     {
       "symbol": "VXF",
+      "name": "Vanguard Extended Market ETF",
       "issuer": "Vanguard",
       "expense_ratio": 0.0005,
-      "aum": 24858700000,
-      "last_updated": "2025-12-01T08:31:27.771Z"
+      "aum": 24715500000,
+      "last_updated": "2025-12-02T03:23:42.974Z"
     },
     {
       "symbol": "VXUS",
@@ -1623,6 +2058,14 @@
       "last_updated": "2025-12-01T08:49:33.468Z"
     },
     {
+      "symbol": "VYMI",
+      "name": "Vanguard International High Dividend Yield ETF",
+      "issuer": "Vanguard",
+      "expense_ratio": 0.0017000000000000001,
+      "aum": 13804700000,
+      "last_updated": "2025-12-02T03:49:05.862Z"
+    },
+    {
       "symbol": "WAR",
       "issuer": "US Global Investors",
       "expense_ratio": 0.006,
@@ -1638,17 +2081,19 @@
     },
     {
       "symbol": "XLC",
+      "name": "Communication Services Select Sector SPDR Fund",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
-      "aum": 25962100000,
-      "last_updated": "2025-12-01T08:25:55.830Z"
+      "aum": 26000300000,
+      "last_updated": "2025-12-02T03:24:51.133Z"
     },
     {
       "symbol": "XLE",
+      "name": "Energy Select Sector SPDR Fund",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
-      "aum": 26732200000,
-      "last_updated": "2025-12-01T08:25:37.803Z"
+      "aum": 26832000000,
+      "last_updated": "2025-12-02T03:25:30.140Z"
     },
     {
       "symbol": "XLF",
@@ -1667,10 +2112,11 @@
     },
     {
       "symbol": "XLI",
+      "name": "Industrial Select Sector SPDR Fund",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
-      "aum": 23991200000,
-      "last_updated": "2025-12-01T08:30:52.388Z"
+      "aum": 24115600000,
+      "last_updated": "2025-12-02T03:23:10.175Z"
     },
     {
       "symbol": "XLK",
@@ -1681,12 +2127,20 @@
       "last_updated": "2025-12-01T08:46:39.693Z"
     },
     {
+      "symbol": "XLP",
+      "name": "Consumer Staples Select Sector SPDR Fund",
+      "issuer": "State Street",
+      "expense_ratio": 0.0008,
+      "aum": 15391500000,
+      "last_updated": "2025-12-02T03:42:05.707Z"
+    },
+    {
       "symbol": "XLU",
       "name": "Utilities Select Sector SPDR Fund",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
-      "aum": 21967000000,
-      "last_updated": "2025-12-01T08:36:41.424Z"
+      "aum": 22382800000,
+      "last_updated": "2025-12-02T03:32:20.509Z"
     },
     {
       "symbol": "XLV",
@@ -1701,8 +2155,8 @@
       "name": "Consumer Discretionary Select Sector SPDR Fund",
       "issuer": "State Street",
       "expense_ratio": 0.0008,
-      "aum": 22983000000,
-      "last_updated": "2025-12-01T08:35:50.759Z"
+      "aum": 23110600000,
+      "last_updated": "2025-12-02T03:31:37.240Z"
     },
     {
       "symbol": "XRT",

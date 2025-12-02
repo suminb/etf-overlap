@@ -1,7 +1,9 @@
 {
   "symbol": "VGSH",
-  "last_updated": "2025-12-01T08:32:16.830Z",
+  "name": "Vanguard Short-Term Treasury ETF",
+  "last_updated": "2025-12-02T03:24:07.469Z",
   "profile": {
+    "name": "Vanguard Short-Term Treasury ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",
@@ -13,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 25436900000,
-    "shares_outstanding": 431700000
+    "aum": 25404600000,
+    "shares_outstanding": 431200000
   },
   "holdings": [
     {

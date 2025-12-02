@@ -1,7 +1,7 @@
 {
   "symbol": "VOOG",
   "name": "Vanguard S&P 500 Growth ETF",
-  "last_updated": "2025-12-01T08:37:46.023Z",
+  "last_updated": "2025-12-02T03:32:57.044Z",
   "profile": {
     "name": "Vanguard S&P 500 Growth ETF",
     "issuer": "Vanguard",
@@ -17,7 +17,7 @@
     "asset_class_style": "Growth",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 21391300000,
+    "aum": 21547100000,
     "shares_outstanding": 48500000
   },
   "holdings": [

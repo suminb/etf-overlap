@@ -1,7 +1,9 @@
 {
   "symbol": "BIV",
-  "last_updated": "2025-12-01T08:25:12.241Z",
+  "name": "Vanguard Intermediate-Term Bond ETF",
+  "last_updated": "2025-12-02T03:25:42.441Z",
   "profile": {
+    "name": "Vanguard Intermediate-Term Bond ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",
@@ -13,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 26853300000,
-    "shares_outstanding": 341300000
+    "aum": 26912100000,
+    "shares_outstanding": 341700000
   },
   "holdings": [
     {

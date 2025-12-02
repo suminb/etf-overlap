@@ -1,7 +1,9 @@
 {
   "symbol": "XLI",
-  "last_updated": "2025-12-01T08:30:52.388Z",
+  "name": "Industrial Select Sector SPDR Fund",
+  "last_updated": "2025-12-02T03:23:10.175Z",
   "profile": {
+    "name": "Industrial Select Sector SPDR Fund",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -17,39 +19,39 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 23991200000,
-    "shares_outstanding": 157900000
+    "aum": 24115600000,
+    "shares_outstanding": 157800000
   },
   "holdings": [
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "weight": 6.7
+      "weight": 6.74
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar Inc.",
-      "weight": 5.72
+      "weight": 5.74
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "weight": 4.96
+      "weight": 4.99
     },
     {
       "symbol": "UBER",
       "name": "Uber Technologies, Inc.",
-      "weight": 3.76
+      "weight": 3.89
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
-      "weight": 3.36
+      "weight": 3.48
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "weight": 2.97
+      "weight": 3.04
     },
     {
       "symbol": "UNP",
@@ -59,17 +61,17 @@
     {
       "symbol": "ETN",
       "name": "Eaton Corp. Plc",
-      "weight": 2.82
-    },
-    {
-      "symbol": "DE",
-      "name": "Deere & Company",
-      "weight": 2.7
+      "weight": 2.87
     },
     {
       "symbol": "HON",
       "name": "Honeywell International Inc.",
-      "weight": 2.61
+      "weight": 2.6
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "weight": 2.49
     },
     {
       "symbol": "PH",
@@ -79,12 +81,7 @@
     {
       "symbol": "ADP",
       "name": "Automatic Data Processing, Inc.",
-      "weight": 2.24
-    },
-    {
-      "symbol": "TT",
-      "name": "Trane Technologies plc",
-      "weight": 2.01
+      "weight": 2.2
     },
     {
       "symbol": "LMT",
@@ -92,9 +89,14 @@
       "weight": 2
     },
     {
+      "symbol": "TT",
+      "name": "Trane Technologies plc",
+      "weight": 2
+    },
+    {
       "symbol": "MMM",
       "name": "3M Company",
-      "weight": 1.97
+      "weight": 1.95
     }
   ]
 }

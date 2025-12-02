@@ -1,7 +1,9 @@
 {
   "symbol": "LQD",
-  "last_updated": "2025-12-01T05:33:40.372Z",
+  "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+  "last_updated": "2025-12-02T03:28:23.428Z",
   "profile": {
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -13,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 33273600000,
-    "shares_outstanding": 298100000
+    "aum": 33216900000,
+    "shares_outstanding": 296700000
   },
   "holdings": [
     {
@@ -40,17 +42,17 @@
     {
       "symbol": "GOLDMAN SACHS GROUP INC 675 01-OCT-2037",
       "name": "Goldman Sachs Group, Inc. 6.75% 01-OCT-2037",
-      "weight": 0.16
+      "weight": 0.15
     },
     {
       "symbol": "T-MOBILE USA INC 3875 15-APR-2030",
       "name": "T-Mobile USA, Inc. 3.875% 15-APR-2030",
-      "weight": 0.16
+      "weight": 0.15
     },
     {
       "symbol": "ABBVIE INC 32 21-NOV-2029",
       "name": "AbbVie Inc. 3.2% 21-NOV-2029",
-      "weight": 0.16
+      "weight": 0.15
     },
     {
       "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
@@ -68,8 +70,8 @@
       "weight": 0.14
     },
     {
-      "symbol": "ATT INC 35 15-SEP-2053",
-      "name": "AT&T Inc. 3.5% 15-SEP-2053",
+      "symbol": "BANK OF AMERICA CORPORATION 5288 25-APR-2034",
+      "name": "Bank of America Corporation 5.288% 25-APR-2034",
       "weight": 0.14
     },
     {
@@ -78,19 +80,19 @@
       "weight": 0.14
     },
     {
+      "symbol": "ATT INC 35 15-SEP-2053",
+      "name": "AT&T Inc. 3.5% 15-SEP-2053",
+      "weight": 0.14
+    },
+    {
       "symbol": "ANHEUSER-BUSCH COMPANIES LLC 47 01-FEB-2036",
       "name": "Anheuser-Busch Companies, LLC. 4.7% 01-FEB-2036",
       "weight": 0.14
     },
     {
-      "symbol": "BANK OF AMERICA CORPORATION 5015 22-JUL-2033",
-      "name": "Bank of America Corporation 5.015% 22-JUL-2033",
+      "symbol": "WELLS FARGO  COMPANY 5013 04-APR-2051",
+      "name": "Wells Fargo & Company 5.013% 04-APR-2051",
       "weight": 0.14
-    },
-    {
-      "symbol": "BANK OF AMERICA CORPORATION 5288 25-APR-2034",
-      "name": "Bank of America Corporation 5.288% 25-APR-2034",
-      "weight": 0.13
     }
   ]
 }

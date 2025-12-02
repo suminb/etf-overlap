@@ -1,0 +1,96 @@
+{
+  "symbol": "IGIB",
+  "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+  "last_updated": "2025-12-02T03:40:06.441Z",
+  "profile": {
+    "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "expense_ratio": 0.0004,
+    "inception_date": "Jan 05, 2007",
+    "index_tracked": "ICE BofA US Corporate (5-10 Y)",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 16973800000,
+    "shares_outstanding": 312100000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.6
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
+      "name": "Bank of America Corporation 5.468% 23-JAN-2035",
+      "weight": 0.2
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5288 25-APR-2034",
+      "name": "Bank of America Corporation 5.288% 25-APR-2034",
+      "weight": 0.2
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5015 22-JUL-2033",
+      "name": "Bank of America Corporation 5.015% 22-JUL-2033",
+      "weight": 0.2
+    },
+    {
+      "symbol": "MARS INCORPORATED 52 01-MAR-2035",
+      "name": "Mars, Incorporated 5.2% 01-MAR-2035",
+      "weight": 0.2
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 475 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.75% 19-MAY-2033",
+      "weight": 0.19
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4912 25-JUL-2033",
+      "name": "JPMorgan Chase & Co. 4.912% 25-JUL-2033",
+      "weight": 0.19
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5557 25-JUL-2034",
+      "name": "Wells Fargo & Company 5.557% 25-JUL-2034",
+      "weight": 0.18
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 535 01-JUN-2034",
+      "name": "JPMorgan Chase & Co. 5.35% 01-JUN-2034",
+      "weight": 0.18
+    },
+    {
+      "symbol": "AMGEN INC 525 02-MAR-2033",
+      "name": "Amgen Inc. 5.25% 02-MAR-2033",
+      "weight": 0.17
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 4897 25-JUL-2033",
+      "name": "Wells Fargo & Company 4.897% 25-JUL-2033",
+      "weight": 0.17
+    },
+    {
+      "symbol": "META PLATFORMS INC 4875 15-NOV-2035",
+      "name": "Meta Platforms, Inc. 4.875% 15-NOV-2035",
+      "weight": 0.17
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 2687 22-APR-2032",
+      "name": "Bank of America Corporation 2.687% 22-APR-2032",
+      "weight": 0.16
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5872 15-SEP-2034",
+      "name": "Bank of America Corporation 5.872% 15-SEP-2034",
+      "weight": 0.16
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 4571 27-APR-2033",
+      "name": "Bank of America Corporation 4.571% 27-APR-2033",
+      "weight": 0.16
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "SPYV",
-  "last_updated": "2025-12-01T08:23:57.222Z",
+  "name": "State Street SPDR Portfolio S&P 500 Value ETF",
+  "last_updated": "2025-12-02T03:27:20.654Z",
   "profile": {
+    "name": "State Street SPDR Portfolio S&P 500 Value ETF",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -15,19 +17,19 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 31178700000,
-    "shares_outstanding": 555900000
+    "aum": 31167500000,
+    "shares_outstanding": 551900000
   },
   "holdings": [
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 8.49
+      "weight": 8.42
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 6.51
+      "weight": 6.61
     },
     {
       "symbol": "AMZN",
@@ -37,42 +39,42 @@
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "weight": 1.9
+      "weight": 1.88
     },
     {
       "symbol": "XOM",
       "name": "Exxon Mobil Corporation",
-      "weight": 1.87
+      "weight": 1.86
     },
     {
       "symbol": "BRK.B",
       "name": "Berkshire Hathaway Inc. Class B",
-      "weight": 1.82
+      "weight": 1.81
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 1.37
+      "weight": 1.39
     },
     {
       "symbol": "BAC",
       "name": "Bank of America Corp",
-      "weight": 1.37
-    },
-    {
-      "symbol": "PG",
-      "name": "Procter & Gamble Company",
-      "weight": 1.33
+      "weight": 1.38
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "weight": 1.28
+      "weight": 1.33
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 1.31
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "weight": 1.16
+      "weight": 1.15
     },
     {
       "symbol": "UNH",
@@ -82,12 +84,12 @@
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "weight": 1.09
+      "weight": 1.1
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola Company",
-      "weight": 1.08
+      "weight": 1.07
     },
     {
       "symbol": "WFC",

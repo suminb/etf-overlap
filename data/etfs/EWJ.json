@@ -1,0 +1,100 @@
+{
+  "symbol": "EWJ",
+  "name": "iShares MSCI Japan ETF",
+  "last_updated": "2025-12-02T03:41:30.510Z",
+  "profile": {
+    "name": "iShares MSCI Japan ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Mar 12, 1996",
+    "index_tracked": "MSCI Japan Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EWJ.htm?qt=EWJ",
+    "category": "Japan Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "Japan",
+    "aum": 15859400000,
+    "shares_outstanding": 190500000
+  },
+  "holdings": [
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 4.23
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 3.99
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 3.98
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 3.23
+    },
+    {
+      "symbol": "8316",
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "weight": 2.45
+    },
+    {
+      "symbol": "9984",
+      "name": "SoftBank Group Corp.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 2.25
+    },
+    {
+      "symbol": "7974",
+      "name": "Nintendo Co., Ltd.",
+      "weight": 2.07
+    },
+    {
+      "symbol": "8035",
+      "name": "Tokyo Electron Ltd.",
+      "weight": 2.03
+    },
+    {
+      "symbol": "8411",
+      "name": "Mizuho Financial Group, Inc.",
+      "weight": 1.94
+    },
+    {
+      "symbol": "7011",
+      "name": "Mitsubishi Heavy Industries, Ltd.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "8058",
+      "name": "Mitsubishi Corporation",
+      "weight": 1.69
+    },
+    {
+      "symbol": "6098",
+      "name": "Recruit Holdings Co., Ltd.",
+      "weight": 1.59
+    },
+    {
+      "symbol": "8001",
+      "name": "Itochu Corporation",
+      "weight": 1.58
+    },
+    {
+      "symbol": "9983",
+      "name": "FAST RETAILING CO., LTD.",
+      "weight": 1.54
+    }
+  ]
+}

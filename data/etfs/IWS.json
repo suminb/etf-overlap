@@ -1,0 +1,100 @@
+{
+  "symbol": "IWS",
+  "name": "iShares Russell Mid-Cap Value ETF",
+  "last_updated": "2025-12-02T03:48:53.394Z",
+  "profile": {
+    "name": "iShares Russell Mid-Cap Value ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0023,
+    "inception_date": "Jul 17, 2001",
+    "index_tracked": "Russell Midcap Value Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IWS.htm?qt=IWS",
+    "category": "Mid Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 14008000000,
+    "shares_outstanding": 99500000
+  },
+  "holdings": [
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 0.86
+    },
+    {
+      "symbol": "BK",
+      "name": "Bank of New York Mellon Corp",
+      "weight": 0.77
+    },
+    {
+      "symbol": "CMI",
+      "name": "Cummins Inc.",
+      "weight": 0.71
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "weight": 0.69
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "weight": 0.62
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corporation",
+      "weight": 0.59
+    },
+    {
+      "symbol": "ALL",
+      "name": "Allstate Corporation",
+      "weight": 0.59
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc. Series A",
+      "weight": 0.58
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy Corporation",
+      "weight": 0.58
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 0.56
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan Inc Class P",
+      "weight": 0.55
+    },
+    {
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "weight": 0.54
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 0.54
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "weight": 0.54
+    }
+  ]
+}

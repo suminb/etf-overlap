@@ -1,7 +1,7 @@
 {
   "symbol": "SDY",
   "name": "State Street SPDR S&P Dividend ETF",
-  "last_updated": "2025-12-01T08:39:01.638Z",
+  "last_updated": "2025-12-02T03:34:31.874Z",
   "profile": {
     "name": "State Street SPDR S&P Dividend ETF",
     "issuer": "State Street",
@@ -17,8 +17,8 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 19952600000,
-    "shares_outstanding": 143200000
+    "aum": 20063400000,
+    "shares_outstanding": 143100000
   },
   "holdings": [
     {
@@ -29,32 +29,32 @@
     {
       "symbol": "O",
       "name": "Realty Income Corporation",
-      "weight": 2.27
+      "weight": 2.28
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "weight": 1.91
+      "weight": 1.92
     },
     {
       "symbol": "TGT",
       "name": "Target Corporation",
-      "weight": 1.84
+      "weight": 1.9
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo, Inc.",
-      "weight": 1.76
+      "weight": 1.77
     },
     {
       "symbol": "KVUE",
       "name": "Kenvue, Inc.",
-      "weight": 1.71
+      "weight": 1.72
     },
     {
       "symbol": "KMB",
       "name": "Kimberly-Clark Corporation",
-      "weight": 1.62
+      "weight": 1.65
     },
     {
       "symbol": "XOM",
@@ -64,12 +64,12 @@
     {
       "symbol": "ED",
       "name": "Consolidated Edison, Inc.",
-      "weight": 1.49
+      "weight": 1.5
     },
     {
       "symbol": "MDT",
       "name": "Medtronic Plc",
-      "weight": 1.49
+      "weight": 1.47
     },
     {
       "symbol": "KO",
@@ -79,16 +79,16 @@
     {
       "symbol": "NEE",
       "name": "NextEra Energy, Inc.",
-      "weight": 1.39
-    },
-    {
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "weight": 1.36
+      "weight": 1.4
     },
     {
       "symbol": "ADM",
       "name": "Archer-Daniels-Midland Company",
+      "weight": 1.36
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
       "weight": 1.35
     },
     {

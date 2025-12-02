@@ -1,7 +1,9 @@
 {
   "symbol": "JAAA",
-  "last_updated": "2025-12-01T08:31:52.417Z",
+  "name": "Janus Henderson AAA CLO ETF",
+  "last_updated": "2025-12-02T03:23:55.291Z",
   "profile": {
+    "name": "Janus Henderson AAA CLO ETF",
     "issuer": "Janus Henderson",
     "brand": "Janus Henderson",
     "structure": "ETF",
@@ -13,14 +15,14 @@
     "asset_class": "Bond",
     "region_general": "Global",
     "region_specific": "Broad",
-    "aum": 25299200000,
-    "shares_outstanding": 498900000
+    "aum": 25299100000,
+    "shares_outstanding": 498700000
   },
   "holdings": [
     {
       "symbol": "ASSET-BACKED SECURITIES",
       "name": "ASSET-BACKED SECURITIES",
-      "weight": 3.78
+      "weight": 3.91
     },
     {
       "symbol": "OCP CLO 2021-23  AR 504163 17-JAN-2037",
@@ -68,11 +70,6 @@
       "weight": 0.82
     },
     {
-      "symbol": "OCP CLO AEGIS 2024-39  A1 511363 16-JAN-2037",
-      "name": "OCP CLO Aegis 2024-39  A1 5.11363% 16-JAN-2037",
-      "weight": 0.8
-    },
-    {
       "symbol": "MAGNETITE XXXII  AR 5131047 15-OCT-2037",
       "name": "Magnetite XXXII  AR 5.131047% 15-OCT-2037",
       "weight": 0.8
@@ -90,6 +87,11 @@
     {
       "symbol": "AB BSL CLO 1  A1R2 518673 15-OCT-2038",
       "name": "AB BSL CLO 1  A1R2 5.18673% 15-OCT-2038",
+      "weight": 0.7
+    },
+    {
+      "symbol": "CARLYLE US CLO 2021-10  A1R 519444 20-JAN-2038",
+      "name": "Carlyle U.S. CLO 2021-10  A1R 5.19444% 20-JAN-2038",
       "weight": 0.7
     }
   ]

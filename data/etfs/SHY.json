@@ -1,7 +1,9 @@
 {
   "symbol": "SHY",
-  "last_updated": "2025-12-01T08:30:40.014Z",
+  "name": "iShares 1-3 Year Treasury Bond ETF",
+  "last_updated": "2025-12-02T03:30:28.117Z",
   "profile": {
+    "name": "iShares 1-3 Year Treasury Bond ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -13,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 23793100000,
-    "shares_outstanding": 286400000
+    "aum": 23864300000,
+    "shares_outstanding": 287300000
   },
   "holdings": [
     {

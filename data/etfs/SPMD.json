@@ -1,0 +1,100 @@
+{
+  "symbol": "SPMD",
+  "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF",
+  "last_updated": "2025-12-02T03:46:01.096Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 08, 2005",
+    "index_tracked": "S&P MidCap 400 Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-mid-cap-etf-SPMD",
+    "category": "Mid Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 14820300000,
+    "shares_outstanding": 256400000
+  },
+  "holdings": [
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.08
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "weight": 0.91
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 0.87
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 0.8
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings, Inc.",
+      "weight": 0.71
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "weight": 0.7
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 0.69
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 0.67
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey\\'s General Stores, Inc.",
+      "weight": 0.67
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "weight": 0.64
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio, Inc. Class A",
+      "weight": 0.63
+    },
+    {
+      "symbol": "SGI",
+      "name": "Somnigroup International Inc.",
+      "weight": 0.6
+    },
+    {
+      "symbol": "THC",
+      "name": "Tenet Healthcare Corporation",
+      "weight": 0.6
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC plc",
+      "weight": 0.59
+    },
+    {
+      "symbol": "RBA",
+      "name": "RB Global, Inc.",
+      "weight": 0.57
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "symbol": "USIG",
+  "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
+  "last_updated": "2025-12-02T03:41:55.083Z",
+  "profile": {
+    "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "expense_ratio": 0.0004,
+    "inception_date": "Jan 05, 2007",
+    "index_tracked": "ICE BofA US Corporate",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 15537200000,
+    "shares_outstanding": 296600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.5
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH COMPANIES LLC 49 01-FEB-2046",
+      "name": "Anheuser-Busch Companies, LLC. 4.9% 01-FEB-2046",
+      "weight": 0.09
+    },
+    {
+      "symbol": "EAGLE FUNDING LUXCO SA RL 55 17-AUG-2030",
+      "name": "Eagle Funding LuxCo S.a r.l. 5.5% 17-AUG-2030",
+      "weight": 0.09
+    },
+    {
+      "symbol": "T-MOBILE USA INC 3875 15-APR-2030",
+      "name": "T-Mobile USA, Inc. 3.875% 15-APR-2030",
+      "weight": 0.08
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 505 25-MAR-2048",
+      "name": "CVS Health Corporation 5.05% 25-MAR-2048",
+      "weight": 0.08
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 3419 20-DEC-2028",
+      "name": "Bank of America Corporation 3.419% 20-DEC-2028",
+      "weight": 0.07
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 675 01-OCT-2037",
+      "name": "Goldman Sachs Group, Inc. 6.75% 01-OCT-2037",
+      "weight": 0.06
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5574 25-JUL-2029",
+      "name": "Wells Fargo & Company 5.574% 25-JUL-2029",
+      "weight": 0.06
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 53 19-MA",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 5.3% 19-MAY-2053",
+      "weight": 0.06
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
+      "name": "Bank of America Corporation 5.468% 23-JAN-2035",
+      "weight": 0.06
+    },
+    {
+      "symbol": "BOEING COMPANY 5805 01-MAY-2050",
+      "name": "Boeing Company 5.805% 01-MAY-2050",
+      "weight": 0.06
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 478 25-MAR-2038",
+      "name": "CVS Health Corporation 4.78% 25-MAR-2038",
+      "weight": 0.06
+    },
+    {
+      "symbol": "ABBVIE INC 32 21-NOV-2029",
+      "name": "AbbVie Inc. 3.2% 21-NOV-2029",
+      "weight": 0.06
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5013 04-APR-2051",
+      "name": "Wells Fargo & Company 5.013% 04-APR-2051",
+      "weight": 0.06
+    },
+    {
+      "symbol": "ATT INC 35 15-SEP-2053",
+      "name": "AT&T Inc. 3.5% 15-SEP-2053",
+      "weight": 0.06
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "XLC",
-  "last_updated": "2025-12-01T08:25:55.830Z",
+  "name": "Communication Services Select Sector SPDR Fund",
+  "last_updated": "2025-12-02T03:24:51.133Z",
   "profile": {
+    "name": "Communication Services Select Sector SPDR Fund",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -17,59 +19,59 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 25962100000,
-    "shares_outstanding": 227200000
+    "aum": 26000300000,
+    "shares_outstanding": 227100000
   },
   "holdings": [
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 13.2
+      "weight": 13.33
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 11.69
+      "weight": 11.48
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 9.39
+      "weight": 9.21
     },
     {
       "symbol": "WBD",
       "name": "Warner Bros. Discovery, Inc. Series A",
-      "weight": 5.92
+      "weight": 6.13
     },
     {
       "symbol": "NFLX",
       "name": "Netflix, Inc.",
-      "weight": 5.21
+      "weight": 5.32
     },
     {
       "symbol": "EA",
       "name": "Electronic Arts Inc.",
-      "weight": 4.66
+      "weight": 4.63
     },
     {
       "symbol": "VZ",
       "name": "Verizon Communications Inc.",
-      "weight": 4.38
+      "weight": 4.4
     },
     {
       "symbol": "TTWO",
       "name": "Take-Two Interactive Software, Inc.",
-      "weight": 4.34
+      "weight": 4.38
     },
     {
       "symbol": "T",
       "name": "AT&T Inc",
-      "weight": 4.3
+      "weight": 4.29
     },
     {
       "symbol": "DIS",
       "name": "Walt Disney Company",
-      "weight": 4.2
+      "weight": 4.21
     },
     {
       "symbol": "TMUS",
@@ -77,24 +79,24 @@
       "weight": 4.06
     },
     {
+      "symbol": "OMC",
+      "name": "Omnicom Group Inc",
+      "weight": 3.95
+    },
+    {
       "symbol": "CMCSA",
       "name": "Comcast Corporation Class A",
-      "weight": 3.95
+      "weight": 3.92
     },
     {
       "symbol": "LYV",
       "name": "Live Nation Entertainment, Inc.",
-      "weight": 3.56
+      "weight": 3.58
     },
     {
       "symbol": "CHTR",
       "name": "Charter Communications, Inc. Class A",
-      "weight": 3.24
-    },
-    {
-      "symbol": "TTD",
-      "name": "Trade Desk, Inc. Class A",
-      "weight": 3.03
+      "weight": 3.21
     }
   ]
 }

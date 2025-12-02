@@ -1,7 +1,9 @@
 {
   "symbol": "OEF",
-  "last_updated": "2025-12-01T08:24:46.931Z",
+  "name": "iShares S&P 100 ETF",
+  "last_updated": "2025-12-02T03:26:26.737Z",
   "profile": {
+    "name": "iShares S&P 100 ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -15,14 +17,14 @@
     "asset_class_style": "Growth",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 28637900000,
-    "shares_outstanding": 84200000
+    "aum": 28857100000,
+    "shares_outstanding": 84300000
   },
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 10.4
+      "weight": 10.16
     },
     {
       "symbol": "AAPL",
@@ -32,37 +34,37 @@
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 8.53
+      "weight": 8.6
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 5.26
+      "weight": 5.33
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 4.42
+      "weight": 4.46
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 4.4
+      "weight": 4.38
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 3.54
+      "weight": 3.52
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 3.25
+      "weight": 3.31
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "weight": 2.83
+      "weight": 2.84
     },
     {
       "symbol": "BRK.B",
@@ -70,14 +72,14 @@
       "weight": 2.22
     },
     {
-      "symbol": "LLY",
-      "name": "Eli Lilly and Company",
-      "weight": 2.08
-    },
-    {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 2
+      "weight": 2.03
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 2.01
     },
     {
       "symbol": "V",
@@ -87,7 +89,7 @@
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "weight": 1.18
+      "weight": 1.17
     },
     {
       "symbol": "XOM",

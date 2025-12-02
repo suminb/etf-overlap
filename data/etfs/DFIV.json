@@ -1,0 +1,100 @@
+{
+  "symbol": "DFIV",
+  "name": "Dimensional International Value ETF",
+  "last_updated": "2025-12-02T03:46:25.601Z",
+  "profile": {
+    "name": "Dimensional International Value ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Sep 13, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://us.dimensional.com/etfs/dfiv/international-value-etf",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 14798200000,
+    "shares_outstanding": 309500000
+  },
+  "holdings": [
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc Sponsored ADR",
+      "weight": 2.95
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 2.1
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.98
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.8
+    },
+    {
+      "symbol": "HSBC",
+      "name": "HSBC Holdings PLC Sponsored ADR",
+      "weight": 1.22
+    },
+    {
+      "symbol": "BAS",
+      "name": "BASF SE",
+      "weight": 1.2
+    },
+    {
+      "symbol": "ZURN",
+      "name": "Zurich Insurance Group Ltd",
+      "weight": 1.16
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 1.15
+    },
+    {
+      "symbol": "CM",
+      "name": "Canadian Imperial Bank of Commerce",
+      "weight": 1.09
+    },
+    {
+      "symbol": "GLE",
+      "name": "Societe Generale S.A. Class A",
+      "weight": 1.08
+    },
+    {
+      "symbol": "BP",
+      "name": "BP PLC Sponsored ADR",
+      "weight": 1.06
+    },
+    {
+      "symbol": "ENGI",
+      "name": "ENGIE S.A.",
+      "weight": 0.98
+    },
+    {
+      "symbol": "LLOY",
+      "name": "Lloyds Banking Group plc",
+      "weight": 0.98
+    },
+    {
+      "symbol": "HEI",
+      "name": "Heidelberg Materials AG",
+      "weight": 0.97
+    },
+    {
+      "symbol": "HOLN",
+      "name": "Holcim Ltd",
+      "weight": 0.96
+    }
+  ]
+}

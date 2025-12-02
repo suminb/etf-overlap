@@ -1,7 +1,7 @@
 {
   "symbol": "EEM",
   "name": "iShares MSCI Emerging Markets ETF",
-  "last_updated": "2025-12-01T08:38:49.225Z",
+  "last_updated": "2025-12-02T03:34:06.261Z",
   "profile": {
     "name": "iShares MSCI Emerging Markets ETF",
     "issuer": "BlackRock, Inc.",
@@ -17,29 +17,29 @@
     "asset_class_style": "Blend",
     "region_general": "Emerging Markets",
     "region_specific": "Broad",
-    "aum": 20417600000,
+    "aum": 20612100000,
     "shares_outstanding": 380300000
   },
   "holdings": [
     {
       "symbol": "2330",
       "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
-      "weight": 11.37
+      "weight": 11.36
     },
     {
       "symbol": "700",
       "name": "Tencent Holdings Ltd",
-      "weight": 5.08
+      "weight": 5.07
     },
     {
       "symbol": "9988",
       "name": "Alibaba Group Holding Limited",
-      "weight": 3.39
+      "weight": 3.38
     },
     {
       "symbol": "005930",
       "name": "Samsung Electronics Co., Ltd.",
-      "weight": 3.35
+      "weight": 3.26
     },
     {
       "symbol": "000660",
@@ -49,7 +49,7 @@
     {
       "symbol": "500180",
       "name": "HDFC Bank Limited",
-      "weight": 1.28
+      "weight": 1.29
     },
     {
       "symbol": "500325",
@@ -62,14 +62,14 @@
       "weight": 1.02
     },
     {
-      "symbol": "2317",
-      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
       "weight": 0.92
     },
     {
-      "symbol": "1810",
-      "name": "Xiaomi Corporation Class B",
-      "weight": 0.89
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 0.91
     },
     {
       "symbol": "PDD",
@@ -82,14 +82,14 @@
       "weight": 0.82
     },
     {
-      "symbol": "3690",
-      "name": "Meituan Class B",
-      "weight": 0.66
-    },
-    {
       "symbol": "2454",
       "name": "MediaTek Inc",
-      "weight": 0.63
+      "weight": 0.68
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 0.65
     },
     {
       "symbol": "532454",

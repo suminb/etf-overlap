@@ -1,0 +1,100 @@
+{
+  "symbol": "FNDF",
+  "name": "Schwab Fundamental International Equity ETF",
+  "last_updated": "2025-12-02T03:35:40.042Z",
+  "profile": {
+    "name": "Schwab Fundamental International Equity ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Aug 15, 2013",
+    "index_tracked": "RAFI Fundamental High Liquidity Developed ex US Large Index - Benchmark TR Net",
+    "home_page": "https://www.csimfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDF",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 18674300000,
+    "shares_outstanding": 418800000
+  },
+  "holdings": [
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 2.21
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.42
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 1.12
+    },
+    {
+      "symbol": "BP",
+      "name": "BP PLC",
+      "weight": 1.08
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 0.95
+    },
+    {
+      "symbol": "GLEN",
+      "name": "Glencore plc",
+      "weight": 0.92
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.92
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.9
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 0.85
+    },
+    {
+      "symbol": "MBG",
+      "name": "Mercedes-Benz Group AG",
+      "weight": 0.76
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.75
+    },
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 0.74
+    },
+    {
+      "symbol": "RIO",
+      "name": "Rio Tinto plc",
+      "weight": 0.65
+    },
+    {
+      "symbol": "8058",
+      "name": "Mitsubishi Corporation",
+      "weight": 0.64
+    }
+  ]
+}

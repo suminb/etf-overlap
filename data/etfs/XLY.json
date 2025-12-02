@@ -1,7 +1,7 @@
 {
   "symbol": "XLY",
   "name": "Consumer Discretionary Select Sector SPDR Fund",
-  "last_updated": "2025-12-01T08:35:50.759Z",
+  "last_updated": "2025-12-02T03:31:37.240Z",
   "profile": {
     "name": "Consumer Discretionary Select Sector SPDR Fund",
     "issuer": "State Street",
@@ -19,44 +19,44 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 22983000000,
-    "shares_outstanding": 98500000
+    "aum": 23110600000,
+    "shares_outstanding": 98400000
   },
   "holdings": [
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 22.88
+      "weight": 22.93
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "weight": 20.02
+      "weight": 20.27
     },
     {
       "symbol": "HD",
       "name": "Home Depot, Inc.",
-      "weight": 5.94
+      "weight": 5.96
     },
     {
       "symbol": "MCD",
       "name": "McDonald\\'s Corporation",
-      "weight": 4.56
+      "weight": 4.52
     },
     {
       "symbol": "TJX",
       "name": "TJX Companies Inc",
-      "weight": 4.09
+      "weight": 4.03
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc.",
-      "weight": 3.83
+      "weight": 3.79
     },
     {
       "symbol": "LOW",
       "name": "Lowe\\'s Companies, Inc.",
-      "weight": 3.21
+      "weight": 3.23
     },
     {
       "symbol": "SBUX",
@@ -66,7 +66,7 @@
     {
       "symbol": "ORLY",
       "name": "O\\'Reilly Automotive, Inc.",
-      "weight": 2.07
+      "weight": 2.05
     },
     {
       "symbol": "NKE",
@@ -76,27 +76,27 @@
     {
       "symbol": "DASH",
       "name": "DoorDash, Inc. Class A",
-      "weight": 1.74
+      "weight": 1.75
     },
     {
       "symbol": "GM",
       "name": "General Motors Company",
-      "weight": 1.67
+      "weight": 1.66
     },
     {
       "symbol": "MAR",
       "name": "Marriott International, Inc. Class A",
-      "weight": 1.65
+      "weight": 1.63
     },
     {
       "symbol": "RCL",
       "name": "Royal Caribbean Group",
-      "weight": 1.62
+      "weight": 1.6
     },
     {
       "symbol": "HLT",
       "name": "Hilton Worldwide Holdings Inc.",
-      "weight": 1.61
+      "weight": 1.59
     }
   ]
 }

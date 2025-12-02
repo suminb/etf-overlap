@@ -1,0 +1,100 @@
+{
+  "symbol": "VONV",
+  "name": "Vanguard Russell 1000 Value ETF",
+  "last_updated": "2025-12-02T03:48:10.902Z",
+  "profile": {
+    "name": "Vanguard Russell 1000 Value ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Sep 20, 2010",
+    "index_tracked": "Russell 1000 Value Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vonv/vanguard-russell-1000-value-etf",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 14220200000,
+    "shares_outstanding": 155400000
+  },
+  "holdings": [
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 3.02
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.96
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 2.21
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 1.99
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 1.7
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 1.62
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.56
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 1.36
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 1.21
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 1.14
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 1.06
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 1.04
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 1
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 0.98
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 0.96
+    }
+  ]
+}

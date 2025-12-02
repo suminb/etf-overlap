@@ -1,0 +1,100 @@
+{
+  "symbol": "EMXC",
+  "name": "iShares MSCI Emerging Markets ex China ETF",
+  "last_updated": "2025-12-02T03:49:56.356Z",
+  "profile": {
+    "name": "iShares MSCI Emerging Markets ex China ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Jul 18, 2017",
+    "index_tracked": "MSCI Emerging Markets ex China Index",
+    "home_page": "https://www.ishares.com/us/products/288504/",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 13148400000,
+    "shares_outstanding": 184700000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 15.98
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 4.58
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 1.81
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 1.51
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 1.28
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 1.16
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 0.96
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 0.85
+    },
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings Ltd. Class A",
+      "weight": 0.83
+    },
+    {
+      "symbol": "500209",
+      "name": "Infosys Limited",
+      "weight": 0.82
+    },
+    {
+      "symbol": "2308",
+      "name": "Delta Electronics, Inc.",
+      "weight": 0.82
+    },
+    {
+      "symbol": "1120",
+      "name": "Al Rajhi Bank",
+      "weight": 0.71
+    },
+    {
+      "symbol": "NPN",
+      "name": "Naspers Limited Class N",
+      "weight": 0.69
+    },
+    {
+      "symbol": "VALE3",
+      "name": "Vale S.A.",
+      "weight": 0.64
+    }
+  ]
+}

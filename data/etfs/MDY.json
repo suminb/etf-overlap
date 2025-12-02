@@ -1,7 +1,9 @@
 {
   "symbol": "MDY",
-  "last_updated": "2025-12-01T08:29:40.402Z",
+  "name": "SPDR S&P Midcap 400 ETF Trust",
+  "last_updated": "2025-12-02T03:31:24.845Z",
   "profile": {
+    "name": "SPDR S&P Midcap 400 ETF Trust",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "UIT",
@@ -15,8 +17,8 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 23237200000,
-    "shares_outstanding": 38800000
+    "aum": 23408000000,
+    "shares_outstanding": 38900000
   },
   "holdings": [
     {
@@ -27,12 +29,12 @@
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation",
-      "weight": 0.89
+      "weight": 0.9
     },
     {
       "symbol": "PSTG",
       "name": "Pure Storage, Inc. Class A",
-      "weight": 0.84
+      "weight": 0.86
     },
     {
       "symbol": "US DOLLAR",
@@ -42,12 +44,12 @@
     {
       "symbol": "COHR",
       "name": "Coherent Corp.",
-      "weight": 0.75
+      "weight": 0.8
     },
     {
-      "symbol": "UTHR",
-      "name": "United Therapeutics Corporation",
-      "weight": 0.69
+      "symbol": "LITE",
+      "name": "Lumentum Holdings, Inc.",
+      "weight": 0.71
     },
     {
       "symbol": "FLEX",
@@ -55,19 +57,19 @@
       "weight": 0.69
     },
     {
-      "symbol": "LITE",
-      "name": "Lumentum Holdings, Inc.",
-      "weight": 0.67
-    },
-    {
-      "symbol": "CASY",
-      "name": "Casey\\'s General Stores, Inc.",
-      "weight": 0.67
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 0.69
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corporation",
-      "weight": 0.67
+      "weight": 0.66
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey\\'s General Stores, Inc.",
+      "weight": 0.66
     },
     {
       "symbol": "ILMN",
@@ -77,16 +79,16 @@
     {
       "symbol": "TWLO",
       "name": "Twilio, Inc. Class A",
-      "weight": 0.61
-    },
-    {
-      "symbol": "THC",
-      "name": "Tenet Healthcare Corporation",
-      "weight": 0.6
+      "weight": 0.62
     },
     {
       "symbol": "SGI",
       "name": "Somnigroup International Inc.",
+      "weight": 0.6
+    },
+    {
+      "symbol": "THC",
+      "name": "Tenet Healthcare Corporation",
       "weight": 0.6
     },
     {

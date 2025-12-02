@@ -1,0 +1,33 @@
+{
+  "symbol": "USFR",
+  "name": "WisdomTree Floating Rate Treasury Fund",
+  "last_updated": "2025-12-02T03:40:18.735Z",
+  "profile": {
+    "name": "WisdomTree Floating Rate Treasury Fund",
+    "issuer": "WisdomTree, Inc.",
+    "brand": "WisdomTree",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Feb 04, 2014",
+    "index_tracked": "Bloomberg U.S. Treasury Floating Rate Bond Index",
+    "home_page": "http://www.wisdomtree.com/etfs/fund-details-fixed-income.aspx?etfid=96",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 16731100000,
+    "shares_outstanding": 332900000
+  },
+  "holdings": [
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 31-",
+      "name": "Government of the United States of America FRN 31-JUL-2027",
+      "weight": 27.72
+    },
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 30-",
+      "name": "Government of the United States of America FRN 30-APR-2027",
+      "weight": 27.72
+    }
+  ]
+}

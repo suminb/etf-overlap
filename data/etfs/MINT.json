@@ -1,0 +1,98 @@
+{
+  "symbol": "MINT",
+  "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+  "last_updated": "2025-12-02T03:47:08.758Z",
+  "profile": {
+    "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
+    "issuer": "Allianz Investment Management LLC",
+    "brand": "PIMCO",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Nov 16, 2009",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "http://www.pimcoetfs.com/Funds/Pages/PIMCOEnhancedShortMaturityStrategyFund.aspx?WT.svl=fund_nav",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 14525100000,
+    "shares_outstanding": 144400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 4.17
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-OCT-2030",
+      "name": "United States Treasury Notes 3.625% 31-OCT-2030",
+      "weight": 2.74
+    },
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 2.27
+    },
+    {
+      "symbol": "FANNIE MAE REMIC TRUST 2025-18  FM 508279 25-SEP",
+      "name": "Fannie Mae REMIC Trust 2025-18  FM 5.08279% 25-SEP-2054",
+      "weight": 1.69
+    },
+    {
+      "symbol": "FREDDIE MAC MULTICLASS CERTIFICATES SERIES 5513",
+      "name": "Freddie Mac Multiclass Certificates, Series 5513  MF 5.12279% 25-NOV-2054",
+      "weight": 1.46
+    },
+    {
+      "symbol": "BOEING COMPANY 2196 04-FEB-2026",
+      "name": "Boeing Company 2.196% 04-FEB-2026",
+      "weight": 1.03
+    },
+    {
+      "symbol": "BERRY GLOBAL INC 157 15-JAN-2026",
+      "name": "Berry Global, Inc. 1.57% 15-JAN-2026",
+      "weight": 0.85
+    },
+    {
+      "symbol": "ENBRIDGE US INC 00 22-DEC-2025",
+      "name": "Enbridge (U.S.), Inc. 0.0% 22-DEC-2025",
+      "weight": 0.83
+    },
+    {
+      "symbol": "INTERNATIONAL BANK FOR RECONSTRUCTION  DEVELOPMEN",
+      "name": "International Bank for Reconstruction & Development FRN 23-SEP-2026",
+      "weight": 0.8
+    },
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 2.45% 29-OCT-2026",
+      "weight": 0.78
+    },
+    {
+      "symbol": "AIR LEASE CORPORATION 1875 15-AUG-2026",
+      "name": "Air Lease Corporation 1.875% 15-AUG-2026",
+      "weight": 0.7
+    },
+    {
+      "symbol": "GM FINANCIAL AUTOMOBILE LEASING TRUST 2025-1  A2B",
+      "name": "GM Financial Automobile Leasing Trust 2025-1  A2B 4.50888% 20-MAY-2027",
+      "weight": 0.66
+    },
+    {
+      "symbol": "VMWARE LLC 14 15-AUG-2026",
+      "name": "VMware LLC 1.4% 15-AUG-2026",
+      "weight": 0.66
+    },
+    {
+      "symbol": "KOMMUNALBANKEN AS NORWAY FRN 25-JUN-2027",
+      "name": "Kommunalbanken AS (Norway) FRN 25-JUN-2027",
+      "weight": 0.61
+    },
+    {
+      "symbol": "FREDDIE MAC MULTICLASS CERTIFICATES SERIES 5528",
+      "name": "Freddie Mac Multiclass Certificates, Series 5528  FA 5.05279% 25-APR-2055",
+      "weight": 0.59
+    }
+  ]
+}

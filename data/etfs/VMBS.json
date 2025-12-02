@@ -1,0 +1,98 @@
+{
+  "symbol": "VMBS",
+  "name": "Vanguard Mortgage-Backed Securities ETF",
+  "last_updated": "2025-12-02T03:47:21.078Z",
+  "profile": {
+    "name": "Vanguard Mortgage-Backed Securities ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 19, 2009",
+    "index_tracked": "Bloomberg US MBS - Float Adjusted",
+    "home_page": "https://advisors.vanguard.com/investments/products/vmbs/vanguard-mortgage-backed-securities-etf",
+    "category": "Mortgage Backed Securities",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 14466400000,
+    "shares_outstanding": 305700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.53
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD4155 2000 01-FEB-2052 20 01-",
+      "name": "FHLMC 30yr Pool#SD4155 2.000% 01-Feb-2052 2.0% 01-FEB-2052",
+      "weight": 0.3
+    },
+    {
+      "symbol": "GNMA II 30YR POOLMB0025 5000 20-NOV-2054 50 2",
+      "name": "GNMA II 30yr Pool#MB0025 5.000% 20-Nov-2054 5.0% 20-NOV-2054",
+      "weight": 0.29
+    },
+    {
+      "symbol": "GNMA II 30YR POOLMA9605 5500 20-APR-2054 55 2",
+      "name": "GNMA II 30yr Pool#MA9605 5.500% 20-Apr-2054 5.5% 20-APR-2054",
+      "weight": 0.29
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8146 2000 01-MAY-2051 20 01-",
+      "name": "FHLMC 30yr Pool#SD8146 2.000% 01-May-2051 2.0% 01-MAY-2051",
+      "weight": 0.28
+    },
+    {
+      "symbol": "FNMA 30YR POOLMA5421 6000 01-JUL-2054 60 01-J",
+      "name": "FNMA 30yr Pool#MA5421 6.000% 01-Jul-2054 6.0% 01-JUL-2054",
+      "weight": 0.28
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8128 2000 01-FEB-2051 20 01-",
+      "name": "FHLMC 30yr Pool#SD8128 2.000% 01-Feb-2051 2.0% 01-FEB-2051",
+      "weight": 0.25
+    },
+    {
+      "symbol": "FNMA 30YR POOLMA4325 2000 01-MAY-2051 20 01-M",
+      "name": "FNMA 30yr Pool#MA4325 2.000% 01-May-2051 2.0% 01-MAY-2051",
+      "weight": 0.25
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8106 2000 01-NOV-2050 20 01-",
+      "name": "FHLMC 30yr Pool#SD8106 2.000% 01-Nov-2050 2.0% 01-NOV-2050",
+      "weight": 0.23
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8506 5500 01-FEB-2055 55 01-",
+      "name": "FHLMC 30yr Pool#SD8506 5.500% 01-Feb-2055 5.5% 01-FEB-2055",
+      "weight": 0.23
+    },
+    {
+      "symbol": "UMBS TBA 30YR 3 OCTOBER DELIVERY 3000 01-MAY-20",
+      "name": "UMBS TBA 30yr 3% October Delivery 3.000% 01-MAY-2052",
+      "weight": 0.22
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD1507 2000 01-MAY-2051 20 01-",
+      "name": "FHLMC 30yr Pool#SD1507 2.000% 01-May-2051 2.0% 01-MAY-2051",
+      "weight": 0.22
+    },
+    {
+      "symbol": "GNMA II 30YR POOLMA8347 4500 20-OCT-2052 45 2",
+      "name": "GNMA II 30yr Pool#MA8347 4.500% 20-Oct-2052 4.5% 20-OCT-2052",
+      "weight": 0.22
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8134 2000 01-MAR-2051 20 01-",
+      "name": "FHLMC 30yr Pool#SD8134 2.000% 01-Mar-2051 2.0% 01-MAR-2051",
+      "weight": 0.22
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8463 6000 01-SEP-2054 60 01-",
+      "name": "FHLMC 30yr Pool#SD8463 6.000% 01-Sep-2054 6.0% 01-SEP-2054",
+      "weight": 0.22
+    }
+  ]
+}

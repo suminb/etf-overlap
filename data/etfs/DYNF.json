@@ -1,7 +1,9 @@
 {
   "symbol": "DYNF",
-  "last_updated": "2025-12-01T08:24:21.633Z",
+  "name": "iShares U.S. Equity Factor Rotation Active ETF",
+  "last_updated": "2025-12-02T03:26:48.435Z",
   "profile": {
+    "name": "iShares U.S. Equity Factor Rotation Active ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -15,69 +17,69 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 29493800000,
-    "shares_outstanding": 491300000
+    "aum": 29779900000,
+    "shares_outstanding": 492500000
   },
   "holdings": [
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 8.39
+      "weight": 8.34
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 8.14
+      "weight": 8.19
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 6.63
+      "weight": 6.7
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 4.33
+      "weight": 4.29
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 3.97
-    },
-    {
-      "symbol": "META",
-      "name": "Meta Platforms Inc Class A",
-      "weight": 3.19
+      "weight": 4
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 3.18
+      "weight": 3.26
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.15
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "weight": 3.14
+      "weight": 3.11
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 2.95
+      "weight": 2.9
     },
     {
       "symbol": "BRK.B",
       "name": "Berkshire Hathaway Inc. Class B",
-      "weight": 2.71
+      "weight": 2.7
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "weight": 2.25
+      "weight": 2.27
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 2.22
+      "weight": 1.91
     },
     {
       "symbol": "JNJ",
@@ -87,12 +89,12 @@
     {
       "symbol": "BAC",
       "name": "Bank of America Corp",
-      "weight": 1.73
+      "weight": 1.74
     },
     {
       "symbol": "XOM",
       "name": "Exxon Mobil Corporation",
-      "weight": 1.69
+      "weight": 1.68
     }
   ]
 }

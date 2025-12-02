@@ -1,7 +1,7 @@
 {
   "symbol": "GDX",
   "name": "VanEck Gold Miners ETF",
-  "last_updated": "2025-12-01T08:36:15.349Z",
+  "last_updated": "2025-12-02T03:30:16.116Z",
   "profile": {
     "name": "VanEck Gold Miners ETF",
     "issuer": "VanEck",
@@ -19,84 +19,84 @@
     "sector_specific": "Gold Miners",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 22881100000,
+    "aum": 23958000000,
     "shares_outstanding": 293800000
   },
   "holdings": [
     {
       "symbol": "AEM",
       "name": "Agnico Eagle Mines Limited",
-      "weight": 7.69
+      "weight": 7.61
     },
     {
       "symbol": "NEM",
       "name": "Newmont Corporation",
-      "weight": 6.73
+      "weight": 6.66
     },
     {
       "symbol": "ABX",
       "name": "Barrick Mining Corporation",
-      "weight": 5.84
+      "weight": 5.81
     },
     {
       "symbol": "AU",
       "name": "Anglogold Ashanti PLC",
-      "weight": 5.75
+      "weight": 5.49
     },
     {
       "symbol": "KGC",
       "name": "Kinross Gold Corporation",
-      "weight": 5.01
+      "weight": 5.08
     },
     {
       "symbol": "GFI",
       "name": "Gold Fields Limited Sponsored ADR",
-      "weight": 4.85
+      "weight": 4.81
     },
     {
       "symbol": "NST",
       "name": "Northern Star Resources Ltd",
-      "weight": 4.72
+      "weight": 4.74
     },
     {
       "symbol": "FNV",
       "name": "Franco-Nevada Corporation",
-      "weight": 4.45
+      "weight": 4.37
     },
     {
       "symbol": "WPM",
       "name": "Wheaton Precious Metals Corp",
-      "weight": 4.28
+      "weight": 4.32
     },
     {
       "symbol": "PAAS",
       "name": "Pan American Silver Corp.",
-      "weight": 3.86
+      "weight": 4.2
     },
     {
       "symbol": "AGI",
       "name": "Alamos Gold Inc.",
-      "weight": 3.41
+      "weight": 3.47
     },
     {
       "symbol": "RGLD",
       "name": "Royal Gold, Inc.",
-      "weight": 2.53
+      "weight": 2.52
     },
     {
       "symbol": "EQX",
       "name": "Equinox Gold Corp.",
-      "weight": 2.32
+      "weight": 2.38
     },
     {
-      "symbol": "EVN",
-      "name": "Evolution Mining Limited",
-      "weight": 2
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 2.07
     },
     {
-      "symbol": "PE&OLES",
-      "name": "Industrias Penoles SAB de CV",
-      "weight": 1.96
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 2.02
     }
   ]
 }

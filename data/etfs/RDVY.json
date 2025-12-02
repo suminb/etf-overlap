@@ -1,0 +1,100 @@
+{
+  "symbol": "RDVY",
+  "name": "First Trust Rising Dividend Achievers ETF",
+  "last_updated": "2025-12-02T03:37:45.158Z",
+  "profile": {
+    "name": "First Trust Rising Dividend Achievers ETF",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0048,
+    "inception_date": "Jan 06, 2014",
+    "index_tracked": "NASDAQ US Rising Dividend Achievers",
+    "home_page": "http://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=RDVY",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 18211700000,
+    "shares_outstanding": 267500000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 3.27
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 2.92
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 2.85
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 2.51
+    },
+    {
+      "symbol": "MLI",
+      "name": "Mueller Industries, Inc.",
+      "weight": 2.42
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 2.3
+    },
+    {
+      "symbol": "BK",
+      "name": "Bank of New York Mellon Corp",
+      "weight": 2.27
+    },
+    {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "weight": 2.22
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 2.18
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company Class A",
+      "weight": 2.16
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.14
+    },
+    {
+      "symbol": "EBAY",
+      "name": "eBay Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 2.03
+    },
+    {
+      "symbol": "PHM",
+      "name": "PulteGroup, Inc.",
+      "weight": 2.02
+    },
+    {
+      "symbol": "TRV",
+      "name": "Travelers Companies, Inc.",
+      "weight": 2.01
+    }
+  ]
+}

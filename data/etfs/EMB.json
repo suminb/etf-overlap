@@ -1,0 +1,98 @@
+{
+  "symbol": "EMB",
+  "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+  "last_updated": "2025-12-02T03:41:42.525Z",
+  "profile": {
+    "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Dec 17, 2007",
+    "index_tracked": "J.P. Morgan EMBI Global Core Index",
+    "home_page": "http://www.ishares.com/us/products/239572/ishares-jp-morgan-usd-emerging-markets-bond-etf?qt=EMB",
+    "category": "Emerging Markets Bonds",
+    "asset_class": "Bond",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 15653200000,
+    "shares_outstanding": 162500000
+  },
+  "holdings": [
+    {
+      "symbol": "GOVERNMENT OF ARGENTINA 4125 09-JUL-2035",
+      "name": "Government of Argentina 4.125% 09-JUL-2035",
+      "weight": 1.04
+    },
+    {
+      "symbol": "GOVERNMENT OF ARGENTINA 075 09-JUL-2030",
+      "name": "Government of Argentina 0.75% 09-JUL-2030",
+      "weight": 0.76
+    },
+    {
+      "symbol": "GOVERNMENT OF ECUADOR 69 31-JUL-2035",
+      "name": "Government of Ecuador 6.9% 31-JUL-2035",
+      "weight": 0.75
+    },
+    {
+      "symbol": "BLACKROCK CASH FUNDS TREASURY SL AGENCY SHARES",
+      "name": "BlackRock Cash Funds Treasury SL Agency Shares",
+      "weight": 0.66
+    },
+    {
+      "symbol": "GOVERNMENT OF ARGENTINA 50 09-JAN-2038",
+      "name": "Government of Argentina 5.0% 09-JAN-2038",
+      "weight": 0.6
+    },
+    {
+      "symbol": "EAGLE FUNDING LUXCO SA RL 55 17-AUG-2030",
+      "name": "Eagle Funding LuxCo S.a r.l. 5.5% 17-AUG-2030",
+      "weight": 0.52
+    },
+    {
+      "symbol": "GOVERNMENT OF URUGUAY 51 18-JUN-2050",
+      "name": "Government of Uruguay 5.1% 18-JUN-2050",
+      "weight": 0.51
+    },
+    {
+      "symbol": "GOVERNMENT OF ARGENTINA 35 09-JUL-2041",
+      "name": "Government of Argentina 3.5% 09-JUL-2041",
+      "weight": 0.49
+    },
+    {
+      "symbol": "GOVERNMENT OF GHANA 50 03-JUL-2035",
+      "name": "Government of Ghana 5.0% 03-JUL-2035",
+      "weight": 0.49
+    },
+    {
+      "symbol": "GOVERNMENT OF OMAN 675 17-JAN-2048",
+      "name": "Government of Oman 6.75% 17-JAN-2048",
+      "weight": 0.41
+    },
+    {
+      "symbol": "GOVERNMENT OF POLAND 55 18-MAR-2054",
+      "name": "Government of Poland 5.5% 18-MAR-2054",
+      "weight": 0.41
+    },
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 6625 15-MAR-2035",
+      "name": "Government of Brazil 6.625% 15-MAR-2035",
+      "weight": 0.4
+    },
+    {
+      "symbol": "GOVERNMENT OF ECUADOR 69 31-JUL-2030",
+      "name": "Government of Ecuador 6.9% 31-JUL-2030",
+      "weight": 0.4
+    },
+    {
+      "symbol": "GOVERNMENT OF POLAND 5125 18-SEP-2034",
+      "name": "Government of Poland 5.125% 18-SEP-2034",
+      "weight": 0.38
+    },
+    {
+      "symbol": "GOVERNMENT OF GHANA 50 03-JUL-2029",
+      "name": "Government of Ghana 5.0% 03-JUL-2029",
+      "weight": 0.38
+    }
+  ]
+}

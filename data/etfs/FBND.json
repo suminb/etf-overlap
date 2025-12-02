@@ -1,7 +1,7 @@
 {
   "symbol": "FBND",
   "name": "Fidelity Total Bond ETF",
-  "last_updated": "2025-12-01T08:36:02.998Z",
+  "last_updated": "2025-12-02T03:31:55.780Z",
   "profile": {
     "name": "Fidelity Total Bond ETF",
     "issuer": "Fidelity",
@@ -15,7 +15,7 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 22979600000,
+    "aum": 22919300000,
     "shares_outstanding": 493400000
   },
   "holdings": [
@@ -32,7 +32,7 @@
     {
       "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
       "name": "United States Treasury Notes 3.875% 15-AUG-2034",
-      "weight": 2.27
+      "weight": 2.26
     },
     {
       "symbol": "UNITED STATES TREASURY BOND 425 15-FEB-2054",
@@ -52,12 +52,12 @@
     {
       "symbol": "UNITED STATES TREASURY BOND 45 15-NOV-2054",
       "name": "United States Treasury Bond 4.5% 15-NOV-2054",
-      "weight": 1.51
+      "weight": 1.5
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
       "name": "United States Treasury Notes 4.25% 15-NOV-2034",
-      "weight": 1.42
+      "weight": 1.41
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 4125 31-MAR-2032",
@@ -72,7 +72,7 @@
     {
       "symbol": "UNITED STATES TREASURY NOTES 4125 31-MAY-2032",
       "name": "United States Treasury Notes 4.125% 31-MAY-2032",
-      "weight": 1.21
+      "weight": 1.2
     },
     {
       "symbol": "UNITED STATES TREASURY BOND 475 15-AUG-2055",

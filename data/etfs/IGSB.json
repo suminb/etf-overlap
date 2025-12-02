@@ -1,7 +1,7 @@
 {
   "symbol": "IGSB",
   "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
-  "last_updated": "2025-12-01T08:36:53.517Z",
+  "last_updated": "2025-12-02T03:32:32.645Z",
   "profile": {
     "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
     "issuer": "BlackRock, Inc.",
@@ -13,19 +13,19 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 21895700000,
-    "shares_outstanding": 412400000
+    "aum": 21851700000,
+    "shares_outstanding": 411400000
   },
   "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.96
+    },
     {
       "symbol": "EAGLE FUNDING LUXCO SA RL 55 17-AUG-2030",
       "name": "Eagle Funding LuxCo S.a r.l. 5.5% 17-AUG-2030",
       "weight": 0.32
-    },
-    {
-      "symbol": "US DOLLAR",
-      "name": "U.S. Dollar",
-      "weight": 0.19
     },
     {
       "symbol": "T-MOBILE USA INC 3875 15-APR-2030",

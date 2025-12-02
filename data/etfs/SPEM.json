@@ -1,0 +1,100 @@
+{
+  "symbol": "SPEM",
+  "name": "SPDR Portfolio Emerging Markets ETF",
+  "last_updated": "2025-12-02T03:42:18.791Z",
+  "profile": {
+    "name": "SPDR Portfolio Emerging Markets ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Mar 20, 2007",
+    "index_tracked": "S&P Emerging Markets BMI",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-emerging-markets-etf-SPEM",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 15220600000,
+    "shares_outstanding": 325600000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 9.9
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 4.49
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 3.13
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 1.19
+    },
+    {
+      "symbol": "RIGD",
+      "name": "Reliance Industries Ltd Sponsored GDR 144A",
+      "weight": 1.19
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 0.96
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 0.91
+    },
+    {
+      "symbol": "IBN",
+      "name": "ICICI Bank Limited Sponsored ADR",
+      "weight": 0.83
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 0.8
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 0.79
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 0.73
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 0.69
+    },
+    {
+      "symbol": "NPN",
+      "name": "Naspers Limited Class N",
+      "weight": 0.66
+    },
+    {
+      "symbol": "2308",
+      "name": "Delta Electronics, Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited Sponsored ADR",
+      "weight": 0.6
+    }
+  ]
+}

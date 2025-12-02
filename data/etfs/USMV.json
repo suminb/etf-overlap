@@ -1,7 +1,7 @@
 {
   "symbol": "USMV",
   "name": "iShares MSCI USA Min Vol Factor ETF",
-  "last_updated": "2025-12-01T08:36:28.689Z",
+  "last_updated": "2025-12-02T03:32:08.104Z",
   "profile": {
     "name": "iShares MSCI USA Min Vol Factor ETF",
     "issuer": "BlackRock, Inc.",
@@ -17,34 +17,29 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 22828600000,
+    "aum": 22898500000,
     "shares_outstanding": 241200000
   },
   "holdings": [
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "weight": 1.6
+      "weight": 1.59
     },
     {
       "symbol": "MCK",
       "name": "McKesson Corporation",
-      "weight": 1.57
+      "weight": 1.56
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "weight": 1.54
+      "weight": 1.55
     },
     {
       "symbol": "MRK",
       "name": "Merck & Co., Inc.",
-      "weight": 1.52
-    },
-    {
-      "symbol": "COR",
-      "name": "Cencora, Inc.",
-      "weight": 1.52
+      "weight": 1.51
     },
     {
       "symbol": "BRK.B",
@@ -52,9 +47,19 @@
       "weight": 1.51
     },
     {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 1.51
+    },
+    {
       "symbol": "CB",
       "name": "Chubb Limited",
-      "weight": 1.51
+      "weight": 1.49
+    },
+    {
+      "symbol": "APH",
+      "name": "Amphenol Corporation Class A",
+      "weight": 1.48
     },
     {
       "symbol": "DUK",
@@ -62,29 +67,24 @@
       "weight": 1.47
     },
     {
-      "symbol": "APH",
-      "name": "Amphenol Corporation Class A",
-      "weight": 1.46
-    },
-    {
       "symbol": "XOM",
       "name": "Exxon Mobil Corporation",
-      "weight": 1.45
+      "weight": 1.46
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "weight": 1.44
+      "weight": 1.46
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 1.42
+      "weight": 1.43
     },
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "weight": 1.41
+      "weight": 1.42
     },
     {
       "symbol": "WM",
@@ -94,7 +94,7 @@
     {
       "symbol": "WCN",
       "name": "Waste Connections, Inc.",
-      "weight": 1.36
+      "weight": 1.35
     }
   ]
 }

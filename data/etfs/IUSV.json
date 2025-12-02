@@ -1,7 +1,9 @@
 {
   "symbol": "IUSV",
-  "last_updated": "2025-12-01T08:30:27.260Z",
+  "name": "iShares Core S&P U.S. Value ETF",
+  "last_updated": "2025-12-02T03:30:47.784Z",
   "profile": {
+    "name": "iShares Core S&P U.S. Value ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -15,29 +17,29 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 23636200000,
-    "shares_outstanding": 233300000
+    "aum": 23835300000,
+    "shares_outstanding": 233700000
   },
   "holdings": [
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 7.99
+      "weight": 7.96
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 6.22
+      "weight": 6.25
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 3.35
+      "weight": 3.39
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "weight": 1.8
+      "weight": 1.78
     },
     {
       "symbol": "XOM",
@@ -47,12 +49,12 @@
     {
       "symbol": "BRK.B",
       "name": "Berkshire Hathaway Inc. Class B",
-      "weight": 1.72
+      "weight": 1.71
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 1.31
+      "weight": 1.32
     },
     {
       "symbol": "BAC",
@@ -62,27 +64,27 @@
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "weight": 1.25
+      "weight": 1.26
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble Company",
-      "weight": 1.25
+      "weight": 1.24
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "weight": 1.08
+      "weight": 1.09
     },
     {
       "symbol": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "weight": 1.07
+      "weight": 1.06
     },
     {
       "symbol": "CVX",
       "name": "Chevron Corporation",
-      "weight": 1.03
+      "weight": 1.04
     },
     {
       "symbol": "KO",

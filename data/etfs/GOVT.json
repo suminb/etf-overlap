@@ -1,7 +1,9 @@
 {
   "symbol": "GOVT",
-  "last_updated": "2025-12-01T05:34:17.911Z",
+  "name": "iShares U.S. Treasury Bond ETF",
+  "last_updated": "2025-12-02T03:28:35.592Z",
   "profile": {
+    "name": "iShares U.S. Treasury Bond ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -13,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 33491300000,
-    "shares_outstanding": 1439000000
+    "aum": 33502900000,
+    "shares_outstanding": 1438500000
   },
   "holdings": [
     {
@@ -30,12 +32,12 @@
     {
       "symbol": "UNITED STATES TREASURY NOTES 275 15-FEB-2028",
       "name": "United States Treasury Notes 2.75% 15-FEB-2028",
-      "weight": 2.55
+      "weight": 2.56
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 225 15-FEB-2027",
       "name": "United States Treasury Notes 2.25% 15-FEB-2027",
-      "weight": 2.28
+      "weight": 2.29
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 3125 15-NOV-2028",
@@ -45,7 +47,7 @@
     {
       "symbol": "UNITED STATES TREASURY BOND 1875 15-FEB-2051",
       "name": "United States Treasury Bond 1.875% 15-FEB-2051",
-      "weight": 1.73
+      "weight": 1.72
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 2875 15-MAY-2028",
@@ -55,7 +57,7 @@
     {
       "symbol": "UNITED STATES TREASURY BOND 25 15-MAY-2046",
       "name": "United States Treasury Bond 2.5% 15-MAY-2046",
-      "weight": 1.56
+      "weight": 1.55
     },
     {
       "symbol": "UNITED STATES TREASURY BOND 275 15-NOV-2042",
@@ -65,7 +67,7 @@
     {
       "symbol": "UNITED STATES TREASURY BOND 375 15-NOV-2043",
       "name": "United States Treasury Bond 3.75% 15-NOV-2043",
-      "weight": 1.43
+      "weight": 1.42
     },
     {
       "symbol": "UNITED STATES TREASURY BOND 6125 15-NOV-2027",
@@ -75,12 +77,12 @@
     {
       "symbol": "UNITED STATES TREASURY NOTES 225 15-NOV-2027",
       "name": "United States Treasury Notes 2.25% 15-NOV-2027",
-      "weight": 1.31
+      "weight": 1.32
     },
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 1.25
+      "weight": 1.27
     },
     {
       "symbol": "UNITED STATES TREASURY NOTES 4125 15-FEB-2027",

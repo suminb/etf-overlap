@@ -1,7 +1,7 @@
 {
   "symbol": "IYW",
   "name": "iShares U.S. Technology ETF",
-  "last_updated": "2025-12-01T08:38:23.470Z",
+  "last_updated": "2025-12-02T03:33:28.971Z",
   "profile": {
     "name": "iShares U.S. Technology ETF",
     "issuer": "BlackRock, Inc.",
@@ -19,74 +19,74 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 20575000000,
+    "aum": 20759300000,
     "shares_outstanding": 105300000
   },
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 16.03
+      "weight": 15.62
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 15.48
+      "weight": 15.44
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 13.73
+      "weight": 13.81
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 3.86
+      "weight": 3.89
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 3.14
+      "weight": 3.12
     },
     {
       "symbol": "META",
       "name": "Meta Platforms Inc Class A",
-      "weight": 2.98
+      "weight": 3.03
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 2.56
+      "weight": 2.54
     },
     {
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc. Class A",
-      "weight": 2.49
+      "weight": 2.51
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "weight": 2.4
+      "weight": 2.42
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "weight": 1.97
+      "weight": 1.99
     },
     {
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
-      "weight": 1.79
+      "weight": 1.83
     },
     {
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "weight": 1.65
+      "weight": 1.62
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
-      "weight": 1.48
+      "weight": 1.49
     },
     {
       "symbol": "AMAT",

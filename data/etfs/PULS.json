@@ -1,0 +1,98 @@
+{
+  "symbol": "PULS",
+  "name": "PGIM Ultra Short Bond ETF",
+  "last_updated": "2025-12-02T03:49:45.840Z",
+  "profile": {
+    "name": "PGIM Ultra Short Bond ETF",
+    "issuer": "Prudential",
+    "brand": "PGIM",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Apr 05, 2018",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.pgim.com/pgim-investments/investments-products/etfs/fund-profile#?fundid=6477",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 13210500000,
+    "shares_outstanding": 265300000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 3.08
+    },
+    {
+      "symbol": "PRUDENTAL GOVERNMENT MONEY MARKET FUND INC PGIM CO",
+      "name": "Prudental Government Money Market Fund Inc PGIM Core Government Money Market Fund",
+      "weight": 1.44
+    },
+    {
+      "symbol": "PAAA",
+      "name": "PGIM AAA CLO ETF",
+      "weight": 1.21
+    },
+    {
+      "symbol": "INTESA SANPAOLO SPA 427 30-JUN-2026",
+      "name": "Intesa Sanpaolo S.p.A. 4.27% 30-JUN-2026",
+      "weight": 0.78
+    },
+    {
+      "symbol": "ABN AMRO BANK NV 4718 22-JAN-2027",
+      "name": "ABN AMRO Bank N.V. 4.718% 22-JAN-2027",
+      "weight": 0.71
+    },
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 0.69
+    },
+    {
+      "symbol": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC FRN 27",
+      "name": "Federation des caisses Desjardins du Quebec FRN 27-JAN-2027",
+      "weight": 0.63
+    },
+    {
+      "symbol": "MORTGAGE-BACKED SECURITIES",
+      "name": "MORTGAGE-BACKED SECURITIES",
+      "weight": 0.62
+    },
+    {
+      "symbol": "CITIGROUP INC 1122 28-JAN-2027",
+      "name": "Citigroup Inc. 1.122% 28-JAN-2027",
+      "weight": 0.56
+    },
+    {
+      "symbol": "BX TRUST 2022-LBA6  A 495896 15-JAN-2039",
+      "name": "BX Trust 2022-LBA6  A 4.95896% 15-JAN-2039",
+      "weight": 0.56
+    },
+    {
+      "symbol": "ALEXANDRIA REAL ESTATE EQUITIES INC 00 15-DEC-",
+      "name": "Alexandria Real Estate Equities, Inc. 0.0% 15-DEC-2025",
+      "weight": 0.54
+    },
+    {
+      "symbol": "BROADCOM INC 48 15-APR-2028",
+      "name": "Broadcom Inc. 4.8% 15-APR-2028",
+      "weight": 0.53
+    },
+    {
+      "symbol": "BENEFIT STREET PARTNERS CLO IV",
+      "name": "BENEFIT STREET PARTNERS CLO IV",
+      "weight": 0.53
+    },
+    {
+      "symbol": "NATIXIS SA NEW YORK BRANCH FRN 09-OCT-2026",
+      "name": "Natixis SA (New York Branch) FRN 09-OCT-2026",
+      "weight": 0.49
+    },
+    {
+      "symbol": "PHILLIPS 66 00 08-DEC-2021",
+      "name": "Phillips 66 0.0% 08-DEC-2021",
+      "weight": 0.48
+    }
+  ]
+}

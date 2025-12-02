@@ -1,0 +1,100 @@
+{
+  "symbol": "VYMI",
+  "name": "Vanguard International High Dividend Yield ETF",
+  "last_updated": "2025-12-02T03:49:05.862Z",
+  "profile": {
+    "name": "Vanguard International High Dividend Yield ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0017000000000000001,
+    "inception_date": "Feb 25, 2016",
+    "index_tracked": "FTSE Custom All-World ex US High Dividend Yield Net Tax (US RIC) Index",
+    "home_page": "https://advisors.vanguard.com/VGApp/iip/site/advisor/fund/vymi",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 13804700000,
+    "shares_outstanding": 158300000
+  },
+  "holdings": [
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.54
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.53
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.46
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.44
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.39
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 1.37
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 1.31
+    },
+    {
+      "symbol": "CBA",
+      "name": "Commonwealth Bank of Australia",
+      "weight": 1.19
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 1.06
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 0.98
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 0.96
+    },
+    {
+      "symbol": "ULVR",
+      "name": "Unilever PLC",
+      "weight": 0.91
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 0.89
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 0.88
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 0.85
+    }
+  ]
+}

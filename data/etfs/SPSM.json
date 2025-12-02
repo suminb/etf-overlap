@@ -1,0 +1,100 @@
+{
+  "symbol": "SPSM",
+  "name": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
+  "last_updated": "2025-12-02T03:50:17.605Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Jul 08, 2013",
+    "index_tracked": "S&P SmallCap 600 Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-small-cap-etf-SPSM",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 12965500000,
+    "shares_outstanding": 275600000
+  },
+  "holdings": [
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "SPXC",
+      "name": "SPX Technologies, Inc.",
+      "weight": 0.71
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 0.71
+    },
+    {
+      "symbol": "DY",
+      "name": "Dycom Industries, Inc.",
+      "weight": 0.69
+    },
+    {
+      "symbol": "BWA",
+      "name": "BorgWarner Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "IDCC",
+      "name": "InterDigital, Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "SANM",
+      "name": "Sanmina Corporation",
+      "weight": 0.56
+    },
+    {
+      "symbol": "CTRE",
+      "name": "CareTrust REIT, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "AWI",
+      "name": "Armstrong World Industries, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "ARWR",
+      "name": "Arrowhead Pharmaceuticals, Inc.",
+      "weight": 0.54
+    },
+    {
+      "symbol": "AEIS",
+      "name": "Advanced Energy Industries, Inc.",
+      "weight": 0.53
+    },
+    {
+      "symbol": "LUMN",
+      "name": "Lumen Technologies, Inc.",
+      "weight": 0.51
+    },
+    {
+      "symbol": "CORT",
+      "name": "Corcept Therapeutics Incorporated.",
+      "weight": 0.5
+    },
+    {
+      "symbol": "JBTM",
+      "name": "JBT Marel Corporation",
+      "weight": 0.49
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo, Inc.",
+      "weight": 0.48
+    }
+  ]
+}

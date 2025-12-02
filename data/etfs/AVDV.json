@@ -1,0 +1,100 @@
+{
+  "symbol": "AVDV",
+  "name": "Avantis International Small Cap Value ETF",
+  "last_updated": "2025-12-02T03:47:50.164Z",
+  "profile": {
+    "name": "Avantis International Small Cap Value ETF",
+    "issuer": "American Century Investments",
+    "brand": "Avantis",
+    "structure": "ETF",
+    "expense_ratio": 0.0036,
+    "inception_date": "Sep 24, 2019",
+    "index_tracked": "MSCI World Ex-U.S. Small Cap Index",
+    "home_page": "https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html",
+    "category": "Foreign Small & Mid Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 14405300000,
+    "shares_outstanding": 157800000
+  },
+  "holdings": [
+    {
+      "symbol": "5706",
+      "name": "Mitsui Kinzoku Co., Ltd.",
+      "weight": 1.27
+    },
+    {
+      "symbol": "PRU",
+      "name": "Perseus Mining Limited",
+      "weight": 0.86
+    },
+    {
+      "symbol": "BTO",
+      "name": "B2Gold Corp.",
+      "weight": 0.77
+    },
+    {
+      "symbol": "OGC",
+      "name": "OceanaGold Corporation",
+      "weight": 0.75
+    },
+    {
+      "symbol": "RRL",
+      "name": "Regis Resources Limited",
+      "weight": 0.71
+    },
+    {
+      "symbol": "NGD",
+      "name": "New Gold Inc.",
+      "weight": 0.7
+    },
+    {
+      "symbol": "WCP",
+      "name": "Whitecap Resources Inc.",
+      "weight": 0.65
+    },
+    {
+      "symbol": "IMG",
+      "name": "IAMGOLD Corporation",
+      "weight": 0.64
+    },
+    {
+      "symbol": "SQN",
+      "name": "Swissquote Group Holding Ltd.",
+      "weight": 0.63
+    },
+    {
+      "symbol": "IVG",
+      "name": "Iveco Group NV",
+      "weight": 0.62
+    },
+    {
+      "symbol": "WHC",
+      "name": "Whitehaven Coal Limited",
+      "weight": 0.62
+    },
+    {
+      "symbol": "DRX",
+      "name": "Drax Group plc",
+      "weight": 0.59
+    },
+    {
+      "symbol": "HBM",
+      "name": "Hudbay Minerals Inc",
+      "weight": 0.57
+    },
+    {
+      "symbol": "6269",
+      "name": "Modec, Inc.",
+      "weight": 0.57
+    },
+    {
+      "symbol": "ATS",
+      "name": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft",
+      "weight": 0.56
+    }
+  ]
+}
