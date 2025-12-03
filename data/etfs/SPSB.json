@@ -1,0 +1,98 @@
+{
+  "symbol": "SPSB",
+  "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
+  "last_updated": "2025-12-03T08:36:31.014Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Dec 16, 2009",
+    "index_tracked": "Bloomberg U.S. 1-3 Year Corporate Bond Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-short-term-corporate-bond-etf-SPSB",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8323100000,
+    "shares_outstanding": 274800000
+  },
+  "holdings": [
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 3.0% 29-OCT-2028",
+      "weight": 0.59
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 445 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.45% 19-MAY-2028",
+      "weight": 0.47
+    },
+    {
+      "symbol": "CITIGROUP INC 4786 04-MAR-2029",
+      "name": "Citigroup Inc. 4.786% 04-MAR-2029",
+      "weight": 0.43
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 4948 22-JUL-2028",
+      "name": "Bank of America Corporation 4.948% 22-JUL-2028",
+      "weight": 0.39
+    },
+    {
+      "symbol": "HSBC HOLDINGS PLC 4899 03-MAR-2029",
+      "name": "HSBC Holdings Plc 4.899% 03-MAR-2029",
+      "weight": 0.39
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5707 22-APR-2028",
+      "name": "Wells Fargo & Company 5.707% 22-APR-2028",
+      "weight": 0.37
+    },
+    {
+      "symbol": "MORGAN STANLEY 1512 20-JUL-2027",
+      "name": "Morgan Stanley 1.512% 20-JUL-2027",
+      "weight": 0.36
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 3782 01-FEB-2028",
+      "name": "JPMorgan Chase & Co. 3.782% 01-FEB-2028",
+      "weight": 0.36
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 6484 24-OCT-2029",
+      "name": "Goldman Sachs Group, Inc. 6.484% 24-OCT-2029",
+      "weight": 0.34
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 6087 23-OCT-2029",
+      "name": "JPMorgan Chase & Co. 6.087% 23-OCT-2029",
+      "weight": 0.33
+    },
+    {
+      "symbol": "CITIGROUP INC 4643 07-MAY-2028",
+      "name": "Citigroup Inc. 4.643% 07-MAY-2028",
+      "weight": 0.33
+    },
+    {
+      "symbol": "AMGEN INC 515 02-MAR-2028",
+      "name": "Amgen Inc. 5.15% 02-MAR-2028",
+      "weight": 0.31
+    },
+    {
+      "symbol": "HSBC HOLDINGS PLC 739 03-NOV-2028",
+      "name": "HSBC Holdings Plc 7.39% 03-NOV-2028",
+      "weight": 0.31
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5574 25-JUL-2029",
+      "name": "Wells Fargo & Company 5.574% 25-JUL-2029",
+      "weight": 0.3
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4323 26-APR-2028",
+      "name": "JPMorgan Chase & Co. 4.323% 26-APR-2028",
+      "weight": 0.3
+    }
+  ]
+}

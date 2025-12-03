@@ -1,0 +1,102 @@
+{
+  "symbol": "FDN",
+  "name": "First Trust Dow Jones Internet Index Fund",
+  "last_updated": "2025-12-03T08:43:53.799Z",
+  "profile": {
+    "name": "First Trust Dow Jones Internet Index Fund",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0049,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "DJ Internet Composite",
+    "home_page": "https://www.ftportfolios.com/retail/ETF/ETFsummary.aspx?Ticker=FDN",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Internet",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6888400000,
+    "shares_outstanding": 25500000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 10.6
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 9.02
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 8.98
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 7.77
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 6.24
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 5.98
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 4.48
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "weight": 4.23
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks, Inc.",
+      "weight": 4.09
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake, Inc.",
+      "weight": 3.38
+    },
+    {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc. Class A",
+      "weight": 2.96
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 2.53
+    },
+    {
+      "symbol": "RBLX",
+      "name": "Roblox Corp. Class A",
+      "weight": 2.47
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "weight": 2.42
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc. Class A",
+      "weight": 2.09
+    }
+  ]
+}

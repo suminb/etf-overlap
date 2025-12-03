@@ -1,7 +1,7 @@
 {
   "symbol": "VTIP",
   "name": "Vanguard Short-Term Inflation-Protected Securities ETF",
-  "last_updated": "2025-12-02T03:39:48.500Z",
+  "last_updated": "2025-12-03T07:48:21.619Z",
   "profile": {
     "name": "Vanguard Short-Term Inflation-Protected Securities ETF",
     "issuer": "Vanguard",
@@ -15,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 17066700000,
-    "shares_outstanding": 340300000
+    "aum": 17088700000,
+    "shares_outstanding": 340900000
   },
   "holdings": [
     {

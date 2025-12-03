@@ -1,0 +1,33 @@
+{
+  "symbol": "TFLO",
+  "name": "iShares Treasury Floating Rate Bond ETF",
+  "last_updated": "2025-12-03T08:47:20.317Z",
+  "profile": {
+    "name": "iShares Treasury Floating Rate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Feb 03, 2014",
+    "index_tracked": "Bloomberg US Treasury Floating Rate Bond",
+    "home_page": "http://www.ishares.com/us/products/260652/ishares-treasury-floating-rate-bond-etf",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6530600000,
+    "shares_outstanding": 129100000
+  },
+  "holdings": [
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 31-",
+      "name": "Government of the United States of America FRN 31-OCT-2026",
+      "weight": 14.38
+    },
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 30-",
+      "name": "Government of the United States of America FRN 30-APR-2026",
+      "weight": 13.98
+    }
+  ]
+}

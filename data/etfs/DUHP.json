@@ -1,0 +1,100 @@
+{
+  "symbol": "DUHP",
+  "name": "Dimensional US High Profitability ETF",
+  "last_updated": "2025-12-03T07:56:46.954Z",
+  "profile": {
+    "name": "Dimensional US High Profitability ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0021,
+    "inception_date": "Feb 23, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/duhp/us-high-profitability-etf",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10135800000,
+    "shares_outstanding": 267100000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 7.18
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.94
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 4.89
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.55
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 3.85
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.39
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 2.4
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 2.25
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 2.25
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 2.13
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 2.03
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.89
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 1.71
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 1.62
+    }
+  ]
+}

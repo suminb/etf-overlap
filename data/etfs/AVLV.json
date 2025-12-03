@@ -1,0 +1,100 @@
+{
+  "symbol": "AVLV",
+  "name": "Avantis U.S. Large Cap Value ETF",
+  "last_updated": "2025-12-03T08:12:03.295Z",
+  "profile": {
+    "name": "Avantis U.S. Large Cap Value ETF",
+    "issuer": "American Century Investments",
+    "brand": "Avantis",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Sep 21, 2021",
+    "index_tracked": "Russell 1000 Value",
+    "home_page": "https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html?referrer=/content/avantis/en/investments/avantis-us-large-cap-value-etf.html",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8806200000,
+    "shares_outstanding": 117900000
+  },
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 3.47
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.13
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.05
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 2.63
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 2.22
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.1
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 2.05
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 2.03
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 2
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 1.9
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 1.67
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 1.65
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific Corporation",
+      "weight": 1.5
+    }
+  ]
+}

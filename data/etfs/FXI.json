@@ -1,0 +1,100 @@
+{
+  "symbol": "FXI",
+  "name": "iShares China Large-Cap ETF",
+  "last_updated": "2025-12-03T08:45:36.987Z",
+  "profile": {
+    "name": "iShares China Large-Cap ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0074,
+    "inception_date": "Oct 05, 2004",
+    "index_tracked": "FTSE China 50 Net Tax USD Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/FXI.htm?qt=FXI",
+    "category": "China Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "China",
+    "aum": 6586000000,
+    "shares_outstanding": 166800000
+  },
+  "holdings": [
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 9.37
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 8.84
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 7.29
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 6.59
+    },
+    {
+      "symbol": "1398",
+      "name": "Industrial and Commercial Bank of China Limited Class H",
+      "weight": 4.97
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 4.97
+    },
+    {
+      "symbol": "9999",
+      "name": "Netease Inc",
+      "weight": 3.89
+    },
+    {
+      "symbol": "2318",
+      "name": "Ping An Insurance (Group) Company of China, Ltd. Class H",
+      "weight": 3.83
+    },
+    {
+      "symbol": "1211",
+      "name": "BYD Company Limited Class H",
+      "weight": 3.69
+    },
+    {
+      "symbol": "9961",
+      "name": "Trip.com Group Ltd.",
+      "weight": 3.54
+    },
+    {
+      "symbol": "3988",
+      "name": "Bank of China Limited Class H",
+      "weight": 3.47
+    },
+    {
+      "symbol": "9618",
+      "name": "JD.com, Inc. Class A",
+      "weight": 3.16
+    },
+    {
+      "symbol": "9888",
+      "name": "Baidu, Inc. Class A",
+      "weight": 2.71
+    },
+    {
+      "symbol": "2628",
+      "name": "China Life Insurance Co. Ltd. Class H",
+      "weight": 2.17
+    },
+    {
+      "symbol": "3968",
+      "name": "China Merchants Bank Co., Ltd. Class H",
+      "weight": 2.15
+    }
+  ]
+}

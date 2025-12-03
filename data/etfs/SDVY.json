@@ -1,0 +1,100 @@
+{
+  "symbol": "SDVY",
+  "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
+  "last_updated": "2025-12-03T08:08:25.364Z",
+  "profile": {
+    "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Nov 01, 2017",
+    "index_tracked": "NASDAQ US Small Mid Cap Rising Dividend Achievers™ Index",
+    "home_page": "http://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=SDVY",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9294500000,
+    "shares_outstanding": 243400000
+  },
+  "holdings": [
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.64
+    },
+    {
+      "symbol": "IDCC",
+      "name": "InterDigital, Inc.",
+      "weight": 1.32
+    },
+    {
+      "symbol": "ENS",
+      "name": "EnerSys",
+      "weight": 1.23
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 1.2
+    },
+    {
+      "symbol": "RL",
+      "name": "Ralph Lauren Corporation Class A",
+      "weight": 1.13
+    },
+    {
+      "symbol": "IBP",
+      "name": "Installed Building Products, Inc.",
+      "weight": 1.11
+    },
+    {
+      "symbol": "MLI",
+      "name": "Mueller Industries, Inc.",
+      "weight": 1.08
+    },
+    {
+      "symbol": "YOU",
+      "name": "Clear Secure, Inc. Class A",
+      "weight": 1.08
+    },
+    {
+      "symbol": "COKE",
+      "name": "Coca-Cola Consolidated, Inc.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "PSMT",
+      "name": "PriceSmart, Inc.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "WFRD",
+      "name": "Weatherford International plc",
+      "weight": 1.02
+    },
+    {
+      "symbol": "EME",
+      "name": "EMCOR Group, Inc.",
+      "weight": 1.02
+    },
+    {
+      "symbol": "WMS",
+      "name": "Advanced Drainage Systems, Inc.",
+      "weight": 1.01
+    },
+    {
+      "symbol": "IBKR",
+      "name": "Interactive Brokers Group, Inc. Class A",
+      "weight": 1.01
+    },
+    {
+      "symbol": "FOXA",
+      "name": "Fox Corporation Class A",
+      "weight": 0.99
+    }
+  ]
+}

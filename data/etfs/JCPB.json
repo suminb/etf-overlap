@@ -1,0 +1,98 @@
+{
+  "symbol": "JCPB",
+  "name": "JPMorgan Core Plus Bond ETF",
+  "last_updated": "2025-12-03T08:11:52.139Z",
+  "profile": {
+    "name": "JPMorgan Core Plus Bond ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "Jan 28, 2019",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-core-plus-bond-etf-46641q670",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 8860800000,
+    "shares_outstanding": 185800000
+  },
+  "holdings": [
+    {
+      "symbol": "MGMXX",
+      "name": "JPMorgan Trust II U.S. Government Money Market Fund -IM-",
+      "weight": 6.69
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-AUG-2029",
+      "name": "United States Treasury Notes 3.625% 31-AUG-2029",
+      "weight": 3.22
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 31-MAY-2029",
+      "name": "United States Treasury Notes 4.5% 31-MAY-2029",
+      "weight": 2.15
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 05 31-AUG-2027",
+      "name": "United States Treasury Notes 0.5% 31-AUG-2027",
+      "weight": 1.01
+    },
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 0.99
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-AUG-2030",
+      "name": "United States Treasury Notes 3.625% 31-AUG-2030",
+      "weight": 0.93
+    },
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 0.92
+    },
+    {
+      "symbol": "UMBS TBA 30YR 55 DECEMBER DELIVERY 5500 01-APR",
+      "name": "UMBS TBA 30yr 5.5% December Delivery 5.500% 01-APR-2055",
+      "weight": 0.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 0.61
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 40 15-NOV-2042",
+      "name": "United States Treasury Bond 4.0% 15-NOV-2042",
+      "weight": 0.57
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 45 15-NOV-2054",
+      "name": "United States Treasury Bond 4.5% 15-NOV-2054",
+      "weight": 0.57
+    },
+    {
+      "symbol": "UMBS TBA 30YR 6 DECEMBER DELIVERY 6000 01-OCT-2",
+      "name": "UMBS TBA 30yr 6% December Delivery 6.000% 01-OCT-2054",
+      "weight": 0.56
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-NOV-2043",
+      "name": "United States Treasury Bond 4.75% 15-NOV-2043",
+      "weight": 0.48
+    },
+    {
+      "symbol": "FIXED INCOME UNCLASSFIED",
+      "name": "FIXED INCOME (UNCLASSFIED)",
+      "weight": 0.44
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSL1477 5000 01-JUL-2053 50 01-",
+      "name": "FHLMC 30yr Pool#SL1477 5.000% 01-Jul-2053 5.0% 01-JUL-2053",
+      "weight": 0.44
+    }
+  ]
+}

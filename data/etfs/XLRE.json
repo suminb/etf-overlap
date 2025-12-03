@@ -1,0 +1,102 @@
+{
+  "symbol": "XLRE",
+  "name": "State Street Real Estate Select Sector SPDR ETF",
+  "last_updated": "2025-12-03T08:40:42.207Z",
+  "profile": {
+    "name": "State Street Real Estate Select Sector SPDR ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Oct 07, 2015",
+    "index_tracked": "S&P Real Estate Select Sector",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=XLRE",
+    "category": "Real Estate",
+    "asset_class": "Real Estate",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Real Estate",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7540500000,
+    "shares_outstanding": 181800000
+  },
+  "holdings": [
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 11.42
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "weight": 9.78
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "weight": 6.96
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 6.05
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 4.99
+    },
+    {
+      "symbol": "CBRE",
+      "name": "CBRE Group, Inc. Class A",
+      "weight": 4.5
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 4.38
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "weight": 4.3
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 4.21
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "weight": 4.08
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "weight": 3.76
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "weight": 3.16
+    },
+    {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "weight": 2.99
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "weight": 2.9
+    },
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "weight": 2.66
+    }
+  ]
+}

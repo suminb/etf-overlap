@@ -1,7 +1,9 @@
 {
   "symbol": "MGC",
-  "last_updated": "2025-11-30T17:21:49.212Z",
+  "name": "Vanguard Mega Cap ETF",
+  "last_updated": "2025-12-03T08:09:41.900Z",
   "profile": {
+    "name": "Vanguard Mega Cap ETF",
     "issuer": "Vanguard",
     "brand": "Vanguard",
     "structure": "ETF",
@@ -15,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 9034200000,
+    "aum": 9093700000,
     "shares_outstanding": 36300000
   },
   "holdings": [

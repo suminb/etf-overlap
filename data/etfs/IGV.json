@@ -1,0 +1,102 @@
+{
+  "symbol": "IGV",
+  "name": "iShares Expanded Tech-Software Sector ETF",
+  "last_updated": "2025-12-03T08:37:51.548Z",
+  "profile": {
+    "name": "iShares Expanded Tech-Software Sector ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Jul 10, 2001",
+    "index_tracked": "S&P North American Technology-Software Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IGV.htm?qt=IGV",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Software",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8105200000,
+    "shares_outstanding": 78700000
+  },
+  "holdings": [
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 9.22
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 8.97
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 7.47
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "weight": 6
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc.",
+      "weight": 5.73
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 5.61
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin Corp. Class A",
+      "weight": 5.11
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "weight": 4.42
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "weight": 4.36
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc. Class A",
+      "weight": 4.35
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "weight": 2.91
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "weight": 2.65
+    },
+    {
+      "symbol": "ADSK",
+      "name": "Autodesk, Inc.",
+      "weight": 2.23
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet, Inc.",
+      "weight": 1.81
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc. Class A",
+      "weight": 1.77
+    }
+  ]
+}

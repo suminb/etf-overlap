@@ -1,0 +1,98 @@
+{
+  "symbol": "VCLT",
+  "name": "Vanguard Long-Term Corporate Bond ETF",
+  "last_updated": "2025-12-03T08:37:24.805Z",
+  "profile": {
+    "name": "Vanguard Long-Term Corporate Bond ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 19, 2009",
+    "index_tracked": "Bloomberg US Corporate (10+ Y)",
+    "home_page": "https://advisors.vanguard.com/investments/products/vclt/vanguard-long-term-corporate-bond-etf",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8142900000,
+    "shares_outstanding": 104900000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.74
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-MAY-2055",
+      "name": "United States Treasury Bond 4.75% 15-MAY-2055",
+      "weight": 0.45
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH COMPANIES LLC 49 01-FEB-2046",
+      "name": "Anheuser-Busch Companies, LLC. 4.9% 01-FEB-2046",
+      "weight": 0.38
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 505 25-MAR-2048",
+      "name": "CVS Health Corporation 5.05% 25-MAR-2048",
+      "weight": 0.33
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 675 01-OCT-2037",
+      "name": "Goldman Sachs Group, Inc. 6.75% 01-OCT-2037",
+      "weight": 0.3
+    },
+    {
+      "symbol": "BOEING COMPANY 5805 01-MAY-2050",
+      "name": "Boeing Company 5.805% 01-MAY-2050",
+      "weight": 0.27
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5013 04-APR-2051",
+      "name": "Wells Fargo & Company 5.013% 04-APR-2051",
+      "weight": 0.26
+    },
+    {
+      "symbol": "ATT INC 35 15-SEP-2053",
+      "name": "AT&T Inc. 3.5% 15-SEP-2053",
+      "weight": 0.25
+    },
+    {
+      "symbol": "ABBVIE INC 425 21-NOV-2049",
+      "name": "AbbVie Inc. 4.25% 21-NOV-2049",
+      "weight": 0.24
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 4083 20-MAR-2051",
+      "name": "Bank of America Corporation 4.083% 20-MAR-2051",
+      "weight": 0.24
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH COMPANIES LLC 47 01-FEB-2036",
+      "name": "Anheuser-Busch Companies, LLC. 4.7% 01-FEB-2036",
+      "weight": 0.24
+    },
+    {
+      "symbol": "CVS HEALTH CORPORATION 478 25-MAR-2038",
+      "name": "CVS Health Corporation 4.78% 25-MAR-2038",
+      "weight": 0.24
+    },
+    {
+      "symbol": "ATT INC 355 15-SEP-2055",
+      "name": "AT&T Inc. 3.55% 15-SEP-2055",
+      "weight": 0.24
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 53 19-MA",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 5.3% 19-MAY-2053",
+      "weight": 0.22
+    },
+    {
+      "symbol": "AMGEN INC 565 02-MAR-2053",
+      "name": "Amgen Inc. 5.65% 02-MAR-2053",
+      "weight": 0.22
+    }
+  ]
+}

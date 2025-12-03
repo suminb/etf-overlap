@@ -1,0 +1,100 @@
+{
+  "symbol": "VIGI",
+  "name": "Vanguard International Dividend Appreciation ETF",
+  "last_updated": "2025-12-03T08:11:15.575Z",
+  "profile": {
+    "name": "Vanguard International Dividend Appreciation ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Feb 25, 2016",
+    "index_tracked": "NASDAQ International DividendAchieversSelect Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vigi/vanguard-international-dividend-appreciation-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Broad Asia",
+    "region_specific": "Broad",
+    "aum": 8961900000,
+    "shares_outstanding": 98400000
+  },
+  "holdings": [
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 4.19
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 4.06
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 3.71
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 3.63
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 3.49
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 3.49
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 3.48
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 3.19
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 3.14
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 2.3
+    },
+    {
+      "symbol": "SAN",
+      "name": "Sanofi SA",
+      "weight": 2.22
+    },
+    {
+      "symbol": "8316",
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "weight": 2.14
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 2.09
+    },
+    {
+      "symbol": "1299",
+      "name": "AIA Group Limited",
+      "weight": 2.08
+    },
+    {
+      "symbol": "BN",
+      "name": "Brookfield Corporation",
+      "weight": 2.07
+    }
+  ]
+}

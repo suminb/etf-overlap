@@ -1,0 +1,93 @@
+{
+  "symbol": "SUB",
+  "name": "iShares Short-Term National Muni Bond ETF",
+  "last_updated": "2025-12-03T07:57:01.509Z",
+  "profile": {
+    "name": "iShares Short-Term National Muni Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Nov 05, 2008",
+    "index_tracked": "ICE Short Maturity AMT-Free US National Municipal",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/SUB.htm?qt=SUB",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10087500000,
+    "shares_outstanding": 94800000
+  },
+  "holdings": [
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 0.57
+    },
+    {
+      "symbol": "NEW JERSEY ECONOMIC DEV AUTH REV 50 01-MAR-2028",
+      "name": "New Jersey Economic Dev Auth Rev 5.0% 01-MAR-2028",
+      "weight": 0.41
+    },
+    {
+      "symbol": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH REV VAR 01",
+      "name": "New York N Y City Transitional Fin Auth Rev VAR 01-NOV-2044",
+      "weight": 0.36
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-AUG-2029",
+      "name": "California St 5.0% 01-AUG-2029",
+      "weight": 0.31
+    },
+    {
+      "symbol": "HOUSTON TEX UTIL SYS REV VAR 15-MAY-2034",
+      "name": "Houston Tex Util Sys Rev VAR 15-MAY-2034",
+      "weight": 0.3
+    },
+    {
+      "symbol": "PENNSYLVANIA ST TPK COMMN TPK REV VAR 01-DEC-2043",
+      "name": "Pennsylvania St Tpk Commn Tpk Rev VAR 01-DEC-2043",
+      "weight": 0.29
+    },
+    {
+      "symbol": "NEW YORK ST URBAN DEV CORP REV 50 15-SEP-2028",
+      "name": "New York St Urban Dev Corp Rev 5.0% 15-SEP-2028",
+      "weight": 0.28
+    },
+    {
+      "symbol": "NEW JERSEY ST TPK AUTH TPK REV 50 01-JAN-2030",
+      "name": "New Jersey St Tpk Auth Tpk Rev 5.0% 01-JAN-2030",
+      "weight": 0.28
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-NOV-2027",
+      "name": "California St 5.0% 01-NOV-2027",
+      "weight": 0.27
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-APR-2029",
+      "name": "California St 5.0% 01-APR-2029",
+      "weight": 0.27
+    },
+    {
+      "symbol": "KING CNTY WASH SWR REV VAR 01-JAN-2042",
+      "name": "King Cnty Wash Swr Rev VAR 01-JAN-2042",
+      "weight": 0.26
+    },
+    {
+      "symbol": "NEW YORK ST URBAN DEV CORP ST SALES TAX REV 50 1",
+      "name": "New York St Urban Dev Corp St Sales Tax Rev 5.0% 15-MAR-2026",
+      "weight": 0.25
+    },
+    {
+      "symbol": "NEW JERSEY ST 50 01-JUN-2026",
+      "name": "New Jersey St 5.0% 01-JUN-2026",
+      "weight": 0.24
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-AUG-2030",
+      "name": "New York N Y 5.0% 01-AUG-2030",
+      "weight": 0.24
+    }
+  ]
+}

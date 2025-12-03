@@ -1,0 +1,100 @@
+{
+  "symbol": "EWY",
+  "name": "iShares MSCI South Korea ETF",
+  "last_updated": "2025-12-03T08:43:09.661Z",
+  "profile": {
+    "name": "iShares MSCI South Korea ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "May 09, 2000",
+    "index_tracked": "MSCI Korea 25-50",
+    "home_page": "http://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf?qt=EWY",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "South Korea",
+    "aum": 7017300000,
+    "shares_outstanding": 77800000
+  },
+  "holdings": [
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 23.4
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 16.5
+    },
+    {
+      "symbol": "105560",
+      "name": "KB Financial Group Inc.",
+      "weight": 2.7
+    },
+    {
+      "symbol": "035420",
+      "name": "NAVER Corp.",
+      "weight": 2.18
+    },
+    {
+      "symbol": "034020",
+      "name": "Doosan Enerbility Co., Ltd.",
+      "weight": 2.1
+    },
+    {
+      "symbol": "005380",
+      "name": "Hyundai Motor Company",
+      "weight": 2.08
+    },
+    {
+      "symbol": "055550",
+      "name": "Shinhan Financial Group Co., Ltd.",
+      "weight": 1.99
+    },
+    {
+      "symbol": "068270",
+      "name": "Celltrion, Inc.",
+      "weight": 1.79
+    },
+    {
+      "symbol": "012450",
+      "name": "Hanwha Aerospace Co., Ltd.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "402340",
+      "name": "SK Square Co., Ltd.",
+      "weight": 1.7
+    },
+    {
+      "symbol": "000270",
+      "name": "Kia Corporation",
+      "weight": 1.59
+    },
+    {
+      "symbol": "086790",
+      "name": "Hana Financial Group Inc.",
+      "weight": 1.58
+    },
+    {
+      "symbol": "005490",
+      "name": "POSCO Holdings Inc.",
+      "weight": 1.32
+    },
+    {
+      "symbol": "028260",
+      "name": "SAMSUNG C&T CORP",
+      "weight": 1.27
+    },
+    {
+      "symbol": "196170",
+      "name": "ALTEOGEN Inc.",
+      "weight": 1.23
+    }
+  ]
+}

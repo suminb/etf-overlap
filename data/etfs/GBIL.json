@@ -1,0 +1,98 @@
+{
+  "symbol": "GBIL",
+  "name": "ACCESS TREASURY 0-1 YEAR ETF",
+  "last_updated": "2025-12-03T08:46:33.058Z",
+  "profile": {
+    "name": "ACCESS TREASURY 0-1 YEAR ETF",
+    "issuer": "Goldman Sachs",
+    "brand": "Goldman Sachs",
+    "structure": "ETF",
+    "expense_ratio": 0.0012,
+    "inception_date": "Sep 06, 2016",
+    "index_tracked": "FTSE US Treasury 0-1 Year Composite Select Index",
+    "home_page": "https://www.gsam.com/content/gsam/us/en/individual/products/etf-fund-finder/goldman-sachs-treasuryaccess-0-1-year-etf.html#activeTab=overview",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6557400000,
+    "shares_outstanding": 65500000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 05-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 05-FEB-2026",
+      "weight": 11.98
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 08-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 08-JAN-2026",
+      "weight": 9.68
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 20-JAN-2026",
+      "weight": 9.15
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-JAN-2026",
+      "name": "United States Treasury Bills 0.0% 02-JAN-2026",
+      "weight": 7.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 24-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 24-MAR-2026",
+      "weight": 7.27
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 29-OCT-2026",
+      "name": "United States Treasury Bills 0.0% 29-OCT-2026",
+      "weight": 2.81
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 30-SEP-2026",
+      "name": "United States Treasury Notes 3.5% 30-SEP-2026",
+      "weight": 2.73
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 14-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 14-MAY-2026",
+      "weight": 2.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 30-APR-2026",
+      "name": "United States Treasury Notes 0.75% 30-APR-2026",
+      "weight": 2.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4875 30-APR-2026",
+      "name": "United States Treasury Notes 4.875% 30-APR-2026",
+      "weight": 2.5
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0625 31-JUL-2026",
+      "name": "United States Treasury Notes 0.625% 31-JUL-2026",
+      "weight": 2.45
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 19-MAR-2026",
+      "weight": 1.99
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 31-JUL-2026",
+      "name": "United States Treasury Notes 4.375% 31-JUL-2026",
+      "weight": 1.96
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-AUG-2026",
+      "name": "United States Treasury Notes 0.75% 31-AUG-2026",
+      "weight": 1.91
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 30-JUN-2026",
+      "name": "United States Treasury Notes 4.625% 30-JUN-2026",
+      "weight": 1.79
+    }
+  ]
+}

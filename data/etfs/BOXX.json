@@ -1,0 +1,33 @@
+{
+  "symbol": "BOXX",
+  "name": "Alpha Architect 1-3 Month Box ETF",
+  "last_updated": "2025-12-03T08:10:11.741Z",
+  "profile": {
+    "name": "Alpha Architect 1-3 Month Box ETF",
+    "issuer": "ETF Architect",
+    "brand": "Alpha Architect",
+    "structure": "ETF",
+    "expense_ratio": 0.0019,
+    "inception_date": "Dec 28, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://etfsite.alphaarchitect.com/boxx/",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9069600000,
+    "shares_outstanding": 79100000
+  },
+  "holdings": [
+    {
+      "symbol": "OPTIONS",
+      "name": "OPTIONS",
+      "weight": 99.99
+    },
+    {
+      "symbol": "FGXXX",
+      "name": "First American Funds Inc X Government Obligations Fund",
+      "weight": 0.01
+    }
+  ]
+}

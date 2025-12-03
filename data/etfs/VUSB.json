@@ -1,0 +1,98 @@
+{
+  "symbol": "VUSB",
+  "name": "Vanguard Ultra-Short Bond ETF",
+  "last_updated": "2025-12-03T08:47:31.625Z",
+  "profile": {
+    "name": "Vanguard Ultra-Short Bond ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Apr 05, 2021",
+    "index_tracked": "Bloomberg US Treasury Bellwethers 1-Year",
+    "home_page": "https://advisors.vanguard.com/investments/products/vusb/vanguard-ultra-short-bond-etf",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6426100000,
+    "shares_outstanding": 128700000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 29-OCT-2026",
+      "name": "United States Treasury Bills 0.0% 29-OCT-2026",
+      "weight": 2.79
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.14
+    },
+    {
+      "symbol": "TYSON FOODS INC 355 02-JUN-2027",
+      "name": "Tyson Foods, Inc. 3.55% 02-JUN-2027",
+      "weight": 0.6
+    },
+    {
+      "symbol": "TORONTO-DOMINION BANK 4568 17-DEC-2026",
+      "name": "Toronto-Dominion Bank 4.568% 17-DEC-2026",
+      "weight": 0.58
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-JUL-2027",
+      "name": "United States Treasury Notes 4.375% 15-JUL-2027",
+      "weight": 0.56
+    },
+    {
+      "symbol": "BANK OF MONTREAL FRN 22-SEP-2028",
+      "name": "Bank of Montreal FRN 22-SEP-2028",
+      "weight": 0.56
+    },
+    {
+      "symbol": "TOYOTA MOTOR CREDIT CORPORATION FRN 05-SEP-2028",
+      "name": "Toyota Motor Credit Corporation FRN 05-SEP-2028",
+      "weight": 0.52
+    },
+    {
+      "symbol": "NTT FINANCE CORPORATION 4567 16-JUL-2027",
+      "name": "NTT Finance Corporation 4.567% 16-JUL-2027",
+      "weight": 0.5
+    },
+    {
+      "symbol": "AMERICAN HONDA FINANCE CORP FRN 11-DEC-2026",
+      "name": "American Honda Finance Corp. FRN 11-DEC-2026",
+      "weight": 0.47
+    },
+    {
+      "symbol": "ATHENE GLOBAL FUNDING 562 08-MAY-2026",
+      "name": "Athene Global Funding 5.62% 08-MAY-2026",
+      "weight": 0.47
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 30-SEP-2027",
+      "name": "United States Treasury Notes 4.125% 30-SEP-2027",
+      "weight": 0.45
+    },
+    {
+      "symbol": "CHENIERE CORPUS CHRISTI HOLDINGS LLC 5125 30-JU",
+      "name": "Cheniere Corpus Christi Holdings, LLC 5.125% 30-JUN-2027",
+      "weight": 0.45
+    },
+    {
+      "symbol": "UBS GROUP AG FRN 23-DEC-2029",
+      "name": "UBS Group AG FRN 23-DEC-2029",
+      "weight": 0.44
+    },
+    {
+      "symbol": "CANADIAN IMPERIAL BANK OF COMMERCE 4862 13-JAN-2",
+      "name": "Canadian Imperial Bank of Commerce 4.862% 13-JAN-2028",
+      "weight": 0.43
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 31-JAN-2027",
+      "name": "United States Treasury Notes 4.125% 31-JAN-2027",
+      "weight": 0.42
+    }
+  ]
+}

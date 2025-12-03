@@ -1,7 +1,7 @@
 {
   "symbol": "FNDF",
   "name": "Schwab Fundamental International Equity ETF",
-  "last_updated": "2025-12-02T03:35:40.042Z",
+  "last_updated": "2025-12-03T07:45:19.456Z",
   "profile": {
     "name": "Schwab Fundamental International Equity ETF",
     "issuer": "The Charles Schwab Corp.",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 18674300000,
+    "aum": 18787400000,
     "shares_outstanding": 418800000
   },
   "holdings": [

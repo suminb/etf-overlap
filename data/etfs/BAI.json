@@ -1,0 +1,94 @@
+{
+  "symbol": "BAI",
+  "name": "iShares A.I. Innovation and Tech Active ETF",
+  "last_updated": "2025-12-03T08:38:45.303Z",
+  "profile": {
+    "name": "iShares A.I. Innovation and Tech Active ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "expense_ratio": 0.0055000000000000005,
+    "inception_date": "Oct 21, 2024",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 7992500000,
+    "shares_outstanding": 229900000
+  },
+  "holdings": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 9.92
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 9.1
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.46
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 4.44
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake, Inc.",
+      "weight": 4.43
+    },
+    {
+      "symbol": "CLS",
+      "name": "Celestica Inc.",
+      "weight": 3.77
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 3.71
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 3.27
+    },
+    {
+      "symbol": "FN",
+      "name": "Fabrinet",
+      "weight": 3.12
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 2.84
+    },
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd",
+      "weight": 2.8
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "SFTBF",
+      "name": "SoftBank Group Corp.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 2.69
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "symbol": "IGIB",
   "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
-  "last_updated": "2025-12-02T03:40:06.441Z",
+  "last_updated": "2025-12-03T07:48:39.216Z",
   "profile": {
     "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
     "issuer": "BlackRock, Inc.",
@@ -13,8 +13,8 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 16973800000,
-    "shares_outstanding": 312100000
+    "aum": 17001100000,
+    "shares_outstanding": 312900000
   },
   "holdings": [
     {

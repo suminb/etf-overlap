@@ -1,7 +1,7 @@
 {
   "symbol": "IYW",
   "name": "iShares U.S. Technology ETF",
-  "last_updated": "2025-12-02T03:33:28.971Z",
+  "last_updated": "2025-12-03T07:42:51.130Z",
   "profile": {
     "name": "iShares U.S. Technology ETF",
     "issuer": "BlackRock, Inc.",
@@ -19,7 +19,7 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 20759300000,
+    "aum": 20919500000,
     "shares_outstanding": 105300000
   },
   "holdings": [

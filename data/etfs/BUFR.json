@@ -1,0 +1,89 @@
+{
+  "symbol": "BUFR",
+  "name": "FT Vest Laddered Buffer ETF",
+  "last_updated": "2025-12-03T08:37:39.940Z",
+  "profile": {
+    "name": "FT Vest Laddered Buffer ETF",
+    "issuer": "First Trust",
+    "brand": "FT Vest",
+    "structure": "ETF",
+    "expense_ratio": 0.0095,
+    "inception_date": "Aug 10, 2020",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=BUFR",
+    "category": "Volatility Hedged Equity",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8114300000,
+    "shares_outstanding": 239000000
+  },
+  "holdings": [
+    {
+      "symbol": "FJUL",
+      "name": "FT Vest U.S. Equity Buffer ETF - July",
+      "weight": 8.34
+    },
+    {
+      "symbol": "FDEC",
+      "name": "FT Vest US Equity Buffer ETF - December",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FOCT",
+      "name": "FT Vest U.S. Equity Buffer ETF - October",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FAUG",
+      "name": "FT Vest U.S. Equity Buffer ETF - August",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FSEP",
+      "name": "FT Vest U.S. Equity Buffer ETF - September",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FMAR",
+      "name": "FT Vest US Equity Buffer ETF - March",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FNOV",
+      "name": "FT Vest U.S. Equity Buffer ETF - November",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FJAN",
+      "name": "FT Vest US Equity Buffer ETF - January",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FMAY",
+      "name": "FT Vest U.S. Equity Buffer Fund - May",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FJUN",
+      "name": "FT Vest U.S. Equity Buffer ETF - June",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FAPR",
+      "name": "FT Vest U.S. Equity Buffer ETF - April",
+      "weight": 8.33
+    },
+    {
+      "symbol": "FFEB",
+      "name": "FT Vest U.S. Equity Buffer Fund - February",
+      "weight": 8.33
+    },
+    {
+      "symbol": "MISXX",
+      "name": "Morgan Stanley Institutional Liquidity Funds treasury Portfolio Institutional",
+      "weight": 0.02
+    }
+  ]
+}

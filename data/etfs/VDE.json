@@ -1,0 +1,102 @@
+{
+  "symbol": "VDE",
+  "name": "Vanguard Energy ETF",
+  "last_updated": "2025-12-03T08:42:34.326Z",
+  "profile": {
+    "name": "Vanguard Energy ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Sep 23, 2004",
+    "index_tracked": "MSCI US Investable Market Energy 25/50 Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vde/vanguard-energy-etf",
+    "category": "Energy Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Energy",
+    "sector_specific": "Oil & Gas Exploration & Production",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7133100000,
+    "shares_outstanding": 55900000
+  },
+  "holdings": [
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 23.01
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 15.79
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 5.52
+    },
+    {
+      "symbol": "WMB",
+      "name": "Williams Companies, Inc.",
+      "weight": 3.67
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "weight": 3.24
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources, Inc.",
+      "weight": 3.06
+    },
+    {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "weight": 2.91
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy Corporation",
+      "weight": 2.78
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan Inc Class P",
+      "weight": 2.72
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB Limited",
+      "weight": 2.51
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company Class A",
+      "weight": 2.5
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy, Inc.",
+      "weight": 2.47
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK, Inc.",
+      "weight": 2.18
+    },
+    {
+      "symbol": "TRGP",
+      "name": "Targa Resources Corp.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corporation",
+      "weight": 1.66
+    }
+  ]
+}

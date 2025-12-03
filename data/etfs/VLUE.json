@@ -1,0 +1,100 @@
+{
+  "symbol": "VLUE",
+  "name": "iShares MSCI USA Value Factor ETF",
+  "last_updated": "2025-12-03T08:12:57.784Z",
+  "profile": {
+    "name": "iShares MSCI USA Value Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Apr 16, 2013",
+    "index_tracked": "MSCI USA Enhanced Value",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/VLUE.htm?fundSearch=true&qt=VLUE",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8762900000,
+    "shares_outstanding": 65600000
+  },
+  "holdings": [
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 6.61
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 5.61
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 4.96
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "weight": 3.76
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc",
+      "weight": 3.13
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 2.91
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 2.83
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 2.35
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 2.1
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "weight": 2.04
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 1.96
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "weight": 1.87
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation Class A",
+      "weight": 1.84
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "weight": 1.78
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 1.45
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "IJJ",
+  "name": "iShares S&P Mid-Cap 400 Value ETF",
+  "last_updated": "2025-12-03T08:39:22.253Z",
+  "profile": {
+    "name": "iShares S&P Mid-Cap 400 Value ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0018,
+    "inception_date": "Jul 24, 2000",
+    "index_tracked": "S&P Mid Cap 400 Value",
+    "home_page": "http://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf?qt=IJJ",
+    "category": "Mid Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7918700000,
+    "shares_outstanding": 60300000
+  },
+  "holdings": [
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "weight": 1.48
+    },
+    {
+      "symbol": "TLN",
+      "name": "Talen Energy Corp",
+      "weight": 1.2
+    },
+    {
+      "symbol": "USFD",
+      "name": "US Foods Holding Corp.",
+      "weight": 1.18
+    },
+    {
+      "symbol": "PFGC",
+      "name": "Performance Food Group Co",
+      "weight": 1.01
+    },
+    {
+      "symbol": "FNF",
+      "name": "Fidelity National Financial, Inc. - FNF Group",
+      "weight": 1.01
+    },
+    {
+      "symbol": "WPC",
+      "name": "W. P. Carey Inc.",
+      "weight": 0.98
+    },
+    {
+      "symbol": "RS",
+      "name": "Reliance, Inc.",
+      "weight": 0.98
+    },
+    {
+      "symbol": "NLY",
+      "name": "Annaly Capital Management, Inc.",
+      "weight": 0.98
+    },
+    {
+      "symbol": "NXT",
+      "name": "Nextpower Inc. Class A",
+      "weight": 0.9
+    },
+    {
+      "symbol": "WCC",
+      "name": "WESCO International, Inc.",
+      "weight": 0.87
+    },
+    {
+      "symbol": "RGA",
+      "name": "Reinsurance Group of America, Incorporated",
+      "weight": 0.84
+    },
+    {
+      "symbol": "UNM",
+      "name": "Unum Group",
+      "weight": 0.79
+    },
+    {
+      "symbol": "SNX",
+      "name": "TD SYNNEX Corporation",
+      "weight": 0.78
+    },
+    {
+      "symbol": "ALLY",
+      "name": "Ally Financial Inc",
+      "weight": 0.77
+    },
+    {
+      "symbol": "ELAN",
+      "name": "Elanco Animal Health, Inc.",
+      "weight": 0.77
+    }
+  ]
+}

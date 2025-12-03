@@ -1,0 +1,100 @@
+{
+  "symbol": "IEUR",
+  "name": "iShares Core MSCI Europe ETF",
+  "last_updated": "2025-12-03T08:44:15.582Z",
+  "profile": {
+    "name": "iShares Core MSCI Europe ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jun 10, 2014",
+    "index_tracked": "MSCI Europe Investable Market Index",
+    "home_page": "http://www.ishares.com/us/products/264617/IEUR",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Europe",
+    "region_specific": "Broad",
+    "aum": 6798900000,
+    "shares_outstanding": 98000000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.81
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.96
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.84
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.75
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.72
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.69
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.67
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.46
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.38
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 1.27
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.14
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.09
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 1.09
+    },
+    {
+      "symbol": "ULVR",
+      "name": "Unilever PLC",
+      "weight": 1.01
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 1.01
+    }
+  ]
+}

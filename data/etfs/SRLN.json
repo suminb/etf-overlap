@@ -1,0 +1,28 @@
+{
+  "symbol": "SRLN",
+  "name": "State Street Blackstone Senior Loan ETF",
+  "last_updated": "2025-12-03T08:44:26.668Z",
+  "profile": {
+    "name": "State Street Blackstone Senior Loan ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.006999999999999999,
+    "inception_date": "Apr 03, 2013",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-blackstone-senior-loan-etf-srln",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 6769500000,
+    "shares_outstanding": 163500000
+  },
+  "holdings": [
+    {
+      "symbol": "ADVANTAGE SALES  MARKETING INC",
+      "name": "Advantage Sales & Marketing Inc",
+      "weight": 100
+    }
+  ]
+}

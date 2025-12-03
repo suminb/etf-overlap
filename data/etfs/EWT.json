@@ -1,0 +1,100 @@
+{
+  "symbol": "EWT",
+  "name": "iShares MSCI Taiwan ETF",
+  "last_updated": "2025-12-03T08:43:20.855Z",
+  "profile": {
+    "name": "iShares MSCI Taiwan ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Jun 20, 2000",
+    "index_tracked": "MSCI Taiwan 25-50 Index",
+    "home_page": "http://www.ishares.com/us/products/239686/ishares-msci-taiwan-etf?qt=EWT",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "Taiwan",
+    "aum": 6976000000,
+    "shares_outstanding": 108400000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 22.01
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 5.37
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 4.21
+    },
+    {
+      "symbol": "2308",
+      "name": "Delta Electronics, Inc.",
+      "weight": 3.83
+    },
+    {
+      "symbol": "2881",
+      "name": "Fubon Financial Holding Co., Ltd.",
+      "weight": 1.9
+    },
+    {
+      "symbol": "3711",
+      "name": "ASE Technology Holding Co., Ltd.",
+      "weight": 1.83
+    },
+    {
+      "symbol": "2382",
+      "name": "Quanta Computer Inc.",
+      "weight": 1.82
+    },
+    {
+      "symbol": "6669",
+      "name": "Wiwynn Corporation",
+      "weight": 1.8
+    },
+    {
+      "symbol": "2891",
+      "name": "CTBC Financial Holding Company Ltd.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "2345",
+      "name": "Accton Technology Corp.",
+      "weight": 1.57
+    },
+    {
+      "symbol": "2882",
+      "name": "Cathay Financial Holdings Co., Ltd.",
+      "weight": 1.39
+    },
+    {
+      "symbol": "2383",
+      "name": "Elite Material Co., Ltd.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "3017",
+      "name": "Asia Vital Components Co., Ltd.",
+      "weight": 1.36
+    },
+    {
+      "symbol": "2887",
+      "name": "TS Financial Holding Co., Ltd.",
+      "weight": 1.23
+    },
+    {
+      "symbol": "2303",
+      "name": "United Microelectronics Corp.",
+      "weight": 1.23
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "symbol": "ESGU",
   "name": "iShares ESG Aware MSCI USA ETF",
-  "last_updated": "2025-12-02T03:43:18.185Z",
+  "last_updated": "2025-12-03T07:51:01.633Z",
   "profile": {
     "name": "iShares ESG Aware MSCI USA ETF",
     "issuer": "BlackRock, Inc.",
@@ -17,8 +17,8 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 15138200000,
-    "shares_outstanding": 101900000
+    "aum": 15234200000,
+    "shares_outstanding": 102000000
   },
   "holdings": [
     {

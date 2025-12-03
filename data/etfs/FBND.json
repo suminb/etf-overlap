@@ -1,7 +1,7 @@
 {
   "symbol": "FBND",
   "name": "Fidelity Total Bond ETF",
-  "last_updated": "2025-12-02T03:31:55.780Z",
+  "last_updated": "2025-12-03T07:41:05.921Z",
   "profile": {
     "name": "Fidelity Total Bond ETF",
     "issuer": "Fidelity",
@@ -15,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 22919300000,
-    "shares_outstanding": 493400000
+    "aum": 22963900000,
+    "shares_outstanding": 495000000
   },
   "holdings": [
     {

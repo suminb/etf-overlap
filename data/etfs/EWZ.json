@@ -1,0 +1,100 @@
+{
+  "symbol": "EWZ",
+  "name": "iShares MSCI Brazil ETF",
+  "last_updated": "2025-12-03T08:46:44.378Z",
+  "profile": {
+    "name": "iShares MSCI Brazil ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Jul 10, 2000",
+    "index_tracked": "MSCI Brazil 25/50 Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EWZ.htm?qt=EWZ",
+    "category": "Latin America Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Latin America",
+    "region_specific": "Brazil",
+    "aum": 6557400000,
+    "shares_outstanding": 196300000
+  },
+  "holdings": [
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings Ltd. Class A",
+      "weight": 12.45
+    },
+    {
+      "symbol": "VALE3",
+      "name": "Vale S.A.",
+      "weight": 9.52
+    },
+    {
+      "symbol": "ITUB4",
+      "name": "Itau Unibanco Holding SA Pfd",
+      "weight": 8.65
+    },
+    {
+      "symbol": "PETR4",
+      "name": "Petroleo Brasileiro SA Pfd",
+      "weight": 5.76
+    },
+    {
+      "symbol": "PETR3",
+      "name": "Petroleo Brasileiro SA",
+      "weight": 5.01
+    },
+    {
+      "symbol": "BBDC4",
+      "name": "Banco Bradesco SA Pfd",
+      "weight": 3.78
+    },
+    {
+      "symbol": "AXIA3",
+      "name": "AXIA Energia SA",
+      "weight": 3.32
+    },
+    {
+      "symbol": "B3SA3",
+      "name": "B3 SA - Brasil, Bolsa, Balcao",
+      "weight": 3.3
+    },
+    {
+      "symbol": "WEGE3",
+      "name": "WEG SA",
+      "weight": 3.17
+    },
+    {
+      "symbol": "SBSP3",
+      "name": "Companhia de Saneamento Basico do Estado de Sao Paulo SABESP",
+      "weight": 2.89
+    },
+    {
+      "symbol": "ABEV3",
+      "name": "Ambev SA",
+      "weight": 2.77
+    },
+    {
+      "symbol": "BPAC11",
+      "name": "Banco BTG Pactual SA Units Cons of 1 Sh + 2 Pfd Shs A",
+      "weight": 2.66
+    },
+    {
+      "symbol": "EMBJ3",
+      "name": "Embraer S.A.",
+      "weight": 2.52
+    },
+    {
+      "symbol": "ITSA4",
+      "name": "Itausa SA Non-Cum Perp Pfd Registered Shs",
+      "weight": 2.47
+    },
+    {
+      "symbol": "EQTL3",
+      "name": "Equatorial S.A.",
+      "weight": 2.06
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "VPL",
+  "name": "Vanguard FTSE Pacific ETF",
+  "last_updated": "2025-12-03T08:36:05.017Z",
+  "profile": {
+    "name": "Vanguard FTSE Pacific ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Mar 04, 2005",
+    "index_tracked": "FTSE Developed Asia Pacific Index All Cap Net Tax (US RIC) Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vpl/vanguard-ftse-pacific-etf",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "Broad",
+    "aum": 8364100000,
+    "shares_outstanding": 92100000
+  },
+  "holdings": [
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 3.5
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 2.15
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 2.09
+    },
+    {
+      "symbol": "CBA",
+      "name": "Commonwealth Bank of Australia",
+      "weight": 1.86
+    },
+    {
+      "symbol": "9984",
+      "name": "SoftBank Group Corp.",
+      "weight": 1.7
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 1.66
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 1.49
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 1.38
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.29
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 1.09
+    },
+    {
+      "symbol": "1299",
+      "name": "AIA Group Limited",
+      "weight": 1.01
+    },
+    {
+      "symbol": "8316",
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "weight": 0.99
+    },
+    {
+      "symbol": "8035",
+      "name": "Tokyo Electron Ltd.",
+      "weight": 0.97
+    },
+    {
+      "symbol": "7011",
+      "name": "Mitsubishi Heavy Industries, Ltd.",
+      "weight": 0.96
+    }
+  ]
+}

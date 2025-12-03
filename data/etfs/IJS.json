@@ -1,0 +1,100 @@
+{
+  "symbol": "IJS",
+  "name": "iShares S&P Small-Cap 600 Value ETF",
+  "last_updated": "2025-12-03T08:45:00.100Z",
+  "profile": {
+    "name": "iShares S&P Small-Cap 600 Value ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0018,
+    "inception_date": "Jul 24, 2000",
+    "index_tracked": "S&P Small Cap 600 Value",
+    "home_page": "http://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf?qt=IJS",
+    "category": "Small Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Micro-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6624800000,
+    "shares_outstanding": 58500000
+  },
+  "holdings": [
+    {
+      "symbol": "BWA",
+      "name": "BorgWarner Inc.",
+      "weight": 1.29
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 1.11
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo, Inc.",
+      "weight": 1
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1
+    },
+    {
+      "symbol": "EMN",
+      "name": "Eastman Chemical Company",
+      "weight": 0.99
+    },
+    {
+      "symbol": "AL",
+      "name": "Air Lease Corporation Class A",
+      "weight": 0.93
+    },
+    {
+      "symbol": "LNC",
+      "name": "Lincoln National Corp",
+      "weight": 0.93
+    },
+    {
+      "symbol": "KMX",
+      "name": "CarMax, Inc.",
+      "weight": 0.81
+    },
+    {
+      "symbol": "MKTX",
+      "name": "MarketAxess Holdings Inc.",
+      "weight": 0.79
+    },
+    {
+      "symbol": "RAL",
+      "name": "Ralliant Corporation",
+      "weight": 0.77
+    },
+    {
+      "symbol": "MTH",
+      "name": "Meritage Homes Corporation",
+      "weight": 0.72
+    },
+    {
+      "symbol": "TFX",
+      "name": "Teleflex Incorporated",
+      "weight": 0.7
+    },
+    {
+      "symbol": "CZR",
+      "name": "Caesars Entertainment, Inc.",
+      "weight": 0.67
+    },
+    {
+      "symbol": "AUB",
+      "name": "Atlantic Union Bankshares Corporation",
+      "weight": 0.67
+    },
+    {
+      "symbol": "MRP",
+      "name": "Millrose Properties Inc Class A",
+      "weight": 0.65
+    }
+  ]
+}

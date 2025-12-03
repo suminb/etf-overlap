@@ -1,0 +1,100 @@
+{
+  "symbol": "ACWX",
+  "name": "iShares MSCI ACWI ex U.S. ETF",
+  "last_updated": "2025-12-03T08:41:17.228Z",
+  "profile": {
+    "name": "iShares MSCI ACWI ex U.S. ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0032,
+    "inception_date": "Mar 26, 2008",
+    "index_tracked": "MSCI All Country World ex-U.S. Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/ACWX.htm?qt=ACWX",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Broad Asia",
+    "region_specific": "Broad",
+    "aum": 7346800000,
+    "shares_outstanding": 110800000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 3.49
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 1.56
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.25
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 1.04
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 1.02
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 0.88
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.84
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.78
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 0.77
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 0.76
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.74
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.66
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.65
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.62
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 0.61
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "INDA",
+  "name": "iShares MSCI India ETF",
+  "last_updated": "2025-12-03T08:00:00.897Z",
+  "profile": {
+    "name": "iShares MSCI India ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0062,
+    "inception_date": "Feb 02, 2012",
+    "index_tracked": "MSCI India Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/INDA.htm?fundSearch=true&qt=INDA",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "India",
+    "aum": 9569200000,
+    "shares_outstanding": 175800000
+  },
+  "holdings": [
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 7.84
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 6.57
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 5
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 3.75
+    },
+    {
+      "symbol": "500209",
+      "name": "Infosys Limited",
+      "weight": 3.56
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 3.45
+    },
+    {
+      "symbol": "500520",
+      "name": "Mahindra & Mahindra Ltd.",
+      "weight": 2.36
+    },
+    {
+      "symbol": "532215",
+      "name": "Axis Bank Limited",
+      "weight": 2.04
+    },
+    {
+      "symbol": "532540",
+      "name": "Tata Consultancy Services Limited",
+      "weight": 1.97
+    },
+    {
+      "symbol": "500034",
+      "name": "Bajaj Finance Limited",
+      "weight": 1.94
+    },
+    {
+      "symbol": "500510",
+      "name": "Larsen & Toubro Limited",
+      "weight": 1.88
+    },
+    {
+      "symbol": "500247",
+      "name": "Kotak Mahindra Bank Limited",
+      "weight": 1.58
+    },
+    {
+      "symbol": "532500",
+      "name": "Maruti Suzuki India Limited",
+      "weight": 1.4
+    },
+    {
+      "symbol": "500696",
+      "name": "Hindustan Unilever Limited",
+      "weight": 1.37
+    },
+    {
+      "symbol": "500112",
+      "name": "State Bank of India",
+      "weight": 1.25
+    }
+  ]
+}

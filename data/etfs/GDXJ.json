@@ -1,0 +1,102 @@
+{
+  "symbol": "GDXJ",
+  "name": "VanEck Junior Gold Miners ETF",
+  "last_updated": "2025-12-03T08:09:55.262Z",
+  "profile": {
+    "name": "VanEck Junior Gold Miners ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0051,
+    "inception_date": "Nov 10, 2009",
+    "index_tracked": "MVIS Global Junior Gold Miners",
+    "home_page": "http://www.vaneck.com/index.cfm?cat=3192&cGroup=ETF&LN=3-02&tkr=GDXJ&LN=3_02#",
+    "category": "Materials",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Gold Miners",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 9080400000,
+    "shares_outstanding": 83500000
+  },
+  "holdings": [
+    {
+      "symbol": "PAAS",
+      "name": "Pan American Silver Corp.",
+      "weight": 7.1
+    },
+    {
+      "symbol": "EQX",
+      "name": "Equinox Gold Corp.",
+      "weight": 6.24
+    },
+    {
+      "symbol": "AGI",
+      "name": "Alamos Gold Inc.",
+      "weight": 5.93
+    },
+    {
+      "symbol": "RGLD",
+      "name": "Royal Gold, Inc.",
+      "weight": 5.38
+    },
+    {
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 5.12
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 2.82
+    },
+    {
+      "symbol": "EVN",
+      "name": "Evolution Mining Limited",
+      "weight": 2.7
+    },
+    {
+      "symbol": "PE&OLES",
+      "name": "Industrias Penoles SAB de CV",
+      "weight": 2.66
+    },
+    {
+      "symbol": "IMG",
+      "name": "IAMGOLD Corporation",
+      "weight": 2.63
+    },
+    {
+      "symbol": "HMY",
+      "name": "Harmony Gold Mining Co. Ltd. Sponsored ADR",
+      "weight": 2.57
+    },
+    {
+      "symbol": "EDV",
+      "name": "Endeavour Mining PLC",
+      "weight": 2.31
+    },
+    {
+      "symbol": "LUG",
+      "name": "Lundin Gold Inc.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "AG",
+      "name": "First Majestic Silver Corp.",
+      "weight": 2.1
+    },
+    {
+      "symbol": "NGD",
+      "name": "New Gold Inc.",
+      "weight": 2.05
+    },
+    {
+      "symbol": "1818",
+      "name": "Zhaojin Mining Industry Co., Ltd. Class H",
+      "weight": 1.86
+    }
+  ]
+}

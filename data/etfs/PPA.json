@@ -1,7 +1,9 @@
 {
   "symbol": "PPA",
-  "last_updated": "2025-11-30T16:56:26.372Z",
+  "name": "Invesco Aerospace & Defense ETF",
+  "last_updated": "2025-12-03T08:46:59.020Z",
   "profile": {
+    "name": "Invesco Aerospace & Defense ETF",
     "issuer": "Invesco",
     "brand": "Invesco",
     "structure": "ETF",
@@ -17,84 +19,84 @@
     "sector_specific": "Aerospace & Defense",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 6465600000,
+    "aum": 6550100000,
     "shares_outstanding": 43300000
   },
   "holdings": [
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "weight": 8.63
+      "weight": 8.65
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "weight": 7.83
+      "weight": 7.82
     },
     {
       "symbol": "BA",
       "name": "Boeing Company",
-      "weight": 7
+      "weight": 7.03
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin Corporation",
-      "weight": 6.8
+      "weight": 6.81
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
-      "weight": 5.21
+      "weight": 5.22
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
-      "weight": 4.94
+      "weight": 4.93
     },
     {
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "weight": 4.31
+      "weight": 4.28
     },
     {
       "symbol": "HON",
       "name": "Honeywell International Inc.",
-      "weight": 4.14
+      "weight": 4.16
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies Inc",
-      "weight": 3.93
+      "weight": 3.94
     },
     {
       "symbol": "PH",
       "name": "Parker-Hannifin Corporation",
-      "weight": 3.78
+      "weight": 3.75
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
-      "weight": 3.26
+      "weight": 3.25
     },
     {
       "symbol": "APH",
       "name": "Amphenol Corporation Class A",
-      "weight": 3.12
+      "weight": 3.15
     },
     {
       "symbol": "ESLT",
       "name": "Elbit Systems Ltd",
-      "weight": 2.36
+      "weight": 2.34
     },
     {
       "symbol": "AXON",
       "name": "Axon Enterprise Inc",
-      "weight": 2.22
+      "weight": 2.23
     },
     {
       "symbol": "ETN",
       "name": "Eaton Corp. Plc",
-      "weight": 2.16
+      "weight": 2.17
     }
   ]
 }

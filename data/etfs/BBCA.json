@@ -1,0 +1,100 @@
+{
+  "symbol": "BBCA",
+  "name": "JPMorgan BetaBuilders Canada ETF",
+  "last_updated": "2025-12-03T08:08:51.571Z",
+  "profile": {
+    "name": "JPMorgan BetaBuilders Canada ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0019,
+    "inception_date": "Aug 07, 2018",
+    "index_tracked": "Morningstar Canada Target Market Exposure Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-betabuilders-canada-etf-etf-shares-46641q696",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "Canada",
+    "aum": 9206100000,
+    "shares_outstanding": 101800000
+  },
+  "holdings": [
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 8.24
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify, Inc. Class A",
+      "weight": 7.28
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 5.48
+    },
+    {
+      "symbol": "ENB",
+      "name": "Enbridge Inc.",
+      "weight": 4.03
+    },
+    {
+      "symbol": "BMO",
+      "name": "Bank of Montreal",
+      "weight": 3.45
+    },
+    {
+      "symbol": "BN",
+      "name": "Brookfield Corporation",
+      "weight": 3.34
+    },
+    {
+      "symbol": "AEM",
+      "name": "Agnico Eagle Mines Limited",
+      "weight": 3.31
+    },
+    {
+      "symbol": "BNS",
+      "name": "Bank of Nova Scotia",
+      "weight": 3.27
+    },
+    {
+      "symbol": "CM",
+      "name": "Canadian Imperial Bank of Commerce",
+      "weight": 3.05
+    },
+    {
+      "symbol": "ABX",
+      "name": "Barrick Mining Corporation",
+      "weight": 2.69
+    },
+    {
+      "symbol": "CNQ",
+      "name": "Canadian Natural Resources Limited",
+      "weight": 2.62
+    },
+    {
+      "symbol": "CP",
+      "name": "Canadian Pacific Kansas City Limited",
+      "weight": 2.52
+    },
+    {
+      "symbol": "MFC",
+      "name": "Manulife Financial Corporation",
+      "weight": 2.28
+    },
+    {
+      "symbol": "TRP",
+      "name": "TC Energy Corporation",
+      "weight": 2.15
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy Inc.",
+      "weight": 2.1
+    }
+  ]
+}

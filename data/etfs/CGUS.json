@@ -1,0 +1,100 @@
+{
+  "symbol": "CGUS",
+  "name": "Capital Group Core Equity ETF",
+  "last_updated": "2025-12-03T08:38:05.247Z",
+  "profile": {
+    "name": "Capital Group Core Equity ETF",
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "structure": "ETF",
+    "expense_ratio": 0.0033,
+    "inception_date": "Feb 22, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgus",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8103500000,
+    "shares_outstanding": 200400000
+  },
+  "holdings": [
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 7.07
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 6.64
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 6.21
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 4.6
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 4.06
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 3.98
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.36
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 2.94
+    },
+    {
+      "symbol": "CMQXX",
+      "name": "Capital Group Central Fund Series M Cash Fund",
+      "weight": 2.61
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.48
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.24
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 1.86
+    },
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 1.81
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 1.78
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 1.68
+    }
+  ]
+}

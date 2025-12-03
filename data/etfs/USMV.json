@@ -1,7 +1,7 @@
 {
   "symbol": "USMV",
   "name": "iShares MSCI USA Min Vol Factor ETF",
-  "last_updated": "2025-12-02T03:32:08.104Z",
+  "last_updated": "2025-12-03T07:41:16.993Z",
   "profile": {
     "name": "iShares MSCI USA Min Vol Factor ETF",
     "issuer": "BlackRock, Inc.",
@@ -17,8 +17,8 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 22898500000,
-    "shares_outstanding": 241200000
+    "aum": 22752800000,
+    "shares_outstanding": 238700000
   },
   "holdings": [
     {

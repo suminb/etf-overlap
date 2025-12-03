@@ -1,0 +1,100 @@
+{
+  "symbol": "DFAX",
+  "name": "Dimensional World ex U.S. Core Equity 2 ETF",
+  "last_updated": "2025-12-03T07:58:05.348Z",
+  "profile": {
+    "name": "Dimensional World ex U.S. Core Equity 2 ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0029,
+    "inception_date": "Sep 13, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfax/world-ex-us-core-equity-2-etf",
+    "category": "Small Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 9806600000,
+    "shares_outstanding": 306000000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 0.97
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 0.88
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 0.81
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 0.79
+    },
+    {
+      "symbol": "NVS",
+      "name": "Novartis AG Sponsored ADR",
+      "weight": 0.7
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.55
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 0.5
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.49
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 0.48
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc Sponsored ADR",
+      "weight": 0.47
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.41
+    },
+    {
+      "symbol": "5803",
+      "name": "Fujikura Ltd",
+      "weight": 0.35
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 0.34
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 0.34
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 0.32
+    }
+  ]
+}

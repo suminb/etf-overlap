@@ -1,0 +1,98 @@
+{
+  "symbol": "ICSH",
+  "name": "iShares Ultra Short Duration Bond Active ETF",
+  "last_updated": "2025-12-03T08:46:00.009Z",
+  "profile": {
+    "name": "iShares Ultra Short Duration Bond Active ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Dec 11, 2013",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.ishares.com/us/products/258806/ishares-liquidity-income-etf",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 6578900000,
+    "shares_outstanding": 129700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 12.48
+    },
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 1.72
+    },
+    {
+      "symbol": "ATHENE GLOBAL FUNDING 483 09-MAY-2028",
+      "name": "Athene Global Funding 4.83% 09-MAY-2028",
+      "weight": 0.81
+    },
+    {
+      "symbol": "BAY SQUARE FUNDING LLC 00 07-JAN-2026",
+      "name": "Bay Square Funding LLC 0.0% 07-JAN-2026",
+      "weight": 0.8
+    },
+    {
+      "symbol": "RECKITT BENCKISER TREASURY SERVICES PLC 00 18-DE",
+      "name": "Reckitt Benckiser Treasury Services Plc 0.0% 18-DEC-2025",
+      "weight": 0.76
+    },
+    {
+      "symbol": "UBS AG STAMFORD BRANCH FRN 17-MAY-2027",
+      "name": "UBS AG Stamford Branch FRN 17-MAY-2027",
+      "weight": 0.75
+    },
+    {
+      "symbol": "ATHENE GLOBAL FUNDING FRN 06-MAR-2028",
+      "name": "Athene Global Funding FRN 06-MAR-2028",
+      "weight": 0.74
+    },
+    {
+      "symbol": "COOPERATIEVE RABOBANK UA NEW YORK BRANCH 4372",
+      "name": "Cooperatieve Rabobank U.A. (New York Branch) 4.372% 27-MAY-2027",
+      "weight": 0.71
+    },
+    {
+      "symbol": "MACQUARIE GROUP LIMITED 00 06-FEB-2026",
+      "name": "Macquarie Group Limited 0.0% 06-FEB-2026",
+      "weight": 0.69
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 31-OCT-2026",
+      "name": "United States Treasury Notes 4.125% 31-OCT-2026",
+      "weight": 0.64
+    },
+    {
+      "symbol": "TOYOTA AUTO RECEIVABLES 2025-C OWNER TRUST  A3 41",
+      "name": "Toyota Auto Receivables 2025-C Owner Trust  A3 4.11% 15-MAR-2030",
+      "weight": 0.62
+    },
+    {
+      "symbol": "AMERICAN HONDA FINANCE CORP 00 09-JAN-2026",
+      "name": "American Honda Finance Corp. 0.0% 09-JAN-2026",
+      "weight": 0.6
+    },
+    {
+      "symbol": "MIZUHO BANK LTD NEW YORK BRANCH FRN 11-MAR-2026",
+      "name": "Mizuho Bank Ltd. (New York Branch) FRN 11-MAR-2026",
+      "weight": 0.6
+    },
+    {
+      "symbol": "ALIMENTATION COUCHE-TARD INC 00 08-DEC-2025",
+      "name": "Alimentation Couche-Tard, Inc. 0.0% 08-DEC-2025",
+      "weight": 0.59
+    },
+    {
+      "symbol": "SIEMENS FUNDING BV 435 26-MAY-2028",
+      "name": "Siemens Funding B.V. 4.35% 26-MAY-2028",
+      "weight": 0.59
+    }
+  ]
+}

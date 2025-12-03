@@ -1,0 +1,98 @@
+{
+  "symbol": "JNK",
+  "name": "State Street SPDR Bloomberg High Yield Bond ETF",
+  "last_updated": "2025-12-03T08:40:06.760Z",
+  "profile": {
+    "name": "State Street SPDR Bloomberg High Yield Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Nov 28, 2007",
+    "index_tracked": "Bloomberg High Yield Very Liquid",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=JNK",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7653300000,
+    "shares_outstanding": 78700000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 0.85
+    },
+    {
+      "symbol": "ECHOSTAR CORPORATION 1075 30-NOV-2029",
+      "name": "EchoStar Corporation 10.75% 30-NOV-2029",
+      "weight": 0.57
+    },
+    {
+      "symbol": "1261229 BC LTD 100 15-APR-2032",
+      "name": "1261229 B.C. Ltd. 10.0% 15-APR-2032",
+      "weight": 0.45
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.45
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.44
+    },
+    {
+      "symbol": "QUIKRETE HOLDINGS INC 6375 01-MAR-2032",
+      "name": "QUIKRETE Holdings, Inc. 6.375% 01-MAR-2032",
+      "weight": 0.42
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.41
+    },
+    {
+      "symbol": "CARNIVAL CORPORATION 575 01-AUG-2032",
+      "name": "Carnival Corporation 5.75% 01-AUG-2032",
+      "weight": 0.35
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.35
+    },
+    {
+      "symbol": "PANTHER ESCROW ISSUER LLC 7125 01-JUN-2031",
+      "name": "Panther Escrow Issuer, LLC 7.125% 01-JUN-2031",
+      "weight": 0.33
+    },
+    {
+      "symbol": "VENTURE GLOBAL LNG INC 95 01-FEB-2029",
+      "name": "Venture Global LNG, Inc. 9.5% 01-FEB-2029",
+      "weight": 0.31
+    },
+    {
+      "symbol": "WULF COMPUTE LLC 775 15-OCT-2030",
+      "name": "WULF Compute LLC 7.75% 15-OCT-2030",
+      "weight": 0.3
+    },
+    {
+      "symbol": "TRANSDIGM INC 6375 31-MAY-2033",
+      "name": "TransDigm Inc. 6.375% 31-MAY-2033",
+      "weight": 0.29
+    },
+    {
+      "symbol": "AADVANTAGE LOYALTY IP LTD 575 20-APR-2029",
+      "name": "AAdvantage Loyalty IP Ltd. 5.75% 20-APR-2029",
+      "weight": 0.28
+    },
+    {
+      "symbol": "RAKUTEN GROUP INC 975 15-APR-2029",
+      "name": "Rakuten Group, Inc. 9.75% 15-APR-2029",
+      "weight": 0.28
+    }
+  ]
+}

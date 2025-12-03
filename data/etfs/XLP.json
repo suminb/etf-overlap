@@ -1,9 +1,9 @@
 {
   "symbol": "XLP",
-  "name": "Consumer Staples Select Sector SPDR Fund",
-  "last_updated": "2025-12-02T03:42:05.707Z",
+  "name": "State Street Consumer Staples Select Sector SPDR ETF",
+  "last_updated": "2025-12-03T07:50:38.344Z",
   "profile": {
-    "name": "Consumer Staples Select Sector SPDR Fund",
+    "name": "State Street Consumer Staples Select Sector SPDR ETF",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -19,8 +19,8 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 15391500000,
-    "shares_outstanding": 195100000
+    "aum": 15514600000,
+    "shares_outstanding": 195600000
   },
   "holdings": [
     {

@@ -1,0 +1,102 @@
+{
+  "symbol": "KWEB",
+  "name": "KraneShares CSI China Internet ETF",
+  "last_updated": "2025-12-03T08:10:39.093Z",
+  "profile": {
+    "name": "KraneShares CSI China Internet ETF",
+    "issuer": "CICC",
+    "brand": "KraneShares",
+    "structure": "ETF",
+    "expense_ratio": 0.006999999999999999,
+    "inception_date": "Jul 31, 2013",
+    "index_tracked": "CSI Overseas China Internet",
+    "home_page": "http://kraneshares.com/kweb/",
+    "category": "China Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Internet",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "China",
+    "aum": 9054300000,
+    "shares_outstanding": 240700000
+  },
+  "holdings": [
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 11.13
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 11.02
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 7.41
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 5.25
+    },
+    {
+      "symbol": "9888",
+      "name": "Baidu, Inc. Class A",
+      "weight": 4.97
+    },
+    {
+      "symbol": "9618",
+      "name": "JD.com, Inc. Class A",
+      "weight": 4.93
+    },
+    {
+      "symbol": "6618",
+      "name": "JD Health International, Inc.",
+      "weight": 4.9
+    },
+    {
+      "symbol": "BZ",
+      "name": "Kanzhun Ltd. Sponsored ADR",
+      "weight": 4.45
+    },
+    {
+      "symbol": "1024",
+      "name": "Kuaishou Technology Class B",
+      "weight": 4.25
+    },
+    {
+      "symbol": "9961",
+      "name": "Trip.com Group Ltd.",
+      "weight": 4.1
+    },
+    {
+      "symbol": "9626",
+      "name": "Bilibili, Inc. Class Z",
+      "weight": 3.9
+    },
+    {
+      "symbol": "9999",
+      "name": "Netease Inc",
+      "weight": 3.89
+    },
+    {
+      "symbol": "TME",
+      "name": "Tencent Music Entertainment Group Sponsored ADR Class A",
+      "weight": 3.65
+    },
+    {
+      "symbol": "VIPS",
+      "name": "Vipshop Holdings Ltd Sponsored ADR",
+      "weight": 3.51
+    },
+    {
+      "symbol": "2423",
+      "name": "KE Holdings, Inc. Class A",
+      "weight": 3.36
+    }
+  ]
+}

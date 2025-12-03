@@ -1,0 +1,98 @@
+{
+  "symbol": "SPTI",
+  "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+  "last_updated": "2025-12-03T07:59:48.057Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "May 23, 2007",
+    "index_tracked": "Bloomberg US Treasury (3-10 Y)",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-intermediate-term-treasury-etf-SPTI",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9653700000,
+    "shares_outstanding": 331400000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-FEB-2035",
+      "name": "United States Treasury Notes 4.625% 15-FEB-2035",
+      "weight": 2.03
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 1.98
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-MAY-2035",
+      "name": "United States Treasury Notes 4.25% 15-MAY-2035",
+      "weight": 1.96
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-MAY-2034",
+      "name": "United States Treasury Notes 4.375% 15-MAY-2034",
+      "weight": 1.93
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-AUG-2035",
+      "name": "United States Treasury Notes 4.25% 15-AUG-2035",
+      "weight": 1.9
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2034",
+      "weight": 1.84
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 15-NOV-2033",
+      "name": "United States Treasury Notes 4.5% 15-NOV-2033",
+      "weight": 1.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 15-FEB-2034",
+      "name": "United States Treasury Notes 4.0% 15-FEB-2034",
+      "weight": 1.82
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 28-FEB-2030",
+      "name": "United States Treasury Notes 4.0% 28-FEB-2030",
+      "weight": 1.77
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 275 15-AUG-2032",
+      "name": "United States Treasury Notes 2.75% 15-AUG-2032",
+      "weight": 1.68
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2033",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2033",
+      "weight": 1.66
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 15-NOV-2032",
+      "name": "United States Treasury Notes 4.125% 15-NOV-2032",
+      "weight": 1.65
+    },
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 1.63
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 1375 15-NOV-2031",
+      "name": "United States Treasury Notes 1.375% 15-NOV-2031",
+      "weight": 1.5
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 125 15-AUG-2031",
+      "name": "United States Treasury Notes 1.25% 15-AUG-2031",
+      "weight": 1.49
+    }
+  ]
+}

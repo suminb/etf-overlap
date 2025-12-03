@@ -1,0 +1,95 @@
+{
+  "symbol": "EZU",
+  "name": "iShares MSCI Eurozone ETF",
+  "last_updated": "2025-12-03T08:35:31.284Z",
+  "profile": {
+    "name": "iShares MSCI Eurozone ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0051,
+    "inception_date": "Jul 25, 2000",
+    "index_tracked": "MSCI EMU",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EZU.htm?qt=EZU",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 8453100000,
+    "shares_outstanding": 135500000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 5.77
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 3.54
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 2.83
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 2.6
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 2.34
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 2.25
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 2.07
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 1.97
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 1.88
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.84
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 1.75
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.7
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 1.67
+    },
+    {
+      "symbol": "AI",
+      "name": "Air Liquide SA",
+      "weight": 1.56
+    }
+  ]
+}

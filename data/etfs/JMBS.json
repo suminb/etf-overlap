@@ -1,0 +1,98 @@
+{
+  "symbol": "JMBS",
+  "name": "Janus Henderson Mortgage-Backed Securities ETF",
+  "last_updated": "2025-12-03T08:44:04.787Z",
+  "profile": {
+    "name": "Janus Henderson Mortgage-Backed Securities ETF",
+    "issuer": "Janus Henderson",
+    "brand": "Janus Henderson",
+    "structure": "ETF",
+    "expense_ratio": 0.0022,
+    "inception_date": "Sep 12, 2018",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://en-us.janushenderson.com/advisor/product/jmbs-mortgage-backed-securities-etf/",
+    "category": "Mortgage Backed Securities",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6819800000,
+    "shares_outstanding": 148200000
+  },
+  "holdings": [
+    {
+      "symbol": "UMBS TBA 30YR 25 DECEMBER DELIVERY 2500 01-MAY",
+      "name": "UMBS TBA 30yr 2.5% December Delivery 2.500% 01-MAY-2052",
+      "weight": 21.47
+    },
+    {
+      "symbol": "UMBS TBA 30YR 3 DECEMBER DELIVERY 3000 01-JUN-2",
+      "name": "UMBS TBA 30yr 3% December Delivery 3.000% 01-JUN-2052",
+      "weight": 9.62
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 5 DECEMBER DELIVERY 5000 01-AU",
+      "name": "GNMA II TBA 30yr 5% December Delivery 5.000% 01-AUG-2055",
+      "weight": 6.05
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 25 DECEMBER DELIVERY 2500 01-",
+      "name": "GNMA II TBA 30yr 2.5% December Delivery 2.500% 01-OCT-2051",
+      "weight": 5.68
+    },
+    {
+      "symbol": "UMBS TBA 30YR 2 DECEMBER DELIVERY 2000 01-SEP-2",
+      "name": "UMBS TBA 30yr 2% December Delivery 2.000% 01-SEP-2051",
+      "weight": 4.83
+    },
+    {
+      "symbol": "FNMA 30YR POOLCC0839 6000 01-AUG-2055 60 01-A",
+      "name": "FNMA 30yr Pool#CC0839 6.000% 01-Aug-2055 6.0% 01-AUG-2055",
+      "weight": 2.97
+    },
+    {
+      "symbol": "FNMA 30YR POOLCB9430 5500 01-NOV-2054 55 01-N",
+      "name": "FNMA 30yr Pool#CB9430 5.500% 01-Nov-2054 5.5% 01-NOV-2054",
+      "weight": 2.81
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 55 DECEMBER DELIVERY 5500 01-",
+      "name": "GNMA II TBA 30yr 5.5% December Delivery 5.500% 01-APR-2055",
+      "weight": 2.73
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 3 DECEMBER DELIVERY 3000 01-FE",
+      "name": "GNMA II TBA 30yr 3% December Delivery 3.000% 01-FEB-2054",
+      "weight": 2.7
+    },
+    {
+      "symbol": "FANNIE MAE REMIC TRUST 2025-12  FC 528279 25-MAR",
+      "name": "Fannie Mae REMIC Trust 2025-12  FC 5.28279% 25-MAR-2055",
+      "weight": 2.28
+    },
+    {
+      "symbol": "UMBS TBA 30YR 5 DECEMBER DELIVERY 5000 01-AUG-2",
+      "name": "UMBS TBA 30yr 5% December Delivery 5.000% 01-AUG-2055",
+      "weight": 2.1
+    },
+    {
+      "symbol": "FNMA 30YR POOLFA2033 6000 01-JUL-2054 60 01-J",
+      "name": "FNMA 30yr Pool#FA2033 6.000% 01-Jul-2054 6.0% 01-JUL-2054",
+      "weight": 2.01
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 35 DECEMBER DELIVERY 3500 01-",
+      "name": "GNMA II TBA 30yr 3.5% December Delivery 3.500% 01-SEP-2055",
+      "weight": 2
+    },
+    {
+      "symbol": "FNMA 30YR POOLCB9787 5000 01-JAN-2055 50 01-J",
+      "name": "FNMA 30yr Pool#CB9787 5.000% 01-Jan-2055 5.0% 01-JAN-2055",
+      "weight": 1.96
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 45 DECEMBER DELIVERY 4500 01-",
+      "name": "GNMA II TBA 30yr 4.5% December Delivery 4.500% 01-JUL-2055",
+      "weight": 1.84
+    }
+  ]
+}

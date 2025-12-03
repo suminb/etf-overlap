@@ -1,0 +1,94 @@
+{
+  "symbol": "THRO",
+  "name": "iShares U.S. Thematic Rotation Active ETF",
+  "last_updated": "2025-12-03T08:43:31.915Z",
+  "profile": {
+    "name": "iShares U.S. Thematic Rotation Active ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "expense_ratio": 0.005699999999999999,
+    "inception_date": "Dec 14, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 6923900000,
+    "shares_outstanding": 179000000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 9.28
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 7.57
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 7.5
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 4.2
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 3.51
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.15
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 3.01
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 2.82
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.65
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.57
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 2.37
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 2.29
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 2.27
+    },
+    {
+      "symbol": "APH",
+      "name": "Amphenol Corporation Class A",
+      "weight": 1.98
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 1.73
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "symbol": "FNDX",
   "name": "Schwab Fundamental U.S. Large Company ETF",
-  "last_updated": "2025-12-02T03:32:45.038Z",
+  "last_updated": "2025-12-03T07:42:17.130Z",
   "profile": {
     "name": "Schwab Fundamental U.S. Large Company ETF",
     "issuer": "The Charles Schwab Corp.",
@@ -17,8 +17,8 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 21641400000,
-    "shares_outstanding": 800100000
+    "aum": 21813600000,
+    "shares_outstanding": 800500000
   },
   "holdings": [
     {

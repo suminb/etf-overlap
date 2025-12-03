@@ -1,0 +1,102 @@
+{
+  "symbol": "XBI",
+  "name": "State Street SPDR S&P Biotech ETF",
+  "last_updated": "2025-12-03T08:36:47.291Z",
+  "profile": {
+    "name": "State Street SPDR S&P Biotech ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Jan 31, 2006",
+    "index_tracked": "S&P Biotechnology Select Industry",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=XBI",
+    "category": "Health & Biotech Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Healthcare",
+    "sector_specific": "Biotechnology",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8278200000,
+    "shares_outstanding": 67700000
+  },
+  "holdings": [
+    {
+      "symbol": "EXAS",
+      "name": "Exact Sciences Corporation",
+      "weight": 2.79
+    },
+    {
+      "symbol": "RVMD",
+      "name": "Revolution Medicines, Inc.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "RNA",
+      "name": "Avidity Biosciences Inc",
+      "weight": 2.33
+    },
+    {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "weight": 2.15
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "MDGL",
+      "name": "Madrigal Pharmaceuticals, Inc.",
+      "weight": 2.09
+    },
+    {
+      "symbol": "BBIO",
+      "name": "BridgeBio Pharma, Inc.",
+      "weight": 2.05
+    },
+    {
+      "symbol": "IONS",
+      "name": "Ionis Pharmaceuticals, Inc.",
+      "weight": 1.95
+    },
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "weight": 1.93
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 1.87
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 1.85
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "weight": 1.83
+    },
+    {
+      "symbol": "ROIV",
+      "name": "Roivant Sciences Ltd.",
+      "weight": 1.83
+    },
+    {
+      "symbol": "EXEL",
+      "name": "Exelixis, Inc.",
+      "weight": 1.77
+    }
+  ]
+}

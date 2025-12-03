@@ -1,0 +1,100 @@
+{
+  "symbol": "JGRO",
+  "name": "JPMorgan Active Growth ETF",
+  "last_updated": "2025-12-03T08:36:15.910Z",
+  "profile": {
+    "name": "JPMorgan Active Growth ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0044,
+    "inception_date": "Aug 08, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-active-growth-etf-etf-shares-46654q609",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8332300000,
+    "shares_outstanding": 88600000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 11.37
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 9.06
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 7.86
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 5.79
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 5.07
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.74
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 3.61
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.61
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 2.36
+    },
+    {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "weight": 1.58
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 1.56
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 1.49
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 1.42
+    },
+    {
+      "symbol": "MGMXX",
+      "name": "JPMorgan Trust II U.S. Government Money Market Fund -IM-",
+      "weight": 1.37
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 1.1
+    }
+  ]
+}

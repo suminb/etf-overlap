@@ -1,0 +1,100 @@
+{
+  "symbol": "CGGO",
+  "name": "Capital Group Global Growth Equity ETF",
+  "last_updated": "2025-12-03T08:39:33.533Z",
+  "profile": {
+    "name": "Capital Group Global Growth Equity ETF",
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "structure": "ETF",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Feb 22, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cggo",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 7906900000,
+    "shares_outstanding": 228800000
+  },
+  "holdings": [
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 5.47
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 5.14
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.37
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 3
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 2.95
+    },
+    {
+      "symbol": "CMQXX",
+      "name": "Capital Group Central Fund Series M Cash Fund",
+      "weight": 2.05
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 1.82
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.79
+    },
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.78
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 1.72
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 1.67
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 1.62
+    },
+    {
+      "symbol": "PRX",
+      "name": "Prosus N.V. Class N",
+      "weight": 1.6
+    },
+    {
+      "symbol": "BN",
+      "name": "Brookfield Corporation",
+      "weight": 1.4
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 1.34
+    }
+  ]
+}

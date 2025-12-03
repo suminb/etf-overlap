@@ -1,0 +1,100 @@
+{
+  "symbol": "BBEU",
+  "name": "JPMorgan BetaBuilders Europe ETF",
+  "last_updated": "2025-12-03T08:35:53.806Z",
+  "profile": {
+    "name": "JPMorgan BetaBuilders Europe ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0009,
+    "inception_date": "Jun 15, 2018",
+    "index_tracked": "Morningstar Developed Europe Target Market Exposure Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-betabuilders-europe-etf-etf-shares-46641q720",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 8408700000,
+    "shares_outstanding": 118300000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 3.29
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 2.27
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 2.09
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 2.02
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.96
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.95
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.91
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.7
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.54
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 1.5
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.32
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.26
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 1.25
+    },
+    {
+      "symbol": "ULVR",
+      "name": "Unilever PLC",
+      "weight": 1.17
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 1.15
+    }
+  ]
+}

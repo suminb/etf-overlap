@@ -1,0 +1,73 @@
+{
+  "symbol": "DFCF",
+  "name": "Dimensional Core Fixed Income ETF",
+  "last_updated": "2025-12-03T08:13:08.920Z",
+  "profile": {
+    "name": "Dimensional Core Fixed Income ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0017000000000000001,
+    "inception_date": "Nov 15, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 8615000000,
+    "shares_outstanding": 200400000
+  },
+  "holdings": [
+    {
+      "symbol": "UMBS TBA 30YR 2 DECEMBER DELIVERY 2000 01-SEP-2",
+      "name": "UMBS TBA 30yr 2% December Delivery 2.000% 01-SEP-2051",
+      "weight": 6.17
+    },
+    {
+      "symbol": "UMBS TBA 30YR 25 DECEMBER DELIVERY 2500 01-MAY",
+      "name": "UMBS TBA 30yr 2.5% December Delivery 2.500% 01-MAY-2052",
+      "weight": 6.01
+    },
+    {
+      "symbol": "UMBS TBA 30YR 6 DECEMBER DELIVERY 6000 01-OCT-2",
+      "name": "UMBS TBA 30yr 6% December Delivery 6.000% 01-OCT-2054",
+      "weight": 5.68
+    },
+    {
+      "symbol": "UMBS TBA 30YR 65 DECEMBER DELIVERY 6500 01-DEC",
+      "name": "UMBS TBA 30yr 6.5% December Delivery 6.500% 01-DEC-2053",
+      "weight": 3.96
+    },
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 31-",
+      "name": "Government of the United States of America FRN 31-JUL-2027",
+      "weight": 3.56
+    },
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA FRN 30-",
+      "name": "Government of the United States of America FRN 30-APR-2027",
+      "weight": 3.5
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 6 DECEMBER DELIVERY 6000 01-DE",
+      "name": "GNMA II TBA 30yr 6% December Delivery 6.000% 01-DEC-2054",
+      "weight": 2.97
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 1875 15-FEB-2032",
+      "name": "United States Treasury Notes 1.875% 15-FEB-2032",
+      "weight": 1.2
+    },
+    {
+      "symbol": "NEW ZEALAND 45 15-MAY-2030",
+      "name": "New Zealand 4.5% 15-MAY-2030",
+      "weight": 1.19
+    },
+    {
+      "symbol": "UMBS TBA 30YR 3 DECEMBER DELIVERY 3000 01-JUN-2",
+      "name": "UMBS TBA 30yr 3% December Delivery 3.000% 01-JUN-2052",
+      "weight": 1.12
+    }
+  ]
+}

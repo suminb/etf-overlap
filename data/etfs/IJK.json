@@ -1,0 +1,100 @@
+{
+  "symbol": "IJK",
+  "name": "iShares S&P Mid-Cap 400 Growth ETF",
+  "last_updated": "2025-12-03T08:09:27.134Z",
+  "profile": {
+    "name": "iShares S&P Mid-Cap 400 Growth ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0017000000000000001,
+    "inception_date": "Jul 24, 2000",
+    "index_tracked": "S&P Mid Cap 400 Growth",
+    "home_page": "http://www.ishares.com/us/products/239762/ishares-sp-midcap-400-growth-etf?qt=IJK",
+    "category": "Mid Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9133200000,
+    "shares_outstanding": 94400000
+  },
+  "holdings": [
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 2.04
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 1.64
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 1.52
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 1.31
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 1.26
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio, Inc. Class A",
+      "weight": 1.18
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC plc",
+      "weight": 1.11
+    },
+    {
+      "symbol": "RBA",
+      "name": "RB Global, Inc.",
+      "weight": 1.08
+    },
+    {
+      "symbol": "GWRE",
+      "name": "Guidewire Software, Inc.",
+      "weight": 1.08
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "weight": 1.03
+    },
+    {
+      "symbol": "NVT",
+      "name": "nVent Electric plc",
+      "weight": 1.03
+    },
+    {
+      "symbol": "TRU",
+      "name": "TransUnion",
+      "weight": 0.98
+    },
+    {
+      "symbol": "FN",
+      "name": "Fabrinet",
+      "weight": 0.98
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 0.97
+    }
+  ]
+}

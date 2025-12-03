@@ -1,0 +1,63 @@
+{
+  "symbol": "FLOT",
+  "name": "iShares Floating Rate Bond ETF",
+  "last_updated": "2025-12-03T08:11:04.507Z",
+  "profile": {
+    "name": "iShares Floating Rate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Jun 14, 2011",
+    "index_tracked": "Bloomberg US Floating Rate Notes (<5 Y)",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/FLOT.htm?fundSearch=true&qt=FLOT",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 8978900000,
+    "shares_outstanding": 176000000
+  },
+  "holdings": [
+    {
+      "symbol": "INTERNATIONAL BANK FOR RECONSTRUCTION  DEVELOPMEN",
+      "name": "International Bank for Reconstruction & Development FRN 19-AUG-2027",
+      "weight": 1.19
+    },
+    {
+      "symbol": "EUROPEAN BANK FOR RECONSTRUCTION  DEVELOPMENT FRN",
+      "name": "European Bank for Reconstruction & Development FRN 20-FEB-2028",
+      "weight": 1.09
+    },
+    {
+      "symbol": "INTERNATIONAL FINANCE CORP FRN 28-AUG-2028",
+      "name": "International Finance Corp. FRN 28-AUG-2028",
+      "weight": 0.93
+    },
+    {
+      "symbol": "INTER-AMERICAN DEVELOPMENT BANK FRN 16-SEP-2026",
+      "name": "Inter-American Development Bank FRN 16-SEP-2026",
+      "weight": 0.78
+    },
+    {
+      "symbol": "INTER-AMERICAN DEVELOPMENT BANK FRN 04-OCT-2027",
+      "name": "Inter-American Development Bank FRN 04-OCT-2027",
+      "weight": 0.77
+    },
+    {
+      "symbol": "KOMMUNALBANKEN AS NORWAY FRN 03-MAR-2028",
+      "name": "Kommunalbanken AS (Norway) FRN 03-MAR-2028",
+      "weight": 0.76
+    },
+    {
+      "symbol": "INTER-AMERICAN DEVELOPMENT BANK FRN 15-FEB-2029",
+      "name": "Inter-American Development Bank FRN 15-FEB-2029",
+      "weight": 0.76
+    },
+    {
+      "symbol": "INTER-AMERICAN DEVELOPMENT BANK FRN 20-MAR-2028",
+      "name": "Inter-American Development Bank FRN 20-MAR-2028",
+      "weight": 0.76
+    }
+  ]
+}

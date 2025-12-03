@@ -1,0 +1,98 @@
+{
+  "symbol": "SPMB",
+  "name": "State Street SPDR Portfolio Mortgage Backed Bond ETF",
+  "last_updated": "2025-12-03T08:46:11.081Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio Mortgage Backed Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0004,
+    "inception_date": "Jan 15, 2009",
+    "index_tracked": "Bloomberg US Aggregate Securitized - MBS",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-mortgage-backed-bond-etf-SPMB",
+    "category": "Mortgage Backed Securities",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6573300000,
+    "shares_outstanding": 290400000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 8.06
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 55 DECEMBER DELIVERY 5500 01-",
+      "name": "GNMA II TBA 30yr 5.5% December Delivery 5.500% 01-APR-2055",
+      "weight": 0.92
+    },
+    {
+      "symbol": "UMBS TBA 30YR 6 DECEMBER DELIVERY 6000 01-OCT-2",
+      "name": "UMBS TBA 30yr 6% December Delivery 6.000% 01-OCT-2054",
+      "weight": 0.86
+    },
+    {
+      "symbol": "FHLMC 30YR POOLRQ0041 6000 01-AUG-2055 60 01-",
+      "name": "FHLMC 30yr Pool#RQ0041 6.000% 01-Aug-2055 6.0% 01-AUG-2055",
+      "weight": 0.86
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8475 5500 01-NOV-2054 55 01-",
+      "name": "FHLMC 30yr Pool#SD8475 5.500% 01-Nov-2054 5.5% 01-NOV-2054",
+      "weight": 0.64
+    },
+    {
+      "symbol": "UMBS TBA 30YR 55 DECEMBER DELIVERY 5500 01-APR",
+      "name": "UMBS TBA 30yr 5.5% December Delivery 5.500% 01-APR-2055",
+      "weight": 0.61
+    },
+    {
+      "symbol": "UMBS TBA 30YR 2 DECEMBER DELIVERY 2000 01-SEP-2",
+      "name": "UMBS TBA 30yr 2% December Delivery 2.000% 01-SEP-2051",
+      "weight": 0.57
+    },
+    {
+      "symbol": "FNMA 30YR POOLMA4547 2000 01-FEB-2052 20 01-F",
+      "name": "FNMA 30yr Pool#MA4547 2.000% 01-Feb-2052 2.0% 01-FEB-2052",
+      "weight": 0.55
+    },
+    {
+      "symbol": "FNMA 30YR POOLMA4701 4500 01-AUG-2052 45 01-A",
+      "name": "FNMA 30yr Pool#MA4701 4.500% 01-Aug-2052 4.5% 01-AUG-2052",
+      "weight": 0.55
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8454 6000 01-AUG-2054 60 01-",
+      "name": "FHLMC 30yr Pool#SD8454 6.000% 01-Aug-2054 6.0% 01-AUG-2054",
+      "weight": 0.52
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD8408 5500 01-MAR-2054 55 01-",
+      "name": "FHLMC 30yr Pool#SD8408 5.500% 01-Mar-2054 5.5% 01-MAR-2054",
+      "weight": 0.52
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 5 DECEMBER DELIVERY 5000 01-AU",
+      "name": "GNMA II TBA 30yr 5% December Delivery 5.000% 01-AUG-2055",
+      "weight": 0.51
+    },
+    {
+      "symbol": "FNMA 30YR POOLFS2040 2000 01-FEB-2052 20 01-F",
+      "name": "FNMA 30yr Pool#FS2040 2.000% 01-Feb-2052 2.0% 01-FEB-2052",
+      "weight": 0.47
+    },
+    {
+      "symbol": "FHLMC 30YR POOLRQ0056 5500 01-OCT-2055 55 01-",
+      "name": "FHLMC 30yr Pool#RQ0056 5.500% 01-Oct-2055 5.5% 01-OCT-2055",
+      "weight": 0.46
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 6 DECEMBER DELIVERY 6000 01-DE",
+      "name": "GNMA II TBA 30yr 6% December Delivery 6.000% 01-DEC-2054",
+      "weight": 0.46
+    }
+  ]
+}

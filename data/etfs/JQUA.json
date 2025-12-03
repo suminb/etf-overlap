@@ -1,0 +1,100 @@
+{
+  "symbol": "JQUA",
+  "name": "JPMorgan U.S. Quality Factor ETF",
+  "last_updated": "2025-12-03T08:40:53.112Z",
+  "profile": {
+    "name": "JPMorgan U.S. Quality Factor ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0012,
+    "inception_date": "Nov 08, 2017",
+    "index_tracked": "JP Morgan US Quality Factor Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-u-s-quality-factor-etf-etf-shares-46641q761",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7411100000,
+    "shares_outstanding": 117500000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.68
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.37
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 2.29
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 2.09
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 1.99
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 1.96
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 1.89
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.71
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 1.7
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 1.52
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 1.51
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 1.39
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 1.31
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 1.23
+    }
+  ]
+}

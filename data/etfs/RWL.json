@@ -1,0 +1,100 @@
+{
+  "symbol": "RWL",
+  "name": "Invesco S&P 500 Revenue ETF",
+  "last_updated": "2025-12-03T08:42:19.745Z",
+  "profile": {
+    "name": "Invesco S&P 500 Revenue ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Feb 19, 2008",
+    "index_tracked": "S&P 500 Revenue-Weighted Index",
+    "home_page": "http://www.revenueshares.com/etfs/revenueshares-large-cap-fund/",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7146000000,
+    "shares_outstanding": 62400000
+  },
+  "holdings": [
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 4.02
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.57
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 2.65
+    },
+    {
+      "symbol": "MCK",
+      "name": "McKesson Corporation",
+      "weight": 2.48
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Health Corporation",
+      "weight": 2.21
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 2.12
+    },
+    {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 2.08
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 2.04
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 1.78
+    },
+    {
+      "symbol": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "weight": 1.67
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 1.53
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 1.46
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 1.35
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 1.31
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 1.31
+    }
+  ]
+}

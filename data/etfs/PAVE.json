@@ -1,0 +1,102 @@
+{
+  "symbol": "PAVE",
+  "name": "Global X US Infrastructure Development ETF",
+  "last_updated": "2025-12-03T07:58:16.312Z",
+  "profile": {
+    "name": "Global X US Infrastructure Development ETF",
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Mar 06, 2017",
+    "index_tracked": "INDXX U.S. Infrastructure Development Index",
+    "home_page": "https://www.globalxfunds.com/funds/pave/",
+    "category": "Utilities Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Utilities",
+    "sector_specific": "Infrastructure",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9790200000,
+    "shares_outstanding": 202600000
+  },
+  "holdings": [
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 4.39
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "weight": 3.59
+    },
+    {
+      "symbol": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "weight": 3.47
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH public limited company",
+      "weight": 3.27
+    },
+    {
+      "symbol": "SRE",
+      "name": "Sempra",
+      "weight": 3.13
+    },
+    {
+      "symbol": "NSC",
+      "name": "Norfolk Southern Corporation",
+      "weight": 3.12
+    },
+    {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "weight": 2.93
+    },
+    {
+      "symbol": "TT",
+      "name": "Trane Technologies plc",
+      "weight": 2.89
+    },
+    {
+      "symbol": "CSX",
+      "name": "CSX Corporation",
+      "weight": 2.88
+    },
+    {
+      "symbol": "ROK",
+      "name": "Rockwell Automation, Inc.",
+      "weight": 2.87
+    },
+    {
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "weight": 2.83
+    },
+    {
+      "symbol": "EMR",
+      "name": "Emerson Electric Co.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "weight": 2.68
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corp. Plc",
+      "weight": 2.56
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific Corporation",
+      "weight": 2.56
+    }
+  ]
+}

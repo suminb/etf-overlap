@@ -1,0 +1,99 @@
+{
+  "symbol": "DFEM",
+  "name": "Dimensional Emerging Markets Core Equity 2 ETF",
+  "last_updated": "2025-12-03T08:44:49.003Z",
+  "profile": {
+    "name": "Dimensional Emerging Markets Core Equity 2 ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Apr 26, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfem/emerging-markets-core-equity-2-etf",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 6638700000,
+    "shares_outstanding": 204800000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 6.64
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 3.21
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 2.08
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 1.65
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 1.45
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 0.88
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 0.61
+    },
+    {
+      "symbol": "2318",
+      "name": "Ping An Insurance (Group) Company of China, Ltd. Class H",
+      "weight": 0.6
+    },
+    {
+      "symbol": "IBN",
+      "name": "ICICI Bank Limited Sponsored ADR",
+      "weight": 0.56
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 0.52
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 0.5
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 0.49
+    },
+    {
+      "symbol": "HDB",
+      "name": "HDFC Bank Limited Sponsored ADR",
+      "weight": 0.47
+    },
+    {
+      "symbol": "500520",
+      "name": "Mahindra & Mahindra Ltd.",
+      "weight": 0.41
+    },
+    {
+      "symbol": "1398",
+      "name": "Industrial and Commercial Bank of China Limited Class H",
+      "weight": 0.33
+    }
+  ]
+}

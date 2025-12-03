@@ -1,0 +1,98 @@
+{
+  "symbol": "SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF",
+  "last_updated": "2025-12-03T07:55:21.067Z",
+  "profile": {
+    "name": "State Street SPDR Portfolio High Yield Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Jun 18, 2012",
+    "index_tracked": "ICE BofAML US High Yield Index",
+    "home_page": "https://us.spdrs.com/en/etf/spdr-portfolio-high-yield-bond-etf-SPHY",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10316800000,
+    "shares_outstanding": 433800000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 0.89
+    },
+    {
+      "symbol": "ECHOSTAR CORPORATION 1075 30-NOV-2029",
+      "name": "EchoStar Corporation 10.75% 30-NOV-2029",
+      "weight": 0.41
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.32
+    },
+    {
+      "symbol": "1261229 BC LTD 100 15-APR-2032",
+      "name": "1261229 B.C. Ltd. 10.0% 15-APR-2032",
+      "weight": 0.32
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.31
+    },
+    {
+      "symbol": "QUIKRETE HOLDINGS INC 6375 01-MAR-2032",
+      "name": "QUIKRETE Holdings, Inc. 6.375% 01-MAR-2032",
+      "weight": 0.3
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.28
+    },
+    {
+      "symbol": "CARNIVAL CORPORATION 575 01-AUG-2032",
+      "name": "Carnival Corporation 5.75% 01-AUG-2032",
+      "weight": 0.26
+    },
+    {
+      "symbol": "WARNERMEDIA HOLDINGS INC 505 15-MAR-2042",
+      "name": "WarnerMedia Holdings, Inc. 5.05% 15-MAR-2042",
+      "weight": 0.24
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.24
+    },
+    {
+      "symbol": "TRANSDIGM INC 6375 01-MAR-2029",
+      "name": "TransDigm Inc. 6.375% 01-MAR-2029",
+      "weight": 0.23
+    },
+    {
+      "symbol": "PANTHER ESCROW ISSUER LLC 7125 01-JUN-2031",
+      "name": "Panther Escrow Issuer, LLC 7.125% 01-JUN-2031",
+      "weight": 0.23
+    },
+    {
+      "symbol": "WULF COMPUTE LLC 775 15-OCT-2030",
+      "name": "WULF Compute LLC 7.75% 15-OCT-2030",
+      "weight": 0.23
+    },
+    {
+      "symbol": "HUB INTERNATIONAL LIMITED 725 15-JUN-2030",
+      "name": "HUB International Limited 7.25% 15-JUN-2030",
+      "weight": 0.22
+    },
+    {
+      "symbol": "ALLIED UNIVERSAL HOLDCO LLC 7875 15-FEB-2031",
+      "name": "Allied Universal Holdco LLC 7.875% 15-FEB-2031",
+      "weight": 0.22
+    }
+  ]
+}

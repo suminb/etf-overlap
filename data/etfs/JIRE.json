@@ -1,0 +1,100 @@
+{
+  "symbol": "JIRE",
+  "name": "JPMorgan International Research Enhanced Equity ETF",
+  "last_updated": "2025-12-03T08:00:15.590Z",
+  "profile": {
+    "name": "JPMorgan International Research Enhanced Equity ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0024,
+    "inception_date": "Jun 10, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-international-research-enhanced-equity-etf-etf-shares-46641q134",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 9519500000,
+    "shares_outstanding": 127000000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.6
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 2.19
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.79
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.62
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.58
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.5
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.47
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.3
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.3
+    },
+    {
+      "symbol": "UCG",
+      "name": "UniCredit S.p.A.",
+      "weight": 1.23
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.22
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 1.22
+    },
+    {
+      "symbol": "BARC",
+      "name": "Barclays PLC",
+      "weight": 1.21
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.2
+    },
+    {
+      "symbol": "MUV2",
+      "name": "Munchener Ruckversicherungs-Gesellschaft AG",
+      "weight": 1.18
+    }
+  ]
+}

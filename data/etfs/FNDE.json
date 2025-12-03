@@ -1,0 +1,100 @@
+{
+  "symbol": "FNDE",
+  "name": "Schwab Fundamental Emerging Markets Equity ETF",
+  "last_updated": "2025-12-03T08:38:32.055Z",
+  "profile": {
+    "name": "Schwab Fundamental Emerging Markets Equity ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Aug 15, 2013",
+    "index_tracked": "RAFI Fundamental High Liquidity Emerging Markets Index - Benchmark TR Net",
+    "home_page": "https://www.csimfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=FNDE",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 8033600000,
+    "shares_outstanding": 218600000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 4.91
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 3.91
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 2.97
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 2.92
+    },
+    {
+      "symbol": "VALE3",
+      "name": "Vale S.A.",
+      "weight": 2.82
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 2.61
+    },
+    {
+      "symbol": "PETR4",
+      "name": "Petroleo Brasileiro SA Pfd",
+      "weight": 1.84
+    },
+    {
+      "symbol": "PETR3",
+      "name": "Petroleo Brasileiro SA",
+      "weight": 1.66
+    },
+    {
+      "symbol": "1398",
+      "name": "Industrial and Commercial Bank of China Limited Class H",
+      "weight": 1.43
+    },
+    {
+      "symbol": "2318",
+      "name": "Ping An Insurance (Group) Company of China, Ltd. Class H",
+      "weight": 1.31
+    },
+    {
+      "symbol": "3988",
+      "name": "Bank of China Limited Class H",
+      "weight": 1.24
+    },
+    {
+      "symbol": "JD",
+      "name": "JD.com, Inc. Sponsored ADR Class A",
+      "weight": 1.19
+    },
+    {
+      "symbol": "857",
+      "name": "PetroChina Co., Ltd. Class H",
+      "weight": 1.17
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 1.09
+    },
+    {
+      "symbol": "386",
+      "name": "China Petroleum & Chemical Corporation Class H",
+      "weight": 1.09
+    }
+  ]
+}

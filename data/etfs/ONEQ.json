@@ -1,0 +1,100 @@
+{
+  "symbol": "ONEQ",
+  "name": "Fidelity Nasdaq Composite Index ETF",
+  "last_updated": "2025-12-03T08:08:37.053Z",
+  "profile": {
+    "name": "Fidelity Nasdaq Composite Index ETF",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "structure": "ETF",
+    "expense_ratio": 0.0021,
+    "inception_date": "Sep 25, 2003",
+    "index_tracked": "NASDAQ Composite Index",
+    "home_page": "https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=ONEQ",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9270300000,
+    "shares_outstanding": 101500000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 11.17
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 10.75
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 9.5
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 6.46
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 4.92
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 4.84
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 4.51
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.64
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 3.6
+    },
+    {
+      "symbol": "FIDELITY REVERE STREET TRUST CENTRAL CASH COLLATER",
+      "name": "Fidelity Revere Street Trust Central Cash Collateral Fund",
+      "weight": 2.72
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "weight": 1.19
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 1.04
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 1
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 0.92
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 0.78
+    }
+  ]
+}

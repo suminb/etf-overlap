@@ -1,0 +1,100 @@
+{
+  "symbol": "SPLV",
+  "name": "Invesco S&P 500® Low Volatility ETF",
+  "last_updated": "2025-12-03T08:40:17.750Z",
+  "profile": {
+    "name": "Invesco S&P 500® Low Volatility ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "May 05, 2011",
+    "index_tracked": "S&P 500 Low Volatility Index",
+    "home_page": "http://www.invescopowershares.com/products/overview.aspx?ticker=SPLV",
+    "category": "Volatility Hedged Equity",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7640200000,
+    "shares_outstanding": 104400000
+  },
+  "holdings": [
+    {
+      "symbol": "EVRG",
+      "name": "Evergy, Inc.",
+      "weight": 1.26
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 1.2
+    },
+    {
+      "symbol": "CMS",
+      "name": "CMS Energy Corporation",
+      "weight": 1.2
+    },
+    {
+      "symbol": "WM",
+      "name": "Waste Management, Inc.",
+      "weight": 1.2
+    },
+    {
+      "symbol": "WEC",
+      "name": "WEC Energy Group Inc",
+      "weight": 1.19
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy Corporation",
+      "weight": 1.19
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 1.18
+    },
+    {
+      "symbol": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "weight": 1.18
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 1.17
+    },
+    {
+      "symbol": "ATO",
+      "name": "Atmos Energy Corporation",
+      "weight": 1.17
+    },
+    {
+      "symbol": "RSG",
+      "name": "Republic Services, Inc.",
+      "weight": 1.17
+    },
+    {
+      "symbol": "CNP",
+      "name": "CenterPoint Energy, Inc.",
+      "weight": 1.17
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 1.15
+    },
+    {
+      "symbol": "AEE",
+      "name": "Ameren Corporation",
+      "weight": 1.15
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "weight": 1.15
+    }
+  ]
+}

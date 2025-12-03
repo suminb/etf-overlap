@@ -1,7 +1,7 @@
 {
   "symbol": "GSLC",
   "name": "TR Activebeta US Large Cap Equity ETF",
-  "last_updated": "2025-12-02T03:46:38.747Z",
+  "last_updated": "2025-12-03T07:52:35.272Z",
   "profile": {
     "name": "TR Activebeta US Large Cap Equity ETF",
     "issuer": "Goldman Sachs",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 14757200000,
+    "aum": 14832300000,
     "shares_outstanding": 112100000
   },
   "holdings": [

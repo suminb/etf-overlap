@@ -1,0 +1,98 @@
+{
+  "symbol": "SHYG",
+  "name": "iShares 0-5 Year High Yield Corporate Bond ETF",
+  "last_updated": "2025-12-03T08:39:44.728Z",
+  "profile": {
+    "name": "iShares 0-5 Year High Yield Corporate Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Oct 15, 2013",
+    "index_tracked": "Markit iBoxx USD Liquid High Yield 0-5 Index",
+    "home_page": "http://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7750600000,
+    "shares_outstanding": 180600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.08
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.52
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.48
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.48
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 5125 01-MAY-2027",
+      "name": "CCO Holdings, LLC 5.125% 01-MAY-2027",
+      "weight": 0.4
+    },
+    {
+      "symbol": "HUB INTERNATIONAL LIMITED 725 15-JUN-2030",
+      "name": "HUB International Limited 7.25% 15-JUN-2030",
+      "weight": 0.39
+    },
+    {
+      "symbol": "VENTURE GLOBAL LNG INC 95 01-FEB-2029",
+      "name": "Venture Global LNG, Inc. 9.5% 01-FEB-2029",
+      "weight": 0.38
+    },
+    {
+      "symbol": "AADVANTAGE LOYALTY IP LTD 575 20-APR-2029",
+      "name": "AAdvantage Loyalty IP Ltd. 5.75% 20-APR-2029",
+      "weight": 0.37
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.37
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 475 01-MAR-2030",
+      "name": "CCO Holdings, LLC 4.75% 01-MAR-2030",
+      "weight": 0.35
+    },
+    {
+      "symbol": "WULF COMPUTE LLC 775 15-OCT-2030",
+      "name": "WULF Compute LLC 7.75% 15-OCT-2030",
+      "weight": 0.35
+    },
+    {
+      "symbol": "TRANSDIGM INC 6375 01-MAR-2029",
+      "name": "TransDigm Inc. 6.375% 01-MAR-2029",
+      "weight": 0.33
+    },
+    {
+      "symbol": "DISH DBS CORPORATION 525 01-DEC-2026",
+      "name": "DISH DBS Corporation 5.25% 01-DEC-2026",
+      "weight": 0.33
+    },
+    {
+      "symbol": "DAVITA INC 4625 01-JUN-2030",
+      "name": "DaVita Inc. 4.625% 01-JUN-2030",
+      "weight": 0.32
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 45 15-AUG-2030",
+      "name": "CCO Holdings, LLC 4.5% 15-AUG-2030",
+      "weight": 0.31
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "FDVV",
+  "name": "Fidelity High Dividend ETF",
+  "last_updated": "2025-12-03T08:40:28.966Z",
+  "profile": {
+    "name": "Fidelity High Dividend ETF",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Sep 12, 2016",
+    "index_tracked": "Fidelity High Dividend Index",
+    "home_page": "https://screener.fidelity.com/ftgw/etf/goto/snapshot/snapshot.jhtml?symbols=FDVV",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 7631200000,
+    "shares_outstanding": 134700000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 6.22
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.92
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.24
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 3.45
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.74
+    },
+    {
+      "symbol": "ABN",
+      "name": "ABN AMRO Bank N.V. Depositary receipts",
+      "weight": 2.42
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 2.03
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 1.97
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 1.95
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 1.94
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 1.9
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 1.84
+    },
+    {
+      "symbol": "HSY",
+      "name": "Hershey Company",
+      "weight": 1.72
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 1.71
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "weight": 1.68
+    }
+  ]
+}

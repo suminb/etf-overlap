@@ -1,0 +1,100 @@
+{
+  "symbol": "VSS",
+  "name": "Vanguard FTSE All-World ex-US Small-Cap ETF",
+  "last_updated": "2025-12-03T08:00:26.605Z",
+  "profile": {
+    "name": "Vanguard FTSE All-World ex-US Small-Cap ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Apr 02, 2009",
+    "index_tracked": "FTSE Global ex US Small Cap Net Tax (US RIC) Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vss/vanguard-ftse-all-world-ex-us-small-cap-etf",
+    "category": "Foreign Small & Mid Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 9479000000,
+    "shares_outstanding": 66800000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 6.34
+    },
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 0.27
+    },
+    {
+      "symbol": "TIH",
+      "name": "Toromont Industries Ltd.",
+      "weight": 0.26
+    },
+    {
+      "symbol": "ACLN",
+      "name": "Accelleron Industries AG",
+      "weight": 0.23
+    },
+    {
+      "symbol": "EQX",
+      "name": "Equinox Gold Corp.",
+      "weight": 0.21
+    },
+    {
+      "symbol": "CPX",
+      "name": "Capital Power Corporation",
+      "weight": 0.21
+    },
+    {
+      "symbol": "TE",
+      "name": "Technip Energies NV",
+      "weight": 0.2
+    },
+    {
+      "symbol": "GTT",
+      "name": "Gaztransport & Technigaz SA",
+      "weight": 0.2
+    },
+    {
+      "symbol": "CIGI",
+      "name": "Colliers International Group Inc.",
+      "weight": 0.2
+    },
+    {
+      "symbol": "IMG",
+      "name": "IAMGOLD Corporation",
+      "weight": 0.2
+    },
+    {
+      "symbol": "LTMC",
+      "name": "Lottomatica Group S.P.A.",
+      "weight": 0.19
+    },
+    {
+      "symbol": "TKA",
+      "name": "thyssenkrupp AG",
+      "weight": 0.19
+    },
+    {
+      "symbol": "OR",
+      "name": "OR Royalties Inc.",
+      "weight": 0.19
+    },
+    {
+      "symbol": "GAW",
+      "name": "Games Workshop Group PLC",
+      "weight": 0.18
+    },
+    {
+      "symbol": "STB",
+      "name": "Storebrand ASA",
+      "weight": 0.18
+    }
+  ]
+}

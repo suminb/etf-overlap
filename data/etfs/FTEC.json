@@ -1,7 +1,7 @@
 {
   "symbol": "FTEC",
   "name": "Fidelity MSCI Information Technology Index ETF",
-  "last_updated": "2025-12-02T03:40:44.638Z",
+  "last_updated": "2025-12-03T07:49:12.588Z",
   "profile": {
     "name": "Fidelity MSCI Information Technology Index ETF",
     "issuer": "Fidelity",
@@ -19,7 +19,7 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 16536400000,
+    "aum": 16660100000,
     "shares_outstanding": 74300000
   },
   "holdings": [

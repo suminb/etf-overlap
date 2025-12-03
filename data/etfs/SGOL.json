@@ -1,7 +1,9 @@
 {
   "symbol": "SGOL",
-  "last_updated": "2025-12-01T04:54:35.656Z",
+  "name": "abrdn Physical Gold Shares ETF",
+  "last_updated": "2025-12-03T08:42:56.628Z",
   "profile": {
+    "name": "abrdn Physical Gold Shares ETF",
     "issuer": "Abrdn Plc",
     "brand": "Aberdeen",
     "structure": "Grantor Trust",
@@ -13,7 +15,7 @@
     "asset_class": "Commodity",
     "region_general": "Global",
     "region_specific": "Broad",
-    "aum": 6977700000,
+    "aum": 7086800000,
     "shares_outstanding": 177400000
   },
   "holdings": [

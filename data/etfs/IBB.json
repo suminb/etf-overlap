@@ -1,0 +1,102 @@
+{
+  "symbol": "IBB",
+  "name": "iShares Biotechnology ETF",
+  "last_updated": "2025-12-03T08:12:14.450Z",
+  "profile": {
+    "name": "iShares Biotechnology ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0044,
+    "inception_date": "Feb 05, 2001",
+    "index_tracked": "ICE Biotechnology Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IBB.htm?qt=IBB",
+    "category": "Health & Biotech Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Healthcare",
+    "sector_specific": "Biotechnology",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 8793600000,
+    "shares_outstanding": 50700000
+  },
+  "holdings": [
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "weight": 7.67
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 7.12
+    },
+    {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "weight": 7.09
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "weight": 6.61
+    },
+    {
+      "symbol": "ALNY",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "weight": 4.7
+    },
+    {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "weight": 3.56
+    },
+    {
+      "symbol": "ARGX",
+      "name": "argenx SE Sponsored ADR",
+      "weight": 3.25
+    },
+    {
+      "symbol": "IQV",
+      "name": "IQVIA Holdings Inc",
+      "weight": 3.22
+    },
+    {
+      "symbol": "NTRA",
+      "name": "Natera, Inc.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "MTD",
+      "name": "Mettler-Toledo International Inc.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "weight": 2.21
+    },
+    {
+      "symbol": "WAT",
+      "name": "Waters Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 1.76
+    },
+    {
+      "symbol": "ONC",
+      "name": "BeOne Medicines Ltd. Sponsored ADR",
+      "weight": 1.76
+    },
+    {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "weight": 1.67
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "symbol": "URTH",
+  "name": "iShares MSCI World ETF",
+  "last_updated": "2025-12-03T08:46:22.137Z",
+  "profile": {
+    "name": "iShares MSCI World ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0024,
+    "inception_date": "Jan 10, 2012",
+    "index_tracked": "MSCI World Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/URTH.htm?fundSearch=true&qt=URTH",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 6572700000,
+    "shares_outstanding": 35400000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 5.34
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.02
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.18
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 2.68
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.27
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.17
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 1.91
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 1.67
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 1.47
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 1.08
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 0.86
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 0.69
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 0.61
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 0.6
+    }
+  ]
+}

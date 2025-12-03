@@ -1,0 +1,100 @@
+{
+  "symbol": "EFG",
+  "name": "iShares MSCI EAFE Growth ETF",
+  "last_updated": "2025-12-03T08:00:59.958Z",
+  "profile": {
+    "name": "iShares MSCI EAFE Growth ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0036,
+    "inception_date": "Aug 01, 2005",
+    "index_tracked": "MSCI EAFE Growth Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EFG.htm?qt=EFG",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 9452400000,
+    "shares_outstanding": 82800000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 4.22
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 2.96
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 2.59
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 2.55
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 1.9
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 1.64
+    },
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 1.52
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 1.5
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 1.44
+    },
+    {
+      "symbol": "UBSG",
+      "name": "UBS Group AG",
+      "weight": 1.26
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.25
+    },
+    {
+      "symbol": "RR",
+      "name": "Rolls-Royce Holdings plc",
+      "weight": 1.22
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 1.21
+    },
+    {
+      "symbol": "CFR",
+      "name": "Compagnie Financiere Richemont SA",
+      "weight": 1.18
+    },
+    {
+      "symbol": "ABBN",
+      "name": "ABB Ltd.",
+      "weight": 1.16
+    }
+  ]
+}

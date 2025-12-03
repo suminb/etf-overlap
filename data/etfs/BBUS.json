@@ -1,0 +1,100 @@
+{
+  "symbol": "BBUS",
+  "name": "JPMorgan BetaBuilders U.S. Equity ETF",
+  "last_updated": "2025-12-03T08:45:26.094Z",
+  "profile": {
+    "name": "JPMorgan BetaBuilders U.S. Equity ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0002,
+    "inception_date": "Mar 12, 2019",
+    "index_tracked": "Morningstar US Target Market Exposure Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/d/jpmorgan-betabuilders-u-s-equity-etf-46641q399",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 6586500000,
+    "shares_outstanding": 53300000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 7
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.96
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 6.15
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.82
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 3.13
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 3.13
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.72
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.36
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.03
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 1.59
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 1.45
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 1.44
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 0.95
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 0.84
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 0.83
+    }
+  ]
+}

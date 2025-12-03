@@ -1,0 +1,94 @@
+{
+  "symbol": "JGLO",
+  "name": "JPMorgan Global Select Equity ETF Global Select Equity ETF",
+  "last_updated": "2025-12-03T08:41:50.461Z",
+  "profile": {
+    "name": "JPMorgan Global Select Equity ETF Global Select Equity ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Sep 13, 2023",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 7256700000,
+    "shares_outstanding": 106700000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 6
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.99
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.61
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 4.02
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 3.14
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.88
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.75
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 2.63
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Company",
+      "weight": 2.33
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 2.26
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 2.23
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 2.06
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "weight": 2
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.92
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 1.84
+    }
+  ]
+}

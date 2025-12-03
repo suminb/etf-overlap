@@ -1,0 +1,98 @@
+{
+  "symbol": "VGLT",
+  "name": "Vanguard Long-Term Treasury ETF",
+  "last_updated": "2025-12-03T07:55:43.587Z",
+  "profile": {
+    "name": "Vanguard Long-Term Treasury ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Nov 19, 2009",
+    "index_tracked": "Bloomberg US Aggregate Government - Treasury - Long",
+    "home_page": "https://advisors.vanguard.com/investments/products/vglt/vanguard-long-term-treasury-etf",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10225700000,
+    "shares_outstanding": 178300000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-AUG-2055",
+      "name": "United States Treasury Bond 4.75% 15-AUG-2055",
+      "weight": 2.43
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-MAY-2055",
+      "name": "United States Treasury Bond 4.75% 15-MAY-2055",
+      "weight": 2.42
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4625 15-FEB-2055",
+      "name": "United States Treasury Bond 4.625% 15-FEB-2055",
+      "weight": 2.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4625 15-MAY-2054",
+      "name": "United States Treasury Bond 4.625% 15-MAY-2054",
+      "weight": 2.36
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 45 15-NOV-2054",
+      "name": "United States Treasury Bond 4.5% 15-NOV-2054",
+      "weight": 2.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 475 15-NOV-2053",
+      "name": "United States Treasury Bond 4.75% 15-NOV-2053",
+      "weight": 2.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 425 15-AUG-2054",
+      "name": "United States Treasury Bond 4.25% 15-AUG-2054",
+      "weight": 2.23
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 425 15-FEB-2054",
+      "name": "United States Treasury Bond 4.25% 15-FEB-2054",
+      "weight": 2.22
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 4125 15-AUG-2053",
+      "name": "United States Treasury Bond 4.125% 15-AUG-2053",
+      "weight": 2.02
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 40 15-NOV-2052",
+      "name": "United States Treasury Bond 4.0% 15-NOV-2052",
+      "weight": 1.77
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 2375 15-MAY-2051",
+      "name": "United States Treasury Bond 2.375% 15-MAY-2051",
+      "weight": 1.7
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3625 15-MAY-2053",
+      "name": "United States Treasury Bond 3.625% 15-MAY-2053",
+      "weight": 1.67
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 175 15-AUG-2041",
+      "name": "United States Treasury Bond 1.75% 15-AUG-2041",
+      "weight": 1.67
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 3625 15-FEB-2053",
+      "name": "United States Treasury Bond 3.625% 15-FEB-2053",
+      "weight": 1.64
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BOND 20 15-NOV-2041",
+      "name": "United States Treasury Bond 2.0% 15-NOV-2041",
+      "weight": 1.55
+    }
+  ]
+}

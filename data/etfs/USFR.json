@@ -1,7 +1,7 @@
 {
   "symbol": "USFR",
   "name": "WisdomTree Floating Rate Treasury Fund",
-  "last_updated": "2025-12-02T03:40:18.735Z",
+  "last_updated": "2025-12-03T07:48:50.240Z",
   "profile": {
     "name": "WisdomTree Floating Rate Treasury Fund",
     "issuer": "WisdomTree, Inc.",
@@ -15,8 +15,8 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 16731100000,
-    "shares_outstanding": 332900000
+    "aum": 16774800000,
+    "shares_outstanding": 333700000
   },
   "holdings": [
     {

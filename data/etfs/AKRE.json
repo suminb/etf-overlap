@@ -1,0 +1,94 @@
+{
+  "symbol": "AKRE",
+  "name": "Akre Focus ETF",
+  "last_updated": "2025-12-03T07:57:36.647Z",
+  "profile": {
+    "name": "Akre Focus ETF",
+    "issuer": "Akre Capital Management LLC",
+    "brand": "Akre",
+    "expense_ratio": 0.0098,
+    "inception_date": "Oct 27, 2025",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 9976500000,
+    "shares_outstanding": 153900000
+  },
+  "holdings": [
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 13.19
+    },
+    {
+      "symbol": "BN",
+      "name": "Brookfield Corporation",
+      "weight": 11.97
+    },
+    {
+      "symbol": "CSU",
+      "name": "Constellation Software Inc.",
+      "weight": 10.11
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 9.56
+    },
+    {
+      "symbol": "KKR",
+      "name": "KKR & Co Inc",
+      "weight": 9.12
+    },
+    {
+      "symbol": "MCO",
+      "name": "Moody\\'s Corporation",
+      "weight": 6.83
+    },
+    {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "weight": 5.74
+    },
+    {
+      "symbol": "TOI",
+      "name": "Topicus.com, Inc.",
+      "weight": 5.63
+    },
+    {
+      "symbol": "ROP",
+      "name": "Roper Technologies, Inc.",
+      "weight": 4.74
+    },
+    {
+      "symbol": "FICO",
+      "name": "Fair Isaac Corporation",
+      "weight": 4.34
+    },
+    {
+      "symbol": "ORLY",
+      "name": "O\\'Reilly Automotive, Inc.",
+      "weight": 4.16
+    },
+    {
+      "symbol": "ABNB",
+      "name": "Airbnb, Inc. Class A",
+      "weight": 3.82
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 3.34
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 3.17
+    },
+    {
+      "symbol": "CPRT",
+      "name": "Copart, Inc.",
+      "weight": 2.58
+    }
+  ]
+}

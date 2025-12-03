@@ -1,0 +1,98 @@
+{
+  "symbol": "SCHI",
+  "name": "Schwab 5-10 Year Corporate Bond ETF",
+  "last_updated": "2025-12-03T07:57:24.363Z",
+  "profile": {
+    "name": "Schwab 5-10 Year Corporate Bond ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Oct 10, 2019",
+    "index_tracked": "Bloomberg US Aggregate Credit - Corporate (5-10 Y)",
+    "home_page": "https://www.schwabfunds.com/public/csim/home/products/exchange_traded_funds/summary.html?symbol=SCHI",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9996600000,
+    "shares_outstanding": 430700000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 0.31
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5468 23-JAN-2035",
+      "name": "Bank of America Corporation 5.468% 23-JAN-2035",
+      "weight": 0.25
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5288 25-APR-2034",
+      "name": "Bank of America Corporation 5.288% 25-APR-2034",
+      "weight": 0.25
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5015 22-JUL-2033",
+      "name": "Bank of America Corporation 5.015% 22-JUL-2033",
+      "weight": 0.25
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 475 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.75% 19-MAY-2033",
+      "weight": 0.25
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 535 01-JUN-2034",
+      "name": "JPMorgan Chase & Co. 5.35% 01-JUN-2034",
+      "weight": 0.23
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 4912 25-JUL-2033",
+      "name": "JPMorgan Chase & Co. 4.912% 25-JUL-2033",
+      "weight": 0.22
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 5557 25-JUL-2034",
+      "name": "Wells Fargo & Company 5.557% 25-JUL-2034",
+      "weight": 0.22
+    },
+    {
+      "symbol": "AMGEN INC 525 02-MAR-2033",
+      "name": "Amgen Inc. 5.25% 02-MAR-2033",
+      "weight": 0.21
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 4897 25-JUL-2033",
+      "name": "Wells Fargo & Company 4.897% 25-JUL-2033",
+      "weight": 0.21
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 5576 23-JUL-2036",
+      "name": "JPMorgan Chase & Co. 5.576% 23-JUL-2036",
+      "weight": 0.2
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 2687 22-APR-2032",
+      "name": "Bank of America Corporation 2.687% 22-APR-2032",
+      "weight": 0.2
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 2355 15-MAR-2032",
+      "name": "Verizon Communications Inc. 2.355% 15-MAR-2032",
+      "weight": 0.2
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 5872 15-SEP-2034",
+      "name": "Bank of America Corporation 5.872% 15-SEP-2034",
+      "weight": 0.19
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 4571 27-APR-2033",
+      "name": "Bank of America Corporation 4.571% 27-APR-2033",
+      "weight": 0.19
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "SCHH",
-  "last_updated": "2025-12-01T01:52:45.668Z",
+  "name": "Schwab US REIT ETF",
+  "last_updated": "2025-12-03T08:13:54.669Z",
   "profile": {
+    "name": "Schwab US REIT ETF",
     "issuer": "The Charles Schwab Corp.",
     "brand": "Schwab",
     "structure": "ETF",
@@ -17,14 +19,14 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 8429800000,
-    "shares_outstanding": 394100000
+    "aum": 8482000000,
+    "shares_outstanding": 393100000
   },
   "holdings": [
     {
       "symbol": "WELL",
       "name": "Welltower Inc.",
-      "weight": 10.1
+      "weight": 10.18
     },
     {
       "symbol": "PLD",
@@ -34,57 +36,57 @@
     {
       "symbol": "AMT",
       "name": "American Tower Corporation",
-      "weight": 4.76
+      "weight": 4.75
     },
     {
       "symbol": "SPG",
       "name": "Simon Property Group, Inc.",
-      "weight": 4.66
+      "weight": 4.65
     },
     {
       "symbol": "O",
       "name": "Realty Income Corporation",
-      "weight": 4
-    },
-    {
-      "symbol": "EQIX",
-      "name": "Equinix, Inc.",
-      "weight": 3.92
+      "weight": 4.03
     },
     {
       "symbol": "DLR",
       "name": "Digital Realty Trust, Inc.",
-      "weight": 3.89
+      "weight": 3.92
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 3.91
     },
     {
       "symbol": "PSA",
       "name": "Public Storage",
-      "weight": 3.32
+      "weight": 3.31
     },
     {
       "symbol": "CCI",
       "name": "Crown Castle Inc.",
-      "weight": 3
+      "weight": 3.04
     },
     {
       "symbol": "VTR",
       "name": "Ventas, Inc.",
-      "weight": 2.79
+      "weight": 2.8
     },
     {
       "symbol": "VICI",
       "name": "VICI Properties Inc",
-      "weight": 2.37
+      "weight": 2.35
     },
     {
       "symbol": "EXR",
       "name": "Extra Space Storage Inc.",
-      "weight": 2.17
+      "weight": 2.16
     },
     {
       "symbol": "AVB",
       "name": "AvalonBay Communities, Inc.",
-      "weight": 1.99
+      "weight": 1.98
     },
     {
       "symbol": "IRM",

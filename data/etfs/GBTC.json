@@ -1,7 +1,7 @@
 {
   "symbol": "GBTC",
   "name": "Grayscale Bitcoin Trust ETF",
-  "last_updated": "2025-12-02T03:43:32.094Z",
+  "last_updated": "2025-12-03T07:50:50.332Z",
   "profile": {
     "name": "Grayscale Bitcoin Trust ETF",
     "issuer": "Digital Currency Group, Inc.",
@@ -15,8 +15,8 @@
     "asset_class": "Currency",
     "region_general": "Global",
     "region_specific": "Broad",
-    "aum": 15064700000,
-    "shares_outstanding": 214200000
+    "aum": 15300300000,
+    "shares_outstanding": 214400000
   },
   "holdings": [
     {

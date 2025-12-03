@@ -1,0 +1,100 @@
+{
+  "symbol": "AVUS",
+  "name": "Avantis U.S. Equity ETF",
+  "last_updated": "2025-12-03T07:55:32.388Z",
+  "profile": {
+    "name": "Avantis U.S. Equity ETF",
+    "issuer": "American Century Investments",
+    "brand": "Avantis",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Sep 24, 2019",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10265800000,
+    "shares_outstanding": 92100000
+  },
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.39
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 4.91
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.17
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.48
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.86
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.52
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.3
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 1.46
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 1.35
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 0.94
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 0.88
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 0.85
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 0.76
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 0.72
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 0.71
+    }
+  ]
+}

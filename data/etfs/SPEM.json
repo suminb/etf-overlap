@@ -1,7 +1,7 @@
 {
   "symbol": "SPEM",
   "name": "SPDR Portfolio Emerging Markets ETF",
-  "last_updated": "2025-12-02T03:42:18.791Z",
+  "last_updated": "2025-12-03T07:51:12.738Z",
   "profile": {
     "name": "SPDR Portfolio Emerging Markets ETF",
     "issuer": "State Street",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "Emerging Markets",
     "region_specific": "Broad",
-    "aum": 15220600000,
+    "aum": 15210000000,
     "shares_outstanding": 325600000
   },
   "holdings": [

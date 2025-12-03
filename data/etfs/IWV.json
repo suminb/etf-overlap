@@ -1,7 +1,7 @@
 {
   "symbol": "IWV",
   "name": "iShares Russell 3000 ETF",
-  "last_updated": "2025-12-02T03:37:57.875Z",
+  "last_updated": "2025-12-03T07:46:21.511Z",
   "profile": {
     "name": "iShares Russell 3000 ETF",
     "issuer": "BlackRock, Inc.",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 18152600000,
+    "aum": 18254800000,
     "shares_outstanding": 47100000
   },
   "holdings": [

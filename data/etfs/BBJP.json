@@ -1,7 +1,7 @@
 {
   "symbol": "BBJP",
   "name": "JPMorgan BetaBuilders Japan ETF",
-  "last_updated": "2025-12-02T03:45:44.480Z",
+  "last_updated": "2025-12-03T07:51:55.030Z",
   "profile": {
     "name": "JPMorgan BetaBuilders Japan ETF",
     "issuer": "JP Morgan",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "Developed Asia Pacific",
     "region_specific": "Japan",
-    "aum": 14859400000,
+    "aum": 14848600000,
     "shares_outstanding": 215700000
   },
   "holdings": [

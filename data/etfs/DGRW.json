@@ -1,7 +1,7 @@
 {
   "symbol": "DGRW",
   "name": "WisdomTree US Quality Dividend Growth Fund",
-  "last_updated": "2025-12-02T03:41:17.856Z",
+  "last_updated": "2025-12-03T07:49:42.076Z",
   "profile": {
     "name": "WisdomTree US Quality Dividend Growth Fund",
     "issuer": "WisdomTree, Inc.",
@@ -17,7 +17,7 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 16091800000,
+    "aum": 16146600000,
     "shares_outstanding": 179500000
   },
   "holdings": [

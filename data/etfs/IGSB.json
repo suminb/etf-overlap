@@ -1,7 +1,7 @@
 {
   "symbol": "IGSB",
   "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
-  "last_updated": "2025-12-02T03:32:32.645Z",
+  "last_updated": "2025-12-03T07:41:46.544Z",
   "profile": {
     "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
     "issuer": "BlackRock, Inc.",
@@ -13,8 +13,8 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 21851700000,
-    "shares_outstanding": 411400000
+    "aum": 21860100000,
+    "shares_outstanding": 411700000
   },
   "holdings": [
     {

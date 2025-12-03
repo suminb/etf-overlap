@@ -1,7 +1,9 @@
 {
   "symbol": "IOO",
-  "last_updated": "2025-11-30T17:22:07.219Z",
+  "name": "iShares Global 100 ETF",
+  "last_updated": "2025-12-03T08:38:17.373Z",
   "profile": {
+    "name": "iShares Global 100 ETF",
     "issuer": "BlackRock, Inc.",
     "brand": "iShares",
     "structure": "ETF",
@@ -15,54 +17,54 @@
     "asset_class_style": "Blend",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 7899400000,
-    "shares_outstanding": 63000000
+    "aum": 8039900000,
+    "shares_outstanding": 63600000
   },
   "holdings": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 12.01
+      "weight": 11.75
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 11.24
+      "weight": 11.26
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 9.85
+      "weight": 9.95
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 6.07
+      "weight": 6.16
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 5.1
+      "weight": 5.16
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 5.08
+      "weight": 5.07
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 4.08
-    },
-    {
-      "symbol": "LLY",
-      "name": "Eli Lilly and Company",
-      "weight": 2.4
+      "weight": 4.07
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
-      "weight": 2.31
+      "weight": 2.34
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 2.33
     },
     {
       "symbol": "JNJ",
@@ -75,24 +77,24 @@
       "weight": 1.34
     },
     {
-      "symbol": "700",
-      "name": "Tencent Holdings Ltd",
-      "weight": 1.33
-    },
-    {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "weight": 1.31
+      "weight": 1.32
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 1.32
     },
     {
       "symbol": "MA",
       "name": "Mastercard Incorporated Class A",
-      "weight": 1.23
+      "weight": 1.24
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
-      "weight": 1.12
+      "weight": 1.13
     }
   ]
 }

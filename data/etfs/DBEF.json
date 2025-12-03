@@ -1,0 +1,100 @@
+{
+  "symbol": "DBEF",
+  "name": "Xtrackers MSCI EAFE Hedged Equity ETF",
+  "last_updated": "2025-12-03T08:35:42.525Z",
+  "profile": {
+    "name": "Xtrackers MSCI EAFE Hedged Equity ETF",
+    "issuer": "DWS",
+    "brand": "Xtrackers",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Jun 09, 2011",
+    "index_tracked": "MSCI EAFE US Dollar Hedged Index",
+    "home_page": "https://etfus.deutscheawm.com/US/EN/Product-Detail-Page/DBEF",
+    "category": "Europe Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 8435200000,
+    "shares_outstanding": 174400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 3.32
+    },
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 2
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.94
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.37
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.28
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.22
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 1.2
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.18
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 1.16
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.02
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.96
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 0.91
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 0.88
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 0.86
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 0.85
+    }
+  ]
+}

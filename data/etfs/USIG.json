@@ -1,7 +1,7 @@
 {
   "symbol": "USIG",
   "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
-  "last_updated": "2025-12-02T03:41:55.083Z",
+  "last_updated": "2025-12-03T07:50:27.123Z",
   "profile": {
     "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
     "issuer": "BlackRock, Inc.",
@@ -13,7 +13,7 @@
     "asset_class": "Bond",
     "region_general": "Developed Markets",
     "region_specific": "Broad",
-    "aum": 15537200000,
+    "aum": 15518500000,
     "shares_outstanding": 296600000
   },
   "holdings": [

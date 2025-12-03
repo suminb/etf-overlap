@@ -1,0 +1,99 @@
+{
+  "symbol": "DFAU",
+  "name": "Dimensional US Core Equity Market ETF",
+  "last_updated": "2025-12-03T07:56:24.203Z",
+  "profile": {
+    "name": "Dimensional US Core Equity Market ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0012,
+    "inception_date": "Nov 17, 2020",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://us.dimensional.com/etfs/dfau/us-core-equity-market-etf",
+    "category": "All Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 10196100000,
+    "shares_outstanding": 217600000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 6.56
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.35
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.27
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.16
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.77
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.26
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.22
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 1.7
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 1.29
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 1.27
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 1.21
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 0.77
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 0.72
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "weight": 0.69
+    }
+  ]
+}

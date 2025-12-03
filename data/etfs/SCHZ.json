@@ -1,0 +1,98 @@
+{
+  "symbol": "SCHZ",
+  "name": "Schwab U.S. Aggregate Bond ETF",
+  "last_updated": "2025-12-03T08:01:11.623Z",
+  "profile": {
+    "name": "Schwab U.S. Aggregate Bond ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0003,
+    "inception_date": "Jul 14, 2011",
+    "index_tracked": "Bloomberg US Aggregate",
+    "home_page": "http://www.schwab.com/public/schwab/investing/investment_help/investment_research/etf_research/etfs.html?&&path=%2FProspect%2FResearch%2Fetfs%2Fsummary.asp%3Fsymbol%3DSCHZ",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 9421900000,
+    "shares_outstanding": 399400000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 2.12
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-AUG-2035",
+      "name": "United States Treasury Notes 4.25% 15-AUG-2035",
+      "weight": 0.45
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-MAY-2035",
+      "name": "United States Treasury Notes 4.25% 15-MAY-2035",
+      "weight": 0.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-FEB-2035",
+      "name": "United States Treasury Notes 4.625% 15-FEB-2035",
+      "weight": 0.41
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-MAY-2034",
+      "name": "United States Treasury Notes 4.375% 15-MAY-2034",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 15-NOV-2034",
+      "name": "United States Treasury Notes 4.25% 15-NOV-2034",
+      "weight": 0.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 425 30-NOV-2026",
+      "name": "United States Treasury Notes 4.25% 30-NOV-2026",
+      "weight": 0.39
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2034",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2034",
+      "weight": 0.39
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 15-FEB-2034",
+      "name": "United States Treasury Notes 4.0% 15-FEB-2034",
+      "weight": 0.38
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 15-NOV-2033",
+      "name": "United States Treasury Notes 4.5% 15-NOV-2033",
+      "weight": 0.38
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3875 15-AUG-2033",
+      "name": "United States Treasury Notes 3.875% 15-AUG-2033",
+      "weight": 0.34
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 15-OCT-2028",
+      "name": "United States Treasury Notes 3.5% 15-OCT-2028",
+      "weight": 0.34
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 40 28-FEB-2030",
+      "name": "United States Treasury Notes 4.0% 28-FEB-2030",
+      "weight": 0.33
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 3625 31-OCT-2030",
+      "name": "United States Treasury Notes 3.625% 31-OCT-2030",
+      "weight": 0.33
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4125 15-NOV-2032",
+      "name": "United States Treasury Notes 4.125% 15-NOV-2032",
+      "weight": 0.32
+    }
+  ]
+}

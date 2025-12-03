@@ -1,0 +1,40 @@
+{
+  "symbol": "HEFA",
+  "name": "iShares Currency Hedged MSCI EAFE ETF",
+  "last_updated": "2025-12-03T08:45:48.832Z",
+  "profile": {
+    "name": "iShares Currency Hedged MSCI EAFE ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Jan 31, 2014",
+    "index_tracked": "MSCI EAFE 100% Hedged to USD Net Variant",
+    "home_page": "http://www.ishares.com/us/products/259622/ishares-currency-hedged-msci-eafe-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "EAFE",
+    "aum": 6585900000,
+    "shares_outstanding": 159800000
+  },
+  "holdings": [
+    {
+      "symbol": "EFA",
+      "name": "iShares MSCI EAFE ETF",
+      "weight": 99.81
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.15
+    },
+    {
+      "symbol": "BLACKROCK CASH FUNDS TREASURY SL AGENCY SHARES",
+      "name": "BlackRock Cash Funds Treasury SL Agency Shares",
+      "weight": 0.05
+    }
+  ]
+}
