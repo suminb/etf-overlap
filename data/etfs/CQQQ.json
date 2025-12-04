@@ -1,0 +1,102 @@
+{
+  "symbol": "CQQQ",
+  "name": "Invesco China Technology ETF",
+  "last_updated": "2025-12-04T17:54:51.075Z",
+  "profile": {
+    "name": "Invesco China Technology ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "Dec 08, 2009",
+    "index_tracked": "FTSE China Incl A 25% Technology Capped Index",
+    "home_page": "http://guggenheiminvestments.com/products/etf/cqqq",
+    "category": "China Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "Emerging Asia Pacific",
+    "region_specific": "China",
+    "aum": 2883400000,
+    "shares_outstanding": 55300000
+  },
+  "holdings": [
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 10.02
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 8.86
+    },
+    {
+      "symbol": "3690",
+      "name": "Meituan Class B",
+      "weight": 8.39
+    },
+    {
+      "symbol": "9888",
+      "name": "Baidu, Inc. Class A",
+      "weight": 7.38
+    },
+    {
+      "symbol": "1024",
+      "name": "Kuaishou Technology Class B",
+      "weight": 5.68
+    },
+    {
+      "symbol": "9660",
+      "name": "Horizon Robotics Class B",
+      "weight": 3.68
+    },
+    {
+      "symbol": "9626",
+      "name": "Bilibili, Inc. Class Z",
+      "weight": 3.11
+    },
+    {
+      "symbol": "20",
+      "name": "SenseTime Group, Inc. Class B",
+      "weight": 3.03
+    },
+    {
+      "symbol": "1347",
+      "name": "Hua Hong Semiconductor Ltd.",
+      "weight": 2.71
+    },
+    {
+      "symbol": "2382",
+      "name": "Sunny Optical Technology (Group) Co., Ltd.",
+      "weight": 2.48
+    },
+    {
+      "symbol": "688256",
+      "name": "Cambricon Technologies Corp. Ltd. Class A",
+      "weight": 2.37
+    },
+    {
+      "symbol": "688041",
+      "name": "Hygon Information Technology Co., Ltd. Class A",
+      "weight": 2.08
+    },
+    {
+      "symbol": "268",
+      "name": "Kingdee International Software Group Co., Ltd.",
+      "weight": 2.07
+    },
+    {
+      "symbol": "9698",
+      "name": "GDS Holdings Ltd.",
+      "weight": 1.59
+    },
+    {
+      "symbol": "3888",
+      "name": "Kingsoft Corporation Ltd",
+      "weight": 1.55
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "UPRO",
-  "last_updated": "2025-11-30T17:25:45.972Z",
+  "name": "ProShares UltraPro S&P500",
+  "last_updated": "2025-12-04T17:13:33.514Z",
   "profile": {
+    "name": "ProShares UltraPro S&P500",
     "issuer": "Proshare Advisors LLC",
     "brand": "ProShares",
     "structure": "ETF",
@@ -15,74 +17,69 @@
     "asset_class_style": "Blend",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 4925900000,
-    "shares_outstanding": 43600000
+    "aum": 4865300000,
+    "shares_outstanding": 41900000
   },
   "holdings": [
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 16.5
+      "weight": 20.06
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 18-DEC-2025",
       "name": "United States Treasury Bills 0.0% 18-DEC-2025",
-      "weight": 7.94
+      "weight": 8.14
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 23-DEC-2025",
       "name": "United States Treasury Bills 0.0% 23-DEC-2025",
-      "weight": 5.95
+      "weight": 6.1
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 4.48
+      "weight": 4.43
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 4.19
-    },
-    {
-      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
-      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
-      "weight": 3.98
+      "weight": 4.26
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 3.67
+      "weight": 3.59
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 26-DEC-2025",
       "name": "United States Treasury Bills 0.0% 26-DEC-2025",
-      "weight": 2.98
+      "weight": 3.05
     },
     {
       "symbol": "UNITED STATES TREASURY BILLS 00 20-JAN-2026",
       "name": "United States Treasury Bills 0.0% 20-JAN-2026",
-      "weight": 2.47
+      "weight": 2.53
     },
     {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "weight": 2.26
-    },
-    {
-      "symbol": "AVGO",
-      "name": "Broadcom Inc.",
-      "weight": 1.9
+      "weight": 2.28
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "weight": 1.9
+      "weight": 1.88
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 1.81
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "weight": 1.52
+      "weight": 1.51
     },
     {
       "symbol": "META",
@@ -92,7 +89,12 @@
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "weight": 1.22
+      "weight": 1.27
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-FEB-2026",
+      "name": "United States Treasury Bills 0.0% 19-FEB-2026",
+      "weight": 1.01
     }
   ]
 }

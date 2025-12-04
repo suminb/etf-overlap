@@ -1,0 +1,100 @@
+{
+  "symbol": "CALF",
+  "name": "Pacer US Small Cap Cash Cows ETF",
+  "last_updated": "2025-12-04T17:28:05.672Z",
+  "profile": {
+    "name": "Pacer US Small Cap Cash Cows ETF",
+    "issuer": "Pacer Advisors",
+    "brand": "Pacer",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Jun 16, 2017",
+    "index_tracked": "Pacer US Small Cap Cash Cows Index",
+    "home_page": "http://www.paceretfs.com/products/calf",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3704100000,
+    "shares_outstanding": 83400000
+  },
+  "holdings": [
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "weight": 2.49
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton Company",
+      "weight": 2.42
+    },
+    {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "weight": 2.37
+    },
+    {
+      "symbol": "FOXA",
+      "name": "Fox Corporation Class A",
+      "weight": 2.28
+    },
+    {
+      "symbol": "ZM",
+      "name": "Zoom Communications, Inc. Class A",
+      "weight": 2.01
+    },
+    {
+      "symbol": "APA",
+      "name": "APA Corporation",
+      "weight": 1.98
+    },
+    {
+      "symbol": "UAL",
+      "name": "United Airlines Holdings, Inc.",
+      "weight": 1.96
+    },
+    {
+      "symbol": "OMC",
+      "name": "Omnicom Group Inc",
+      "weight": 1.88
+    },
+    {
+      "symbol": "OVV",
+      "name": "Ovintiv Inc",
+      "weight": 1.86
+    },
+    {
+      "symbol": "JAZZ",
+      "name": "Jazz Pharmaceuticals Public Limited Company",
+      "weight": 1.86
+    },
+    {
+      "symbol": "CF",
+      "name": "CF Industries Holdings, Inc.",
+      "weight": 1.85
+    },
+    {
+      "symbol": "NTAP",
+      "name": "NetApp, Inc.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "FTV",
+      "name": "Fortive Corp.",
+      "weight": 1.71
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC plc",
+      "weight": 1.7
+    },
+    {
+      "symbol": "IT",
+      "name": "Gartner, Inc.",
+      "weight": 1.58
+    }
+  ]
+}

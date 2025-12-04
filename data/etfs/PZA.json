@@ -1,0 +1,93 @@
+{
+  "symbol": "PZA",
+  "name": "Invesco National AMT-Free Municipal Bond ETF",
+  "last_updated": "2025-12-04T17:34:53.001Z",
+  "profile": {
+    "name": "Invesco National AMT-Free Municipal Bond ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0028000000000000004,
+    "inception_date": "Oct 11, 2007",
+    "index_tracked": "ICE BofA National Long-Term Core Plus Municipal",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=PZA",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3309200000,
+    "shares_outstanding": 142400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.03
+    },
+    {
+      "symbol": "MASSACHUSETTS ST 50 01-NOV-2048",
+      "name": "Massachusetts St 5.0% 01-NOV-2048",
+      "weight": 0.27
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-SEP-2043",
+      "name": "California St 5.0% 01-SEP-2043",
+      "weight": 0.2
+    },
+    {
+      "symbol": "SAN DIEGO CNTY CALIF REGL TRANSN COMMN SALES TAXRE",
+      "name": "San Diego Cnty Calif Regl Transn Commn Sales Taxrev 5.0% 01-APR-2048",
+      "weight": 0.16
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-OCT-2041",
+      "name": "California St 5.0% 01-OCT-2041",
+      "weight": 0.15
+    },
+    {
+      "symbol": "UNIVERSITY CALIF REVS 50 15-MAY-2052",
+      "name": "University Calif Revs 5.0% 15-MAY-2052",
+      "weight": 0.15
+    },
+    {
+      "symbol": "NEW YORK N Y CITY MUN WTR FIN AUTH WTR  SWR SYSRE",
+      "name": "New York N Y City Mun Wtr Fin Auth Wtr & Swr Sysrev 4.0% 15-JUN-2051",
+      "weight": 0.15
+    },
+    {
+      "symbol": "CALIFORNIA EDL FACS AUTH REV 50 01-MAY-2049",
+      "name": "California Edl Facs Auth Rev 5.0% 01-MAY-2049",
+      "weight": 0.14
+    },
+    {
+      "symbol": "CALIFORNIA ST 40 01-SEP-2043",
+      "name": "California St 4.0% 01-SEP-2043",
+      "weight": 0.14
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH REVS NON ST SUPPORTED DEBT 5",
+      "name": "New York St Dorm Auth Revs Non St Supported Debt 5.5% 01-JUL-2054",
+      "weight": 0.13
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH ST PERS INCOME TAX REV 40",
+      "name": "New York St Dorm Auth St Pers Income Tax Rev 4.0% 15-FEB-2047",
+      "weight": 0.13
+    },
+    {
+      "symbol": "TRIBOROUGH BRDG  TUNL AUTH N Y PAYROLL MOBILITYTA",
+      "name": "Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 5.0% 15-MAY-2056",
+      "weight": 0.13
+    },
+    {
+      "symbol": "METROPOLITAN TRANSN AUTH N Y REV 525 15-NOV-2055",
+      "name": "Metropolitan Transn Auth N Y Rev 5.25% 15-NOV-2055",
+      "weight": 0.13
+    },
+    {
+      "symbol": "TRIBOROUGH BRDG  TUNL AUTH N Y SALES TAX REV 40",
+      "name": "Triborough Brdg & Tunl Auth N Y Sales Tax Rev 4.0% 15-MAY-2057",
+      "weight": 0.13
+    }
+  ]
+}

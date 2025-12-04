@@ -1,0 +1,94 @@
+{
+  "symbol": "EAGL",
+  "name": "Eagle Capital Select Equity ETF",
+  "last_updated": "2025-12-04T17:33:33.869Z",
+  "profile": {
+    "name": "Eagle Capital Select Equity ETF",
+    "issuer": "Eagle Capital Management LLC",
+    "brand": "Eagle",
+    "expense_ratio": 0.008100000000000001,
+    "inception_date": "Mar 25, 2024",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 3418500000,
+    "shares_outstanding": 107000000
+  },
+  "holdings": [
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 7.46
+    },
+    {
+      "symbol": "LSEGY",
+      "name": "London Stock Exchange Group plc Sponsored ADR",
+      "weight": 6.55
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 5.75
+    },
+    {
+      "symbol": "WDAY",
+      "name": "Workday, Inc. Class A",
+      "weight": 5.23
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.16
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 5.04
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "weight": 5.02
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 4.72
+    },
+    {
+      "symbol": "AER",
+      "name": "AerCap Holdings NV",
+      "weight": 4.33
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 4.32
+    },
+    {
+      "symbol": "LEN",
+      "name": "Lennar Corporation Class A",
+      "weight": 4.12
+    },
+    {
+      "symbol": "COF",
+      "name": "Capital One Financial Corp",
+      "weight": 4.05
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher Corporation",
+      "weight": 3.92
+    },
+    {
+      "symbol": "WWD",
+      "name": "Woodward, Inc.",
+      "weight": 3.62
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 3.22
+    }
+  ]
+}

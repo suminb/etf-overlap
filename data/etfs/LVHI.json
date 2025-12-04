@@ -1,0 +1,100 @@
+{
+  "symbol": "LVHI",
+  "name": "Franklin International Low Volatility High Dividend Index ETF",
+  "last_updated": "2025-12-04T17:28:29.530Z",
+  "profile": {
+    "name": "Franklin International Low Volatility High Dividend Index ETF",
+    "issuer": "Franklin Templeton",
+    "brand": "Franklin",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Jul 27, 2016",
+    "index_tracked": "Franklin International Low Volatility High Dividend Hedged Index - Benchmark TR Net",
+    "home_page": "https://www.franklintempleton.com/investments/options/exchange-traded-funds/products/91481/SINGLCLASS/legg-mason-international-low-volatility-high-dividend-etf/LVHI",
+    "category": "Volatility Hedged Equity",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3702400000,
+    "shares_outstanding": 100600000
+  },
+  "holdings": [
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy Inc.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "CNQ",
+      "name": "Canadian Natural Resources Limited",
+      "weight": 2.66
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 2.54
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 2.46
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 2.37
+    },
+    {
+      "symbol": "ISP",
+      "name": "Intesa Sanpaolo S.p.A.",
+      "weight": 2.32
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 2.3
+    },
+    {
+      "symbol": "RIO",
+      "name": "Rio Tinto plc",
+      "weight": 2.27
+    },
+    {
+      "symbol": "BNS",
+      "name": "Bank of Nova Scotia",
+      "weight": 2.01
+    },
+    {
+      "symbol": "8058",
+      "name": "Mitsubishi Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "GSK",
+      "name": "GSK plc",
+      "weight": 1.96
+    },
+    {
+      "symbol": "CM",
+      "name": "Canadian Imperial Bank of Commerce",
+      "weight": 1.9
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 1.88
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 1.7
+    },
+    {
+      "symbol": "ENEL",
+      "name": "Enel SpA",
+      "weight": 1.6
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "symbol": "BSCQ",
+  "name": "Invesco BulletShares 2026 Corporate Bond ETF",
+  "last_updated": "2025-12-04T17:19:37.671Z",
+  "profile": {
+    "name": "Invesco BulletShares 2026 Corporate Bond ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 14, 2016",
+    "index_tracked": "Invesco BulletShares Corporate Bond 2026 Index",
+    "home_page": "http://gi.guggenheiminvestments.com/products/etf/bscq",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4276200000,
+    "shares_outstanding": 218600000
+  },
+  "holdings": [
+    {
+      "symbol": "BOEING COMPANY 2196 04-FEB-2026",
+      "name": "Boeing Company 2.196% 04-FEB-2026",
+      "weight": 1.16
+    },
+    {
+      "symbol": "MICROSOFT CORPORATION 24 08-AUG-2026",
+      "name": "Microsoft Corporation 2.4% 08-AUG-2026",
+      "weight": 0.84
+    },
+    {
+      "symbol": "ABBVIE INC 295 21-NOV-2026",
+      "name": "AbbVie Inc. 2.95% 21-NOV-2026",
+      "weight": 0.84
+    },
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 2.45% 29-OCT-2026",
+      "weight": 0.79
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 30 22-APR-2026",
+      "name": "Wells Fargo & Company 3.0% 22-APR-2026",
+      "weight": 0.74
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 30 23-OCT-2026",
+      "name": "Wells Fargo & Company 3.0% 23-OCT-2026",
+      "weight": 0.74
+    },
+    {
+      "symbol": "APPLE INC 325 23-FEB-2026",
+      "name": "Apple Inc. 3.25% 23-FEB-2026",
+      "weight": 0.69
+    },
+    {
+      "symbol": "MORGAN STANLEY 3875 27-JAN-2026",
+      "name": "Morgan Stanley 3.875% 27-JAN-2026",
+      "weight": 0.64
+    },
+    {
+      "symbol": "MORGAN STANLEY 3125 27-JUL-2026",
+      "name": "Morgan Stanley 3.125% 27-JUL-2026",
+      "weight": 0.64
+    },
+    {
+      "symbol": "CITIGROUP INC 32 21-OCT-2026",
+      "name": "Citigroup Inc. 3.2% 21-OCT-2026",
+      "weight": 0.63
+    },
+    {
+      "symbol": "ORACLE CORPORATION 265 15-JUL-2026",
+      "name": "Oracle Corporation 2.65% 15-JUL-2026",
+      "weight": 0.63
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 295 01-OCT-2026",
+      "name": "JPMorgan Chase & Co. 2.95% 01-OCT-2026",
+      "weight": 0.63
+    },
+    {
+      "symbol": "ATT INC 17 25-MAR-2026",
+      "name": "AT&T Inc. 1.7% 25-MAR-2026",
+      "weight": 0.63
+    },
+    {
+      "symbol": "JPMORGAN CHASE BANK TORONTO BRANCH 511 08-DEC-",
+      "name": "JPMorgan Chase Bank (Toronto Branch) 5.11% 08-DEC-2026",
+      "weight": 0.59
+    },
+    {
+      "symbol": "GILEAD SCIENCES INC 365 01-MAR-2026",
+      "name": "Gilead Sciences, Inc. 3.65% 01-MAR-2026",
+      "weight": 0.58
+    }
+  ]
+}

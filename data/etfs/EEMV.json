@@ -1,0 +1,100 @@
+{
+  "symbol": "EEMV",
+  "name": "iShares MSCI Emerging Markets Min Vol Factor ETF",
+  "last_updated": "2025-12-04T17:25:48.502Z",
+  "profile": {
+    "name": "iShares MSCI Emerging Markets Min Vol Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0026,
+    "inception_date": "Oct 18, 2011",
+    "index_tracked": "MSCI Emerging Markets Minimum Volatility Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EEMV.htm?fundSearch=true&qt=EEMV",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 3808500000,
+    "shares_outstanding": 58900000
+  },
+  "holdings": [
+    {
+      "symbol": "2308",
+      "name": "Delta Electronics, Inc.",
+      "weight": 1.54
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 1.51
+    },
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 1.47
+    },
+    {
+      "symbol": "1288",
+      "name": "Agricultural Bank of China Limited Class H",
+      "weight": 1.39
+    },
+    {
+      "symbol": "3988",
+      "name": "Bank of China Limited Class H",
+      "weight": 1.39
+    },
+    {
+      "symbol": "7010",
+      "name": "Saudi Telecom Co.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "2412",
+      "name": "Chunghwa Telecom Co., Ltd",
+      "weight": 1.34
+    },
+    {
+      "symbol": "1398",
+      "name": "Industrial and Commercial Bank of China Limited Class H",
+      "weight": 1.32
+    },
+    {
+      "symbol": "ADVANC.R",
+      "name": "Advanced Info Service Public Co., Ltd. NVDR",
+      "weight": 1.21
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.18
+    },
+    {
+      "symbol": "3045",
+      "name": "Taiwan Mobile Co., Ltd.",
+      "weight": 1.17
+    },
+    {
+      "symbol": "NBK",
+      "name": "National Bank of Kuwait K.S.C.",
+      "weight": 1.12
+    },
+    {
+      "symbol": "500209",
+      "name": "Infosys Limited",
+      "weight": 1.05
+    },
+    {
+      "symbol": "DIB",
+      "name": "Dubai Islamic Bank PJSC",
+      "weight": 1.05
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 1.04
+    }
+  ]
+}

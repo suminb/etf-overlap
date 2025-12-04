@@ -1,7 +1,9 @@
 {
   "symbol": "SIVR",
-  "last_updated": "2025-12-01T04:55:14.578Z",
+  "name": "abrdn Physical Silver Shares ETF",
+  "last_updated": "2025-12-04T17:22:07.274Z",
   "profile": {
+    "name": "abrdn Physical Silver Shares ETF",
     "issuer": "Abrdn Plc",
     "brand": "Aberdeen",
     "structure": "Grantor Trust",
@@ -13,8 +15,8 @@
     "asset_class": "Commodity",
     "region_general": "Global",
     "region_specific": "Broad",
-    "aum": 3593000000,
-    "shares_outstanding": 73700000
+    "aum": 4057600000,
+    "shares_outstanding": 74200000
   },
   "holdings": [
     {

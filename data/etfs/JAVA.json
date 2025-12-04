@@ -1,0 +1,100 @@
+{
+  "symbol": "JAVA",
+  "name": "JPMorgan Active Value ETF",
+  "last_updated": "2025-12-04T17:14:00.836Z",
+  "profile": {
+    "name": "JPMorgan Active Value ETF",
+    "issuer": "JP Morgan",
+    "brand": "JPMorgan",
+    "structure": "ETF",
+    "expense_ratio": 0.0044,
+    "inception_date": "Oct 04, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-active-value-etf-etf-shares-46641q167",
+    "category": "Large Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4819400000,
+    "shares_outstanding": 68100000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 3.41
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 2.96
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 2.88
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 2.35
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 2.34
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 2.24
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corporation",
+      "weight": 1.8
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 1.72
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 1.55
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 1.46
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources, Inc.",
+      "weight": 1.27
+    },
+    {
+      "symbol": "HUM",
+      "name": "Humana Inc.",
+      "weight": 1.21
+    },
+    {
+      "symbol": "MGMXX",
+      "name": "JPMorgan Trust II U.S. Government Money Market Fund -IM-",
+      "weight": 1.2
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "weight": 1.13
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "weight": 1.12
+    }
+  ]
+}

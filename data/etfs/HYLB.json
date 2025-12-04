@@ -1,0 +1,98 @@
+{
+  "symbol": "HYLB",
+  "name": "Xtrackers USD High Yield Corporate Bond ETF",
+  "last_updated": "2025-12-04T17:22:46.989Z",
+  "profile": {
+    "name": "Xtrackers USD High Yield Corporate Bond ETF",
+    "issuer": "DWS",
+    "brand": "Xtrackers",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Dec 07, 2016",
+    "index_tracked": "Solactive USD High Yield Corporates Total Market Index",
+    "home_page": "https://etfus.deutscheam.com/US/EN/Product-Detail-Page?Ticker=HYLB&kid=int.etfus_hylb.etfus_en_us.home_etfs_in_focus_slider.HYLB_product_page",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3994800000,
+    "shares_outstanding": 108600000
+  },
+  "holdings": [
+    {
+      "symbol": "MUTUAL FUND OTHER",
+      "name": "MUTUAL FUND (OTHER)",
+      "weight": 0.81
+    },
+    {
+      "symbol": "ECHOSTAR CORPORATION 1075 30-NOV-2029",
+      "name": "EchoStar Corporation 10.75% 30-NOV-2029",
+      "weight": 0.55
+    },
+    {
+      "symbol": "1261229 BC LTD 100 15-APR-2032",
+      "name": "1261229 B.C. Ltd. 10.0% 15-APR-2032",
+      "weight": 0.4
+    },
+    {
+      "symbol": "MOZART DEBT MERGER SUB INC 3875 01-APR-2029",
+      "name": "Mozart Debt Merger Sub, Inc. 3.875% 01-APR-2029",
+      "weight": 0.39
+    },
+    {
+      "symbol": "QUIKRETE HOLDINGS INC 6375 01-MAR-2032",
+      "name": "QUIKRETE Holdings, Inc. 6.375% 01-MAR-2032",
+      "weight": 0.36
+    },
+    {
+      "symbol": "TIBCO SOFTWARE INC 65 31-MAR-2029",
+      "name": "TIBCO Software Inc. 6.5% 31-MAR-2029",
+      "weight": 0.36
+    },
+    {
+      "symbol": "CLOUD SOFTWARE GROUP INC 90 30-SEP-2029",
+      "name": "Cloud Software Group, Inc. 9.0% 30-SEP-2029",
+      "weight": 0.35
+    },
+    {
+      "symbol": "DISH NETWORK CORPORATION 1175 15-NOV-2027",
+      "name": "DISH Network Corporation 11.75% 15-NOV-2027",
+      "weight": 0.32
+    },
+    {
+      "symbol": "HUB INTERNATIONAL LIMITED 725 15-JUN-2030",
+      "name": "HUB International Limited 7.25% 15-JUN-2030",
+      "weight": 0.3
+    },
+    {
+      "symbol": "WULF COMPUTE LLC 775 15-OCT-2030",
+      "name": "WULF Compute LLC 7.75% 15-OCT-2030",
+      "weight": 0.29
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 5125 01-MAY-2027",
+      "name": "CCO Holdings, LLC 5.125% 01-MAY-2027",
+      "weight": 0.29
+    },
+    {
+      "symbol": "CARNIVAL CORPORATION 575 01-AUG-2032",
+      "name": "Carnival Corporation 5.75% 01-AUG-2032",
+      "weight": 0.28
+    },
+    {
+      "symbol": "VENTURE GLOBAL LNG INC 95 01-FEB-2029",
+      "name": "Venture Global LNG, Inc. 9.5% 01-FEB-2029",
+      "weight": 0.28
+    },
+    {
+      "symbol": "PANTHER ESCROW ISSUER LLC 7125 01-JUN-2031",
+      "name": "Panther Escrow Issuer, LLC 7.125% 01-JUN-2031",
+      "weight": 0.28
+    },
+    {
+      "symbol": "CCO HOLDINGS LLC 475 01-MAR-2030",
+      "name": "CCO Holdings, LLC 4.75% 01-MAR-2030",
+      "weight": 0.26
+    }
+  ]
+}

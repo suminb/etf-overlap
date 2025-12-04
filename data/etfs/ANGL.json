@@ -1,0 +1,98 @@
+{
+  "symbol": "ANGL",
+  "name": "VanEck Fallen Angel High Yield Bond ETF",
+  "last_updated": "2025-12-04T17:37:10.510Z",
+  "profile": {
+    "name": "VanEck Fallen Angel High Yield Bond ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Apr 10, 2012",
+    "index_tracked": "ICE BofA US Fallen Angel High Yield 10% Constrained",
+    "home_page": "http://vaneck.com/funds/ANGL.aspx",
+    "category": "High Yield Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3133000000,
+    "shares_outstanding": 106500000
+  },
+  "holdings": [
+    {
+      "symbol": "VOD4814987",
+      "name": "Vodafone Group Public Limited Company Notes 2019-04.04.79 Global Fixed/Floating Rate",
+      "weight": 3.65
+    },
+    {
+      "symbol": "NISSAN MOTOR CO LTD 4345 17-SEP-2027",
+      "name": "Nissan Motor Co., Ltd. 4.345% 17-SEP-2027",
+      "weight": 3.43
+    },
+    {
+      "symbol": "NISSAN MOTOR CO LTD 481 17-SEP-2030",
+      "name": "Nissan Motor Co., Ltd. 4.81% 17-SEP-2030",
+      "weight": 3.28
+    },
+    {
+      "symbol": "ENTEGRIS ESCROW CORP 475 15-APR-2029",
+      "name": "Entegris Escrow Corp. 4.75% 15-APR-2029",
+      "weight": 2.76
+    },
+    {
+      "symbol": "CELANESE US HOLDINGS LLC 6665 15-JUL-2027",
+      "name": "Celanese US Holdings LLC 6.665% 15-JUL-2027",
+      "weight": 2.38
+    },
+    {
+      "symbol": "CRZBF3673970",
+      "name": "Dresdner Funding Trust I 8.151 % 1999-30.6.31 -144A- Silent Partnership CTF",
+      "weight": 1.91
+    },
+    {
+      "symbol": "CELANESE US HOLDINGS LLC 685 15-NOV-2028",
+      "name": "Celanese US Holdings LLC 6.85% 15-NOV-2028",
+      "weight": 1.61
+    },
+    {
+      "symbol": "CELANESE US HOLDINGS LLC 72 15-NOV-2033",
+      "name": "Celanese US Holdings LLC 7.2% 15-NOV-2033",
+      "weight": 1.6
+    },
+    {
+      "symbol": "CELANESE US HOLDINGS LLC 705 15-NOV-2030",
+      "name": "Celanese US Holdings LLC 7.05% 15-NOV-2030",
+      "weight": 1.59
+    },
+    {
+      "symbol": "CELANESE US HOLDINGS LLC 6879 15-JUL-2032",
+      "name": "Celanese US Holdings LLC 6.879% 15-JUL-2032",
+      "weight": 1.57
+    },
+    {
+      "symbol": "RESORTS WORLD LAS VEGAS LLC 4625 16-APR-2029",
+      "name": "Resorts World Las Vegas, LLC 4.625% 16-APR-2029",
+      "weight": 1.52
+    },
+    {
+      "symbol": "PACIFICORP 7375 15-SEP-2055",
+      "name": "PacifiCorp 7.375% 15-SEP-2055",
+      "weight": 1.5
+    },
+    {
+      "symbol": "ROGERS COMMUNICATIONS INC 525 15-MAR-2082",
+      "name": "Rogers Communications Inc. 5.25% 15-MAR-2082",
+      "weight": 1.3
+    },
+    {
+      "symbol": "NORDSTROM INC 50 15-JAN-2044",
+      "name": "Nordstrom, Inc. 5.0% 15-JAN-2044",
+      "weight": 1.26
+    },
+    {
+      "symbol": "PERRIGO FINANCE UNLIMITED COMPANY 49 15-JUN-2030",
+      "name": "Perrigo Finance Unlimited Company 4.9% 15-JUN-2030",
+      "weight": 1.25
+    }
+  ]
+}

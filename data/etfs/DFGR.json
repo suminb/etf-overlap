@@ -1,0 +1,101 @@
+{
+  "symbol": "DFGR",
+  "name": "Dimensional Global Real Estate ETF",
+  "last_updated": "2025-12-04T17:54:37.165Z",
+  "profile": {
+    "name": "Dimensional Global Real Estate ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0022,
+    "inception_date": "Dec 06, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfgr/global-real-estate-etf",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "sector_general": "Real Estate",
+    "sector_specific": "Mortgage REITs",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 2910200000,
+    "shares_outstanding": 107700000
+  },
+  "holdings": [
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 7.49
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "weight": 6.59
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "weight": 4.56
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 3.94
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 3.3
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 2.95
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 2.9
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "weight": 2.38
+    },
+    {
+      "symbol": "GMG",
+      "name": "Goodman Group",
+      "weight": 2.2
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "weight": 2.13
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "weight": 2.01
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "weight": 1.68
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "weight": 1.56
+    },
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "weight": 1.43
+    },
+    {
+      "symbol": "IRM",
+      "name": "Iron Mountain, Inc.",
+      "weight": 1.34
+    }
+  ]
+}

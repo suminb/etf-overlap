@@ -1,0 +1,98 @@
+{
+  "symbol": "NEAR",
+  "name": "iShares Short Duration Bond Active ETF",
+  "last_updated": "2025-12-04T17:26:52.395Z",
+  "profile": {
+    "name": "iShares Short Duration Bond Active ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Sep 25, 2013",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "http://www.ishares.com/us/products/239854/NEAR",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3759200000,
+    "shares_outstanding": 73600000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 125 30-JUN-2028",
+      "name": "United States Treasury Notes 1.25% 30-JUN-2028",
+      "weight": 5.58
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0875 30-JUN-2026",
+      "name": "United States Treasury Notes 0.875% 30-JUN-2026",
+      "weight": 3.89
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-AUG-2026",
+      "name": "United States Treasury Notes 0.75% 31-AUG-2026",
+      "weight": 3.04
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 2.84
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 35 30-SEP-2026",
+      "name": "United States Treasury Notes 3.5% 30-SEP-2026",
+      "weight": 2.66
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 15-AUG-2026",
+      "name": "United States Treasury Notes 4.375% 15-AUG-2026",
+      "weight": 2.02
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4625 15-SEP-2026",
+      "name": "United States Treasury Notes 4.625% 15-SEP-2026",
+      "weight": 1.88
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 1625 31-OCT-2026",
+      "name": "United States Treasury Notes 1.625% 31-OCT-2026",
+      "weight": 1.83
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 4375 31-AUG-2028",
+      "name": "United States Treasury Notes 4.375% 31-AUG-2028",
+      "weight": 1.71
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 2125 31-MAY-2026",
+      "name": "United States Treasury Notes 2.125% 31-MAY-2026",
+      "weight": 1.4
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 45 15-JUL-2026",
+      "name": "United States Treasury Notes 4.5% 15-JUL-2026",
+      "weight": 1.37
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0625 31-JUL-2026",
+      "name": "United States Treasury Notes 0.625% 31-JUL-2026",
+      "weight": 1.05
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 10 31-JUL-2028",
+      "name": "United States Treasury Notes 1.0% 31-JUL-2028",
+      "weight": 0.9
+    },
+    {
+      "symbol": "CITIGROUP INC 4643 07-MAY-2028",
+      "name": "Citigroup Inc. 4.643% 07-MAY-2028",
+      "weight": 0.55
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 1875 30-JUN-2026",
+      "name": "United States Treasury Notes 1.875% 30-JUN-2026",
+      "weight": 0.53
+    }
+  ]
+}

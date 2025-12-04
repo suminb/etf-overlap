@@ -1,0 +1,98 @@
+{
+  "symbol": "IBDT",
+  "name": "iShares iBonds Dec 2028 Term Corporate ETF",
+  "last_updated": "2025-12-04T17:34:41.045Z",
+  "profile": {
+    "name": "iShares iBonds Dec 2028 Term Corporate ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 18, 2018",
+    "index_tracked": "Bloomberg December 2028 Maturity Corporate Index",
+    "home_page": "https://www.ishares.com/us/products/304570/ishares-ibonds-dec-2028-term-corporate-etf-fund",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3312000000,
+    "shares_outstanding": 130300000
+  },
+  "holdings": [
+    {
+      "symbol": "CVS HEALTH CORPORATION 43 25-MAR-2028",
+      "name": "CVS Health Corporation 4.3% 25-MAR-2028",
+      "weight": 0.89
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 445 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.45% 19-MAY-2028",
+      "weight": 0.73
+    },
+    {
+      "symbol": "AMGEN INC 515 02-MAR-2028",
+      "name": "Amgen Inc. 5.15% 02-MAR-2028",
+      "weight": 0.7
+    },
+    {
+      "symbol": "CIGNA GROUP 4375 15-OCT-2028",
+      "name": "Cigna Group 4.375% 15-OCT-2028",
+      "weight": 0.69
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.66
+    },
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 3.0% 29-OCT-2028",
+      "weight": 0.66
+    },
+    {
+      "symbol": "MORGAN STANLEY 3591 22-JUL-2028",
+      "name": "Morgan Stanley 3.591% 22-JUL-2028",
+      "weight": 0.54
+    },
+    {
+      "symbol": "UNITED TECHNOLOGIES CORPORATION 4125 16-NOV-2028",
+      "name": "United Technologies Corporation 4.125% 16-NOV-2028",
+      "weight": 0.54
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 4329 21-SEP-2028",
+      "name": "Verizon Communications Inc. 4.329% 21-SEP-2028",
+      "weight": 0.51
+    },
+    {
+      "symbol": "SPRINT CAPITAL CORP 6875 15-NOV-2028",
+      "name": "Sprint Capital Corp. 6.875% 15-NOV-2028",
+      "weight": 0.5
+    },
+    {
+      "symbol": "CITIBANK NA 5803 29-SEP-2028",
+      "name": "Citibank, N.A. 5.803% 29-SEP-2028",
+      "weight": 0.48
+    },
+    {
+      "symbol": "COMCAST CORPORATION 415 15-OCT-2028",
+      "name": "Comcast Corporation 4.15% 15-OCT-2028",
+      "weight": 0.46
+    },
+    {
+      "symbol": "ATT INC 165 01-FEB-2028",
+      "name": "AT&T Inc. 1.65% 01-FEB-2028",
+      "weight": 0.4
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 21 22-MAR-2028",
+      "name": "Verizon Communications Inc. 2.1% 22-MAR-2028",
+      "weight": 0.39
+    },
+    {
+      "symbol": "APPLE INC 12 08-FEB-2028",
+      "name": "Apple Inc. 1.2% 08-FEB-2028",
+      "weight": 0.39
+    }
+  ]
+}

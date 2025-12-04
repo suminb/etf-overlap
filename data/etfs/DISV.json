@@ -1,0 +1,100 @@
+{
+  "symbol": "DISV",
+  "name": "Dimensional International Small Cap Value ETF",
+  "last_updated": "2025-12-04T17:24:16.610Z",
+  "profile": {
+    "name": "Dimensional International Small Cap Value ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0042,
+    "inception_date": "Mar 23, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/disv/international-small-cap-value-etf",
+    "category": "Small Cap Value Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 3842300000,
+    "shares_outstanding": 105300000
+  },
+  "holdings": [
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 1.65
+    },
+    {
+      "symbol": "WCP",
+      "name": "Whitecap Resources Inc.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "HBM",
+      "name": "Hudbay Minerals Inc",
+      "weight": 0.8
+    },
+    {
+      "symbol": "ALO",
+      "name": "Alstom SA",
+      "weight": 0.78
+    },
+    {
+      "symbol": "TIT",
+      "name": "Telecom Italia S.p.A.",
+      "weight": 0.71
+    },
+    {
+      "symbol": "ELD",
+      "name": "Eldorado Gold Corporation",
+      "weight": 0.71
+    },
+    {
+      "symbol": "CA",
+      "name": "Carrefour SA",
+      "weight": 0.71
+    },
+    {
+      "symbol": "BMPS",
+      "name": "Banca Monte dei Paschi di Siena S.p.A.",
+      "weight": 0.7
+    },
+    {
+      "symbol": "SPSN",
+      "name": "Swiss Prime Site AG",
+      "weight": 0.67
+    },
+    {
+      "symbol": "BGEO",
+      "name": "Lion Finance Group PLC",
+      "weight": 0.67
+    },
+    {
+      "symbol": "KGX",
+      "name": "KION GROUP AG",
+      "weight": 0.61
+    },
+    {
+      "symbol": "SYDB",
+      "name": "Sydbank A/S",
+      "weight": 0.61
+    },
+    {
+      "symbol": "UHR",
+      "name": "Swatch Group Ltd. Bearer",
+      "weight": 0.6
+    },
+    {
+      "symbol": "EQX",
+      "name": "Equinox Gold Corp.",
+      "weight": 0.6
+    },
+    {
+      "symbol": "BWY",
+      "name": "Bellway p.l.c.",
+      "weight": 0.58
+    }
+  ]
+}

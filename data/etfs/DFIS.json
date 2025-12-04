@@ -1,0 +1,100 @@
+{
+  "symbol": "DFIS",
+  "name": "Dimensional International Small Cap ETF",
+  "last_updated": "2025-12-04T17:16:43.259Z",
+  "profile": {
+    "name": "Dimensional International Small Cap ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Mar 23, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dfis/international-small-cap-etf",
+    "category": "Foreign Small & Mid Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 4536300000,
+    "shares_outstanding": 142700000
+  },
+  "holdings": [
+    {
+      "symbol": "FUTURES",
+      "name": "FUTURES",
+      "weight": 1.22
+    },
+    {
+      "symbol": "VACN",
+      "name": "VAT Group AG",
+      "weight": 0.39
+    },
+    {
+      "symbol": "BALN",
+      "name": "Baloise-Holding AG",
+      "weight": 0.37
+    },
+    {
+      "symbol": "BG",
+      "name": "BAWAG Group AG",
+      "weight": 0.35
+    },
+    {
+      "symbol": "6590",
+      "name": "Shibaura Mechatronics Corp.",
+      "weight": 0.35
+    },
+    {
+      "symbol": "IMG",
+      "name": "IAMGOLD Corporation",
+      "weight": 0.35
+    },
+    {
+      "symbol": "GAW",
+      "name": "Games Workshop Group PLC",
+      "weight": 0.34
+    },
+    {
+      "symbol": "EQX",
+      "name": "Equinox Gold Corp.",
+      "weight": 0.34
+    },
+    {
+      "symbol": "7014",
+      "name": "Namura Shipbuilding Co., Ltd.",
+      "weight": 0.33
+    },
+    {
+      "symbol": "FTT",
+      "name": "Finning International Inc.",
+      "weight": 0.33
+    },
+    {
+      "symbol": "ALO",
+      "name": "Alstom SA",
+      "weight": 0.32
+    },
+    {
+      "symbol": "RXL",
+      "name": "Rexel SA",
+      "weight": 0.32
+    },
+    {
+      "symbol": "HBM",
+      "name": "Hudbay Minerals Inc",
+      "weight": 0.31
+    },
+    {
+      "symbol": "CPX",
+      "name": "Capital Power Corporation",
+      "weight": 0.3
+    },
+    {
+      "symbol": "TKA",
+      "name": "thyssenkrupp AG",
+      "weight": 0.3
+    }
+  ]
+}

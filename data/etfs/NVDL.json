@@ -1,7 +1,9 @@
 {
   "symbol": "NVDL",
-  "last_updated": "2025-11-30T17:26:13.708Z",
+  "name": "GraniteShares 2x Long NVDA Daily ETF",
+  "last_updated": "2025-12-04T17:17:18.289Z",
   "profile": {
+    "name": "GraniteShares 2x Long NVDA Daily ETF",
     "issuer": "GraniteShares",
     "brand": "GraniteShares",
     "structure": "ETF",
@@ -16,8 +18,8 @@
     "sector_specific": "Semiconductors",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 4327000000,
-    "shares_outstanding": 53100000
+    "aum": 4447900000,
+    "shares_outstanding": 52500000
   },
   "holdings": [
     {

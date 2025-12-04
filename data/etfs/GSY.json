@@ -1,0 +1,98 @@
+{
+  "symbol": "GSY",
+  "name": "Invesco Ultra Short Duration ETF",
+  "last_updated": "2025-12-04T17:35:58.423Z",
+  "profile": {
+    "name": "Invesco Ultra Short Duration ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0022,
+    "inception_date": "Feb 12, 2008",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=GSY",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3236400000,
+    "shares_outstanding": 64400000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 4.13
+    },
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 3.57
+    },
+    {
+      "symbol": "JABIL INC 00 04-DEC-2025",
+      "name": "Jabil Inc. 0.0% 04-DEC-2025",
+      "weight": 1.2
+    },
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 0.77
+    },
+    {
+      "symbol": "GENUINE PAINTS 00 04-DEC-2025",
+      "name": "Genuine Paints 0.0% 04-DEC-2025",
+      "weight": 0.64
+    },
+    {
+      "symbol": "GA GLOBAL FUNDING TRUST 44 23-SEP-2027",
+      "name": "GA Global Funding Trust 4.4% 23-SEP-2027",
+      "weight": 0.64
+    },
+    {
+      "symbol": "AES CORPORATION 00 17-DEC-2025",
+      "name": "AES Corporation 0.0% 17-DEC-2025",
+      "weight": 0.61
+    },
+    {
+      "symbol": "ORACLE CORPORATION 00 16-JAN-2026",
+      "name": "Oracle Corporation 0.0% 16-JAN-2026",
+      "weight": 0.56
+    },
+    {
+      "symbol": "TELUS CORPORATION 00 09-APR-2026",
+      "name": "TELUS Corporation 0.0% 09-APR-2026",
+      "weight": 0.54
+    },
+    {
+      "symbol": "ALEXANDRIA REAL ESTATE EQUITIES INC 00 15-DEC-",
+      "name": "Alexandria Real Estate Equities, Inc. 0.0% 15-DEC-2025",
+      "weight": 0.52
+    },
+    {
+      "symbol": "JACKSON NATIONAL LIFE GLOBAL FUNDING 55 09-JAN-2",
+      "name": "Jackson National Life Global Funding 5.5% 09-JAN-2026",
+      "weight": 0.51
+    },
+    {
+      "symbol": "BLACKSTONE PRIVATE CREDIT FUND 2625 15-DEC-2026",
+      "name": "Blackstone Private Credit Fund 2.625% 15-DEC-2026",
+      "weight": 0.5
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 4937 23-APR-2028",
+      "name": "Goldman Sachs Group, Inc. 4.937% 23-APR-2028",
+      "weight": 0.49
+    },
+    {
+      "symbol": "WALT DISNEY COMPANY 00 12-JUN-2026",
+      "name": "Walt Disney Company 0.0% 12-JUN-2026",
+      "weight": 0.48
+    },
+    {
+      "symbol": "INTESA SANPAOLO SPA FRN 16-OCT-2026",
+      "name": "Intesa Sanpaolo S.p.A. FRN 16-OCT-2026",
+      "weight": 0.48
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "symbol": "BILS",
+  "name": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF",
+  "last_updated": "2025-12-04T17:24:04.754Z",
+  "profile": {
+    "name": "State Street SPDR Bloomberg 3-12 Month T-Bill ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "expense_ratio": 0.0014000000000000002,
+    "inception_date": "Sep 23, 2020",
+    "index_tracked": "Bloomberg 3-12 Month U.S. Treasury Bill Index",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3874600000,
+    "shares_outstanding": 39100000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 16-APR-2026",
+      "name": "United States Treasury Bills 0.0% 16-APR-2026",
+      "weight": 6.85
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 14-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 14-MAY-2026",
+      "weight": 6.81
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 19-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 19-MAR-2026",
+      "weight": 6.72
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 23-APR-2026",
+      "name": "United States Treasury Bills 0.0% 23-APR-2026",
+      "weight": 4.21
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 30-APR-2026",
+      "name": "United States Treasury Bills 0.0% 30-APR-2026",
+      "weight": 4.21
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 07-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 07-MAY-2026",
+      "weight": 4.17
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 21-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 21-MAY-2026",
+      "weight": 4.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 28-MAY-2026",
+      "name": "United States Treasury Bills 0.0% 28-MAY-2026",
+      "weight": 4.16
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 09-APR-2026",
+      "name": "United States Treasury Bills 0.0% 09-APR-2026",
+      "weight": 4.09
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 05-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 05-MAR-2026",
+      "weight": 4.07
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 12-MAR-2026",
+      "weight": 4.07
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 26-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 26-MAR-2026",
+      "weight": 4.06
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-APR-2026",
+      "name": "United States Treasury Bills 0.0% 02-APR-2026",
+      "weight": 3.96
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 31-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 31-MAR-2026",
+      "weight": 3.77
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 10-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 10-MAR-2026",
+      "weight": 3.76
+    }
+  ]
+}

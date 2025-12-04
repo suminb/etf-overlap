@@ -1,0 +1,100 @@
+{
+  "symbol": "FNDC",
+  "name": "Schwab Fundamental International Small Equity ETF",
+  "last_updated": "2025-12-04T17:48:40.004Z",
+  "profile": {
+    "name": "Schwab Fundamental International Small Equity ETF",
+    "issuer": "The Charles Schwab Corp.",
+    "brand": "Schwab",
+    "structure": "ETF",
+    "expense_ratio": 0.0039000000000000003,
+    "inception_date": "Aug 15, 2013",
+    "index_tracked": "RAFI Fundamental High Liquidity Developed ex US Small Index - Benchmark TR Net",
+    "home_page": "https://www.schwabetfs.com/summary.asp?symbol=FNDC",
+    "category": "Foreign Small & Mid Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3001500000,
+    "shares_outstanding": 66700000
+  },
+  "holdings": [
+    {
+      "symbol": "CLS",
+      "name": "Celestica Inc.",
+      "weight": 0.32
+    },
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd",
+      "weight": 0.26
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.23
+    },
+    {
+      "symbol": "AAF",
+      "name": "Airtel Africa Plc",
+      "weight": 0.23
+    },
+    {
+      "symbol": "4062",
+      "name": "IBIDEN CO., LTD.",
+      "weight": 0.22
+    },
+    {
+      "symbol": "SSRM",
+      "name": "SSR Mining Inc",
+      "weight": 0.2
+    },
+    {
+      "symbol": "EVN",
+      "name": "Evolution Mining Limited",
+      "weight": 0.2
+    },
+    {
+      "symbol": "SXS",
+      "name": "Spectris plc",
+      "weight": 0.2
+    },
+    {
+      "symbol": "1893",
+      "name": "Penta-Ocean Construction Co., Ltd.",
+      "weight": 0.2
+    },
+    {
+      "symbol": "000150",
+      "name": "Doosan Corporation",
+      "weight": 0.19
+    },
+    {
+      "symbol": "5076",
+      "name": "INFRONEER Holdings Inc.",
+      "weight": 0.19
+    },
+    {
+      "symbol": "SZG",
+      "name": "Salzgitter AG",
+      "weight": 0.19
+    },
+    {
+      "symbol": "1944",
+      "name": "Kinden Corporation",
+      "weight": 0.19
+    },
+    {
+      "symbol": "1177",
+      "name": "Sino Biopharmaceutical Limited",
+      "weight": 0.19
+    },
+    {
+      "symbol": "009540",
+      "name": "HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO. LTD.",
+      "weight": 0.19
+    }
+  ]
+}

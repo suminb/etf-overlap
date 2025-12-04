@@ -1,0 +1,102 @@
+{
+  "symbol": "IHI",
+  "name": "iShares U.S. Medical Devices ETF",
+  "last_updated": "2025-12-04T17:20:07.356Z",
+  "profile": {
+    "name": "iShares U.S. Medical Devices ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "May 01, 2006",
+    "index_tracked": "DJ US Select / Medical Equipment",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IHI.htm?qt=IHI",
+    "category": "Health & Biotech Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Healthcare",
+    "sector_specific": "Medical Devices",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4261900000,
+    "shares_outstanding": 67500000
+  },
+  "holdings": [
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "weight": 17.19
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "weight": 16.1
+    },
+    {
+      "symbol": "BSX",
+      "name": "Boston Scientific Corporation",
+      "weight": 11.51
+    },
+    {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories, Inc.",
+      "weight": 4.94
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "weight": 4.79
+    },
+    {
+      "symbol": "EW",
+      "name": "Edwards Lifesciences Corporation",
+      "weight": 4.66
+    },
+    {
+      "symbol": "BDX",
+      "name": "Becton, Dickinson and Company",
+      "weight": 4.46
+    },
+    {
+      "symbol": "GEHC",
+      "name": "GE Healthcare Technologies Inc.",
+      "weight": 4.39
+    },
+    {
+      "symbol": "SYK",
+      "name": "Stryker Corporation",
+      "weight": 4.15
+    },
+    {
+      "symbol": "RMD",
+      "name": "ResMed Inc.",
+      "weight": 4.03
+    },
+    {
+      "symbol": "STE",
+      "name": "STERIS plc",
+      "weight": 2.94
+    },
+    {
+      "symbol": "DXCM",
+      "name": "DexCom, Inc.",
+      "weight": 2.93
+    },
+    {
+      "symbol": "PODD",
+      "name": "Insulet Corporation",
+      "weight": 2.49
+    },
+    {
+      "symbol": "ZBH",
+      "name": "Zimmer Biomet Holdings, Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "HOLX",
+      "name": "Hologic, Inc.",
+      "weight": 1.92
+    }
+  ]
+}

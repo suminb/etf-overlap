@@ -1,0 +1,102 @@
+{
+  "symbol": "COPX",
+  "name": "Global X Copper Miners ETF",
+  "last_updated": "2025-12-04T17:34:16.508Z",
+  "profile": {
+    "name": "Global X Copper Miners ETF",
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "Apr 19, 2010",
+    "index_tracked": "Stuttgart Solactive AG Global Copper Miners (USD)",
+    "home_page": "http://globalxfunds.com/COPX",
+    "category": "Materials",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Copper Miners",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 3402900000,
+    "shares_outstanding": 55100000
+  },
+  "holdings": [
+    {
+      "symbol": "LUN",
+      "name": "Lundin Mining Corporation",
+      "weight": 5.45
+    },
+    {
+      "symbol": "KGH",
+      "name": "KGHM Polska Miedz S.A.",
+      "weight": 5.18
+    },
+    {
+      "symbol": "BOL",
+      "name": "Boliden AB",
+      "weight": 5
+    },
+    {
+      "symbol": "SCCO",
+      "name": "Southern Copper Corporation",
+      "weight": 4.7
+    },
+    {
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan, Inc.",
+      "weight": 4.68
+    },
+    {
+      "symbol": "GLEN",
+      "name": "Glencore plc",
+      "weight": 4.6
+    },
+    {
+      "symbol": "ANTO",
+      "name": "Antofagasta plc",
+      "weight": 4.6
+    },
+    {
+      "symbol": "FM",
+      "name": "First Quantum Minerals Ltd.",
+      "weight": 4.57
+    },
+    {
+      "symbol": "2899",
+      "name": "Zijin Mining Group Co., Ltd. Class H",
+      "weight": 4.5
+    },
+    {
+      "symbol": "TECK.B",
+      "name": "Teck Resources Limited Class B",
+      "weight": 4.48
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 4.43
+    },
+    {
+      "symbol": "IVN",
+      "name": "Ivanhoe Mines Ltd. Class A",
+      "weight": 4.4
+    },
+    {
+      "symbol": "HBM",
+      "name": "Hudbay Minerals Inc",
+      "weight": 4.39
+    },
+    {
+      "symbol": "5713",
+      "name": "Sumitomo Metal Mining Co., Ltd.",
+      "weight": 4.04
+    },
+    {
+      "symbol": "CGG",
+      "name": "China Gold International Resources Corp. Ltd.",
+      "weight": 3.53
+    }
+  ]
+}

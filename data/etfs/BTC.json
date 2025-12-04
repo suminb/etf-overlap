@@ -1,0 +1,28 @@
+{
+  "symbol": "BTC",
+  "name": "Grayscale Bitcoin Mini Trust ETF",
+  "last_updated": "2025-12-04T17:17:47.558Z",
+  "profile": {
+    "name": "Grayscale Bitcoin Mini Trust ETF",
+    "issuer": "Digital Currency Group, Inc.",
+    "brand": "Grayscale",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Jul 31, 2024",
+    "index_tracked": "CoinDesk Bitcoin Price Index",
+    "home_page": "https://etfs.grayscale.com/btc?gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG98sIjjxdLXKlUgJNqIqMWRPUPE-MvdjMww4gNe77X5FEuzEZQnMbhoCZ7AQAvD_BwE",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 4430400000,
+    "shares_outstanding": 109900000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

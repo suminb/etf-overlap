@@ -1,0 +1,102 @@
+{
+  "symbol": "GNR",
+  "name": "SPDR S&P Global Natural Resources ETF",
+  "last_updated": "2025-12-04T17:29:37.130Z",
+  "profile": {
+    "name": "SPDR S&P Global Natural Resources ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Sep 13, 2010",
+    "index_tracked": "S&P Global Natural Resources Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=GNR",
+    "category": "Commodity Producers Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Natural Resources",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3655800000,
+    "shares_outstanding": 60200000
+  },
+  "holdings": [
+    {
+      "symbol": "NTR",
+      "name": "Nutrien Ltd.",
+      "weight": 5.1
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 4.61
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 4.55
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 4.29
+    },
+    {
+      "symbol": "NEM",
+      "name": "Newmont Corporation",
+      "weight": 3.01
+    },
+    {
+      "symbol": "UPM",
+      "name": "UPM-Kymmene Oyj",
+      "weight": 2.98
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 2.94
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "weight": 2.68
+    },
+    {
+      "symbol": "AEM",
+      "name": "Agnico Eagle Mines Limited",
+      "weight": 2.59
+    },
+    {
+      "symbol": "RIGD",
+      "name": "Reliance Industries Ltd Sponsored GDR 144A",
+      "weight": 2.47
+    },
+    {
+      "symbol": "CTVA",
+      "name": "Corteva Inc",
+      "weight": 2.46
+    },
+    {
+      "symbol": "ABX",
+      "name": "Barrick Mining Corporation",
+      "weight": 2.12
+    },
+    {
+      "symbol": "BP",
+      "name": "BP PLC",
+      "weight": 2.05
+    },
+    {
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan, Inc.",
+      "weight": 1.87
+    },
+    {
+      "symbol": "ADM",
+      "name": "Archer-Daniels-Midland Company",
+      "weight": 1.6
+    }
+  ]
+}

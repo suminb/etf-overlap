@@ -1,0 +1,100 @@
+{
+  "symbol": "EWC",
+  "name": "iShares MSCI Canada ETF",
+  "last_updated": "2025-12-04T17:32:07.667Z",
+  "profile": {
+    "name": "iShares MSCI Canada ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Mar 12, 1996",
+    "index_tracked": "MSCI Canada Custom Capped",
+    "home_page": "http://www.ishares.com/us/products/239615/ishares-msci-canada-etf?qt=EWC",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "Canada",
+    "aum": 3495200000,
+    "shares_outstanding": 67000000
+  },
+  "holdings": [
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 8.03
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify, Inc. Class A",
+      "weight": 7.02
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 5.44
+    },
+    {
+      "symbol": "ENB",
+      "name": "Enbridge Inc.",
+      "weight": 3.85
+    },
+    {
+      "symbol": "BN",
+      "name": "Brookfield Corporation",
+      "weight": 3.37
+    },
+    {
+      "symbol": "BMO",
+      "name": "Bank of Montreal",
+      "weight": 3.34
+    },
+    {
+      "symbol": "BNS",
+      "name": "Bank of Nova Scotia",
+      "weight": 3.23
+    },
+    {
+      "symbol": "AEM",
+      "name": "Agnico Eagle Mines Limited",
+      "weight": 3.14
+    },
+    {
+      "symbol": "CM",
+      "name": "Canadian Imperial Bank of Commerce",
+      "weight": 2.99
+    },
+    {
+      "symbol": "ABX",
+      "name": "Barrick Mining Corporation",
+      "weight": 2.59
+    },
+    {
+      "symbol": "CNQ",
+      "name": "Canadian Natural Resources Limited",
+      "weight": 2.59
+    },
+    {
+      "symbol": "CP",
+      "name": "Canadian Pacific Kansas City Limited",
+      "weight": 2.46
+    },
+    {
+      "symbol": "MFC",
+      "name": "Manulife Financial Corporation",
+      "weight": 2.21
+    },
+    {
+      "symbol": "TRP",
+      "name": "TC Energy Corporation",
+      "weight": 2.05
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy Inc.",
+      "weight": 2
+    }
+  ]
+}

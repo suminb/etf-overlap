@@ -1,0 +1,102 @@
+{
+  "symbol": "IFRA",
+  "name": "iShares U.S. Infrastructure ETF",
+  "last_updated": "2025-12-04T17:36:57.990Z",
+  "profile": {
+    "name": "iShares U.S. Infrastructure ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Apr 03, 2018",
+    "index_tracked": "NYSE FactSet U.S. Infrastructure Index",
+    "home_page": "https://www.ishares.com/us/products/294315/",
+    "category": "Utilities Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Utilities",
+    "sector_specific": "Infrastructure",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3136100000,
+    "shares_outstanding": 59600000
+  },
+  "holdings": [
+    {
+      "symbol": "AGX",
+      "name": "Argan, Inc.",
+      "weight": 0.95
+    },
+    {
+      "symbol": "MDU",
+      "name": "MDU Resources Group, Inc.",
+      "weight": 0.93
+    },
+    {
+      "symbol": "TGB",
+      "name": "Taseko Mines Limited",
+      "weight": 0.9
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "weight": 0.89
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "weight": 0.89
+    },
+    {
+      "symbol": "BKH",
+      "name": "Black Hills Corporation",
+      "weight": 0.89
+    },
+    {
+      "symbol": "POR",
+      "name": "Portland General Electric Company",
+      "weight": 0.86
+    },
+    {
+      "symbol": "NWE",
+      "name": "NorthWestern Energy Group, Inc.",
+      "weight": 0.86
+    },
+    {
+      "symbol": "NWN",
+      "name": "Northwest Natural Holding Co.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "DTM",
+      "name": "DT Midstream, Inc.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "NRG",
+      "name": "NRG Energy, Inc.",
+      "weight": 0.84
+    },
+    {
+      "symbol": "SRE",
+      "name": "Sempra",
+      "weight": 0.83
+    },
+    {
+      "symbol": "SR",
+      "name": "Spire Inc.",
+      "weight": 0.83
+    },
+    {
+      "symbol": "CSX",
+      "name": "CSX Corporation",
+      "weight": 0.82
+    },
+    {
+      "symbol": "AEP",
+      "name": "American Electric Power Company, Inc.",
+      "weight": 0.81
+    }
+  ]
+}

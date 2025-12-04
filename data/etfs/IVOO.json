@@ -1,0 +1,100 @@
+{
+  "symbol": "IVOO",
+  "name": "Vanguard S&P Mid-Cap 400 ETF",
+  "last_updated": "2025-12-04T17:50:34.942Z",
+  "profile": {
+    "name": "Vanguard S&P Mid-Cap 400 ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Sep 07, 2010",
+    "index_tracked": "S&P MidCap 400 Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/ivoo/vanguard-sp-mid-cap-400-etf",
+    "category": "Small Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2945400000,
+    "shares_outstanding": 26500000
+  },
+  "holdings": [
+    {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "weight": 1.09
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 0.98
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "weight": 0.86
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "weight": 0.75
+    },
+    {
+      "symbol": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "weight": 0.72
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio, Inc. Class A",
+      "weight": 0.66
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 0.66
+    },
+    {
+      "symbol": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "weight": 0.64
+    },
+    {
+      "symbol": "GWRE",
+      "name": "Guidewire Software, Inc.",
+      "weight": 0.63
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 0.62
+    },
+    {
+      "symbol": "NTNX",
+      "name": "Nutanix, Inc. Class A",
+      "weight": 0.61
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey\\'s General Stores, Inc.",
+      "weight": 0.61
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "weight": 0.61
+    },
+    {
+      "symbol": "RBA",
+      "name": "RB Global, Inc.",
+      "weight": 0.59
+    },
+    {
+      "symbol": "NVT",
+      "name": "nVent Electric plc",
+      "weight": 0.59
+    }
+  ]
+}

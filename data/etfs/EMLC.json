@@ -1,0 +1,98 @@
+{
+  "symbol": "EMLC",
+  "name": "VanEck J. P. Morgan EM Local Currency Bond ETF",
+  "last_updated": "2025-12-04T17:21:15.110Z",
+  "profile": {
+    "name": "VanEck J. P. Morgan EM Local Currency Bond ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Jul 22, 2010",
+    "index_tracked": "J.P. Morgan Government Bond Index Emerging Markets Global Core Index",
+    "home_page": "http://www.vaneck.com/funds/EMLC.aspx",
+    "category": "Emerging Markets Bonds",
+    "asset_class": "Bond",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 4123700000,
+    "shares_outstanding": 161300000
+  },
+  "holdings": [
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 00 01-JUL-2026",
+      "name": "Government of Brazil 0.0% 01-JUL-2026",
+      "weight": 0.94
+    },
+    {
+      "symbol": "GOVERNMENT OF MEXICO 775 29-MAY-2031",
+      "name": "Government of Mexico 7.75% 29-MAY-2031",
+      "weight": 0.83
+    },
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 100 01-JAN-2031",
+      "name": "Government of Brazil 10.0% 01-JAN-2031",
+      "weight": 0.81
+    },
+    {
+      "symbol": "GOVERNMENT OF SOUTH AFRICA 875 28-FEB-2049",
+      "name": "Government of South Africa 8.75% 28-FEB-2049",
+      "weight": 0.78
+    },
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 100 01-JAN-2027",
+      "name": "Government of Brazil 10.0% 01-JAN-2027",
+      "weight": 0.77
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.74
+    },
+    {
+      "symbol": "GOVERNMENT OF TURKEY 300 12-SEP-2029",
+      "name": "Government of Turkey 30.0% 12-SEP-2029",
+      "weight": 0.72
+    },
+    {
+      "symbol": "GOVERNMENT OF MEXICO 775 23-NOV-2034",
+      "name": "Government of Mexico 7.75% 23-NOV-2034",
+      "weight": 0.72
+    },
+    {
+      "symbol": "GOVERNMENT OF SOUTH AFRICA 8875 28-FEB-2035",
+      "name": "Government of South Africa 8.875% 28-FEB-2035",
+      "weight": 0.69
+    },
+    {
+      "symbol": "GOVERNMENT OF SOUTH AFRICA 825 31-MAR-2032",
+      "name": "Government of South Africa 8.25% 31-MAR-2032",
+      "weight": 0.69
+    },
+    {
+      "symbol": "GOVERNMENT OF SOUTH AFRICA 80 31-JAN-2030",
+      "name": "Government of South Africa 8.0% 31-JAN-2030",
+      "weight": 0.68
+    },
+    {
+      "symbol": "GOVERNMENT OF MEXICO 775 13-NOV-2042",
+      "name": "Government of Mexico 7.75% 13-NOV-2042",
+      "weight": 0.66
+    },
+    {
+      "symbol": "GOVERNMENT OF MEXICO 80 31-JUL-2053",
+      "name": "Government of Mexico 8.0% 31-JUL-2053",
+      "weight": 0.66
+    },
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 00 01-JAN-2029",
+      "name": "Government of Brazil 0.0% 01-JAN-2029",
+      "weight": 0.65
+    },
+    {
+      "symbol": "GOVERNMENT OF BRAZIL 100 01-JAN-2029",
+      "name": "Government of Brazil 10.0% 01-JAN-2029",
+      "weight": 0.65
+    }
+  ]
+}

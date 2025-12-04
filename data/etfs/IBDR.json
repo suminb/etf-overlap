@@ -1,0 +1,98 @@
+{
+  "symbol": "IBDR",
+  "name": "iShares iBonds Dec 2026 Term Corporate ETF",
+  "last_updated": "2025-12-04T17:31:12.104Z",
+  "profile": {
+    "name": "iShares iBonds Dec 2026 Term Corporate ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 13, 2016",
+    "index_tracked": "Bloomberg December 2026 Maturity Corporate",
+    "home_page": "https://www.ishares.com/us/products/285027/IBDR",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3550500000,
+    "shares_outstanding": 146700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.6
+    },
+    {
+      "symbol": "BOEING COMPANY 2196 04-FEB-2026",
+      "name": "Boeing Company 2.196% 04-FEB-2026",
+      "weight": 0.9
+    },
+    {
+      "symbol": "ABBVIE INC 295 21-NOV-2026",
+      "name": "AbbVie Inc. 2.95% 21-NOV-2026",
+      "weight": 0.69
+    },
+    {
+      "symbol": "MICROSOFT CORPORATION 24 08-AUG-2026",
+      "name": "Microsoft Corporation 2.4% 08-AUG-2026",
+      "weight": 0.67
+    },
+    {
+      "symbol": "AERCAP IRELAND CAPITAL DESIGNATED ACTIVITY COMPANY",
+      "name": "AerCap Ireland Capital Designated Activity Company 2.45% 29-OCT-2026",
+      "weight": 0.65
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 30 23-OCT-2026",
+      "name": "Wells Fargo & Company 3.0% 23-OCT-2026",
+      "weight": 0.59
+    },
+    {
+      "symbol": "APPLE INC 325 23-FEB-2026",
+      "name": "Apple Inc. 3.25% 23-FEB-2026",
+      "weight": 0.59
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 30 22-APR-2026",
+      "name": "Wells Fargo & Company 3.0% 22-APR-2026",
+      "weight": 0.58
+    },
+    {
+      "symbol": "ORACLE CORPORATION 265 15-JUL-2026",
+      "name": "Oracle Corporation 2.65% 15-JUL-2026",
+      "weight": 0.51
+    },
+    {
+      "symbol": "PFIZER INVESTMENT ENTERPRISES PTE LTD 445 19-M",
+      "name": "Pfizer Investment Enterprises Pte. Ltd. 4.45% 19-MAY-2026",
+      "weight": 0.51
+    },
+    {
+      "symbol": "JPMORGAN CHASE  CO 295 01-OCT-2026",
+      "name": "JPMorgan Chase & Co. 2.95% 01-OCT-2026",
+      "weight": 0.5
+    },
+    {
+      "symbol": "CITIGROUP INC 32 21-OCT-2026",
+      "name": "Citigroup Inc. 3.2% 21-OCT-2026",
+      "weight": 0.5
+    },
+    {
+      "symbol": "MORGAN STANLEY 3125 27-JUL-2026",
+      "name": "Morgan Stanley 3.125% 27-JUL-2026",
+      "weight": 0.49
+    },
+    {
+      "symbol": "MORGAN STANLEY 3875 27-JAN-2026",
+      "name": "Morgan Stanley 3.875% 27-JAN-2026",
+      "weight": 0.49
+    },
+    {
+      "symbol": "GILEAD SCIENCES INC 365 01-MAR-2026",
+      "name": "Gilead Sciences, Inc. 3.65% 01-MAR-2026",
+      "weight": 0.48
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "symbol": "CGMU",
+  "name": "Capital Group Municipal Income ETF",
+  "last_updated": "2025-12-04T17:16:30.406Z",
+  "profile": {
+    "name": "Capital Group Municipal Income ETF",
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "structure": "ETF",
+    "expense_ratio": 0.0027,
+    "inception_date": "Oct 25, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgmu",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4541200000,
+    "shares_outstanding": 166300000
+  },
+  "holdings": [
+    {
+      "symbol": "TRIBOROUGH BRDG  TUNL AUTH N Y REVS VAR 01-JAN-20",
+      "name": "Triborough Brdg & Tunl Auth N Y Revs VAR 01-JAN-2035",
+      "weight": 0.79
+    },
+    {
+      "symbol": "BLACK BELT ENERGY GAS DIST ALA GAS PROJ REV VAR 01",
+      "name": "Black Belt Energy Gas Dist Ala Gas Proj Rev VAR 01-DEC-2055",
+      "weight": 0.69
+    },
+    {
+      "symbol": "PHOENIX ARIZ INDL DEV AUTH HEALTH CARE FACS REV VA",
+      "name": "Phoenix Ariz Indl Dev Auth Health Care Facs Rev VAR 15-NOV-2052",
+      "weight": 0.56
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.54
+    },
+    {
+      "symbol": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 432",
+      "name": "Puerto Rico Sales Tax Fing Corp Sales Tax Rev 4.329% 01-JUL-2040",
+      "weight": 0.49
+    },
+    {
+      "symbol": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH REV VAR 01",
+      "name": "New York N Y City Transitional Fin Auth Rev VAR 01-AUG-2042",
+      "weight": 0.49
+    },
+    {
+      "symbol": "MONTGOMERY CNTY MD VAR 01-NOV-2037",
+      "name": "Montgomery Cnty Md VAR 01-NOV-2037",
+      "weight": 0.47
+    },
+    {
+      "symbol": "UNIVERSITY TEX UNIV REVS 50 15-AUG-2036",
+      "name": "University Tex Univ Revs 5.0% 15-AUG-2036",
+      "weight": 0.46
+    },
+    {
+      "symbol": "UTAH TRAN AUTH SALES TAX REV 50 15-DEC-2044",
+      "name": "Utah Tran Auth Sales Tax Rev 5.0% 15-DEC-2044",
+      "weight": 0.42
+    },
+    {
+      "symbol": "SUBLETTE CNTY WYO POLLUTION CTL REV VAR 01-OCT-204",
+      "name": "Sublette Cnty Wyo Pollution Ctl Rev VAR 01-OCT-2044",
+      "weight": 0.41
+    },
+    {
+      "symbol": "NEW YORK N Y CITY MUN WTR FIN AUTH WTR  SWR SYSRE",
+      "name": "New York N Y City Mun Wtr Fin Auth Wtr & Swr Sysrev VAR 15-JUN-2050",
+      "weight": 0.41
+    },
+    {
+      "symbol": "SOUTHEAST ENERGY AUTH COOP DIST ALA ENERGY SUPPLY",
+      "name": "Southeast Energy Auth Coop Dist Ala Energy Supply Rev VAR 01-OCT-2055",
+      "weight": 0.41
+    },
+    {
+      "symbol": "BLACK BELT ENERGY GAS DIST ALA GAS PROJ REV 50 0",
+      "name": "Black Belt Energy Gas Dist Ala Gas Proj Rev 5.0% 01-OCT-2035",
+      "weight": 0.38
+    },
+    {
+      "symbol": "PUERTO RICO COMWLTH VAR 01-NOV-2051",
+      "name": "Puerto Rico Comwlth VAR 01-NOV-2051",
+      "weight": 0.38
+    },
+    {
+      "symbol": "HOUSTON TEX ARPT SYS REV 50 01-JUL-2031",
+      "name": "Houston Tex Arpt Sys Rev 5.0% 01-JUL-2031",
+      "weight": 0.37
+    }
+  ]
+}

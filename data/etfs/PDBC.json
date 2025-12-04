@@ -1,0 +1,31 @@
+{
+  "symbol": "PDBC",
+  "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+  "last_updated": "2025-12-04T17:16:07.580Z",
+  "profile": {
+    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0059,
+    "inception_date": "Nov 07, 2014",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.invesco.com/portal/site/us/financial-professional/etfs/product-detail?productId=PDBC",
+    "category": "Commodities",
+    "asset_class": "Commodity",
+    "aum": 4613900000,
+    "shares_outstanding": 337000000
+  },
+  "holdings": [
+    {
+      "symbol": "IUGXX",
+      "name": "AIM Treasurers Series Funds Inc Premier US Government Money Portfolio Institutional",
+      "weight": 82.46
+    },
+    {
+      "symbol": "MUTUAL FUND OTHER",
+      "name": "MUTUAL FUND (OTHER)",
+      "weight": 17.54
+    }
+  ]
+}

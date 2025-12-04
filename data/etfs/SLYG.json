@@ -1,0 +1,100 @@
+{
+  "symbol": "SLYG",
+  "name": "State Street SPDR S&P 600 Small Cap Growth ETF",
+  "last_updated": "2025-12-04T17:30:23.607Z",
+  "profile": {
+    "name": "State Street SPDR S&P 600 Small Cap Growth ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0015,
+    "inception_date": "Sep 25, 2000",
+    "index_tracked": "S&P SmallCap 600 Growth Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=SLYG",
+    "category": "Small Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Micro-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3594800000,
+    "shares_outstanding": 38100000
+  },
+  "holdings": [
+    {
+      "symbol": "SPXC",
+      "name": "SPX Technologies, Inc.",
+      "weight": 1.39
+    },
+    {
+      "symbol": "DY",
+      "name": "Dycom Industries, Inc.",
+      "weight": 1.38
+    },
+    {
+      "symbol": "IDCC",
+      "name": "InterDigital, Inc.",
+      "weight": 1.17
+    },
+    {
+      "symbol": "AWI",
+      "name": "Armstrong World Industries, Inc.",
+      "weight": 1.1
+    },
+    {
+      "symbol": "CORT",
+      "name": "Corcept Therapeutics Incorporated.",
+      "weight": 1.02
+    },
+    {
+      "symbol": "ZWS",
+      "name": "Zurn Elkay Water Solutions Corporation",
+      "weight": 0.96
+    },
+    {
+      "symbol": "FSS",
+      "name": "Federal Signal Corporation",
+      "weight": 0.92
+    },
+    {
+      "symbol": "SITM",
+      "name": "SiTime Corporation",
+      "weight": 0.91
+    },
+    {
+      "symbol": "EAT",
+      "name": "Brinker International, Inc.",
+      "weight": 0.89
+    },
+    {
+      "symbol": "MOG.A",
+      "name": "Moog Inc. Class A",
+      "weight": 0.87
+    },
+    {
+      "symbol": "SMTC",
+      "name": "Semtech Corporation",
+      "weight": 0.85
+    },
+    {
+      "symbol": "PTCT",
+      "name": "PTC Therapeutics, Inc.",
+      "weight": 0.84
+    },
+    {
+      "symbol": "EPRT",
+      "name": "Essential Properties Realty Trust, Inc.",
+      "weight": 0.83
+    },
+    {
+      "symbol": "MIR",
+      "name": "Mirion Technologies, Inc. Class A",
+      "weight": 0.82
+    },
+    {
+      "symbol": "GKOS",
+      "name": "Glaukos Corp",
+      "weight": 0.82
+    }
+  ]
+}

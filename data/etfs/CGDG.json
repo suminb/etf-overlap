@@ -1,0 +1,94 @@
+{
+  "symbol": "CGDG",
+  "name": "Capital Group Dividend Growers ETF",
+  "last_updated": "2025-12-04T17:25:07.547Z",
+  "profile": {
+    "name": "Capital Group Dividend Growers ETF",
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Sep 26, 2023",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 3820200000,
+    "shares_outstanding": 108100000
+  },
+  "holdings": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 4.18
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 4.06
+    },
+    {
+      "symbol": "CMQXX",
+      "name": "Capital Group Central Fund Series M Cash Fund",
+      "weight": 2.92
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "weight": 2.58
+    },
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International, Inc. Class A",
+      "weight": 1.83
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 1.81
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.8
+    },
+    {
+      "symbol": "D05",
+      "name": "DBS Group Holdings Ltd",
+      "weight": 1.77
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 1.77
+    },
+    {
+      "symbol": "CNP",
+      "name": "CenterPoint Energy, Inc.",
+      "weight": 1.75
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "weight": 1.75
+    },
+    {
+      "symbol": "TEL",
+      "name": "TE Connectivity plc",
+      "weight": 1.7
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 1.65
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.64
+    }
+  ]
+}

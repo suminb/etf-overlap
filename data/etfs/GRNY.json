@@ -1,0 +1,94 @@
+{
+  "symbol": "GRNY",
+  "name": "Fundstrat Granny Shots US Large Cap ETF",
+  "last_updated": "2025-12-04T17:26:40.831Z",
+  "profile": {
+    "name": "Fundstrat Granny Shots US Large Cap ETF",
+    "issuer": "Tidal Financial Group",
+    "brand": "Fundstrat",
+    "expense_ratio": 0.0075,
+    "inception_date": "Nov 07, 2024",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 3773100000,
+    "shares_outstanding": 151900000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.88
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.79
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 2.75
+    },
+    {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corporation",
+      "weight": 2.71
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 2.7
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "weight": 2.7
+    },
+    {
+      "symbol": "PNC",
+      "name": "PNC Financial Services Group, Inc.",
+      "weight": 2.68
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "weight": 2.65
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "weight": 2.61
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.6
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "weight": 2.58
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 2.58
+    },
+    {
+      "symbol": "BK",
+      "name": "Bank of New York Mellon Corp",
+      "weight": 2.56
+    }
+  ]
+}

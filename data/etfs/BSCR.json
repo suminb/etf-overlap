@@ -1,0 +1,98 @@
+{
+  "symbol": "BSCR",
+  "name": "Invesco BulletShares 2027 Corporate Bond ETF",
+  "last_updated": "2025-12-04T17:18:16.241Z",
+  "profile": {
+    "name": "Invesco BulletShares 2027 Corporate Bond ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 27, 2017",
+    "index_tracked": "Invesco BulletShares Corporate Bond 2027 Index",
+    "home_page": "https://www.guggenheiminvestments.com/etf/fund/bscr-guggenheim-bulletshares-2027-corporate-bond-etf",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4346000000,
+    "shares_outstanding": 220400000
+  },
+  "holdings": [
+    {
+      "symbol": "MICROSOFT CORPORATION 33 06-FEB-2027",
+      "name": "Microsoft Corporation 3.3% 06-FEB-2027",
+      "weight": 0.87
+    },
+    {
+      "symbol": "CITIGROUP INC 445 29-SEP-2027",
+      "name": "Citigroup Inc. 4.45% 29-SEP-2027",
+      "weight": 0.84
+    },
+    {
+      "symbol": "AMAZONCOM INC 315 22-AUG-2027",
+      "name": "Amazon.com, Inc. 3.15% 22-AUG-2027",
+      "weight": 0.75
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 385 26-JAN-2027",
+      "name": "Goldman Sachs Group, Inc. 3.85% 26-JAN-2027",
+      "weight": 0.65
+    },
+    {
+      "symbol": "MORGAN STANLEY 3625 20-JAN-2027",
+      "name": "Morgan Stanley 3.625% 20-JAN-2027",
+      "weight": 0.65
+    },
+    {
+      "symbol": "ORACLE CORPORATION 325 15-NOV-2027",
+      "name": "Oracle Corporation 3.25% 15-NOV-2027",
+      "weight": 0.59
+    },
+    {
+      "symbol": "META PLATFORMS INC 35 15-AUG-2027",
+      "name": "Meta Platforms, Inc. 3.5% 15-AUG-2027",
+      "weight": 0.58
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 43 22-JUL-2027",
+      "name": "Wells Fargo & Company 4.3% 22-JUL-2027",
+      "weight": 0.55
+    },
+    {
+      "symbol": "ATT INC 23 01-JUN-2027",
+      "name": "AT&T Inc. 2.3% 01-JUN-2027",
+      "weight": 0.53
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 3248 21-OCT-2027",
+      "name": "Bank of America Corporation 3.248% 21-OCT-2027",
+      "weight": 0.53
+    },
+    {
+      "symbol": "CENTENE CORPORATION 425 15-DEC-2027",
+      "name": "Centene Corporation 4.25% 15-DEC-2027",
+      "weight": 0.51
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 4125 16-MAR-2027",
+      "name": "Verizon Communications Inc. 4.125% 16-MAR-2027",
+      "weight": 0.5
+    },
+    {
+      "symbol": "ABBVIE INC 48 15-MAR-2027",
+      "name": "AbbVie Inc. 4.8% 15-MAR-2027",
+      "weight": 0.5
+    },
+    {
+      "symbol": "CITIBANK NA 4576 29-MAY-2027",
+      "name": "Citibank, N.A. 4.576% 29-MAY-2027",
+      "weight": 0.5
+    },
+    {
+      "symbol": "APPLE INC 335 09-FEB-2027",
+      "name": "Apple Inc. 3.35% 09-FEB-2027",
+      "weight": 0.49
+    }
+  ]
+}

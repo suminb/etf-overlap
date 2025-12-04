@@ -1,7 +1,9 @@
 {
   "symbol": "FEZ",
-  "last_updated": "2025-11-30T17:22:18.410Z",
+  "name": "SPDR EURO STOXX 50 ETF",
+  "last_updated": "2025-12-04T17:14:36.054Z",
   "profile": {
+    "name": "SPDR EURO STOXX 50 ETF",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -15,79 +17,79 @@
     "asset_class_style": "Blend",
     "region_general": "Developed Europe",
     "region_specific": "Broad",
-    "aum": 4652800000,
-    "shares_outstanding": 75500000
+    "aum": 4775400000,
+    "shares_outstanding": 75700000
   },
   "holdings": [
     {
       "symbol": "ASML",
       "name": "ASML Holding NV",
-      "weight": 8.35
+      "weight": 8.94
     },
     {
       "symbol": "SAP",
       "name": "SAP SE",
-      "weight": 5.14
+      "weight": 5.12
     },
     {
       "symbol": "SIE",
       "name": "Siemens Aktiengesellschaft",
-      "weight": 4.2
+      "weight": 4.13
     },
     {
       "symbol": "MC",
       "name": "LVMH Moet Hennessy Louis Vuitton SE",
-      "weight": 3.86
+      "weight": 3.89
     },
     {
       "symbol": "ALV",
       "name": "Allianz SE",
-      "weight": 3.49
+      "weight": 3.47
     },
     {
       "symbol": "SAN",
       "name": "Banco Santander, S.A.",
-      "weight": 3.31
+      "weight": 3.39
     },
     {
       "symbol": "SU",
       "name": "Schneider Electric SE",
-      "weight": 3.18
+      "weight": 3.21
     },
     {
       "symbol": "TTE",
       "name": "TotalEnergies SE",
-      "weight": 3.16
+      "weight": 3.12
     },
     {
       "symbol": "AIR",
       "name": "Airbus SE",
-      "weight": 2.92
+      "weight": 2.71
     },
     {
       "symbol": "IBE",
       "name": "Iberdrola SA",
-      "weight": 2.72
+      "weight": 2.68
     },
     {
       "symbol": "SAF",
       "name": "Safran SA",
-      "weight": 2.64
+      "weight": 2.63
     },
     {
       "symbol": "BBVA",
       "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
-      "weight": 2.6
+      "weight": 2.62
     },
     {
       "symbol": "UCG",
       "name": "UniCredit S.p.A.",
-      "weight": 2.42
+      "weight": 2.46
     },
     {
       "symbol": "DTE",
       "name": "Deutsche Telekom AG",
-      "weight": 2.39
+      "weight": 2.34
     }
   ]
 }

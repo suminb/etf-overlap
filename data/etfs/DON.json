@@ -1,0 +1,100 @@
+{
+  "symbol": "DON",
+  "name": "WisdomTree U.S. MidCap Dividend Fund",
+  "last_updated": "2025-12-04T17:27:41.028Z",
+  "profile": {
+    "name": "WisdomTree U.S. MidCap Dividend Fund",
+    "issuer": "WisdomTree, Inc.",
+    "brand": "WisdomTree",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "Jun 16, 2006",
+    "index_tracked": "WisdomTree US MidCap Dividend Index",
+    "home_page": "http://www.wisdomtree.com/etfs/fund-details.asp?etfid=3",
+    "category": "Mid Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Mid-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3707100000,
+    "shares_outstanding": 71900000
+  },
+  "holdings": [
+    {
+      "symbol": "EVRG",
+      "name": "Evergy, Inc.",
+      "weight": 1.54
+    },
+    {
+      "symbol": "CNA",
+      "name": "CNA Financial Corporation",
+      "weight": 1.12
+    },
+    {
+      "symbol": "GLPI",
+      "name": "Gaming and Leisure Properties, Inc.",
+      "weight": 1.06
+    },
+    {
+      "symbol": "AFG",
+      "name": "American Financial Group, Inc.",
+      "weight": 1
+    },
+    {
+      "symbol": "TPR",
+      "name": "Tapestry, Inc.",
+      "weight": 0.98
+    },
+    {
+      "symbol": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "weight": 0.91
+    },
+    {
+      "symbol": "NI",
+      "name": "NiSource Inc",
+      "weight": 0.89
+    },
+    {
+      "symbol": "WPC",
+      "name": "W. P. Carey Inc.",
+      "weight": 0.89
+    },
+    {
+      "symbol": "LNT",
+      "name": "Alliant Energy Corporation",
+      "weight": 0.88
+    },
+    {
+      "symbol": "DTM",
+      "name": "DT Midstream, Inc.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "CG",
+      "name": "Carlyle Group Inc",
+      "weight": 0.83
+    },
+    {
+      "symbol": "HAS",
+      "name": "Hasbro, Inc.",
+      "weight": 0.81
+    },
+    {
+      "symbol": "FNF",
+      "name": "Fidelity National Financial, Inc. - FNF Group",
+      "weight": 0.81
+    },
+    {
+      "symbol": "OGE",
+      "name": "OGE Energy Corp.",
+      "weight": 0.8
+    },
+    {
+      "symbol": "AM",
+      "name": "Antero Midstream Corp.",
+      "weight": 0.8
+    }
+  ]
+}

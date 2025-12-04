@@ -1,0 +1,94 @@
+{
+  "symbol": "FESM",
+  "name": "Fidelity Enhanced Small Cap ETF",
+  "last_updated": "2025-12-04T17:37:49.172Z",
+  "profile": {
+    "name": "Fidelity Enhanced Small Cap ETF",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "expense_ratio": 0.0028000000000000004,
+    "inception_date": "Nov 20, 2023",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 3105800000,
+    "shares_outstanding": 82800000
+  },
+  "holdings": [
+    {
+      "symbol": "FIDELITY REVERE STREET TRUST CENTRAL CASH COLLATER",
+      "name": "Fidelity Revere Street Trust Central Cash Collateral Fund",
+      "weight": 4.44
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd.",
+      "weight": 1.12
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corporation Class A",
+      "weight": 1.04
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 1
+    },
+    {
+      "symbol": "FN",
+      "name": "Fabrinet",
+      "weight": 0.98
+    },
+    {
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 0.93
+    },
+    {
+      "symbol": "GH",
+      "name": "Guardant Health, Inc.",
+      "weight": 0.91
+    },
+    {
+      "symbol": "ANF",
+      "name": "Abercrombie & Fitch Co. Class A",
+      "weight": 0.86
+    },
+    {
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 0.85
+    },
+    {
+      "symbol": "CMC",
+      "name": "Commercial Metals Company",
+      "weight": 0.78
+    },
+    {
+      "symbol": "CTRE",
+      "name": "CareTrust REIT, Inc.",
+      "weight": 0.77
+    },
+    {
+      "symbol": "LUMN",
+      "name": "Lumen Technologies, Inc.",
+      "weight": 0.75
+    },
+    {
+      "symbol": "SANM",
+      "name": "Sanmina Corporation",
+      "weight": 0.74
+    },
+    {
+      "symbol": "ENS",
+      "name": "EnerSys",
+      "weight": 0.73
+    },
+    {
+      "symbol": "OPCH",
+      "name": "Option Care Health Inc",
+      "weight": 0.71
+    }
+  ]
+}

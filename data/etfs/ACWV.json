@@ -1,0 +1,100 @@
+{
+  "symbol": "ACWV",
+  "name": "iShares MSCI Global Min Vol Factor ETF",
+  "last_updated": "2025-12-04T17:34:28.362Z",
+  "profile": {
+    "name": "iShares MSCI Global Min Vol Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.002,
+    "inception_date": "Oct 18, 2011",
+    "index_tracked": "MSCI AC World Minimum Volatility (USD)",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/ACWV.htm?fundSearch=true&qt=ACWV",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3345200000,
+    "shares_outstanding": 27900000
+  },
+  "holdings": [
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 1.57
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.51
+    },
+    {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "weight": 1.4
+    },
+    {
+      "symbol": "MCK",
+      "name": "McKesson Corporation",
+      "weight": 1.23
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy Corporation",
+      "weight": 1.19
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 1.09
+    },
+    {
+      "symbol": "MSI",
+      "name": "Motorola Solutions, Inc.",
+      "weight": 1.09
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "weight": 1.05
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "9433",
+      "name": "KDDI Corporation",
+      "weight": 1.02
+    },
+    {
+      "symbol": "ROP",
+      "name": "Roper Technologies, Inc.",
+      "weight": 1.01
+    },
+    {
+      "symbol": "RSG",
+      "name": "Republic Services, Inc.",
+      "weight": 1.01
+    },
+    {
+      "symbol": "WM",
+      "name": "Waste Management, Inc.",
+      "weight": 0.99
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald\\'s Corporation",
+      "weight": 0.98
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 0.96
+    }
+  ]
+}

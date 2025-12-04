@@ -1,0 +1,102 @@
+{
+  "symbol": "NLR",
+  "name": "VanEck Uranium and Nuclear ETF",
+  "last_updated": "2025-12-04T17:30:37.280Z",
+  "profile": {
+    "name": "VanEck Uranium and Nuclear ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.005600000000000001,
+    "inception_date": "Aug 13, 2007",
+    "index_tracked": "MVIS Global Uranium & Nuclear Energy",
+    "home_page": "http://www.vaneck.com/funds/NLR.aspx?redirectVE=1&orig=http://www.vaneck.com/index.cfm?cat=3192&cGroup=ETF&LN=3-02&tkr=NLR&LN=3_02",
+    "category": "Alternative Energy Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Energy",
+    "sector_specific": "Nuclear Energy",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3535700000,
+    "shares_outstanding": 27800000
+  },
+  "holdings": [
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "weight": 8.26
+    },
+    {
+      "symbol": "CCO",
+      "name": "Cameco Corporation",
+      "weight": 8.1
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies, Inc.",
+      "weight": 5.81
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo Inc. Class A",
+      "weight": 5.45
+    },
+    {
+      "symbol": "NXE",
+      "name": "NexGen Energy Ltd.",
+      "weight": 5.26
+    },
+    {
+      "symbol": "LEU",
+      "name": "Centrus Energy Corp. Class A",
+      "weight": 4.74
+    },
+    {
+      "symbol": "KAP",
+      "name": "National Atomic Company Kazatomprom JSC Sponsored GDR RegS",
+      "weight": 4.74
+    },
+    {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise Group Inc",
+      "weight": 4.59
+    },
+    {
+      "symbol": "PCG",
+      "name": "PG&E Corporation",
+      "weight": 4.43
+    },
+    {
+      "symbol": "1816",
+      "name": "CGN Power Co., Ltd. Class H",
+      "weight": 4.32
+    },
+    {
+      "symbol": "DNN",
+      "name": "Denison Mines Corp.",
+      "weight": 4.26
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "weight": 3.86
+    },
+    {
+      "symbol": "PDN",
+      "name": "Paladin Energy Ltd",
+      "weight": 3.86
+    },
+    {
+      "symbol": "CEZ",
+      "name": "CEZ as",
+      "weight": 3.54
+    },
+    {
+      "symbol": "FORTUM",
+      "name": "Fortum Oyj",
+      "weight": 3.4
+    }
+  ]
+}

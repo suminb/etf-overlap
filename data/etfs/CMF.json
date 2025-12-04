@@ -1,0 +1,98 @@
+{
+  "symbol": "CMF",
+  "name": "iShares California Muni Bond ETF",
+  "last_updated": "2025-12-04T17:30:06.170Z",
+  "profile": {
+    "name": "iShares California Muni Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0008,
+    "inception_date": "Oct 04, 2007",
+    "index_tracked": "S&P California AMT-Free Municipal Bond Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/CMF.htm?qt=CMF",
+    "category": "California Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3610600000,
+    "shares_outstanding": 63100000
+  },
+  "holdings": [
+    {
+      "symbol": "UNIVERSITY CALIF REVS 55 15-MAY-2040",
+      "name": "University Calif Revs 5.5% 15-MAY-2040",
+      "weight": 0.61
+    },
+    {
+      "symbol": "LOS ANGELES CALIF UNI SCH DIST 50 01-JUL-2034",
+      "name": "Los Angeles Calif Uni Sch Dist 5.0% 01-JUL-2034",
+      "weight": 0.56
+    },
+    {
+      "symbol": "ORANGE CNTY CALIF WTR DIST REV CTFS PARTN VAR 01-A",
+      "name": "Orange Cnty Calif Wtr Dist Rev Ctfs Partn VAR 01-AUG-2042",
+      "weight": 0.55
+    },
+    {
+      "symbol": "CALIFORNIA EDL FACS AUTH REV 50 01-MAY-2045",
+      "name": "California Edl Facs Auth Rev 5.0% 01-MAY-2045",
+      "weight": 0.54
+    },
+    {
+      "symbol": "CALIFORNIA ST UNIV REV 55 01-NOV-2055",
+      "name": "California St Univ Rev 5.5% 01-NOV-2055",
+      "weight": 0.52
+    },
+    {
+      "symbol": "ANAHEIM CALIF HSG  PUB IMPT AUTH REV VAR 01-OCT-2",
+      "name": "Anaheim Calif Hsg & Pub Impt Auth Rev VAR 01-OCT-2054",
+      "weight": 0.45
+    },
+    {
+      "symbol": "UNIVERSITY CALIF REVS 50 15-MAY-2026",
+      "name": "University Calif Revs 5.0% 15-MAY-2026",
+      "weight": 0.42
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.39
+    },
+    {
+      "symbol": "UNIVERSITY CALIF REVS VAR 15-MAY-2048",
+      "name": "University Calif Revs VAR 15-MAY-2048",
+      "weight": 0.38
+    },
+    {
+      "symbol": "CALIFORNIA ST 40 01-SEP-2043",
+      "name": "California St 4.0% 01-SEP-2043",
+      "weight": 0.36
+    },
+    {
+      "symbol": "FOOTHILL  EASTERN TRANSN CORRIDOR AGY CALIF TOLL",
+      "name": "Foothill / Eastern Transn Corridor Agy Calif Toll Rd Rev 4.0% 15-JAN-2046",
+      "weight": 0.35
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-MAR-2055",
+      "name": "California St 5.0% 01-MAR-2055",
+      "weight": 0.34
+    },
+    {
+      "symbol": "SAN DIEGO CALIF UNI SCH DIST 40 01-JUL-2053",
+      "name": "San Diego Calif Uni Sch Dist 4.0% 01-JUL-2053",
+      "weight": 0.32
+    },
+    {
+      "symbol": "LOS ANGELES CALIF UNI SCH DIST 50 01-JUL-2031",
+      "name": "Los Angeles Calif Uni Sch Dist 5.0% 01-JUL-2031",
+      "weight": 0.32
+    },
+    {
+      "symbol": "CALIFORNIA ST 40 01-MAR-2036",
+      "name": "California St 4.0% 01-MAR-2036",
+      "weight": 0.32
+    }
+  ]
+}

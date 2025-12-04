@@ -1,0 +1,94 @@
+{
+  "symbol": "USCA",
+  "name": "Xtrackers MSCI USA Climate Action Equity ETF",
+  "last_updated": "2025-12-04T17:36:10.538Z",
+  "profile": {
+    "name": "Xtrackers MSCI USA Climate Action Equity ETF",
+    "issuer": "Deutsche Bank AG",
+    "brand": "Xtrackers",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Apr 04, 2023",
+    "index_tracked": "MSCI USA Climate Action Index - Benchmark TR Gross",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 3214000000,
+    "shares_outstanding": 77000000
+  },
+  "holdings": [
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.52
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 5.45
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 5.38
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 4.53
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 3.57
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 3.12
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.82
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.37
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 2.18
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 2.18
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc. Class A",
+      "weight": 1.44
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "weight": 1.28
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.27
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 1.26
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc. Class A",
+      "weight": 1.2
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "symbol": "XAR",
-  "last_updated": "2025-11-30T16:56:53.885Z",
+  "name": "State Street SPDR S&P Aerospace & Defense ETF",
+  "last_updated": "2025-12-04T17:18:31.234Z",
   "profile": {
+    "name": "State Street SPDR S&P Aerospace & Defense ETF",
     "issuer": "State Street",
     "brand": "SPDR",
     "structure": "ETF",
@@ -17,84 +19,84 @@
     "sector_specific": "Aerospace & Defense",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 4391400000,
-    "shares_outstanding": 19300000
+    "aum": 4333600000,
+    "shares_outstanding": 19200000
   },
   "holdings": [
     {
-      "symbol": "CRS",
-      "name": "Carpenter Technology Corporation",
-      "weight": 4.35
-    },
-    {
       "symbol": "ATI",
       "name": "ATI Inc.",
-      "weight": 4.33
+      "weight": 4.34
+    },
+    {
+      "symbol": "CRS",
+      "name": "Carpenter Technology Corporation",
+      "weight": 4.24
     },
     {
       "symbol": "WWD",
       "name": "Woodward, Inc.",
-      "weight": 4.1
+      "weight": 4.2
     },
     {
       "symbol": "HII",
       "name": "Huntington Ingalls Industries, Inc.",
-      "weight": 3.86
-    },
-    {
-      "symbol": "KTOS",
-      "name": "Kratos Defense & Security Solutions, Inc.",
-      "weight": 3.81
-    },
-    {
-      "symbol": "AVAV",
-      "name": "AeroVironment, Inc.",
-      "weight": 3.76
+      "weight": 3.8
     },
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corporation",
-      "weight": 3.74
+      "weight": 3.71
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "weight": 3.7
+      "weight": 3.66
     },
     {
-      "symbol": "HWM",
-      "name": "Howmet Aerospace Inc.",
-      "weight": 3.69
+      "symbol": "KTOS",
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "weight": 3.63
     },
     {
       "symbol": "HXL",
       "name": "Hexcel Corporation",
-      "weight": 3.56
+      "weight": 3.62
     },
     {
-      "symbol": "GD",
-      "name": "General Dynamics Corporation",
-      "weight": 3.52
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "weight": 3.6
+    },
+    {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "weight": 3.59
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
-      "weight": 3.52
+      "weight": 3.57
     },
     {
       "symbol": "TDG",
       "name": "TransDigm Group Incorporated",
-      "weight": 3.5
+      "weight": 3.51
+    },
+    {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "weight": 3.49
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "weight": 3.45
+      "weight": 3.43
     },
     {
       "symbol": "TXT",
       "name": "Textron Inc.",
-      "weight": 3.41
+      "weight": 3.42
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "symbol": "IBDS",
+  "name": "iShares iBonds Dec 2027 Term Corporate ETF",
+  "last_updated": "2025-12-04T17:31:55.510Z",
+  "profile": {
+    "name": "iShares iBonds Dec 2027 Term Corporate ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 12, 2017",
+    "index_tracked": "Bloomberg December 2027 Maturity Corporate",
+    "home_page": "https://www.ishares.com/us/products/290315/",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3495700000,
+    "shares_outstanding": 144100000
+  },
+  "holdings": [
+    {
+      "symbol": "T-MOBILE USA INC 375 15-APR-2027",
+      "name": "T-Mobile USA, Inc. 3.75% 15-APR-2027",
+      "weight": 0.71
+    },
+    {
+      "symbol": "CITIGROUP INC 445 29-SEP-2027",
+      "name": "Citigroup Inc. 4.45% 29-SEP-2027",
+      "weight": 0.7
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.68
+    },
+    {
+      "symbol": "MICROSOFT CORPORATION 33 06-FEB-2027",
+      "name": "Microsoft Corporation 3.3% 06-FEB-2027",
+      "weight": 0.67
+    },
+    {
+      "symbol": "AMAZONCOM INC 315 22-AUG-2027",
+      "name": "Amazon.com, Inc. 3.15% 22-AUG-2027",
+      "weight": 0.61
+    },
+    {
+      "symbol": "GOLDMAN SACHS GROUP INC 385 26-JAN-2027",
+      "name": "Goldman Sachs Group, Inc. 3.85% 26-JAN-2027",
+      "weight": 0.54
+    },
+    {
+      "symbol": "MORGAN STANLEY 3625 20-JAN-2027",
+      "name": "Morgan Stanley 3.625% 20-JAN-2027",
+      "weight": 0.52
+    },
+    {
+      "symbol": "ORACLE CORPORATION 325 15-NOV-2027",
+      "name": "Oracle Corporation 3.25% 15-NOV-2027",
+      "weight": 0.47
+    },
+    {
+      "symbol": "META PLATFORMS INC 35 15-AUG-2027",
+      "name": "Meta Platforms, Inc. 3.5% 15-AUG-2027",
+      "weight": 0.47
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 43 22-JUL-2027",
+      "name": "Wells Fargo & Company 4.3% 22-JUL-2027",
+      "weight": 0.46
+    },
+    {
+      "symbol": "ALIBABA GROUP HOLDING LIMITED 34 06-DEC-2027",
+      "name": "Alibaba Group Holding Limited 3.4% 06-DEC-2027",
+      "weight": 0.45
+    },
+    {
+      "symbol": "ATT INC 23 01-JUN-2027",
+      "name": "AT&T Inc. 2.3% 01-JUN-2027",
+      "weight": 0.43
+    },
+    {
+      "symbol": "BANK OF AMERICA CORPORATION 3248 21-OCT-2027",
+      "name": "Bank of America Corporation 3.248% 21-OCT-2027",
+      "weight": 0.43
+    },
+    {
+      "symbol": "CENTENE CORPORATION 425 15-DEC-2027",
+      "name": "Centene Corporation 4.25% 15-DEC-2027",
+      "weight": 0.42
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 4125 16-MAR-2027",
+      "name": "Verizon Communications Inc. 4.125% 16-MAR-2027",
+      "weight": 0.41
+    }
+  ]
+}

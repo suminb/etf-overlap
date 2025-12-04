@@ -1,7 +1,9 @@
 {
   "symbol": "TMF",
-  "last_updated": "2025-11-30T17:25:57.196Z",
+  "name": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
+  "last_updated": "2025-12-04T17:19:49.600Z",
   "profile": {
+    "name": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
     "issuer": "Rafferty Asset Management",
     "brand": "Direxion",
     "structure": "ETF",
@@ -13,19 +15,19 @@
     "asset_class": "Bond",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 4482300000,
-    "shares_outstanding": 108100000
+    "aum": 4267200000,
+    "shares_outstanding": 107100000
   },
   "holdings": [
     {
       "symbol": "TLT",
       "name": "iShares 20+ Year Treasury Bond ETF",
-      "weight": 72.61
+      "weight": 70.89
     },
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 27.39
+      "weight": 29.11
     }
   ]
 }

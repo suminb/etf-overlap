@@ -1,0 +1,100 @@
+{
+  "symbol": "PGX",
+  "name": "Invesco Preferred ETF",
+  "last_updated": "2025-12-04T17:23:52.315Z",
+  "profile": {
+    "name": "Invesco Preferred ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.0051,
+    "inception_date": "Jan 31, 2008",
+    "index_tracked": "ICE BofA Core Plus Fixed Rate Preferred Securities",
+    "home_page": "http://invescopowershares.com/products/overview.aspx?ticker=PGX",
+    "category": "Preferred Stock/Convertible Bonds",
+    "asset_class": "Preferred Stock",
+    "asset_class_size": "Micro-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3898400000,
+    "shares_outstanding": 346400000
+  },
+  "holdings": [
+    {
+      "symbol": "JPM.PRC",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Perp Red Pfd Registered ShsSeries -EE-",
+      "weight": 1.75
+    },
+    {
+      "symbol": "JPM.PRD",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Red Pfd Registered Shs Series -DD-",
+      "weight": 1.59
+    },
+    {
+      "symbol": "WFC.PRZ",
+      "name": "Wells Fargo & Co Depositary Shs Repr 1/1000th 4.75% Non-Cum Red Perp Pfd Shs A Series Z",
+      "weight": 1.44
+    },
+    {
+      "symbol": "JPM.PRL",
+      "name": "JPMorgan Chase & Co. Depositary Shs Repr 1/400th Non-Cum Red Perp Pfd Rg Shs Series -LL-",
+      "weight": 1.35
+    },
+    {
+      "symbol": "JPM.PRM",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Red Perp Pfd Rg Shs Series -MM-",
+      "weight": 1.34
+    },
+    {
+      "symbol": "BAC.PRB",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1000th Non-Cum Red Perp Pfd Shs Series GG",
+      "weight": 1.27
+    },
+    {
+      "symbol": "T.PRC",
+      "name": "AT&T Inc Depositary Shs Repr 1/1000th 4.75 % Red Perp Pfd Shs Series C",
+      "weight": 1.24
+    },
+    {
+      "symbol": "BAC.PRM",
+      "name": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+      "weight": 1.14
+    },
+    {
+      "symbol": "TBB",
+      "name": "AT&T Inc 5.35 % Notes 2017-01.11.66 Global",
+      "weight": 1.11
+    },
+    {
+      "symbol": "JPM.PRK",
+      "name": "JPMorgan Chase & Co. Depositary Shs Repr 1/400th 4.55% Non-Cum Red Perp Pfd Rg Shs Series JJ",
+      "weight": 1.08
+    },
+    {
+      "symbol": "COF.PRI",
+      "name": "Capital One Financial Corp Depositary Shs Repr 1/40th 5% Non-Cum Red Perp Pfd Registered Shs Ser I",
+      "weight": 1.07
+    },
+    {
+      "symbol": "MER.PRK",
+      "name": "Bank of America Corp 6.45 % Notes 2018-15.12.66 Income Capital Obligations",
+      "weight": 1.02
+    },
+    {
+      "symbol": "BAC.PRN",
+      "name": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Red Pfd Rg Shs Series -LL-",
+      "weight": 0.99
+    },
+    {
+      "symbol": "MS.PRQ",
+      "name": "Morgan Stanley Pfd Registered shs Series -Q-",
+      "weight": 0.99
+    },
+    {
+      "symbol": "MS.PRP",
+      "name": "Morgan Stanley Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Rg Shs Series P",
+      "weight": 0.97
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "symbol": "XT",
+  "name": "iShares Future Exponential Technologies ETF",
+  "last_updated": "2025-12-04T17:29:07.871Z",
+  "profile": {
+    "name": "iShares Future Exponential Technologies ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0046,
+    "inception_date": "Mar 19, 2015",
+    "index_tracked": "Morningstar Exponential Technologies Index",
+    "home_page": "http://www.ishares.com/us/products/272532/XT",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3665300000,
+    "shares_outstanding": 49300000
+  },
+  "holdings": [
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 2.74
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.62
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 2.27
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 2.02
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 1.95
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 1.81
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 1.61
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 1.56
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie, Inc.",
+      "weight": 1.52
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 1.49
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.48
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "weight": 1.34
+    },
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 1.13
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 1.12
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.02
+    }
+  ]
+}

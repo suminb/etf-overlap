@@ -1,0 +1,100 @@
+{
+  "symbol": "DXJ",
+  "name": "WisdomTree Japan Hedged Equity Fund",
+  "last_updated": "2025-12-04T17:13:49.140Z",
+  "profile": {
+    "name": "WisdomTree Japan Hedged Equity Fund",
+    "issuer": "WisdomTree, Inc.",
+    "brand": "WisdomTree",
+    "structure": "ETF",
+    "expense_ratio": 0.0048,
+    "inception_date": "Jun 16, 2006",
+    "index_tracked": "WisdomTree Japan Hedged Equity Index",
+    "home_page": "http://www.wisdomtree.com/etfs/fund-details.asp?etfid=18",
+    "category": "Japan Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Asia Pacific",
+    "region_specific": "Japan",
+    "aum": 4820400000,
+    "shares_outstanding": 34600000
+  },
+  "holdings": [
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 4.89
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 4.88
+    },
+    {
+      "symbol": "8316",
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "weight": 3.35
+    },
+    {
+      "symbol": "9432",
+      "name": "NTT Inc",
+      "weight": 2.67
+    },
+    {
+      "symbol": "8766",
+      "name": "Tokio Marine Holdings, Inc.",
+      "weight": 2.66
+    },
+    {
+      "symbol": "2914",
+      "name": "Japan Tobacco Inc.",
+      "weight": 2.64
+    },
+    {
+      "symbol": "8411",
+      "name": "Mizuho Financial Group, Inc.",
+      "weight": 2.39
+    },
+    {
+      "symbol": "8058",
+      "name": "Mitsubishi Corporation",
+      "weight": 2.38
+    },
+    {
+      "symbol": "7267",
+      "name": "Honda Motor Co., Ltd.",
+      "weight": 1.99
+    },
+    {
+      "symbol": "8001",
+      "name": "Itochu Corporation",
+      "weight": 1.88
+    },
+    {
+      "symbol": "8031",
+      "name": "Mitsui & Co.,Ltd",
+      "weight": 1.88
+    },
+    {
+      "symbol": "4502",
+      "name": "Takeda Pharmaceutical Co. Ltd.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "8035",
+      "name": "Tokyo Electron Ltd.",
+      "weight": 1.69
+    },
+    {
+      "symbol": "8053",
+      "name": "Sumitomo Corporation",
+      "weight": 1.48
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 1.26
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "symbol": "QTUM",
+  "name": "Defiance Quantum ETF",
+  "last_updated": "2025-12-04T17:50:15.913Z",
+  "profile": {
+    "name": "Defiance Quantum ETF",
+    "issuer": "Defiance ETFs",
+    "brand": "Defiance",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Sep 04, 2018",
+    "index_tracked": "BlueStar Machine Learning and Quantum Computing Index",
+    "home_page": "https://www.defianceetfs.com/qtum",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 2968700000,
+    "shares_outstanding": 27600000
+  },
+  "holdings": [
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd",
+      "weight": 2.87
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 2.2
+    },
+    {
+      "symbol": "TER",
+      "name": "Teradyne, Inc.",
+      "weight": 2.19
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "weight": 2.19
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 2.05
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 1.92
+    },
+    {
+      "symbol": "3443",
+      "name": "Global Unichip Corp.",
+      "weight": 1.9
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 1.88
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 1.8
+    },
+    {
+      "symbol": "MKSI",
+      "name": "MKS Inc.",
+      "weight": 1.76
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ, Inc.",
+      "weight": 1.69
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB, Inc. Class A",
+      "weight": 1.65
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 1.62
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 1.56
+    }
+  ]
+}

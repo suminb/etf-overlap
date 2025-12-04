@@ -1,0 +1,102 @@
+{
+  "symbol": "GRID",
+  "name": "First Trust Nasdaq Clean Edge Smart GRID Infrastructure Index",
+  "last_updated": "2025-12-04T17:12:45.888Z",
+  "profile": {
+    "name": "First Trust Nasdaq Clean Edge Smart GRID Infrastructure Index",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.005600000000000001,
+    "inception_date": "Nov 16, 2009",
+    "index_tracked": "NASDAQ OMX Clean Edge Smart Grid Infrastr (TR)",
+    "home_page": "http://www.ftportfolios.com/retail/ETF/ETFsummary.aspx?Ticker=GRID",
+    "category": "Alternative Energy Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Electric Energy Infrastructure",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 4892700000,
+    "shares_outstanding": 32300000
+  },
+  "holdings": [
+    {
+      "symbol": "SU",
+      "name": "Schneider Electric SE",
+      "weight": 8.23
+    },
+    {
+      "symbol": "JCI",
+      "name": "Johnson Controls International plc",
+      "weight": 8.15
+    },
+    {
+      "symbol": "NG",
+      "name": "National Grid plc",
+      "weight": 8.15
+    },
+    {
+      "symbol": "ABBN",
+      "name": "ABB Ltd.",
+      "weight": 8.02
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corp. Plc",
+      "weight": 7.38
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "weight": 4.54
+    },
+    {
+      "symbol": "PRY",
+      "name": "Prysmian S.p.A.",
+      "weight": 4.21
+    },
+    {
+      "symbol": "EOAN",
+      "name": "E.ON SE",
+      "weight": 3.75
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell Incorporated",
+      "weight": 2.69
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.44
+    },
+    {
+      "symbol": "NVT",
+      "name": "nVent Electric plc",
+      "weight": 2.01
+    },
+    {
+      "symbol": "APTV",
+      "name": "Aptiv PLC",
+      "weight": 2.01
+    },
+    {
+      "symbol": "TRN",
+      "name": "Terna S.p.A.",
+      "weight": 1.98
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 1.96
+    },
+    {
+      "symbol": "H",
+      "name": "Hydro One Limited",
+      "weight": 1.79
+    }
+  ]
+}

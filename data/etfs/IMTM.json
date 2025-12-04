@@ -1,0 +1,100 @@
+{
+  "symbol": "IMTM",
+  "name": "iShares MSCI Intl Momentum Factor ETF",
+  "last_updated": "2025-12-04T17:31:43.502Z",
+  "profile": {
+    "name": "iShares MSCI Intl Momentum Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Jan 13, 2015",
+    "index_tracked": "MSCI ACWI ex USA Momentum",
+    "home_page": "https://www.ishares.com/us/products/271538/ishares-msci-international-developed-momentum-factor-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3501700000,
+    "shares_outstanding": 72500000
+  },
+  "holdings": [
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 2.41
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 2.34
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.12
+    },
+    {
+      "symbol": "RR",
+      "name": "Rolls-Royce Holdings plc",
+      "weight": 1.97
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 1.84
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 1.81
+    },
+    {
+      "symbol": "ENR",
+      "name": "Siemens Energy AG",
+      "weight": 1.78
+    },
+    {
+      "symbol": "RHM",
+      "name": "Rheinmetall AG",
+      "weight": 1.72
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 1.65
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 1.56
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 1.47
+    },
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 1.47
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 1.37
+    },
+    {
+      "symbol": "CBA",
+      "name": "Commonwealth Bank of Australia",
+      "weight": 1.37
+    },
+    {
+      "symbol": "6501",
+      "name": "Hitachi, Ltd.",
+      "weight": 1.22
+    }
+  ]
+}

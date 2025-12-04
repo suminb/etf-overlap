@@ -1,0 +1,102 @@
+{
+  "symbol": "TDIV",
+  "name": "First Trust NASDAQ Technology Dividend Index Fund",
+  "last_updated": "2025-12-04T17:27:04.062Z",
+  "profile": {
+    "name": "First Trust NASDAQ Technology Dividend Index Fund",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.005,
+    "inception_date": "Aug 14, 2012",
+    "index_tracked": "NASDAQ Technology Dividend Index",
+    "home_page": "http://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=TDIV",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3734700000,
+    "shares_outstanding": 38200000
+  },
+  "holdings": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 9.66
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 9.38
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 7.12
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "weight": 6.81
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 6.15
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",
+      "weight": 4.83
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "weight": 4.11
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 3.04
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 2.86
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 2.56
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 2.12
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "weight": 2
+    },
+    {
+      "symbol": "RCI.B",
+      "name": "Rogers Communications Inc. Class B",
+      "weight": 1.94
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 1.7
+    }
+  ]
+}

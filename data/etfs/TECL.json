@@ -1,7 +1,9 @@
 {
   "symbol": "TECL",
-  "last_updated": "2025-11-30T17:26:27.718Z",
+  "name": "Direxion Daily Technology Bull 3X Shares",
+  "last_updated": "2025-12-04T17:20:19.177Z",
   "profile": {
+    "name": "Direxion Daily Technology Bull 3X Shares",
     "issuer": "Rafferty Asset Management",
     "brand": "Direxion",
     "structure": "ETF",
@@ -17,84 +19,84 @@
     "sector_specific": "Broad",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 3898200000,
+    "aum": 4257500000,
     "shares_outstanding": 33300000
   },
   "holdings": [
     {
       "symbol": "US DOLLAR",
       "name": "U.S. Dollar",
-      "weight": 23.11
+      "weight": 20.06
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "weight": 10.98
+      "weight": 11.27
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "weight": 10.28
+      "weight": 10.79
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "weight": 9.01
+      "weight": 9.29
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "weight": 4.67
+      "weight": 4.66
     },
     {
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc. Class A",
-      "weight": 2.63
+      "weight": 2.73
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc.",
-      "weight": 2.42
+      "weight": 2.56
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems, Inc.",
-      "weight": 2.1
+      "weight": 2.16
     },
     {
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "weight": 2.05
+      "weight": 2.07
     },
     {
       "symbol": "IBM",
       "name": "International Business Machines Corporation",
-      "weight": 1.97
+      "weight": 2.04
     },
     {
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
-      "weight": 1.8
+      "weight": 1.93
     },
     {
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
-      "weight": 1.52
+      "weight": 1.6
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials, Inc.",
-      "weight": 1.4
+      "weight": 1.47
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research Corporation",
-      "weight": 1.37
+      "weight": 1.4
     },
     {
       "symbol": "QCOM",
       "name": "QUALCOMM Incorporated",
-      "weight": 1.24
+      "weight": 1.3
     }
   ]
 }

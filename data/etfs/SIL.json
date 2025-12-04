@@ -1,0 +1,102 @@
+{
+  "symbol": "SIL",
+  "name": "Global X Silver Miners ETF",
+  "last_updated": "2025-12-04T17:23:40.586Z",
+  "profile": {
+    "name": "Global X Silver Miners ETF",
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.006500000000000001,
+    "inception_date": "Apr 19, 2010",
+    "index_tracked": "Stuttgart Solactive AG Global Silver Miners (USD)",
+    "home_page": "http://globalxfunds.com/SIL",
+    "category": "Materials",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Silver Miners",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3926400000,
+    "shares_outstanding": 53700000
+  },
+  "holdings": [
+    {
+      "symbol": "WPM",
+      "name": "Wheaton Precious Metals Corp",
+      "weight": 22.23
+    },
+    {
+      "symbol": "PAAS",
+      "name": "Pan American Silver Corp.",
+      "weight": 12.28
+    },
+    {
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 7.86
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 5.48
+    },
+    {
+      "symbol": "FRES",
+      "name": "Fresnillo PLC",
+      "weight": 5.29
+    },
+    {
+      "symbol": "AG",
+      "name": "First Majestic Silver Corp.",
+      "weight": 4.96
+    },
+    {
+      "symbol": "010130",
+      "name": "Korea Zinc Co., Ltd.",
+      "weight": 4.82
+    },
+    {
+      "symbol": "PE&OLES",
+      "name": "Industrias Penoles SAB de CV",
+      "weight": 4.66
+    },
+    {
+      "symbol": "OR",
+      "name": "OR Royalties Inc.",
+      "weight": 4.11
+    },
+    {
+      "symbol": "SSRM",
+      "name": "SSR Mining Inc",
+      "weight": 3.79
+    },
+    {
+      "symbol": "BVN",
+      "name": "Compania de Minas Buenaventura SAA Sponsored ADR",
+      "weight": 3.48
+    },
+    {
+      "symbol": "DSV",
+      "name": "Discovery Silver Corp",
+      "weight": 3.02
+    },
+    {
+      "symbol": "FVI",
+      "name": "Fortuna Mining Corp.",
+      "weight": 2.55
+    },
+    {
+      "symbol": "EDR",
+      "name": "Endeavour Silver Corp.",
+      "weight": 1.95
+    },
+    {
+      "symbol": "TFPM",
+      "name": "Triple Flag Precious Metals Corp.",
+      "weight": 1.87
+    }
+  ]
+}

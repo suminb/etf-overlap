@@ -1,0 +1,28 @@
+{
+  "symbol": "ARKB",
+  "name": "ARK 21Shares Bitcoin ETF",
+  "last_updated": "2025-12-04T17:31:00.426Z",
+  "profile": {
+    "name": "ARK 21Shares Bitcoin ETF",
+    "issuer": "ARK Invest LLC",
+    "brand": "ARK",
+    "structure": "ETF",
+    "expense_ratio": 0.0021,
+    "inception_date": "Jan 10, 2024",
+    "index_tracked": "CME CF Benchmarks Bitcoin Reference Rate-New York Variant",
+    "home_page": "https://ark-funds.com/funds/arkb/",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 3564700000,
+    "shares_outstanding": 117600000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 100
+    }
+  ]
+}

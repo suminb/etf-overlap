@@ -1,0 +1,100 @@
+{
+  "symbol": "DIHP",
+  "name": "Dimensional International High Profitability ETF",
+  "last_updated": "2025-12-04T17:12:57.641Z",
+  "profile": {
+    "name": "Dimensional International High Profitability ETF",
+    "issuer": "Dimensional",
+    "brand": "Dimensional",
+    "structure": "ETF",
+    "expense_ratio": 0.0028000000000000004,
+    "inception_date": "Mar 23, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.dimensional.com/us-en/funds/dihp/international-high-profitability-etf",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 4880300000,
+    "shares_outstanding": 157000000
+  },
+  "holdings": [
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 3.19
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 2.78
+    },
+    {
+      "symbol": "MC",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "weight": 2.5
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 2.27
+    },
+    {
+      "symbol": "6758",
+      "name": "Sony Group Corporation",
+      "weight": 2.23
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.7
+    },
+    {
+      "symbol": "NVS",
+      "name": "Novartis AG Sponsored ADR",
+      "weight": 1.55
+    },
+    {
+      "symbol": "SAF",
+      "name": "Safran SA",
+      "weight": 1.21
+    },
+    {
+      "symbol": "UL",
+      "name": "Unilever PLC Sponsored ADR",
+      "weight": 1.18
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 1.13
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC Sponsored ADR",
+      "weight": 1.09
+    },
+    {
+      "symbol": "GSK",
+      "name": "GSK plc",
+      "weight": 1.09
+    },
+    {
+      "symbol": "BHP",
+      "name": "BHP Group Ltd",
+      "weight": 1.03
+    },
+    {
+      "symbol": "NOVO.B",
+      "name": "Novo Nordisk A/S Class B",
+      "weight": 0.96
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 0.91
+    }
+  ]
+}

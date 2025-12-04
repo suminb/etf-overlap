@@ -1,0 +1,102 @@
+{
+  "symbol": "SILJ",
+  "name": "Amplify Junior Silver Miners ETF",
+  "last_updated": "2025-12-04T17:35:40.909Z",
+  "profile": {
+    "name": "Amplify Junior Silver Miners ETF",
+    "issuer": "Amplify Investments",
+    "brand": "Amplify",
+    "structure": "ETF",
+    "expense_ratio": 0.0069,
+    "inception_date": "Nov 28, 2012",
+    "index_tracked": "Nasdaq Junior Silver Miners Index - Benchmark TR Gross",
+    "home_page": "https://amplifyetfs.com/silj/",
+    "category": "Precious Metals",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Materials",
+    "sector_specific": "Silver Miners",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3278200000,
+    "shares_outstanding": 125600000
+  },
+  "holdings": [
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 11.77
+    },
+    {
+      "symbol": "AG",
+      "name": "First Majestic Silver Corp.",
+      "weight": 10.78
+    },
+    {
+      "symbol": "CDE",
+      "name": "Coeur Mining, Inc.",
+      "weight": 8.34
+    },
+    {
+      "symbol": "WPM",
+      "name": "Wheaton Precious Metals Corp",
+      "weight": 5.7
+    },
+    {
+      "symbol": "EDR",
+      "name": "Endeavour Silver Corp.",
+      "weight": 4.68
+    },
+    {
+      "symbol": "PPTA",
+      "name": "Perpetua Resources Corp.",
+      "weight": 4.11
+    },
+    {
+      "symbol": "SEA",
+      "name": "Seabridge Gold Inc",
+      "weight": 3.35
+    },
+    {
+      "symbol": "SSRM",
+      "name": "SSR Mining Inc",
+      "weight": 3.15
+    },
+    {
+      "symbol": "PAAS",
+      "name": "Pan American Silver Corp.",
+      "weight": 3.14
+    },
+    {
+      "symbol": "KGH",
+      "name": "KGHM Polska Miedz S.A.",
+      "weight": 3.1
+    },
+    {
+      "symbol": "BOL",
+      "name": "Boliden AB",
+      "weight": 2.95
+    },
+    {
+      "symbol": "OR",
+      "name": "OR Royalties Inc.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "ARTG",
+      "name": "Artemis Gold Inc",
+      "weight": 2.73
+    },
+    {
+      "symbol": "FVI",
+      "name": "Fortuna Mining Corp.",
+      "weight": 2.61
+    },
+    {
+      "symbol": "BVN",
+      "name": "Compania de Minas Buenaventura SAA Sponsored ADR",
+      "weight": 2.59
+    }
+  ]
+}

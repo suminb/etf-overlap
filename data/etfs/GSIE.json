@@ -1,0 +1,100 @@
+{
+  "symbol": "GSIE",
+  "name": "Goldman Sachs ActiveBeta International Equity ETF",
+  "last_updated": "2025-12-04T17:14:48.379Z",
+  "profile": {
+    "name": "Goldman Sachs ActiveBeta International Equity ETF",
+    "issuer": "Goldman Sachs",
+    "brand": "Goldman Sachs",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Nov 06, 2015",
+    "index_tracked": "Stuttgart Goldman Sachs ActiveBeta Intl.Equity (USD)",
+    "home_page": "https://assetmanagement.gs.com/content/gsam/us/en/individual/products/etf-fund-finder/goldman-sachs-activebeta-international-equity-etf.html",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 4734100000,
+    "shares_outstanding": 113500000
+  },
+  "holdings": [
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 1.51
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.07
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.04
+    },
+    {
+      "symbol": "RY",
+      "name": "Royal Bank of Canada",
+      "weight": 0.95
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 0.91
+    },
+    {
+      "symbol": "AZN",
+      "name": "AstraZeneca PLC",
+      "weight": 0.91
+    },
+    {
+      "symbol": "SAP",
+      "name": "SAP SE",
+      "weight": 0.85
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 0.79
+    },
+    {
+      "symbol": "NESN",
+      "name": "Nestle S.A.",
+      "weight": 0.73
+    },
+    {
+      "symbol": "6857",
+      "name": "Advantest Corp.",
+      "weight": 0.69
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 0.68
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 0.62
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 0.61
+    },
+    {
+      "symbol": "TD",
+      "name": "Toronto-Dominion Bank",
+      "weight": 0.57
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 0.55
+    }
+  ]
+}

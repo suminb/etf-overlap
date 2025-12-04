@@ -1,0 +1,100 @@
+{
+  "symbol": "BOTZ",
+  "name": "Global X Robotics & Artificial Intelligence ETF",
+  "last_updated": "2025-12-04T17:50:03.872Z",
+  "profile": {
+    "name": "Global X Robotics & Artificial Intelligence ETF",
+    "issuer": "Mirae Asset Global Investments Co., Ltd.",
+    "brand": "Global X",
+    "structure": "ETF",
+    "expense_ratio": 0.0068000000000000005,
+    "inception_date": "Sep 12, 2016",
+    "index_tracked": "Indxx Global Robotics & Artificial Intelligence Thematic Index",
+    "home_page": "https://www.globalxetfs.com/funds/botz/",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 2972800000,
+    "shares_outstanding": 85500000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 11.21
+    },
+    {
+      "symbol": "ABBN",
+      "name": "ABB Ltd.",
+      "weight": 8.9
+    },
+    {
+      "symbol": "6954",
+      "name": "Fanuc Corporation",
+      "weight": 7.67
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "weight": 7.26
+    },
+    {
+      "symbol": "6861",
+      "name": "Keyence Corporation",
+      "weight": 5.65
+    },
+    {
+      "symbol": "6383",
+      "name": "Daifuku Co., Ltd.",
+      "weight": 4.54
+    },
+    {
+      "symbol": "6273",
+      "name": "SMC Corporation",
+      "weight": 3.74
+    },
+    {
+      "symbol": "PEGA",
+      "name": "Pegasystems Inc.",
+      "weight": 3.48
+    },
+    {
+      "symbol": "SYM",
+      "name": "Symbotic, Inc. Class A",
+      "weight": 3.4
+    },
+    {
+      "symbol": "DT",
+      "name": "Dynatrace, Inc.",
+      "weight": 3.23
+    },
+    {
+      "symbol": "JBTM",
+      "name": "JBT Marel Corporation",
+      "weight": 2.69
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "weight": 2.69
+    },
+    {
+      "symbol": "6506",
+      "name": "Yaskawa Electric Corporation",
+      "weight": 2.57
+    },
+    {
+      "symbol": "PATH",
+      "name": "UiPath, Inc. Class A",
+      "weight": 2.44
+    },
+    {
+      "symbol": "CGNX",
+      "name": "Cognex Corporation",
+      "weight": 2.38
+    }
+  ]
+}

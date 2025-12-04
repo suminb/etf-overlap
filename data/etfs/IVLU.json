@@ -1,0 +1,95 @@
+{
+  "symbol": "IVLU",
+  "name": "iShares MSCI Intl Value Factor ETF",
+  "last_updated": "2025-12-04T17:51:06.193Z",
+  "profile": {
+    "name": "iShares MSCI Intl Value Factor ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.003,
+    "inception_date": "Jun 16, 2015",
+    "index_tracked": "MSCI World ex USA Enhanced Value",
+    "home_page": "https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf",
+    "category": "Foreign Large Cap Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 2914900000,
+    "shares_outstanding": 78100000
+  },
+  "holdings": [
+    {
+      "symbol": "BATS",
+      "name": "British American Tobacco p.l.c.",
+      "weight": 2.2
+    },
+    {
+      "symbol": "7203",
+      "name": "Toyota Motor Corp.",
+      "weight": 2.09
+    },
+    {
+      "symbol": "HSBA",
+      "name": "HSBC Holdings Plc",
+      "weight": 2.01
+    },
+    {
+      "symbol": "ROG",
+      "name": "Roche Holding Ltd Dividend Right Cert.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "NOVN",
+      "name": "Novartis AG",
+      "weight": 1.66
+    },
+    {
+      "symbol": "BNP",
+      "name": "BNP Paribas S.A. Class A",
+      "weight": 1.53
+    },
+    {
+      "symbol": "SIE",
+      "name": "Siemens Aktiengesellschaft",
+      "weight": 1.38
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell Plc",
+      "weight": 1.31
+    },
+    {
+      "symbol": "BARC",
+      "name": "Barclays PLC",
+      "weight": 1.13
+    },
+    {
+      "symbol": "8306",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "weight": 1.1
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies SE",
+      "weight": 1.05
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 1.05
+    },
+    {
+      "symbol": "GSK",
+      "name": "GSK plc",
+      "weight": 1.04
+    }
+  ]
+}

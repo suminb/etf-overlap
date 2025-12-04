@@ -1,0 +1,102 @@
+{
+  "symbol": "EUFN",
+  "name": "iShares MSCI Europe Financials ETF",
+  "last_updated": "2025-12-04T17:19:19.601Z",
+  "profile": {
+    "name": "iShares MSCI Europe Financials ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0048,
+    "inception_date": "Jan 20, 2010",
+    "index_tracked": "MSCI Europe Financials Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/EUFN.htm?qt=EUFN",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Financials",
+    "sector_specific": "Broad",
+    "region_general": "Developed Europe",
+    "region_specific": "Broad",
+    "aum": 4295200000,
+    "shares_outstanding": 122000000
+  },
+  "holdings": [
+    {
+      "symbol": "HBCYF",
+      "name": "HSBC Holdings Plc",
+      "weight": 7.86
+    },
+    {
+      "symbol": "ALV",
+      "name": "Allianz SE",
+      "weight": 5.27
+    },
+    {
+      "symbol": "SAN",
+      "name": "Banco Santander, S.A.",
+      "weight": 5.19
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 4.02
+    },
+    {
+      "symbol": "UBSG",
+      "name": "UBS Group AG",
+      "weight": 3.91
+    },
+    {
+      "symbol": "UCG",
+      "name": "UniCredit S.p.A.",
+      "weight": 3.43
+    },
+    {
+      "symbol": "ZURN",
+      "name": "Zurich Insurance Group Ltd",
+      "weight": 3.33
+    },
+    {
+      "symbol": "ISP",
+      "name": "Intesa Sanpaolo S.p.A.",
+      "weight": 2.97
+    },
+    {
+      "symbol": "BNP",
+      "name": "BNP Paribas S.A. Class A",
+      "weight": 2.79
+    },
+    {
+      "symbol": "MUV2",
+      "name": "Munchener Ruckversicherungs-Gesellschaft AG",
+      "weight": 2.6
+    },
+    {
+      "symbol": "BARC",
+      "name": "Barclays PLC",
+      "weight": 2.59
+    },
+    {
+      "symbol": "INGA",
+      "name": "ING Groep N.V.",
+      "weight": 2.54
+    },
+    {
+      "symbol": "CS",
+      "name": "AXA SA",
+      "weight": 2.47
+    },
+    {
+      "symbol": "LLOY",
+      "name": "Lloyds Banking Group plc",
+      "weight": 2.43
+    },
+    {
+      "symbol": "NWG",
+      "name": "NatWest Group Plc",
+      "weight": 2.14
+    }
+  ]
+}

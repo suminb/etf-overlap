@@ -1,0 +1,102 @@
+{
+  "symbol": "QTEC",
+  "name": "First Trust NASDAQ-100 Technology Sector Index Fund",
+  "last_updated": "2025-12-04T17:49:16.730Z",
+  "profile": {
+    "name": "First Trust NASDAQ-100 Technology Sector Index Fund",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0055000000000000005,
+    "inception_date": "Apr 19, 2006",
+    "index_tracked": "NASDAQ-100 Technology Sector Index",
+    "home_page": "http://www.ftportfolios.com/retail/ETF/ETFsummary.aspx?Ticker=QTEC",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2985200000,
+    "shares_outstanding": 12800000
+  },
+  "holdings": [
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 3.22
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 3.13
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 3.08
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 3.01
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "weight": 2.94
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 2.74
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV Sponsored ADR",
+      "weight": 2.66
+    },
+    {
+      "symbol": "CTSH",
+      "name": "Cognizant Technology Solutions Corporation Class A",
+      "weight": 2.58
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 2.52
+    },
+    {
+      "symbol": "GFS",
+      "name": "GlobalFoundries Inc.",
+      "weight": 2.52
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 2.52
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "weight": 2.47
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc. Class A",
+      "weight": 2.44
+    },
+    {
+      "symbol": "ON",
+      "name": "ON Semiconductor Corporation",
+      "weight": 2.44
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.4
+    }
+  ]
+}

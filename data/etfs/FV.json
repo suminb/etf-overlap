@@ -1,0 +1,55 @@
+{
+  "symbol": "FV",
+  "name": "First Trust Dorsey Wright Focus 5 ETF",
+  "last_updated": "2025-12-04T17:29:56.306Z",
+  "profile": {
+    "name": "First Trust Dorsey Wright Focus 5 ETF",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.0087,
+    "inception_date": "Mar 06, 2014",
+    "index_tracked": "Dorsey Wright Focus Five Total Return Index",
+    "home_page": "http://www.ftportfolios.com/Retail/Etf/EtfSummary.aspx?Ticker=FV",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3617500000,
+    "shares_outstanding": 58200000
+  },
+  "holdings": [
+    {
+      "symbol": "FTXL",
+      "name": "First Trust Nasdaq Semiconductor ETF",
+      "weight": 20.96
+    },
+    {
+      "symbol": "FXR",
+      "name": "First Trust Industrials/Producer Durables AlphaDEX Fund",
+      "weight": 20.19
+    },
+    {
+      "symbol": "FXO",
+      "name": "First Trust Financials AlphaDEX Fund",
+      "weight": 20.12
+    },
+    {
+      "symbol": "FXU",
+      "name": "First Trust Utilities AlphaDEX Fund",
+      "weight": 19.34
+    },
+    {
+      "symbol": "FDN",
+      "name": "First Trust Dow Jones Internet Index Fund",
+      "weight": 19.33
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.06
+    }
+  ]
+}

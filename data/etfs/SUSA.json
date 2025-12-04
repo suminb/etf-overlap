@@ -1,0 +1,100 @@
+{
+  "symbol": "SUSA",
+  "name": "iShares ESG Optimized MSCI USA ETF",
+  "last_updated": "2025-12-04T17:28:18.006Z",
+  "profile": {
+    "name": "iShares ESG Optimized MSCI USA ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0025,
+    "inception_date": "Jan 24, 2005",
+    "index_tracked": "MSCI USA Extended ESG Select Index",
+    "home_page": "https://www.ishares.com/us/products/239692/ishares-msci-usa-esg-select-etf",
+    "category": "Large Cap Growth Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3703800000,
+    "shares_outstanding": 26600000
+  },
+  "holdings": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 6.87
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 5.65
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 4.64
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 2.99
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "weight": 2.89
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 2.13
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "weight": 2.12
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "weight": 1.6
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 1.3
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot, Inc.",
+      "weight": 1.28
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 1.23
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "weight": 1.18
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "weight": 1.16
+    },
+    {
+      "symbol": "CRH",
+      "name": "CRH public limited company",
+      "weight": 1.09
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "weight": 1.09
+    }
+  ]
+}

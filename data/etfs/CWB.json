@@ -1,0 +1,98 @@
+{
+  "symbol": "CWB",
+  "name": "State Street SPDR Bloomberg Convertible Securities ETF",
+  "last_updated": "2025-12-04T17:15:55.615Z",
+  "profile": {
+    "name": "State Street SPDR Bloomberg Convertible Securities ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Apr 14, 2009",
+    "index_tracked": "Bloomberg US Convertibles Liquid Bond",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=CWB",
+    "category": "Preferred Stock/Convertible Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4656200000,
+    "shares_outstanding": 51900000
+  },
+  "holdings": [
+    {
+      "symbol": "ALIBABA GROUP HOLDING LIMITED 05 01-JUN-2031",
+      "name": "Alibaba Group Holding Limited 0.5% 01-JUN-2031",
+      "weight": 2.53
+    },
+    {
+      "symbol": "CORPORATE BOND",
+      "name": "CORPORATE BOND",
+      "weight": 2.44
+    },
+    {
+      "symbol": "BA.PRA",
+      "name": "Boeing Company 6% Pfd Registered shs Series A",
+      "weight": 2.29
+    },
+    {
+      "symbol": "WESTERN DIGITAL CORPORATION 30 15-NOV-2028",
+      "name": "Western Digital Corporation 3.0% 15-NOV-2028",
+      "weight": 2.03
+    },
+    {
+      "symbol": "WFC.PRL",
+      "name": "Wells Fargo & Company 7.5 % Non Cum Perp Conv Pfd Registered Shs A Series L",
+      "weight": 1.44
+    },
+    {
+      "symbol": "BAC.PRL",
+      "name": "Bank of America Corp 7.25 % Non Cum Perp Conv Pfd Registered Shs Series L",
+      "weight": 1.14
+    },
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 1
+    },
+    {
+      "symbol": "SEAGATE HDD CAYMAN 35 01-JUN-2028",
+      "name": "Seagate HDD Cayman 3.5% 01-JUN-2028",
+      "weight": 0.98
+    },
+    {
+      "symbol": "GAMESTOP CORP 00 15-JUN-2032",
+      "name": "GameStop Corp. 0.0% 15-JUN-2032",
+      "weight": 0.83
+    },
+    {
+      "symbol": "DOORDASH INC 00 15-MAY-2030",
+      "name": "DoorDash, Inc. 0.0% 15-MAY-2030",
+      "weight": 0.83
+    },
+    {
+      "symbol": "SOFI TECHNOLOGIES INC 125 15-MAR-2029",
+      "name": "SoFi Technologies, Inc. 1.25% 15-MAR-2029",
+      "weight": 0.81
+    },
+    {
+      "symbol": "LUMENTUM HOLDINGS INC 15 15-DEC-2029",
+      "name": "Lumentum Holdings Inc. 1.5% 15-DEC-2029",
+      "weight": 0.79
+    },
+    {
+      "symbol": "KKR.PRD",
+      "name": "KKR & Co Inc 6.25% Mandatory Conv Pfd Registered Shs Series D",
+      "weight": 0.75
+    },
+    {
+      "symbol": "MP MATERIALS CORP 30 01-MAR-2030",
+      "name": "MP Materials Corp. 3.0% 01-MAR-2030",
+      "weight": 0.74
+    },
+    {
+      "symbol": "ALB.PRA",
+      "name": "Albemarle Corporation Depository Shs Repr 1/20th 7.25 % Conv Pfd Registered Shs",
+      "weight": 0.73
+    }
+  ]
+}

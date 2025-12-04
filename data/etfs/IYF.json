@@ -1,0 +1,102 @@
+{
+  "symbol": "IYF",
+  "name": "iShares U.S. Financials ETF",
+  "last_updated": "2025-12-04T17:20:48.629Z",
+  "profile": {
+    "name": "iShares U.S. Financials ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0038,
+    "inception_date": "May 22, 2000",
+    "index_tracked": "Russell 1000 Financials 40 Act 15/22.5 Daily Capped Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/IYF.htm?qt=IYF",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Financials",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4146200000,
+    "shares_outstanding": 33200000
+  },
+  "holdings": [
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "weight": 11.69
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "weight": 10.95
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "weight": 4.48
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "weight": 4.05
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group, Inc.",
+      "weight": 3.91
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "weight": 3.14
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "weight": 3.06
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 2.59
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corp",
+      "weight": 2.52
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global, Inc.",
+      "weight": 2.41
+    },
+    {
+      "symbol": "PGR",
+      "name": "Progressive Corporation",
+      "weight": 2.09
+    },
+    {
+      "symbol": "BX",
+      "name": "Blackstone Inc.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "CB",
+      "name": "Chubb Limited",
+      "weight": 1.72
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc. Class A",
+      "weight": 1.55
+    },
+    {
+      "symbol": "CME",
+      "name": "CME Group Inc. Class A",
+      "weight": 1.55
+    }
+  ]
+}

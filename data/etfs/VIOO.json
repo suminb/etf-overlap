@@ -1,0 +1,100 @@
+{
+  "symbol": "VIOO",
+  "name": "Vanguard S&P Small-Cap 600 ETF",
+  "last_updated": "2025-12-04T17:38:24.484Z",
+  "profile": {
+    "name": "Vanguard S&P Small-Cap 600 ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0007000000000000001,
+    "inception_date": "Sep 07, 2010",
+    "index_tracked": "S&P SmallCap 600 Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vioo/vanguard-sp-small-cap-600-etf",
+    "category": "Small Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Small-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3072000000,
+    "shares_outstanding": 27500000
+  },
+  "holdings": [
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "weight": 1.87
+    },
+    {
+      "symbol": "COOP",
+      "name": "Mr. Cooper Group, Inc.",
+      "weight": 0.91
+    },
+    {
+      "symbol": "STRL",
+      "name": "Sterling Infrastructure, Inc.",
+      "weight": 0.78
+    },
+    {
+      "symbol": "SPXC",
+      "name": "SPX Technologies, Inc.",
+      "weight": 0.75
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.74
+    },
+    {
+      "symbol": "LUMN",
+      "name": "Lumen Technologies, Inc.",
+      "weight": 0.66
+    },
+    {
+      "symbol": "IDCC",
+      "name": "InterDigital, Inc.",
+      "weight": 0.64
+    },
+    {
+      "symbol": "BWA",
+      "name": "BorgWarner Inc.",
+      "weight": 0.63
+    },
+    {
+      "symbol": "HL",
+      "name": "Hecla Mining Company",
+      "weight": 0.58
+    },
+    {
+      "symbol": "DY",
+      "name": "Dycom Industries, Inc.",
+      "weight": 0.57
+    },
+    {
+      "symbol": "AWI",
+      "name": "Armstrong World Industries, Inc.",
+      "weight": 0.56
+    },
+    {
+      "symbol": "QRVO",
+      "name": "Qorvo, Inc.",
+      "weight": 0.55
+    },
+    {
+      "symbol": "AEIS",
+      "name": "Advanced Energy Industries, Inc.",
+      "weight": 0.52
+    },
+    {
+      "symbol": "CTRE",
+      "name": "CareTrust REIT, Inc.",
+      "weight": 0.52
+    },
+    {
+      "symbol": "SANM",
+      "name": "Sanmina Corporation",
+      "weight": 0.5
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "symbol": "MAGS",
+  "name": "Roundhill Magnificent Seven ETF",
+  "last_updated": "2025-12-04T17:21:00.599Z",
+  "profile": {
+    "name": "Roundhill Magnificent Seven ETF",
+    "issuer": "Roundhill Investments",
+    "brand": "Roundhill",
+    "expense_ratio": 0.0029,
+    "inception_date": "Apr 11, 2023",
+    "index_tracked": "ACTIVE - No Index",
+    "category": "n/a",
+    "asset_class": "Equity",
+    "aum": 4071400000,
+    "shares_outstanding": 61100000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 02-DEC-2025",
+      "name": "United States Treasury Bills 0.0% 02-DEC-2025",
+      "weight": 43.43
+    },
+    {
+      "symbol": "FGXXX",
+      "name": "First American Funds Inc X Government Obligations Fund",
+      "weight": 8.91
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 8.07
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 6.83
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 6.08
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 5.79
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "weight": 5.52
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "weight": 5.51
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 5.22
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc Class A",
+      "weight": 4.64
+    }
+  ]
+}

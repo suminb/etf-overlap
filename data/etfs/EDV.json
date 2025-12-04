@@ -1,0 +1,28 @@
+{
+  "symbol": "EDV",
+  "name": "Vanguard Extended Duration Treasury ETF",
+  "last_updated": "2025-12-04T17:21:55.470Z",
+  "profile": {
+    "name": "Vanguard Extended Duration Treasury ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0005,
+    "inception_date": "Dec 06, 2007",
+    "index_tracked": "Bloomberg 20-30 Year Treasury Strips",
+    "home_page": "https://advisors.vanguard.com/investments/products/edv/vanguard-extended-duration-treasury-etf",
+    "category": "Government Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4079700000,
+    "shares_outstanding": 60700000
+  },
+  "holdings": [
+    {
+      "symbol": "GOVERNMENT OF THE UNITED STATES OF AMERICA 00 15",
+      "name": "Government of the United States of America 0.0% 15-FEB-2046",
+      "weight": 2
+    }
+  ]
+}

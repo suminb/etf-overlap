@@ -1,0 +1,28 @@
+{
+  "symbol": "BITB",
+  "name": "Bitwise Bitcoin ETF Trust",
+  "last_updated": "2025-12-04T17:29:19.887Z",
+  "profile": {
+    "name": "Bitwise Bitcoin ETF Trust",
+    "issuer": "Bitwise Asset Management, Inc.",
+    "brand": "Bitwise",
+    "structure": "ETF",
+    "expense_ratio": 0.002,
+    "inception_date": "Jan 11, 2024",
+    "index_tracked": "CME CF Benchmarks Bitcoin Reference Rate-New York Variant",
+    "home_page": "https://bitbetf.com/",
+    "category": "Currency",
+    "asset_class": "Currency",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 3662800000,
+    "shares_outstanding": 73800000
+  },
+  "holdings": [
+    {
+      "symbol": "EQUITY OTHER",
+      "name": "EQUITY OTHER",
+      "weight": 100
+    }
+  ]
+}

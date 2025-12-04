@@ -1,0 +1,98 @@
+{
+  "symbol": "FSEC",
+  "name": "Fidelity Investment Grade Securitized ETF",
+  "last_updated": "2025-12-04T17:18:55.413Z",
+  "profile": {
+    "name": "Fidelity Investment Grade Securitized ETF",
+    "issuer": "Fidelity",
+    "brand": "Fidelity",
+    "structure": "ETF",
+    "expense_ratio": 0.0036,
+    "inception_date": "Mar 02, 2021",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://screener.fidelity.com/ftgw/etf/snapshot/snapshot.jhtml?symbols=FSEC",
+    "category": "Mortgage Backed Securities",
+    "asset_class": "Bond",
+    "region_general": "Global",
+    "region_specific": "Broad",
+    "aum": 4300000000,
+    "shares_outstanding": 96900000
+  },
+  "holdings": [
+    {
+      "symbol": "UMBS TBA 30YR 6 JANUARY DELIVERY 6000 01-OCT-20",
+      "name": "UMBS TBA 30yr 6% January Delivery 6.000% 01-OCT-2054",
+      "weight": 4.86
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 6 JANUARY DELIVERY 6000 01-MAY",
+      "name": "GNMA II TBA 30yr 6% January Delivery 6.000% 01-MAY-2055",
+      "weight": 3.56
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 6 FEBRUARY DELIVERY 6000 01-MA",
+      "name": "GNMA II TBA 30yr 6% February Delivery 6.000% 01-MAY-2055",
+      "weight": 3.5
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 25 DECEMBER DELIVERY 2500 01-",
+      "name": "GNMA II TBA 30yr 2.5% December Delivery 2.500% 01-OCT-2051",
+      "weight": 2.43
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 2 DECEMBER DELIVERY 2000 01-SE",
+      "name": "GNMA II TBA 30yr 2% December Delivery 2.000% 01-SEP-2051",
+      "weight": 2.19
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 5 JANUARY DELIVERY 5000 01-AUG",
+      "name": "GNMA II TBA 30yr 5% January Delivery 5.000% 01-AUG-2055",
+      "weight": 2.16
+    },
+    {
+      "symbol": "UMBS TBA 30YR 55 JANUARY DELIVERY 5500 01-JUN-",
+      "name": "UMBS TBA 30yr 5.5% January Delivery 5.500% 01-JUN-2055",
+      "weight": 1.7
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD7548 2500 01-NOV-2051 25 01-",
+      "name": "FHLMC 30yr Pool#SD7548 2.500% 01-Nov-2051 2.5% 01-NOV-2051",
+      "weight": 1.69
+    },
+    {
+      "symbol": "GNMA II 30YR POOLMA7988 3000 20-APR-2052 30 2",
+      "name": "GNMA II 30yr Pool#MA7988 3.000% 20-Apr-2052 3.0% 20-APR-2052",
+      "weight": 1.48
+    },
+    {
+      "symbol": "FANNIE MAE REMIC TRUST 2021-13  BE 125 25-FEB-20",
+      "name": "Fannie Mae REMIC Trust 2021-13  BE 1.25% 25-FEB-2050",
+      "weight": 1.41
+    },
+    {
+      "symbol": "FNMA 30YR POOLCC0241 5500 01-APR-2055 55 01-A",
+      "name": "FNMA 30yr Pool#CC0241 5.500% 01-Apr-2055 5.5% 01-APR-2055",
+      "weight": 1.38
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSL1958 2500 01-APR-2052 25 01-",
+      "name": "FHLMC 30yr Pool#SL1958 2.500% 01-Apr-2052 2.5% 01-APR-2052",
+      "weight": 1.29
+    },
+    {
+      "symbol": "GNMA II 30YR POOLMA7880 2000 20-FEB-2052 20 2",
+      "name": "GNMA II 30yr Pool#MA7880 2.000% 20-Feb-2052 2.0% 20-FEB-2052",
+      "weight": 1.29
+    },
+    {
+      "symbol": "GNMA II TBA 30YR 55 JANUARY DELIVERY 5500 01-J",
+      "name": "GNMA II TBA 30yr 5.5% January Delivery 5.500% 01-JUL-2055",
+      "weight": 1.23
+    },
+    {
+      "symbol": "FNMA 30YR POOLCA6947 2500 01-SEP-2050 25 01-S",
+      "name": "FNMA 30yr Pool#CA6947 2.500% 01-Sep-2050 2.5% 01-SEP-2050",
+      "weight": 1.11
+    }
+  ]
+}

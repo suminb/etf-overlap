@@ -1,0 +1,98 @@
+{
+  "symbol": "ICVT",
+  "name": "iShares Convertible Bond ETF",
+  "last_updated": "2025-12-04T17:28:41.141Z",
+  "profile": {
+    "name": "iShares Convertible Bond ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.002,
+    "inception_date": "Jun 02, 2015",
+    "index_tracked": "Bloomberg U.S. Convertible Cash Pay Bond > $250MM Index",
+    "home_page": "https://www.ishares.com/us/products/272819/ishares-convertible-bond-etf",
+    "category": "Preferred Stock/Convertible Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3690400000,
+    "shares_outstanding": 37300000
+  },
+  "holdings": [
+    {
+      "symbol": "ALIBABA GROUP HOLDING LIMITED 05 01-JUN-2031",
+      "name": "Alibaba Group Holding Limited 0.5% 01-JUN-2031",
+      "weight": 2.7
+    },
+    {
+      "symbol": "WESTERN DIGITAL CORPORATION 30 15-NOV-2028",
+      "name": "Western Digital Corporation 3.0% 15-NOV-2028",
+      "weight": 2.15
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.85
+    },
+    {
+      "symbol": "SEAGATE HDD CAYMAN 35 01-JUN-2028",
+      "name": "Seagate HDD Cayman 3.5% 01-JUN-2028",
+      "weight": 1.04
+    },
+    {
+      "symbol": "DOORDASH INC 00 15-MAY-2030",
+      "name": "DoorDash, Inc. 0.0% 15-MAY-2030",
+      "weight": 0.88
+    },
+    {
+      "symbol": "GAMESTOP CORP 00 15-JUN-2032",
+      "name": "GameStop Corp. 0.0% 15-JUN-2032",
+      "weight": 0.88
+    },
+    {
+      "symbol": "SOFI TECHNOLOGIES INC 125 15-MAR-2029",
+      "name": "SoFi Technologies, Inc. 1.25% 15-MAR-2029",
+      "weight": 0.87
+    },
+    {
+      "symbol": "LUMENTUM HOLDINGS INC 15 15-DEC-2029",
+      "name": "Lumentum Holdings Inc. 1.5% 15-DEC-2029",
+      "weight": 0.84
+    },
+    {
+      "symbol": "MP MATERIALS CORP 30 01-MAR-2030",
+      "name": "MP Materials Corp. 3.0% 01-MAR-2030",
+      "weight": 0.79
+    },
+    {
+      "symbol": "STRATEGY INC 00 01-DEC-2029",
+      "name": "Strategy Inc 0.0% 01-DEC-2029",
+      "weight": 0.78
+    },
+    {
+      "symbol": "BLOOM ENERGY CORPORATION 00 15-NOV-2030",
+      "name": "Bloom Energy Corporation 0.0% 15-NOV-2030",
+      "weight": 0.75
+    },
+    {
+      "symbol": "FORD MOTOR COMPANY 00 15-MAR-2026",
+      "name": "Ford Motor Company 0.0% 15-MAR-2026",
+      "weight": 0.75
+    },
+    {
+      "symbol": "UBER TECHNOLOGIES INC 0875 01-DEC-2028",
+      "name": "Uber Technologies, Inc. 0.875% 01-DEC-2028",
+      "weight": 0.74
+    },
+    {
+      "symbol": "LUMENTUM HOLDINGS INC 0375 15-MAR-2032",
+      "name": "Lumentum Holdings Inc. 0.375% 15-MAR-2032",
+      "weight": 0.72
+    },
+    {
+      "symbol": "WELLTOWER INC 275 15-MAY-2028",
+      "name": "Welltower Inc. 2.75% 15-MAY-2028",
+      "weight": 0.71
+    }
+  ]
+}

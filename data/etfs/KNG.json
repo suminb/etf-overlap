@@ -1,0 +1,100 @@
+{
+  "symbol": "KNG",
+  "name": "FT Vest S&P 500 Dividend Aristocrats Target Income ETF",
+  "last_updated": "2025-12-04T17:32:53.010Z",
+  "profile": {
+    "name": "FT Vest S&P 500 Dividend Aristocrats Target Income ETF",
+    "issuer": "First Trust",
+    "brand": "FT Vest",
+    "structure": "ETF",
+    "expense_ratio": 0.0075,
+    "inception_date": "Mar 26, 2018",
+    "index_tracked": "Cboe S&P 500 Dividend Aristocrats Target Income Monthly Series",
+    "home_page": "https://www.cboevestetfs.com",
+    "category": "Large Cap Blend Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3453000000,
+    "shares_outstanding": 70300000
+  },
+  "holdings": [
+    {
+      "symbol": "ALB",
+      "name": "Albemarle Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "CHRW",
+      "name": "C.H. Robinson Worldwide, Inc.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "EXPD",
+      "name": "Expeditors International of Washington, Inc.",
+      "weight": 1.8
+    },
+    {
+      "symbol": "NUE",
+      "name": "Nucor Corporation",
+      "weight": 1.73
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "DOV",
+      "name": "Dover Corporation",
+      "weight": 1.63
+    },
+    {
+      "symbol": "KVUE",
+      "name": "Kenvue, Inc.",
+      "weight": 1.61
+    },
+    {
+      "symbol": "BF.B",
+      "name": "Brown-Forman Corporation Class B",
+      "weight": 1.54
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "weight": 1.54
+    },
+    {
+      "symbol": "CB",
+      "name": "Chubb Limited",
+      "weight": 1.53
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "weight": 1.53
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic Plc",
+      "weight": 1.53
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 1.51
+    },
+    {
+      "symbol": "SWK",
+      "name": "Stanley Black & Decker, Inc.",
+      "weight": 1.51
+    }
+  ]
+}

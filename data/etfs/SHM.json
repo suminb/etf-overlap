@@ -1,0 +1,88 @@
+{
+  "symbol": "SHM",
+  "name": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF",
+  "last_updated": "2025-12-04T17:31:23.704Z",
+  "profile": {
+    "name": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.002,
+    "inception_date": "Oct 10, 2007",
+    "index_tracked": "ICE 1-5 Year AMT-Free US Select Municipal Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=SHM",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3503000000,
+    "shares_outstanding": 73200000
+  },
+  "holdings": [
+    {
+      "symbol": "SOUTHEAST ENERGY AUTH COOP DIST ALA ENERGY SUPPLY",
+      "name": "Southeast Energy Auth Coop Dist Ala Energy Supply Rev 5.0% 01-OCT-2030",
+      "weight": 0.92
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-AUG-2027",
+      "name": "New York N Y 5.0% 01-AUG-2027",
+      "weight": 0.9
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-OCT-2027",
+      "name": "California St 5.0% 01-OCT-2027",
+      "weight": 0.69
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH ST PERS INCOME TAX REV 50",
+      "name": "New York St Dorm Auth St Pers Income Tax Rev 5.0% 15-MAR-2029",
+      "weight": 0.62
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-MAR-2029",
+      "name": "California St 5.0% 01-MAR-2029",
+      "weight": 0.53
+    },
+    {
+      "symbol": "NEW YORK N Y CITY TRANSITIONAL FIN AUTH REV 50 0",
+      "name": "New York N Y City Transitional Fin Auth Rev 5.0% 01-NOV-2027",
+      "weight": 0.52
+    },
+    {
+      "symbol": "TRIBOROUGH BRDG  TUNL AUTH N Y PAYROLL MOBILITYTA",
+      "name": "Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 4.0% 15-MAY-2027",
+      "weight": 0.5
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-SEP-2028",
+      "name": "California St 5.0% 01-SEP-2028",
+      "weight": 0.49
+    },
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 0.46
+    },
+    {
+      "symbol": "UNIVERSITY CALIF REVS 50 15-MAY-2027",
+      "name": "University Calif Revs 5.0% 15-MAY-2027",
+      "weight": 0.41
+    },
+    {
+      "symbol": "PENNSYLVANIA ST 50 01-SEP-2026",
+      "name": "Pennsylvania St 5.0% 01-SEP-2026",
+      "weight": 0.41
+    },
+    {
+      "symbol": "WILLIAMSON CNTY TEX 50 15-FEB-2029",
+      "name": "Williamson Cnty Tex 5.0% 15-FEB-2029",
+      "weight": 0.4
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-SEP-2027",
+      "name": "New York N Y 5.0% 01-SEP-2027",
+      "weight": 0.39
+    }
+  ]
+}

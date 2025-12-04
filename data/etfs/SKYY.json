@@ -1,0 +1,102 @@
+{
+  "symbol": "SKYY",
+  "name": "First Trust Cloud Computing ETF",
+  "last_updated": "2025-12-04T17:38:12.718Z",
+  "profile": {
+    "name": "First Trust Cloud Computing ETF",
+    "issuer": "First Trust",
+    "brand": "First Trust",
+    "structure": "ETF",
+    "expense_ratio": 0.006,
+    "inception_date": "Jul 05, 2011",
+    "index_tracked": "ISE Cloud Computing Index",
+    "home_page": "http://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=SKYY",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "sector_general": "Technology",
+    "sector_specific": "Cloud Computing",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3097200000,
+    "shares_outstanding": 23600000
+  },
+  "holdings": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "weight": 5.56
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "weight": 4.6
+    },
+    {
+      "symbol": "LUMN",
+      "name": "Lumen Technologies, Inc.",
+      "weight": 4.07
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB, Inc. Class A",
+      "weight": 3.97
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "weight": 3.76
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "weight": 3.49
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks, Inc.",
+      "weight": 3.46
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "weight": 3.4
+    },
+    {
+      "symbol": "PSTG",
+      "name": "Pure Storage, Inc. Class A",
+      "weight": 3.28
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "weight": 2.78
+    },
+    {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies, Inc.",
+      "weight": 2.74
+    },
+    {
+      "symbol": "NTNX",
+      "name": "Nutanix, Inc. Class A",
+      "weight": 2.61
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin Corp. Class A",
+      "weight": 2.56
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc Class A",
+      "weight": 2.42
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave, Inc. Class A",
+      "weight": 2.38
+    }
+  ]
+}

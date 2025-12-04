@@ -1,0 +1,100 @@
+{
+  "symbol": "CGXU",
+  "name": "Capital Group International Focus Equity ETF",
+  "last_updated": "2025-12-04T17:18:43.942Z",
+  "profile": {
+    "name": "Capital Group International Focus Equity ETF",
+    "issuer": "The Capital Group Companies",
+    "brand": "Capital Group",
+    "structure": "ETF",
+    "expense_ratio": 0.0054,
+    "inception_date": "Feb 22, 2022",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.capitalgroup.com/advisor/investments/exchange-traded-funds/details/cgxu",
+    "category": "Global Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Growth",
+    "region_general": "Global ex-U.S.",
+    "region_specific": "Broad",
+    "aum": 4316000000,
+    "shares_outstanding": 145300000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 6.23
+    },
+    {
+      "symbol": "9984",
+      "name": "SoftBank Group Corp.",
+      "weight": 3.89
+    },
+    {
+      "symbol": "AIR",
+      "name": "Airbus SE",
+      "weight": 3.57
+    },
+    {
+      "symbol": "STAN",
+      "name": "Standard Chartered PLC",
+      "weight": 3.54
+    },
+    {
+      "symbol": "FM",
+      "name": "First Quantum Minerals Ltd.",
+      "weight": 3.51
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 2.61
+    },
+    {
+      "symbol": "BTI",
+      "name": "British American Tobacco PLC Sponsored ADR",
+      "weight": 2.46
+    },
+    {
+      "symbol": "CNQ",
+      "name": "Canadian Natural Resources Limited",
+      "weight": 2.45
+    },
+    {
+      "symbol": "4568",
+      "name": "Daiichi Sankyo Company, Limited",
+      "weight": 2.43
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 2.26
+    },
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings Ltd. Class A",
+      "weight": 2.17
+    },
+    {
+      "symbol": "BBVA",
+      "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "weight": 2.14
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "weight": 2.07
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 1.96
+    },
+    {
+      "symbol": "8035",
+      "name": "Tokyo Electron Ltd.",
+      "weight": 1.88
+    }
+  ]
+}

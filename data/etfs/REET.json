@@ -1,0 +1,102 @@
+{
+  "symbol": "REET",
+  "name": "iShares Global REIT ETF",
+  "last_updated": "2025-12-04T17:22:30.572Z",
+  "profile": {
+    "name": "iShares Global REIT ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0014000000000000002,
+    "inception_date": "Jul 08, 2014",
+    "index_tracked": "FTSE EPRA/NAREIT Global REIT Index",
+    "home_page": "http://www.ishares.com/us/products/268752/REET",
+    "category": "Global Real Estate",
+    "asset_class": "Real Estate",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Real Estate",
+    "sector_specific": "Broad",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3997000000,
+    "shares_outstanding": 157600000
+  },
+  "holdings": [
+    {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "weight": 8.23
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "weight": 7.3
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "weight": 4.36
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "weight": 3.6
+    },
+    {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "weight": 3.28
+    },
+    {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "weight": 3.2
+    },
+    {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "weight": 2.68
+    },
+    {
+      "symbol": "GMG",
+      "name": "Goodman Group",
+      "weight": 2.41
+    },
+    {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "weight": 2.21
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "weight": 1.82
+    },
+    {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "weight": 1.7
+    },
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "weight": 1.57
+    },
+    {
+      "symbol": "IRM",
+      "name": "Iron Mountain, Inc.",
+      "weight": 1.51
+    },
+    {
+      "symbol": "EQR",
+      "name": "Equity Residential",
+      "weight": 1.43
+    },
+    {
+      "symbol": "INVH",
+      "name": "Invitation Homes, Inc.",
+      "weight": 1.03
+    }
+  ]
+}

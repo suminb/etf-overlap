@@ -1,0 +1,98 @@
+{
+  "symbol": "IBDU",
+  "name": "iShares iBonds Dec 2029 Term Corporate ETF",
+  "last_updated": "2025-12-04T17:36:22.404Z",
+  "profile": {
+    "name": "iShares iBonds Dec 2029 Term Corporate ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.001,
+    "inception_date": "Sep 17, 2019",
+    "index_tracked": "Bloomberg December 2029 Maturity Corporate Index",
+    "home_page": "https://www.ishares.com/us/products/310035/ishares-ibonds-dec-2029-term-corporate-etf-fund",
+    "category": "Corporate Bonds",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3186400000,
+    "shares_outstanding": 136200000
+  },
+  "holdings": [
+    {
+      "symbol": "ABBVIE INC 32 21-NOV-2029",
+      "name": "AbbVie Inc. 3.2% 21-NOV-2029",
+      "weight": 1.08
+    },
+    {
+      "symbol": "VERIZON COMMUNICATIONS INC 4016 03-DEC-2029",
+      "name": "Verizon Communications Inc. 4.016% 03-DEC-2029",
+      "weight": 0.73
+    },
+    {
+      "symbol": "INTERNATIONAL BUSINESS MACHINES CORPORATION 35 1",
+      "name": "International Business Machines Corporation 3.5% 15-MAY-2029",
+      "weight": 0.67
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 0.66
+    },
+    {
+      "symbol": "ATT INC 435 01-MAR-2029",
+      "name": "AT&T Inc. 4.35% 01-MAR-2029",
+      "weight": 0.65
+    },
+    {
+      "symbol": "CENTENE CORPORATION 4625 15-DEC-2029",
+      "name": "Centene Corporation 4.625% 15-DEC-2029",
+      "weight": 0.62
+    },
+    {
+      "symbol": "ANHEUSER-BUSCH INBEV WORLDWIDE INC 475 23-JAN-",
+      "name": "Anheuser-Busch InBev Worldwide, Inc. 4.75% 23-JAN-2029",
+      "weight": 0.61
+    },
+    {
+      "symbol": "FISERV INC 35 01-JUL-2029",
+      "name": "Fiserv, Inc. 3.5% 01-JUL-2029",
+      "weight": 0.6
+    },
+    {
+      "symbol": "CISCO SYSTEMS INC 485 26-FEB-2029",
+      "name": "Cisco Systems, Inc. 4.85% 26-FEB-2029",
+      "weight": 0.54
+    },
+    {
+      "symbol": "ABBVIE INC 48 15-MAR-2029",
+      "name": "AbbVie Inc. 4.8% 15-MAR-2029",
+      "weight": 0.53
+    },
+    {
+      "symbol": "WELLS FARGO  COMPANY 415 24-JAN-2029",
+      "name": "Wells Fargo & Company 4.15% 24-JAN-2029",
+      "weight": 0.52
+    },
+    {
+      "symbol": "SUMITOMO MITSUI FINANCIAL GROUP INC 304 16-JUL",
+      "name": "Sumitomo Mitsui Financial Group, Inc. 3.04% 16-JUL-2029",
+      "weight": 0.51
+    },
+    {
+      "symbol": "BRISTOL-MYERS SQUIBB COMPANY 34 26-JUL-2029",
+      "name": "Bristol-Myers Squibb Company 3.4% 26-JUL-2029",
+      "weight": 0.48
+    },
+    {
+      "symbol": "BROADCOM INC 505 12-JUL-2029",
+      "name": "Broadcom Inc. 5.05% 12-JUL-2029",
+      "weight": 0.48
+    },
+    {
+      "symbol": "FOX CORPORATION 4709 25-JAN-2029",
+      "name": "Fox Corporation 4.709% 25-JAN-2029",
+      "weight": 0.44
+    }
+  ]
+}

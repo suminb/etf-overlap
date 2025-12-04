@@ -1,0 +1,100 @@
+{
+  "symbol": "AAXJ",
+  "name": "iShares MSCI All Country Asia ex-Japan ETF",
+  "last_updated": "2025-12-04T17:36:34.587Z",
+  "profile": {
+    "name": "iShares MSCI All Country Asia ex-Japan ETF",
+    "issuer": "BlackRock, Inc.",
+    "brand": "iShares",
+    "structure": "ETF",
+    "expense_ratio": 0.0072,
+    "inception_date": "Aug 13, 2008",
+    "index_tracked": "MSCI All Country Asia ex Japan Index",
+    "home_page": "http://us.ishares.com/product_info/fund/overview/AAXJ.htm?qt=AAXJ",
+    "category": "Asia Pacific Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Broad Asia",
+    "region_specific": "Pacific ex-Japan",
+    "aum": 3160900000,
+    "shares_outstanding": 34000000
+  },
+  "holdings": [
+    {
+      "symbol": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+      "weight": 13
+    },
+    {
+      "symbol": "700",
+      "name": "Tencent Holdings Ltd",
+      "weight": 5.73
+    },
+    {
+      "symbol": "9988",
+      "name": "Alibaba Group Holding Limited",
+      "weight": 3.86
+    },
+    {
+      "symbol": "005930",
+      "name": "Samsung Electronics Co., Ltd.",
+      "weight": 3.83
+    },
+    {
+      "symbol": "000660",
+      "name": "SK hynix Inc.",
+      "weight": 2.34
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC Bank Limited",
+      "weight": 1.43
+    },
+    {
+      "symbol": "1299",
+      "name": "AIA Group Limited",
+      "weight": 1.21
+    },
+    {
+      "symbol": "500325",
+      "name": "Reliance Industries Limited",
+      "weight": 1.17
+    },
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 1.1
+    },
+    {
+      "symbol": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "weight": 1.04
+    },
+    {
+      "symbol": "D05",
+      "name": "DBS Group Holdings Ltd",
+      "weight": 1.02
+    },
+    {
+      "symbol": "1810",
+      "name": "Xiaomi Corporation Class B",
+      "weight": 1.01
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc. Sponsored ADR Class A",
+      "weight": 0.94
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI Bank Limited",
+      "weight": 0.93
+    },
+    {
+      "symbol": "BLACKROCK CASH FUNDS TREASURY SL AGENCY SHARES",
+      "name": "BlackRock Cash Funds Treasury SL Agency Shares",
+      "weight": 0.84
+    }
+  ]
+}

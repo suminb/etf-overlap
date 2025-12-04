@@ -1,7 +1,9 @@
 {
   "symbol": "SHLD",
-  "last_updated": "2025-11-30T16:56:39.332Z",
+  "name": "Global X Defense Tech ETF",
+  "last_updated": "2025-12-04T17:14:24.877Z",
   "profile": {
+    "name": "Global X Defense Tech ETF",
     "issuer": "Mirae Asset Global Investments Co., Ltd.",
     "brand": "Global X",
     "structure": "ETF",
@@ -15,84 +17,84 @@
     "sector_specific": "Aerospace & Defense",
     "region_general": "North America",
     "region_specific": "U.S.",
-    "aum": 4766200000,
+    "aum": 4805200000,
     "shares_outstanding": 77200000
   },
   "holdings": [
     {
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc. Class A",
-      "weight": 9.08
-    },
-    {
-      "symbol": "RTX",
-      "name": "RTX Corporation",
-      "weight": 8.9
-    },
-    {
-      "symbol": "LMT",
-      "name": "Lockheed Martin Corporation",
-      "weight": 7.23
-    },
-    {
-      "symbol": "RHM",
-      "name": "Rheinmetall AG",
-      "weight": 6.57
-    },
-    {
-      "symbol": "BA",
-      "name": "BAE Systems plc",
-      "weight": 6.28
+      "weight": 8.43
     },
     {
       "symbol": "GD",
       "name": "General Dynamics Corporation",
-      "weight": 5.23
+      "weight": 8.2
     },
     {
-      "symbol": "LDOS",
-      "name": "Leidos Holdings, Inc.",
-      "weight": 5.07
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "weight": 8.1
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "weight": 7.79
+    },
+    {
+      "symbol": "RHM",
+      "name": "Rheinmetall AG",
+      "weight": 7.13
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman Corp.",
-      "weight": 4.89
+      "weight": 4.56
+    },
+    {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "weight": 4.56
     },
     {
       "symbol": "LHX",
       "name": "L3Harris Technologies Inc",
-      "weight": 4.76
-    },
-    {
-      "symbol": "LDO",
-      "name": "Leonardo SpA",
-      "weight": 4.07
+      "weight": 4.52
     },
     {
       "symbol": "HO",
       "name": "Thales SA",
-      "weight": 3.95
+      "weight": 4.36
     },
     {
-      "symbol": "SAAB.B",
-      "name": "Saab AB Class B",
-      "weight": 3.63
+      "symbol": "BA",
+      "name": "BAE Systems plc",
+      "weight": 4.26
+    },
+    {
+      "symbol": "LDO",
+      "name": "Leonardo SpA",
+      "weight": 4.05
     },
     {
       "symbol": "012450",
       "name": "Hanwha Aerospace Co., Ltd.",
-      "weight": 3.6
+      "weight": 3.48
+    },
+    {
+      "symbol": "SAAB.B",
+      "name": "Saab AB Class B",
+      "weight": 3.39
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies, Inc.",
-      "weight": 3.33
+      "weight": 3.04
     },
     {
-      "symbol": "HII",
-      "name": "Huntington Ingalls Industries, Inc.",
-      "weight": 2.56
+      "symbol": "ESLT",
+      "name": "Elbit Systems Ltd",
+      "weight": 2.36
     }
   ]
 }

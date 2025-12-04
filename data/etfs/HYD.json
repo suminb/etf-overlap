@@ -1,0 +1,98 @@
+{
+  "symbol": "HYD",
+  "name": "VanEck High Yield Muni ETF",
+  "last_updated": "2025-12-04T17:28:56.202Z",
+  "profile": {
+    "name": "VanEck High Yield Muni ETF",
+    "issuer": "VanEck",
+    "brand": "VanEck",
+    "structure": "ETF",
+    "expense_ratio": 0.0032,
+    "inception_date": "Feb 04, 2009",
+    "index_tracked": "ICE Broad High Yield Crossover Municipal",
+    "home_page": "http://www.vaneck.com/funds/HYD.aspx",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3683100000,
+    "shares_outstanding": 72700000
+  },
+  "holdings": [
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 3.38
+    },
+    {
+      "symbol": "BUCKEYE OHIO TOB SETTLEMENT FING AUTH 50 01-JUN-",
+      "name": "Buckeye Ohio Tob Settlement Fing Auth 5.0% 01-JUN-2055",
+      "weight": 1.03
+    },
+    {
+      "symbol": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 432",
+      "name": "Puerto Rico Sales Tax Fing Corp Sales Tax Rev 4.329% 01-JUL-2040",
+      "weight": 0.8
+    },
+    {
+      "symbol": "CALIFORNIA INFRASTRUCTURE  ECONOMIC DEV BK REV VA",
+      "name": "California Infrastructure & Economic Dev Bk Rev VAR 01-JAN-2065",
+      "weight": 0.69
+    },
+    {
+      "symbol": "ARKANSAS ST DEV FIN AUTH ENVIRONMENTAL IMPT REV 5",
+      "name": "Arkansas St Dev Fin Auth Environmental Impt Rev 5.45% 01-SEP-2052",
+      "weight": 0.54
+    },
+    {
+      "symbol": "HOUSTON TEX ARPT SYS REV 40 15-JUL-2041",
+      "name": "Houston Tex Arpt Sys Rev 4.0% 15-JUL-2041",
+      "weight": 0.54
+    },
+    {
+      "symbol": "FLORIDA DEV FIN CORP REV 525 01-JUL-2053",
+      "name": "Florida Dev Fin Corp Rev 5.25% 01-JUL-2053",
+      "weight": 0.54
+    },
+    {
+      "symbol": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 50",
+      "name": "Puerto Rico Sales Tax Fing Corp Sales Tax Rev 5.0% 01-JUL-2058",
+      "weight": 0.53
+    },
+    {
+      "symbol": "CALIFORNIA MUN FIN AUTH SPL FAC REV 40 15-JUL-20",
+      "name": "California Mun Fin Auth Spl Fac Rev 4.0% 15-JUL-2029",
+      "weight": 0.52
+    },
+    {
+      "symbol": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 475",
+      "name": "Puerto Rico Sales Tax Fing Corp Sales Tax Rev 4.75% 01-JUL-2053",
+      "weight": 0.51
+    },
+    {
+      "symbol": "NEW YORK TRANSN DEV CORP SPL FAC REV 50 01-JUL-2",
+      "name": "New York Transn Dev Corp Spl Fac Rev 5.0% 01-JUL-2046",
+      "weight": 0.5
+    },
+    {
+      "symbol": "PUERTO RICO SALES TAX FING CORP SALES TAX REV 00",
+      "name": "Puerto Rico Sales Tax Fing Corp Sales Tax Rev 0.0% 01-JUL-2046",
+      "weight": 0.47
+    },
+    {
+      "symbol": "JEFFERSON CNTY ALA SWR REV 525 01-OCT-2049",
+      "name": "Jefferson Cnty Ala Swr Rev 5.25% 01-OCT-2049",
+      "weight": 0.47
+    },
+    {
+      "symbol": "CALIFORNIA STATEWIDE CMNTYS DEV AUTH REV 50 01-D",
+      "name": "California Statewide Cmntys Dev Auth Rev 5.0% 01-DEC-2041",
+      "weight": 0.47
+    },
+    {
+      "symbol": "FLORIDA DEV FIN CORP REV 50 01-JUL-2044",
+      "name": "Florida Dev Fin Corp Rev 5.0% 01-JUL-2044",
+      "weight": 0.46
+    }
+  ]
+}

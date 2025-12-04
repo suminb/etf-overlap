@@ -1,0 +1,98 @@
+{
+  "symbol": "TOTL",
+  "name": "State Street DoubleLine Total Return Tactical ETF",
+  "last_updated": "2025-12-04T17:22:18.623Z",
+  "profile": {
+    "name": "State Street DoubleLine Total Return Tactical ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0055000000000000005,
+    "inception_date": "Feb 23, 2015",
+    "index_tracked": "ACTIVE - No Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=TOTL",
+    "category": "Total Bond Market",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 4023600000,
+    "shares_outstanding": 99700000
+  },
+  "holdings": [
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-MAR-2026",
+      "name": "United States Treasury Notes 0.75% 31-MAR-2026",
+      "weight": 6.32
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-JAN-2028",
+      "name": "United States Treasury Notes 0.75% 31-JAN-2028",
+      "weight": 6.03
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0875 30-SEP-2026",
+      "name": "United States Treasury Notes 0.875% 30-SEP-2026",
+      "weight": 2.37
+    },
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 1.94
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0875 15-NOV-2030",
+      "name": "United States Treasury Notes 0.875% 15-NOV-2030",
+      "weight": 1.65
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 075 31-MAY-2026",
+      "name": "United States Treasury Notes 0.75% 31-MAY-2026",
+      "weight": 1.64
+    },
+    {
+      "symbol": "UNITED STATES TREASURY NOTES 0625 15-AUG-2030",
+      "name": "United States Treasury Notes 0.625% 15-AUG-2030",
+      "weight": 1.53
+    },
+    {
+      "symbol": "ASSET-BACKED SECURITIES",
+      "name": "ASSET-BACKED SECURITIES",
+      "weight": 1.12
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSL2062 5500 01-JUL-2055 55 01-",
+      "name": "FHLMC 30yr Pool#SL2062 5.500% 01-Jul-2055 5.5% 01-JUL-2055",
+      "weight": 0.84
+    },
+    {
+      "symbol": "FHLMC 30YR POOLRJ1952 5500 01-JUL-2054 55 01-",
+      "name": "FHLMC 30yr Pool#RJ1952 5.500% 01-Jul-2054 5.5% 01-JUL-2054",
+      "weight": 0.83
+    },
+    {
+      "symbol": "FNMA 30YR POOLCB9147 5500 01-SEP-2054 01-SEP-20",
+      "name": "FNMA 30yr Pool#CB9147 5.500% 01-Sep-2054 01-SEP-2054",
+      "weight": 0.79
+    },
+    {
+      "symbol": "UNITED STATES TREASURY BILLS 00 12-MAR-2026",
+      "name": "United States Treasury Bills 0.0% 12-MAR-2026",
+      "weight": 0.75
+    },
+    {
+      "symbol": "FNMA 30YR POOLFA0561 5000 01-JAN-2055 50 01-J",
+      "name": "FNMA 30yr Pool#FA0561 5.000% 01-Jan-2055 5.0% 01-JAN-2055",
+      "weight": 0.75
+    },
+    {
+      "symbol": "FNMA 30YR POOLFS8551 3000 01-JUN-2052 30 01-J",
+      "name": "FNMA 30yr Pool#FS8551 3.000% 01-Jun-2052 3.0% 01-JUN-2052",
+      "weight": 0.67
+    },
+    {
+      "symbol": "FHLMC 30YR POOLSD6874 5500 01-NOV-2054 55 01-",
+      "name": "FHLMC 30yr Pool#SD6874 5.500% 01-Nov-2054 5.5% 01-NOV-2054",
+      "weight": 0.67
+    }
+  ]
+}

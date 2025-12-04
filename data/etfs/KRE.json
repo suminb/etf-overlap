@@ -1,0 +1,102 @@
+{
+  "symbol": "KRE",
+  "name": "State Street SPDR S&P Regional Banking ETF",
+  "last_updated": "2025-12-04T17:27:53.343Z",
+  "profile": {
+    "name": "State Street SPDR S&P Regional Banking ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0034999999999999996,
+    "inception_date": "Jun 19, 2006",
+    "index_tracked": "S&P Regional Banks Select Industry Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=KRE",
+    "category": "Financials Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Value",
+    "sector_general": "Financials",
+    "sector_specific": "Regional Banks",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3706600000,
+    "shares_outstanding": 58600000
+  },
+  "holdings": [
+    {
+      "symbol": "CADE",
+      "name": "Cadence Bank",
+      "weight": 2.21
+    },
+    {
+      "symbol": "VLY",
+      "name": "Valley National Bancorp",
+      "weight": 2.17
+    },
+    {
+      "symbol": "COLB",
+      "name": "Columbia Banking System, Inc.",
+      "weight": 2.15
+    },
+    {
+      "symbol": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "weight": 2.15
+    },
+    {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "weight": 2.1
+    },
+    {
+      "symbol": "PB",
+      "name": "Prosperity Bancshares, Inc.(R)",
+      "weight": 2.09
+    },
+    {
+      "symbol": "FNB",
+      "name": "F.N.B. Corporation",
+      "weight": 2.06
+    },
+    {
+      "symbol": "EWBC",
+      "name": "East West Bancorp, Inc.",
+      "weight": 2.02
+    },
+    {
+      "symbol": "FLG",
+      "name": "Flagstar Bank, National Association",
+      "weight": 2.01
+    },
+    {
+      "symbol": "FHN",
+      "name": "First Horizon Corporation",
+      "weight": 2
+    },
+    {
+      "symbol": "WBS",
+      "name": "Webster Financial Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "MTB",
+      "name": "M&T Bank Corporation",
+      "weight": 1.96
+    },
+    {
+      "symbol": "ONB",
+      "name": "Old National Bancorp",
+      "weight": 1.95
+    },
+    {
+      "symbol": "PNFP",
+      "name": "Pinnacle Financial Partners, Inc.",
+      "weight": 1.93
+    },
+    {
+      "symbol": "SNV",
+      "name": "Synovus Financial Corp.",
+      "weight": 1.93
+    }
+  ]
+}

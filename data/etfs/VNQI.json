@@ -1,0 +1,102 @@
+{
+  "symbol": "VNQI",
+  "name": "Vanguard Global ex-U.S. Real Estate ETF",
+  "last_updated": "2025-12-04T17:30:48.942Z",
+  "profile": {
+    "name": "Vanguard Global ex-U.S. Real Estate ETF",
+    "issuer": "Vanguard",
+    "brand": "Vanguard",
+    "structure": "ETF",
+    "expense_ratio": 0.0012,
+    "inception_date": "Nov 01, 2010",
+    "index_tracked": "S&P Global ex-U.S. Property Index",
+    "home_page": "https://advisors.vanguard.com/investments/products/vnqi/vanguard-global-ex-us-real-estate-etf",
+    "category": "Global Real Estate",
+    "asset_class": "Real Estate",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Real Estate",
+    "sector_specific": "Broad",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 3569200000,
+    "shares_outstanding": 75200000
+  },
+  "holdings": [
+    {
+      "symbol": "GMG",
+      "name": "Goodman Group",
+      "weight": 4.07
+    },
+    {
+      "symbol": "8801",
+      "name": "Mitsui Fudosan Co., Ltd.",
+      "weight": 2.69
+    },
+    {
+      "symbol": "8802",
+      "name": "Mitsubishi Estate Company, Limited",
+      "weight": 2.46
+    },
+    {
+      "symbol": "VNA",
+      "name": "Vonovia SE",
+      "weight": 2.33
+    },
+    {
+      "symbol": "EMAAR",
+      "name": "Emaar Properties (P.J.S.C)",
+      "weight": 2.22
+    },
+    {
+      "symbol": "1925",
+      "name": "Daiwa House Industry Co., Ltd.",
+      "weight": 1.91
+    },
+    {
+      "symbol": "8830",
+      "name": "Sumitomo Realty & Development Co., Ltd.",
+      "weight": 1.89
+    },
+    {
+      "symbol": "US DOLLAR",
+      "name": "U.S. Dollar",
+      "weight": 1.87
+    },
+    {
+      "symbol": "16",
+      "name": "Sun Hung Kai Properties Limited",
+      "weight": 1.74
+    },
+    {
+      "symbol": "SCG",
+      "name": "Scentre Group",
+      "weight": 1.29
+    },
+    {
+      "symbol": "823",
+      "name": "Link Real Estate Investment Trust",
+      "weight": 1.25
+    },
+    {
+      "symbol": "URW",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod",
+      "weight": 1.17
+    },
+    {
+      "symbol": "SGRO",
+      "name": "SEGRO plc",
+      "weight": 1.15
+    },
+    {
+      "symbol": "SPSN",
+      "name": "Swiss Prime Site AG",
+      "weight": 1.06
+    },
+    {
+      "symbol": "C38U",
+      "name": "CapitaLand Integrated Commercial Trust",
+      "weight": 0.98
+    }
+  ]
+}

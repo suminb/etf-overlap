@@ -1,0 +1,102 @@
+{
+  "symbol": "RSPT",
+  "name": "Invesco S&P 500 Equal Weight Technology ETF",
+  "last_updated": "2025-12-04T17:23:27.470Z",
+  "profile": {
+    "name": "Invesco S&P 500 Equal Weight Technology ETF",
+    "issuer": "Invesco",
+    "brand": "Invesco",
+    "structure": "ETF",
+    "expense_ratio": 0.004,
+    "inception_date": "Nov 01, 2006",
+    "index_tracked": "S&P 500 Equal Weighted / Information Technology -SEC",
+    "home_page": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-RSPT",
+    "category": "Technology Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Technology",
+    "sector_specific": "Broad",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 3962500000,
+    "shares_outstanding": 87400000
+  },
+  "holdings": [
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "weight": 2.35
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "weight": 2.22
+    },
+    {
+      "symbol": "TER",
+      "name": "Teradyne, Inc.",
+      "weight": 2.2
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "weight": 2.18
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corporation",
+      "weight": 2.18
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "weight": 1.98
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "weight": 1.81
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "weight": 1.78
+    },
+    {
+      "symbol": "EPAM",
+      "name": "EPAM Systems, Inc.",
+      "weight": 1.74
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "weight": 1.73
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar, Inc.",
+      "weight": 1.67
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "weight": 1.66
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc. Class A",
+      "weight": 1.64
+    },
+    {
+      "symbol": "KEYS",
+      "name": "Keysight Technologies Inc",
+      "weight": 1.61
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "weight": 1.6
+    }
+  ]
+}

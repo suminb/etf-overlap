@@ -1,0 +1,102 @@
+{
+  "symbol": "NFRA",
+  "name": "FlexShares STOXX Global Broad Infrastructure Index Fund",
+  "last_updated": "2025-12-04T17:49:28.910Z",
+  "profile": {
+    "name": "FlexShares STOXX Global Broad Infrastructure Index Fund",
+    "issuer": "Northern Trust Corp.",
+    "brand": "FlexShares",
+    "structure": "ETF",
+    "expense_ratio": 0.004699999999999999,
+    "inception_date": "Oct 08, 2013",
+    "index_tracked": "STOXX Global Broad Infrastructure Index - Discontinued as of 29-Jan-2021",
+    "home_page": "https://www.flexshares.com/exchange-traded-funds/stoxx-global-broad-infrastructure-index-fund",
+    "category": "Utilities Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Multi-Cap",
+    "asset_class_style": "Blend",
+    "sector_general": "Utilities",
+    "sector_specific": "Infrastructure",
+    "region_general": "Developed Markets",
+    "region_specific": "Broad",
+    "aum": 2981300000,
+    "shares_outstanding": 47800000
+  },
+  "holdings": [
+    {
+      "symbol": "CP",
+      "name": "Canadian Pacific Kansas City Limited",
+      "weight": 3.57
+    },
+    {
+      "symbol": "9984",
+      "name": "SoftBank Group Corp.",
+      "weight": 3.25
+    },
+    {
+      "symbol": "DTE",
+      "name": "Deutsche Telekom AG",
+      "weight": 3.23
+    },
+    {
+      "symbol": "CNR",
+      "name": "Canadian National Railway Company",
+      "weight": 2.97
+    },
+    {
+      "symbol": "IBE",
+      "name": "Iberdrola SA",
+      "weight": 2.76
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc",
+      "weight": 2.58
+    },
+    {
+      "symbol": "DHL",
+      "name": "Deutsche Post AG",
+      "weight": 2.57
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "weight": 2.5
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "weight": 2.45
+    },
+    {
+      "symbol": "WCN",
+      "name": "Waste Connections, Inc.",
+      "weight": 2.38
+    },
+    {
+      "symbol": "ENB",
+      "name": "Enbridge Inc.",
+      "weight": 2.24
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific Corporation",
+      "weight": 1.99
+    },
+    {
+      "symbol": "532454",
+      "name": "Bharti Airtel Limited",
+      "weight": 1.87
+    },
+    {
+      "symbol": "ENEL",
+      "name": "Enel SpA",
+      "weight": 1.72
+    },
+    {
+      "symbol": "NG",
+      "name": "National Grid plc",
+      "weight": 1.69
+    }
+  ]
+}

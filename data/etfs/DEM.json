@@ -1,0 +1,100 @@
+{
+  "symbol": "DEM",
+  "name": "WisdomTree Emerging Markets High Dividend Fund",
+  "last_updated": "2025-12-04T17:35:16.932Z",
+  "profile": {
+    "name": "WisdomTree Emerging Markets High Dividend Fund",
+    "issuer": "WisdomTree, Inc.",
+    "brand": "WisdomTree",
+    "structure": "ETF",
+    "expense_ratio": 0.0063,
+    "inception_date": "Jul 13, 2007",
+    "index_tracked": "WisdomTree Emerging Markets Equity income Index",
+    "home_page": "http://www.wisdomtree.com/etfs/fund-details.asp?etfid=50",
+    "category": "Emerging Markets Equities",
+    "asset_class": "Equity",
+    "asset_class_size": "Large-Cap",
+    "asset_class_style": "Blend",
+    "region_general": "Emerging Markets",
+    "region_specific": "Broad",
+    "aum": 3298200000,
+    "shares_outstanding": 70300000
+  },
+  "holdings": [
+    {
+      "symbol": "939",
+      "name": "China Construction Bank Corporation Class H",
+      "weight": 4.38
+    },
+    {
+      "symbol": "1398",
+      "name": "Industrial and Commercial Bank of China Limited Class H",
+      "weight": 2.72
+    },
+    {
+      "symbol": "2454",
+      "name": "MediaTek Inc",
+      "weight": 2.51
+    },
+    {
+      "symbol": "2222",
+      "name": "Saudi Arabian Oil Co.",
+      "weight": 1.99
+    },
+    {
+      "symbol": "GFNORTEO",
+      "name": "Grupo Financiero Banorte SAB de CV Class O",
+      "weight": 1.81
+    },
+    {
+      "symbol": "2318",
+      "name": "Ping An Insurance (Group) Company of China, Ltd. Class H",
+      "weight": 1.64
+    },
+    {
+      "symbol": "601166",
+      "name": "Industrial Bank Co., Ltd. Class A",
+      "weight": 1.61
+    },
+    {
+      "symbol": "2382",
+      "name": "Quanta Computer Inc.",
+      "weight": 1.44
+    },
+    {
+      "symbol": "PKN",
+      "name": "ORLEN Spolka Akcyjna",
+      "weight": 1.4
+    },
+    {
+      "symbol": "532540",
+      "name": "Tata Consultancy Services Limited",
+      "weight": 1.36
+    },
+    {
+      "symbol": "FEMSAUBD",
+      "name": "Fomento Economico Mexicano SAB de CV Units Cons. Of 1 ShsB And 4 ShsD",
+      "weight": 1.32
+    },
+    {
+      "symbol": "PKO",
+      "name": "PKO Bank Polski SA",
+      "weight": 1.25
+    },
+    {
+      "symbol": "2303",
+      "name": "United Microelectronics Corp.",
+      "weight": 1.03
+    },
+    {
+      "symbol": "500295",
+      "name": "Vedanta Limited",
+      "weight": 1.03
+    },
+    {
+      "symbol": "1088",
+      "name": "China Shenhua Energy Co. Ltd. Class H",
+      "weight": 0.99
+    }
+  ]
+}

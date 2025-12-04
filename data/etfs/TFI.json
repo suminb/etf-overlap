@@ -1,0 +1,98 @@
+{
+  "symbol": "TFI",
+  "name": "State Street SPDR Nuveen ICE Municipal Bond ETF",
+  "last_updated": "2025-12-04T17:48:52.448Z",
+  "profile": {
+    "name": "State Street SPDR Nuveen ICE Municipal Bond ETF",
+    "issuer": "State Street",
+    "brand": "SPDR",
+    "structure": "ETF",
+    "expense_ratio": 0.0023,
+    "inception_date": "Sep 11, 2007",
+    "index_tracked": "ICE AMT-Free US Select Municipal Index",
+    "home_page": "https://www.spdrs.com/product/fund.seam?ticker=TFI",
+    "category": "National Munis",
+    "asset_class": "Bond",
+    "region_general": "North America",
+    "region_specific": "U.S.",
+    "aum": 2998800000,
+    "shares_outstanding": 65800000
+  },
+  "holdings": [
+    {
+      "symbol": "GVMXX",
+      "name": "State Street Institutional Investment Trust US Government Money Market Fund Institutional",
+      "weight": 1.12
+    },
+    {
+      "symbol": "MARYLAND ST 50 01-JUN-2034",
+      "name": "Maryland St 5.0% 01-JUN-2034",
+      "weight": 0.36
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-AUG-2027",
+      "name": "New York N Y 5.0% 01-AUG-2027",
+      "weight": 0.35
+    },
+    {
+      "symbol": "MASSACHUSETTS ST 50 01-NOV-2028",
+      "name": "Massachusetts St 5.0% 01-NOV-2028",
+      "weight": 0.27
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-NOV-2027",
+      "name": "California St 5.0% 01-NOV-2027",
+      "weight": 0.24
+    },
+    {
+      "symbol": "NEW YORK N Y 50 01-AUG-2031",
+      "name": "New York N Y 5.0% 01-AUG-2031",
+      "weight": 0.23
+    },
+    {
+      "symbol": "WASHINGTON ST 50 01-FEB-2028",
+      "name": "Washington St 5.0% 01-FEB-2028",
+      "weight": 0.21
+    },
+    {
+      "symbol": "TRIBOROUGH BRDG  TUNL AUTH N Y PAYROLL MOBILITYTA",
+      "name": "Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 5.0% 15-NOV-2028",
+      "weight": 0.21
+    },
+    {
+      "symbol": "MADISON WIS 40 01-OCT-2032",
+      "name": "Madison Wis 4.0% 01-OCT-2032",
+      "weight": 0.21
+    },
+    {
+      "symbol": "GEORGIA ST 50 01-JUL-2030",
+      "name": "Georgia St 5.0% 01-JUL-2030",
+      "weight": 0.21
+    },
+    {
+      "symbol": "NEW YORK N Y CITY MUN WTR FIN AUTH WTR  SWR SYSRE",
+      "name": "New York N Y City Mun Wtr Fin Auth Wtr & Swr Sysrev 4.125% 15-JUN-2047",
+      "weight": 0.2
+    },
+    {
+      "symbol": "OHIO ST 50 01-NOV-2034",
+      "name": "Ohio St 5.0% 01-NOV-2034",
+      "weight": 0.2
+    },
+    {
+      "symbol": "NEW YORK ST DORM AUTH ST PERS INCOME TAX REV 50",
+      "name": "New York St Dorm Auth St Pers Income Tax Rev 5.0% 15-MAR-2034",
+      "weight": 0.19
+    },
+    {
+      "symbol": "CALIFORNIA ST 50 01-NOV-2032",
+      "name": "California St 5.0% 01-NOV-2032",
+      "weight": 0.19
+    },
+    {
+      "symbol": "RICHMOND CNTY GA BRD ED 50 01-OCT-2027",
+      "name": "Richmond Cnty Ga Brd Ed 5.0% 01-OCT-2027",
+      "weight": 0.19
+    }
+  ]
+}
