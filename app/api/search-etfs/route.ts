@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { searchETFs, getAllETFs } from "@/lib/data";
+import { searchETFs } from "@/lib/data";
 import { POPULAR_ETFS, ETFListItem } from "@/lib/etf-list";
 
 export async function GET(request: NextRequest) {

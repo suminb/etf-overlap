@@ -639,7 +639,6 @@ function OverlapPage() {
                           backgroundColor:
                             i === j ? "#f9fafb" : getHeatmapColor(value),
                           color: i === j ? "#9ca3af" : getTextColor(value),
-                          fontWeight: i === j ? "normal" : "normal",
                           fontSize: "1.1rem",
                           border: "1px solid #e5e7eb",
                           transition: "all 0.2s",

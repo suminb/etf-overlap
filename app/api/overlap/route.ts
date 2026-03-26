@@ -40,7 +40,9 @@ interface OverlapMatrixResponse {
  * Calculate weighted overlap coefficient between two ETFs
  */
 function calculateOverlap(
+  etf1: string,
   holdings1: Array<{ symbol: string; name: string; weight: number }>,
+  etf2: string,
   holdings2: Array<{ symbol: string; name: string; weight: number }>
 ): OverlapResult {
   const map1 = new Map(holdings1.map((h) => [h.symbol, h]));
@@ -74,8 +76,8 @@ function calculateOverlap(
   );
 
   return {
-    etf1: "",
-    etf2: "",
+    etf1,
+    etf2,
     overlapPercentage,
     sharedHoldings,
     totalSharedHoldings: sharedHoldings.length,
@@ -100,30 +102,34 @@ function calculateCoreOverlap(
 
   // Get all symbols from first ETF
   const firstETF = holdingsMap.get(tickers[0])!;
-  const symbolsMap = new Map(firstETF.map((h) => [h.symbol, h]));
+
+  // Build a symbol-keyed Map for each ETF for O(1) lookup
+  const symbolMaps = new Map(
+    tickers.map((ticker) => [
+      ticker,
+      new Map(holdingsMap.get(ticker)!.map((h) => [h.symbol, h])),
+    ])
+  );
 
   // Find symbols that appear in ALL ETFs
   const sharedSymbols = firstETF
     .map((h) => h.symbol)
-    .filter((symbol) => {
-      // Check if this symbol exists in all other ETFs
-      return tickers.slice(1).every((ticker) => {
-        const holdings = holdingsMap.get(ticker)!;
-        return holdings.some((h) => h.symbol === symbol);
-      });
-    });
+    .filter((symbol) =>
+      tickers.slice(1).every((ticker) => symbolMaps.get(ticker)!.has(symbol))
+    );
 
   // Build shared holdings data
   const sharedHoldings = sharedSymbols.map((symbol) => {
     const weights: { [etf: string]: number } = {};
-    const names: string[] = [];
+    let name = symbol;
 
     tickers.forEach((ticker) => {
-      const holdings = holdingsMap.get(ticker)!;
-      const holding = holdings.find((h) => h.symbol === symbol);
+      const holding = symbolMaps.get(ticker)!.get(symbol);
       if (holding) {
         weights[ticker] = holding.weight;
-        names.push(holding.name);
+        if (name === symbol && holding.name) {
+          name = holding.name;
+        }
       }
     });
 
@@ -132,7 +138,7 @@ function calculateCoreOverlap(
 
     return {
       symbol,
-      name: names[0] || symbol, // Use first non-empty name
+      name,
       weights,
       minWeight,
     };
@@ -211,9 +217,12 @@ export async function GET(request: NextRequest) {
         } else {
           const holdings1 = holdingsMap.get(tickers[i])!;
           const holdings2 = holdingsMap.get(tickers[j])!;
-          const overlap = calculateOverlap(holdings1, holdings2);
-          overlap.etf1 = tickers[i];
-          overlap.etf2 = tickers[j];
+          const overlap = calculateOverlap(
+            tickers[i],
+            holdings1,
+            tickers[j],
+            holdings2
+          );
 
           matrix[i][j] = Math.round(overlap.overlapPercentage * 100) / 100;
 
