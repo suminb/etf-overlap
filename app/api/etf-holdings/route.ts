@@ -1,16 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getETFData } from "@/lib/data";
-
-interface ETFHolding {
-  symbol: string;
-  name: string;
-  weight: number;
-  shares?: number;
-}
+import { getETFData, ETFHoldingInsert } from "@/lib/data";
 
 interface ETFHoldingsResponse {
   symbol: string;
-  holdings: ETFHolding[];
+  holdings: ETFHoldingInsert[];
   error?: string;
 }
 

@@ -3,11 +3,7 @@
 import { useState, useEffect, useRef, KeyboardEvent } from "react";
 import { flushSync } from "react-dom";
 import { useTranslation } from "react-i18next";
-
-interface ETFListItem {
-  symbol: string;
-  name: string;
-}
+import type { ETFListItem } from "@/lib/etf-list";
 
 interface ETFAutocompleteProps {
   selectedETFs: string[];
