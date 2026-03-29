@@ -152,35 +152,12 @@ export default function ETFAutocomplete({
     <div style={{ position: "relative", width: "100%" }}>
       {/* Container for tags and input */}
       <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "0.5rem",
-          padding: "0.5rem",
-          border: "1px solid #ddd",
-          borderRadius: "4px",
-          minHeight: "50px",
-          backgroundColor: disabled ? "#f5f5f5" : "white",
-          cursor: disabled ? "not-allowed" : "text",
-        }}
-        onClick={() => inputRef.current?.focus()}
+        className={`input-container${disabled ? " input-container--disabled" : ""}`}
+        onClick={() => !disabled && inputRef.current?.focus()}
       >
         {/* Selected ETF tags */}
         {selectedETFs.map((symbol) => (
-          <div
-            key={symbol}
-            style={{
-              display: "flex",
-              alignItems: "center",
-              gap: "0.5rem",
-              padding: "0.375rem 0.75rem",
-              backgroundColor: "#0070f3",
-              color: "white",
-              borderRadius: "4px",
-              fontSize: "0.875rem",
-              fontWeight: "500",
-            }}
-          >
+          <div key={symbol} className="input-tag">
             {symbol}
             {!disabled && (
               <button
@@ -188,15 +165,7 @@ export default function ETFAutocomplete({
                   e.stopPropagation();
                   removeETF(symbol);
                 }}
-                style={{
-                  background: "none",
-                  border: "none",
-                  color: "white",
-                  cursor: "pointer",
-                  padding: "0",
-                  fontSize: "1rem",
-                  lineHeight: "1",
-                }}
+                className="input-tag-remove"
                 aria-label={`Remove ${symbol}`}
               >
                 ×
@@ -215,72 +184,29 @@ export default function ETFAutocomplete({
           onFocus={() => inputValue.length > 0 && setShowSuggestions(true)}
           placeholder={selectedETFs.length === 0 ? t("searchPlaceholder") : ""}
           disabled={disabled}
-          style={{
-            flex: "1",
-            minWidth: "200px",
-            border: "none",
-            outline: "none",
-            fontSize: "1rem",
-            backgroundColor: "transparent",
-          }}
+          className="input-field"
         />
       </div>
 
       {/* Autocomplete dropdown */}
       {showSuggestions && suggestions.length > 0 && (
-        <div
-          ref={dropdownRef}
-          style={{
-            position: "absolute",
-            top: "100%",
-            left: 0,
-            right: 0,
-            marginTop: "0.25rem",
-            backgroundColor: "white",
-            border: "1px solid #ddd",
-            borderRadius: "4px",
-            boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-            maxHeight: "300px",
-            overflowY: "auto",
-            zIndex: 1000,
-          }}
-        >
+        <div ref={dropdownRef} className="dropdown">
           {suggestions.map((etf, index) => (
             <div
               key={etf.symbol}
               onClick={() => addETF(etf.symbol)}
               onMouseEnter={() => setSelectedIndex(index)}
-              style={{
-                padding: "0.75rem",
-                cursor: "pointer",
-                backgroundColor: selectedIndex === index ? "#eff6ff" : "white",
-                borderBottom:
-                  index < suggestions.length - 1 ? "1px solid #f3f4f6" : "none",
-              }}
+              className={`dropdown-item${selectedIndex === index ? " dropdown-item--active" : ""}`}
             >
-              <div style={{ fontWeight: "600", color: "#1f2937" }}>
-                {etf.symbol}
-              </div>
-              <div
-                style={{
-                  fontSize: "0.875rem",
-                  color: "#6b7280",
-                  marginTop: "0.125rem",
-                }}
-              >
-                {etf.name}
-              </div>
+              <div className="dropdown-item-symbol">{etf.symbol}</div>
+              <div className="dropdown-item-name">{etf.name}</div>
             </div>
           ))}
         </div>
       )}
 
       {/* Hint text */}
-      <div
-        style={{ fontSize: "0.75rem", color: "#9ca3af", marginTop: "0.5rem" }}
-      >
-        {t("searchHint")}
-      </div>
+      <div className="input-hint">{t("searchHint")}</div>
     </div>
   );
 }

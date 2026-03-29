@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import I18nProvider from "@/components/I18nProvider";
-import LanguageSwitcher from "@/components/LanguageSwitcher";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -100,8 +101,11 @@ export default function RootLayout({
       </head>
       <body>
         <I18nProvider>
-          <LanguageSwitcher />
-          {children}
+          <div className="app-wrapper">
+            <Header />
+            {children}
+            <Footer />
+          </div>
         </I18nProvider>
       </body>
     </html>
